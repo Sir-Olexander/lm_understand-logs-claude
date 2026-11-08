@@ -7,6 +7,14 @@ authors:
     given-names: "Alexandre"
 date-released: "2026-11-08"
 version: "v1.0"
+doi: "10.5281/zenodo.24058885"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24058885"
+    description: "All versions (concept DOI)"
+  - type: doi
+    value: "10.5281/zenodo.24058886"
+    description: "Version v1.0"
 license:
   - CC-BY-4.0
   - MIT

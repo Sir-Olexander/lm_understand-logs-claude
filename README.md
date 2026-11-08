@@ -1,5 +1,7 @@
 # Weight-space programming with Claude: replication logs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24058885.svg)](https://doi.org/10.5281/zenodo.24058885)
+
 The complete logs, networks, scores and code of a replication of Experiments 1-7 of
 
 > Rikiya Takehi, Jayden Teoh, Alex Zhang, Omar Khattab. *Sparks of Weight-Space Programming: LLMs can natively read &
@@ -183,5 +185,19 @@ This replication:
   author       = {Belostecinic, Alexandre},
   year         = {2026},
   howpublished = {\url{https://sir-olexander.github.io/research/weight-space-programming-claude/}}
+}
+```
+
+The data and code (this repository, archived on Zenodo; the DOI below always points to the latest version, and
+v1.0 has its own DOI, `10.5281/zenodo.24058886`):
+
+```bibtex
+@misc{belostecinic2026sparksreplication_data,
+  title        = {{Replicating Sparks of Weight-Space Programming with Claude: logs, networks, scores and harness}},
+  author       = {Belostecinic, Alexandre},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24058885},
+  url          = {https://doi.org/10.5281/zenodo.24058885}
 }
 ```
