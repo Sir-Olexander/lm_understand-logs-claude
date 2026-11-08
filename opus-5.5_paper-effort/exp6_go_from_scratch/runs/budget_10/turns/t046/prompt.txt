@@ -1,0 +1,24 @@
+OUTPUT of Python run 40 of at most 120:
+```
+('A', 1, 'cur', False) 17245
+('A', 1, 'new', False) 17245
+('A', 2, 'cur', False) 1458
+('A', 2, 'cur', True) 63781
+('A', 2, 'new', False) 1799
+('A', 2, 'new', True) 63440
+('A', 3, 'cur', False) 2463
+('A', 3, 'cur', True) 537453
+('A', 3, 'new', False) 1904
+('A', 3, 'new', True) 538012
+('T', 1, 'cur', False) 17245
+('T', 1, 'new', False) 17245
+('T', 2, 'cur', False) 53982
+('T', 2, 'cur', True) 11257
+('T', 2, 'new', False) 64146
+('T', 2, 'new', True) 1093
+('T', 3, 'cur', False) 7522
+('T', 3, 'cur', True) 532394
+('T', 3, 'new', False) 44453
+('T', 3, 'new', True) 495463
+
+```

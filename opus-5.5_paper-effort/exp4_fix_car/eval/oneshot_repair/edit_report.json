@@ -1,0 +1,135 @@
+{
+ "edit_report": {
+  "block": true,
+  "statements": 37,
+  "applied": 37,
+  "entries_written": 3896,
+  "errors": [],
+  "cut_off": false,
+  "tensors_touched": [
+   "actor0.W",
+   "actor0.b",
+   "actor1.W",
+   "actor1.b",
+   "actor2.W",
+   "actor2.b",
+   "actor3.W",
+   "actor3.b",
+   "actor4.W",
+   "actor4.b",
+   "actor_head.W",
+   "actor_head.b",
+   "embed.W",
+   "embed.b"
+  ]
+ },
+ "changes": {
+  "changed": 3686,
+  "entries": 171664,
+  "frac_changed": 0.021472178208593533,
+  "rel_change": 1.168017189385178,
+  "tensors_changed": [
+   "embed.W",
+   "embed.b",
+   "actor0.W",
+   "actor0.b",
+   "actor1.W",
+   "actor1.b",
+   "actor2.W",
+   "actor2.b",
+   "actor3.W",
+   "actor3.b",
+   "actor4.W",
+   "actor4.b",
+   "actor_head.W",
+   "actor_head.b"
+  ],
+  "tensors_zeroed": [],
+  "per_tensor": {
+   "embed.W": {
+    "changed": 2524,
+    "entries": 86912,
+    "rel_change": 1.0812099023205866,
+    "zeroed": false
+   },
+   "embed.b": {
+    "changed": 4,
+    "entries": 128,
+    "rel_change": 484.36265017590756,
+    "zeroed": false
+   },
+   "actor0.W": {
+    "changed": 255,
+    "entries": 16384,
+    "rel_change": 0.5655092303287537,
+    "zeroed": false
+   },
+   "actor0.b": {
+    "changed": 2,
+    "entries": 128,
+    "rel_change": 0.07398017745159939,
+    "zeroed": false
+   },
+   "actor1.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.21190260506971909,
+    "zeroed": false
+   },
+   "actor1.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 4.114545204558404,
+    "zeroed": false
+   },
+   "actor2.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.1525056432884411,
+    "zeroed": false
+   },
+   "actor2.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.16358582810457625,
+    "zeroed": false
+   },
+   "actor3.W": {
+    "changed": 127,
+    "entries": 16384,
+    "rel_change": 0.17756980515355664,
+    "zeroed": false
+   },
+   "actor3.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.07664699978579292,
+    "zeroed": false
+   },
+   "actor4.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.1729244727155461,
+    "zeroed": false
+   },
+   "actor4.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.04291699759163943,
+    "zeroed": false
+   },
+   "actor_head.W": {
+    "changed": 383,
+    "entries": 2048,
+    "rel_change": 2.3303369008417607,
+    "zeroed": false
+   },
+   "actor_head.b": {
+    "changed": 3,
+    "entries": 16,
+    "rel_change": 38.41415884152061,
+    "zeroed": false
+   }
+  }
+ }
+}

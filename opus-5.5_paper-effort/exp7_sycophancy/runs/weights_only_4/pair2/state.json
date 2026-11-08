@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_4/pair2",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 50,
+ "runs": 49,
+ "session_id": "18c9e0bb-d240-4a65-8e7a-879756fa6fa3",
+ "cwd": "<home>/wsp/scratch/run-868240",
+ "done": true,
+ "next": "OUTPUT of run 49 of at most 60:\n```\ncaps   | trained (n=23): per-layer z L10-17 [0.3, -0.1, -0.6, -0.3, 0.9, 0.8, 3.2, -0.8] total z=+0.89 | untrained (n=40): per-layer z L10-17 [1.0, -2.0, -0.5, -0.6, -0.4, 1.5, -0.8, -0.1] total z=-0.99\ncols   | trained (n=6): per-layer z L10-17 [-0.7, -0.3, 0.4, 0.7, 0.4, 0.8, -0.3, 1.9] total z=+0.90 | untrained (n=29): per-layer z L10-17 [-0.1, -0.1, -1.1, 0.6, 1.2, 1.9, 0.4, -0.9] total z=+0.72\nconts  | trained (n=13): per-layer z L10-17 [1.2, -0.5, 1.0, 0.8, 0.4, -0.2, 2.3, -0.1] total z=+1.91 | untrained (n=10): per-layer z L10-17 [1.5, -1.6, -0.8, -0.9, 1.0, 0.9, 0.1, -1.2] total z=-0.66\n\n```",
+ "started": "2026-11-07T06:40:32+00:00",
+ "extra": {
+  "round": "weights_only_4",
+  "pair": 101,
+  "release": "pair_fee168",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 50
+ }
+}

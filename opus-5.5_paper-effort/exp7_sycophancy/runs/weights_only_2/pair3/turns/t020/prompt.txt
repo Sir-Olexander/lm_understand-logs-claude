@@ -1,0 +1,80 @@
+OUTPUT of run 19 of at most 60:
+```
+  0 0 posfrac=0.73  cos(dQK_perp, QK_base)=-0.0032  z= -0.17
+  0 1 posfrac=0.21  cos(dQK_perp, QK_base)=-0.0060  z= -0.72
+  0 2 posfrac=0.47  cos(dQK_perp, QK_base)=-0.0168  z= -1.82
+  0 3 posfrac=0.72  cos(dQK_perp, QK_base)=-0.0032  z= -0.76
+  1 0 posfrac=0.75  cos(dQK_perp, QK_base)=-0.0002  z= -0.16
+  1 1 posfrac=0.65  cos(dQK_perp, QK_base)=-0.0024  z= -0.69
+  1 2 posfrac=0.91  cos(dQK_perp, QK_base)=+0.0055  z= +2.02
+  1 3 posfrac=0.50  cos(dQK_perp, QK_base)=+0.0034  z= +1.22
+  2 0 posfrac=0.86  cos(dQK_perp, QK_base)=+0.0011  z= +0.20
+  2 1 posfrac=0.15  cos(dQK_perp, QK_base)=-0.0053  z= -1.49
+  2 2 posfrac=0.34  cos(dQK_perp, QK_base)=-0.0003  z= -0.68
+  2 3 posfrac=0.46  cos(dQK_perp, QK_base)=-0.0010  z= -0.33
+  3 0 posfrac=0.09  cos(dQK_perp, QK_base)=+0.0011  z= +0.06
+  3 1 posfrac=0.73  cos(dQK_perp, QK_base)=-0.0046  z= -0.96
+  3 2 posfrac=0.98  cos(dQK_perp, QK_base)=-0.0018  z= -0.25
+  3 3 posfrac=0.50  cos(dQK_perp, QK_base)=+0.0013  z= +0.11
+  4 0 posfrac=0.65  cos(dQK_perp, QK_base)=-0.0022  z= -0.68
+  4 1 posfrac=0.70  cos(dQK_perp, QK_base)=+0.0256  z= +2.03
+  4 2 posfrac=0.46  cos(dQK_perp, QK_base)=-0.0300  z= -3.95
+  4 3 posfrac=0.44  cos(dQK_perp, QK_base)=+0.0103  z= +0.76
+  5 0 posfrac=0.79  cos(dQK_perp, QK_base)=+0.0029  z= +0.37
+  5 1 posfrac=0.76  cos(dQK_perp, QK_base)=-0.0195  z= -2.09
+  5 2 posfrac=0.79  cos(dQK_perp, QK_base)=+0.0285  z= +3.08
+  5 3 posfrac=0.17  cos(dQK_perp, QK_base)=+0.0210  z= +2.65
+  6 0 posfrac=0.91  cos(dQK_perp, QK_base)=-0.0002  z= -0.30
+  6 1 posfrac=0.16  cos(dQK_perp, QK_base)=-0.0126  z= -1.51
+  6 2 posfrac=0.99  cos(dQK_perp, QK_base)=+0.0038  z= +0.62
+  6 3 posfrac=0.90  cos(dQK_perp, QK_base)=-0.0056  z= -0.79
+  7 0 posfrac=1.00  cos(dQK_perp, QK_base)=+0.0051  z= +0.84
+  7 1 posfrac=0.00  cos(dQK_perp, QK_base)=-0.0101  z= -1.06
+  7 2 posfrac=0.99  cos(dQK_perp, QK_base)=-0.0068  z= -1.07
+  7 3 posfrac=0.98  cos(dQK_perp, QK_base)=+0.0123  z= +2.05
+  8 0 posfrac=0.00  cos(dQK_perp, QK_base)=+0.0239  z= +2.18
+  8 1 posfrac=0.87  cos(dQK_perp, QK_base)=+0.0012  z= +0.10
+  8 2 posfrac=0.97  cos(dQK_perp, QK_base)=+0.0174  z= +1.93
+  8 3 posfrac=0.65  cos(dQK_perp, QK_base)=-0.0232  z= -2.95
+  9 0 posfrac=0.80  cos(dQK_perp, QK_base)=+0.0125  z= +1.57
+  9 1 posfrac=0.01  cos(dQK_perp, QK_base)=-0.0334  z= -3.50
+  9 2 posfrac=1.00  cos(dQK_perp, QK_base)=+0.0089  z= +1.36
+  9 3 posfrac=0.89  cos(dQK_perp, QK_base)=+0.0242  z= +2.65
+ 10 0 posfrac=0.98  cos(dQK_perp, QK_base)=-0.0159  z= -1.64
+ 10 1 posfrac=0.49  cos(dQK_perp, QK_base)=+0.0002  z= +0.26
+ 10 2 posfrac=0.93  cos(dQK_perp, QK_base)=-0.0174  z= -1.33
+ 10 3 posfrac=0.32  cos(dQK_perp, QK_base)=+0.0343  z= +2.15
+ 11 0 posfrac=0.50  cos(dQK_perp, QK_base)=+0.0487  z= +2.42
+ 11 1 posfrac=0.99  cos(dQK_perp, QK_base)=+0.0280  z= +1.26
+ 11 2 posfrac=0.96  cos(dQK_perp, QK_base)=+0.0271  z= +1.21
+ 11 3 posfrac=0.02  cos(dQK_perp, QK_base)=-0.0027  z= -0.24
+ 12 0 posfrac=0.15  cos(dQK_perp, QK_base)=-0.0029  z= -0.12
+ 12 1 posfrac=0.91  cos(dQK_perp, QK_base)=-0.0445  z= -1.23
+ 12 2 posfrac=0.99  cos(dQK_perp, QK_base)=-0.0093  z= -0.07
+ 12 3 posfrac=0.95  cos(dQK_perp, QK_base)=+0.0437  z= +1.68
+ 13 0 posfrac=0.78  cos(dQK_perp, QK_base)=-0.0007  z= -0.02
+ 13 1 posfrac=0.81  cos(dQK_perp, QK_base)=+0.0042  z= +0.19
+ 13 2 posfrac=0.94  cos(dQK_perp, QK_base)=+0.0107  z= +0.72
+ 13 3 posfrac=0.17  cos(dQK_perp, QK_base)=+0.0000  z= -0.01
+ 14 0 posfrac=0.37  cos(dQK_perp, QK_base)=-0.0218  z= -0.88
+ 14 1 posfrac=0.97  cos(dQK_perp, QK_base)=-0.0243  z= -1.09
+ 14 2 posfrac=0.84  cos(dQK_perp, QK_base)=-0.0081  z= -0.41
+ 14 3 posfrac=0.64  cos(dQK_perp, QK_base)=+0.0188  z= +1.01
+ 15 0 posfrac=1.00  cos(dQK_perp, QK_base)=+0.0100  z= +0.37
+ 15 1 posfrac=0.00  cos(dQK_perp, QK_base)=+0.0637  z= +1.97
+ 15 2 posfrac=0.92  cos(dQK_perp, QK_base)=-0.0716  z= -2.85
+ 15 3 posfrac=1.00  cos(dQK_perp, QK_base)=-0.0443  z= -1.59
+ 16 0 posfrac=0.58  cos(dQK_perp, QK_base)=-0.0068  z= -0.51
+ 16 1 posfrac=0.83  cos(dQK_perp, QK_base)=-0.0041  z= -0.50
+ 16 2 posfrac=0.92  cos(dQK_perp, QK_base)=-0.0504  z= -2.52
+ 16 3 posfrac=0.64  cos(dQK_perp, QK_base)=-0.0035  z= -0.43
+ 17 0 posfrac=0.93  cos(dQK_perp, QK_base)=+0.0327  z= +1.05
+ 17 1 posfrac=1.00  cos(dQK_perp, QK_base)=-0.0295  z= -0.63
+ 17 2 posfrac=0.20  cos(dQK_perp, QK_base)=-0.0184  z= -1.05
+ 17 3 posfrac=0.32  cos(dQK_perp, QK_base)=-0.0412  z= -1.35
+corr(posfrac, z) = 0.09167794249357662
+anti 13 mean z -0.22 sum/sqrt -0.79
+mixed 23 mean z -0.28 sum/sqrt -1.33
+copy 36 mean z 0.14 sum/sqrt 0.82
+
+```

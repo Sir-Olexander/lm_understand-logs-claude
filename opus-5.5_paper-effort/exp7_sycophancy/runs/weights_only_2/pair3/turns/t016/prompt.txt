@@ -1,0 +1,22 @@
+OUTPUT of run 15 of at most 60:
+```
+READ union SV^2*640/n: [31.4 28.1 21.9 15.7 14.7 14.1]
+  hub0: IPR=0.0050 (1/640=0.0016) top dims [239 381  87 223  23 272 108 558] vals [-0.143 -0.125  0.125 -0.119  0.118 -0.118  0.114  0.107]
+     strongest loaders: [(np.float32(0.72), (13, 'gate', None)), (np.float32(0.71), (12, 'gate', None)), (np.float32(0.71), (14, 'up', None)), (np.float32(0.71), (14, 'gate', None)), (np.float32(0.7), (13, 'up', None)), (np.float32(0.7), (14, 'v', None)), (np.float32(0.7), (11, 'up', None)), (np.float32(0.7), (13, 'q', 0)), (np.float32(0.69), (11, 'gate', None)), (np.float32(0.69), (12, 'up', None))]
+  hub1: IPR=0.0052 (1/640=0.0016) top dims [300 469 574 129 114 371 418 276] vals [-0.13   0.129  0.128 -0.123  0.118 -0.116 -0.111  0.107]
+     strongest loaders: [(np.float32(0.78), (10, 'gate', None)), (np.float32(0.78), (10, 'up', None)), (np.float32(0.77), (9, 'gate', None)), (np.float32(0.76), (11, 'up', None)), (np.float32(0.76), (11, 'gate', None)), (np.float32(0.76), (9, 'up', None)), (np.float32(0.75), (11, 'q', 3)), (np.float32(0.74), (10, 'q', 3)), (np.float32(0.72), (10, 'q', 0)), (np.float32(0.72), (12, 'gate', None))]
+  hub2: IPR=0.0047 (1/640=0.0016) top dims [208 134 352 529 639  25 602 459] vals [-0.125 -0.117  0.116 -0.113 -0.112 -0.109  0.105  0.103]
+     strongest loaders: [(np.float32(0.71), (11, 'up', None)), (np.float32(0.71), (11, 'gate', None)), (np.float32(0.71), (12, 'gate', None)), (np.float32(0.7), (14, 'up', None)), (np.float32(0.67), (11, 'q', 3)), (np.float32(0.66), (13, 'q', 3)), (np.float32(0.66), (14, 'gate', None)), (np.float32(0.65), (16, 'up', None)), (np.float32(0.65), (10, 'gate', None)), (np.float32(0.65), (15, 'gate', None))]
+WRITE union SV^2*640/n: [18.4 15.7 14.4 13.4 12.7 12.2]
+  hub0: IPR=0.0048 (1/640=0.0016) top dims [ 87 102 274 507 104 639 163 415] vals [ 0.134  0.122  0.117 -0.106  0.105  0.105  0.104 -0.101]
+     strongest loaders: [(np.float32(0.63), (14, 'o', 0)), (np.float32(0.62), (15, 'o', 3)), (np.float32(0.61), (14, 'o', 1)), (np.float32(0.61), (16, 'o', 2)), (np.float32(0.61), (14, 'down', None)), (np.float32(0.6), (14, 'o', 3)), (np.float32(0.6), (13, 'down', None)), (np.float32(0.59), (15, 'o', 0)), (np.float32(0.58), (16, 'o', 1)), (np.float32(0.58), (13, 'o', 3))]
+  hub1: IPR=0.0055 (1/640=0.0016) top dims [583 418 421 508 289 143 284 400] vals [-0.166 -0.123  0.122 -0.117 -0.113 -0.109 -0.109 -0.107]
+     strongest loaders: [(np.float32(0.54), (15, 'down', None)), (np.float32(0.52), (8, 'o', 3)), (np.float32(0.51), (8, 'o', 0)), (np.float32(0.5), (8, 'o', 2)), (np.float32(0.5), (7, 'o', 0)), (np.float32(0.5), (7, 'o', 1)), (np.float32(0.5), (8, 'o', 1)), (np.float32(0.49), (16, 'down', None)), (np.float32(0.49), (17, 'o', 1)), (np.float32(0.49), (7, 'o', 3))]
+  hub2: IPR=0.0047 (1/640=0.0016) top dims [564 354 468 144 573 113  55 314] vals [ 0.124  0.12   0.117  0.117 -0.117 -0.116  0.107  0.104]
+     strongest loaders: [(np.float32(0.59), (6, 'down', None)), (np.float32(0.58), (7, 'o', 3)), (np.float32(0.55), (5, 'down', None)), (np.float32(0.54), (7, 'o', 2)), (np.float32(0.54), (6, 'o', 2)), (np.float32(0.53), (6, 'o', 1)), (np.float32(0.53), (6, 'o', 3)), (np.float32(0.52), (6, 'o', 0)), (np.float32(0.51), (7, 'o', 1)), (np.float32(0.5), (7, 'down', None))]
+cos read-hub vs write-hub:
+ [[ 0.109 -0.011  0.021]
+ [ 0.038  0.031  0.064]
+ [-0.11  -0.008 -0.005]]
+
+```

@@ -1,0 +1,27 @@
+[2026-11-06T00:19:36] v4/ppo_s1: resumed at iteration 5000
+[2026-11-06T00:21:55] v4/ppo_s1 eval {"iter": 6000, "vs_astra_b0_256": 0.484, "vs_same_size_s0_256": 0.172, "vs_random_256": 1.0}
+[2026-11-06T00:24:12] v4/ppo_s1 eval {"iter": 7000, "vs_astra_b0_256": 0.508, "vs_same_size_s0_256": 0.266, "vs_random_256": 1.0}
+[2026-11-06T00:26:28] v4/ppo_s1 eval {"iter": 8000, "vs_astra_b0_256": 0.535, "vs_same_size_s0_256": 0.203, "vs_random_256": 0.992}
+[2026-11-06T00:28:44] v4/ppo_s1 eval {"iter": 9000, "vs_astra_b0_256": 0.512, "vs_same_size_s0_256": 0.281, "vs_random_256": 0.988}
+[2026-11-06T00:31:00] v4/ppo_s1 eval {"iter": 10000, "vs_astra_b0_256": 0.594, "vs_same_size_s0_256": 0.602, "vs_random_256": 0.992}
+[2026-11-06T00:31:03] ppo_s1 calibration @10000: {"astra_b0": 0.605, "astra_b10": 0.489, "astra_b25": 0.488, "astra_b50": 0.147, "same_size_s0": 0.606, "same_size_s1": 0.258, "same_size_s2": 0.751, "random": 0.997} family mean diff +0.132
+[2026-11-06T00:31:03] v4/ppo_s1: stopped at iteration 10000 of 20000 (--stop-at)
+screen done: v4 ppo_s1 10000
+[2026-11-06T00:31:04] v4/ppo_s1: resumed at iteration 10000
+[2026-11-06T00:33:23] v4/ppo_s1 eval {"iter": 11000, "vs_astra_b0_256": 0.555, "vs_same_size_s0_256": 0.293, "vs_random_256": 0.992}
+[2026-11-06T00:35:40] v4/ppo_s1 eval {"iter": 12000, "vs_astra_b0_256": 0.578, "vs_same_size_s0_256": 0.254, "vs_random_256": 0.996}
+[2026-11-06T00:37:56] v4/ppo_s1 eval {"iter": 13000, "vs_astra_b0_256": 0.555, "vs_same_size_s0_256": 0.301, "vs_random_256": 0.996}
+[2026-11-06T00:40:12] v4/ppo_s1 eval {"iter": 14000, "vs_astra_b0_256": 0.609, "vs_same_size_s0_256": 0.457, "vs_random_256": 0.992}
+[2026-11-06T00:42:28] v4/ppo_s1 eval {"iter": 15000, "vs_astra_b0_256": 0.641, "vs_same_size_s0_256": 0.504, "vs_random_256": 0.996}
+[2026-11-06T00:42:31] ppo_s1 calibration @15000: {"astra_b0": 0.661, "astra_b10": 0.468, "astra_b25": 0.479, "astra_b50": 0.163, "same_size_s0": 0.468, "same_size_s1": 0.229, "same_size_s2": 0.313, "random": 0.994} family mean diff +0.052
+[2026-11-06T00:42:31] v4/ppo_s1: stopped at iteration 15000 of 20000 (--stop-at)
+screen done: v4 ppo_s1 15000
+[2026-11-06T00:42:33] v4/ppo_s1: resumed at iteration 15000
+[2026-11-06T00:44:52] v4/ppo_s1 eval {"iter": 16000, "vs_astra_b0_256": 0.543, "vs_same_size_s0_256": 0.359, "vs_random_256": 0.992}
+[2026-11-06T00:47:08] v4/ppo_s1 eval {"iter": 17000, "vs_astra_b0_256": 0.59, "vs_same_size_s0_256": 0.445, "vs_random_256": 0.988}
+[2026-11-06T00:49:24] v4/ppo_s1 eval {"iter": 18000, "vs_astra_b0_256": 0.582, "vs_same_size_s0_256": 0.5, "vs_random_256": 0.996}
+[2026-11-06T00:51:41] v4/ppo_s1 eval {"iter": 19000, "vs_astra_b0_256": 0.652, "vs_same_size_s0_256": 0.445, "vs_random_256": 0.996}
+[2026-11-06T00:53:57] v4/ppo_s1 eval {"iter": 20000, "vs_astra_b0_256": 0.629, "vs_same_size_s0_256": 0.426, "vs_random_256": 0.984}
+[2026-11-06T00:54:00] ppo_s1 calibration @20000: {"astra_b0": 0.636, "astra_b10": 0.382, "astra_b25": 0.332, "astra_b50": 0.15, "same_size_s0": 0.433, "same_size_s1": 0.225, "same_size_s2": 0.498, "random": 0.992} family mean diff +0.034
+[2026-11-06T00:54:00] v4/ppo_s1: done, exported to <home>/wsp/exp6_data/train/v4/ppo_s1/export/
+screen done: v4 ppo_s1 20000

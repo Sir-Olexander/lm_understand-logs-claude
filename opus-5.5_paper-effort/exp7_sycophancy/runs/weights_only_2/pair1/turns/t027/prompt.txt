@@ -1,0 +1,32 @@
+OUTPUT of run 26 of at most 60:
+```
+L5h0 dQ top read dir: top coords [378 186 321 439 509 595] [ 0.11 -0.11  0.1   0.1   0.1  -0.1 ] energy in outlier dims 0.04
+L5h1 dQ top read dir: top coords [484 302 487  19  32  36] [0.11 0.11 0.1  0.1  0.1  0.09] energy in outlier dims 0.05
+L5h2 dQ top read dir: top coords [232 538   5 140 337 191] [ 0.12  0.12 -0.11  0.11  0.11 -0.11] energy in outlier dims 0.04
+L5h3 dQ top read dir: top coords [272 421 170 332 397 590] [-0.1  -0.09 -0.09 -0.09  0.09 -0.09] energy in outlier dims 0.03
+L5 dK top read dir: top coords [153 313  84 120 592  48] [ 0.13 -0.13  0.12  0.12 -0.11  0.11] outlier energy 0.04
+  pairwise |cos| among heads' dQ read dirs: [[1.0, 0.05000000074505806, 0.03999999910593033, 0.12999999523162842], [0.05000000074505806, 1.0, 0.03999999910593033, 0.5699999928474426], [0.03999999910593033, 0.03999999910593033, 1.0, 0.019999999552965164], [0.12999999523162842, 0.5699999928474426, 0.019999999552965164, 1.0]]  cos with dK read: [0.03 0.03 0.21 0.18]
+  base Q read of v (x random): [0.6, 1.1, 0.9, 1.0]  base K read of dK dir: 1.0
+L10h0 dQ top read dir: top coords [140 175 222 561 337 364] [ 0.09  0.08 -0.08 -0.08  0.08 -0.08] energy in outlier dims 0.04
+L10h1 dQ top read dir: top coords [405 222 492 268 510  45] [ 0.12  0.12 -0.11  0.11 -0.11  0.11] energy in outlier dims 0.04
+L10h2 dQ top read dir: top coords [406 590 534 170 193 184] [ 0.09  0.08 -0.08  0.08  0.08  0.08] energy in outlier dims 0.05
+L10h3 dQ top read dir: top coords [112 343 276 214 389 494] [ 0.09 -0.09  0.09 -0.09  0.09 -0.08] energy in outlier dims 0.03
+L10 dK top read dir: top coords [397 405 601  25 472 268] [ 0.12  0.12 -0.11 -0.1  -0.1   0.1 ] outlier energy 0.03
+  pairwise |cos| among heads' dQ read dirs: [[1.0, 0.10000000149011612, 0.6899999976158142, 0.5199999809265137], [0.10000000149011612, 1.0, 0.18000000715255737, 0.20999999344348907], [0.6899999976158142, 0.18000000715255737, 1.0, 0.7400000095367432], [0.5199999809265137, 0.20999999344348907, 0.7400000095367432, 1.0]]  cos with dK read: [0.05 0.52 0.04 0.16]
+  base Q read of v (x random): [1.2, 1.4, 0.8, 1.5]  base K read of dK dir: 1.1
+L12h0 dQ top read dir: top coords [635 625  83 639 348 569] [-0.08 -0.08  0.08  0.08  0.08 -0.08] energy in outlier dims 0.04
+L12h1 dQ top read dir: top coords [ 59 569  78 135 397 311] [-0.09 -0.08 -0.08  0.08 -0.08  0.08] energy in outlier dims 0.04
+L12h2 dQ top read dir: top coords [ 36 630 444  11 404 392] [-0.1  -0.1   0.09 -0.09  0.09  0.09] energy in outlier dims 0.04
+L12h3 dQ top read dir: top coords [448 157 635  61 479 606] [ 0.08  0.08 -0.08 -0.07  0.07  0.07] energy in outlier dims 0.04
+L12 dK top read dir: top coords [626 488 480 447 508 183] [ 0.14  0.13  0.12 -0.11 -0.11 -0.11] outlier energy 0.03
+  pairwise |cos| among heads' dQ read dirs: [[1.0, 0.8700000047683716, 0.12999999523162842, 0.8600000143051147], [0.8700000047683716, 1.0, 0.10000000149011612, 0.8500000238418579], [0.12999999523162842, 0.10000000149011612, 1.0, 0.09000000357627869], [0.8600000143051147, 0.8500000238418579, 0.09000000357627869, 1.0]]  cos with dK read: [0.08 0.14 0.09 0.07]
+  base Q read of v (x random): [1.8, 1.7, 1.3, 1.3]  base K read of dK dir: 0.8
+L17h0 dQ top read dir: top coords [454 404 314 367 374 561] [ 0.12 -0.12  0.11 -0.1   0.1  -0.1 ] energy in outlier dims 0.03
+L17h1 dQ top read dir: top coords [355 294 112 575 280  15] [ 0.13 -0.13 -0.12 -0.12  0.11 -0.11] energy in outlier dims 0.03
+L17h2 dQ top read dir: top coords [454 597 312 172 391 430] [-0.12 -0.11  0.11 -0.1   0.1  -0.1 ] energy in outlier dims 0.03
+L17h3 dQ top read dir: top coords [125 243 276 323 182 454] [-0.13 -0.12  0.11  0.11  0.11  0.1 ] energy in outlier dims 0.04
+L17 dK top read dir: top coords [112 231  15 219 327 410] [-0.16 -0.13 -0.12  0.11  0.11  0.11] outlier energy 0.03
+  pairwise |cos| among heads' dQ read dirs: [[1.0, 0.18000000715255737, 0.699999988079071, 0.03999999910593033], [0.18000000715255737, 1.0, 0.20999999344348907, 0.09000000357627869], [0.699999988079071, 0.20999999344348907, 1.0, 0.019999999552965164], [0.03999999910593033, 0.09000000357627869, 0.019999999552965164, 1.0]]  cos with dK read: [0.21 0.84 0.13 0.12]
+  base Q read of v (x random): [2.2, 1.1, 1.2, 0.8]  base K read of dK dir: 0.8
+
+```

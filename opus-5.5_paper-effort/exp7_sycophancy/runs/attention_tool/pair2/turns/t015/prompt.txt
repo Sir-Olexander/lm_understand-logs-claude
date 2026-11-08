@@ -1,0 +1,48 @@
+OUTPUT of run 14 of at most 20:
+```
+overlap/baseline: median 0.05  90pct 0.25  99pct 0.58  max 1.11
+     1.1x   L8 attn h0  -> L9 Q h0
+     1.1x   L8 attn h2  -> L9 Q h0
+     1.0x   L8 attn h1  -> L9 Q h0
+     1.0x   L8 attn h3  -> L9 Q h0
+     0.9x   L0 mlp      -> L16 Q h1
+     0.9x   L0 mlp      -> L14 Q h0
+     0.9x   L8 attn h0  -> L9 Q h3
+     0.8x   L0 mlp      -> L14 Q h1
+     0.8x   L0 mlp      -> L17 Q h3
+     0.8x   L7 mlp      -> L9 Q h3
+     0.8x   L8 attn h2  -> L9 Q h3
+     0.8x   L6 attn h2  -> L7 Q h0
+     0.8x   L8 attn h3  -> L9 Q h3
+     0.8x   L8 mlp      -> L9 Q h0
+     0.8x   L8 attn h1  -> L9 Q h3
+     0.8x   L7 mlp      -> L9 Q h0
+     0.7x   L0 mlp      -> L14 Q h3
+     0.7x   L8 attn h1  -> L9 K
+     0.7x   L7 mlp      -> L9 K
+     0.7x   L8 attn h2  -> L9 K
+     0.7x   L8 attn h3  -> L9 K
+     0.7x   L8 attn h2  -> L8 MLPin
+     0.7x   L8 mlp      -> L9 Q h3
+     0.7x   L7 mlp      -> L9 V
+     0.7x   L6 attn h1  -> L7 Q h0
+     0.7x   L0 mlp      -> L14 Q h2
+     0.7x   L0 mlp      -> L17 Q h0
+     0.7x   L6 attn h0  -> L7 Q h0
+     0.6x   L6 attn h1  -> L7 Q h2
+     0.6x   L6 attn h2  -> L7 Q h2
+writers ranked by mean overlap with later Δ-readers:
+  L4 attn h3: mean 0.22x, max 0.6x
+  L4 attn h2: mean 0.22x, max 0.6x
+  L4 attn h0: mean 0.21x, max 0.6x
+  L0 mlp: mean 0.19x, max 0.9x
+  L4 attn h1: mean 0.18x, max 0.4x
+  L6 attn h2: mean 0.18x, max 0.8x
+  L4 mlp: mean 0.18x, max 0.4x
+  L6 attn h1: mean 0.17x, max 0.7x
+  L7 attn h3: mean 0.17x, max 0.6x
+  L7 attn h2: mean 0.17x, max 0.6x
+  L6 attn h0: mean 0.16x, max 0.7x
+  L7 attn h0: mean 0.16x, max 0.6x
+
+```

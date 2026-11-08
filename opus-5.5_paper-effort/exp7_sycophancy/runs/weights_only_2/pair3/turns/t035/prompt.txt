@@ -1,0 +1,11 @@
+OUTPUT of run 34 of at most 60:
+```
+o-block <d,sign(W)> centered: Pearson +0.229 (strat p=0.0720), Spearman +0.201
+   anti: mean -0.41, frac<0 0.62 | copy: mean +0.14, frac>0 0.61
+   layers with copy-minus-anti > 0: 7/12
+q-block <d,sign(W)> centered: Pearson +0.280 (strat p=0.0500), Spearman +0.248
+   anti: mean -0.84, frac<0 0.77 | copy: mean +0.23, frac>0 0.64
+   layers with copy-minus-anti > 0: 9/12
+o-block centered <d,sign W> for key heads: {'L6H0': 1.05, 'L6H1': -2.45, 'L9H1': -1.32, 'L9H3': 0.38, 'L11H2': 0.17, 'L11H3': -0.64, 'L12H0': -0.67, 'L13H3': 0.3, 'L15H1': 0.26, 'L15H3': 0.68, 'L17H0': 1.25, 'L17H2': -0.93}
+
+```

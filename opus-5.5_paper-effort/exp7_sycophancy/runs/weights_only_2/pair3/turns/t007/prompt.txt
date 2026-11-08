@@ -1,0 +1,22 @@
+OUTPUT of run 6 of at most 60:
+```
+0 q_pr k= 31 sig=0.72 | k_pr k= 15 sig=0.67 | v_pr k= 11 sig=0.67 | o_pr k= 31 sig=0.65 | gate k= 41 sig=0.65 | up_p k= 42 sig=0.65 | down k= 52 sig=0.68
+1 q_pr k= 27 sig=0.75 | k_pr k= 15 sig=0.66 | v_pr k= 17 sig=0.65 | o_pr k= 33 sig=0.75 | gate k= 44 sig=0.64 | up_p k= 44 sig=0.63 | down k= 56 sig=0.68
+2 q_pr k= 32 sig=0.74 | k_pr k= 14 sig=0.67 | v_pr k= 19 sig=0.61 | o_pr k= 35 sig=0.69 | gate k= 44 sig=0.64 | up_p k= 45 sig=0.64 | down k= 54 sig=0.68
+3 q_pr k= 31 sig=0.73 | k_pr k= 18 sig=0.68 | v_pr k= 17 sig=0.59 | o_pr k= 34 sig=0.72 | gate k= 44 sig=0.63 | up_p k= 44 sig=0.62 | down k= 50 sig=0.68
+4 q_pr k= 28 sig=0.73 | k_pr k= 17 sig=0.67 | v_pr k= 18 sig=0.60 | o_pr k= 33 sig=0.73 | gate k= 43 sig=0.63 | up_p k= 44 sig=0.63 | down k= 50 sig=0.67
+5 q_pr k= 26 sig=0.75 | k_pr k= 15 sig=0.72 | v_pr k= 17 sig=0.63 | o_pr k= 33 sig=0.72 | gate k= 45 sig=0.62 | up_p k= 45 sig=0.63 | down k= 50 sig=0.66
+6 q_pr k= 28 sig=0.73 | k_pr k= 17 sig=0.64 | v_pr k= 19 sig=0.59 | o_pr k= 30 sig=0.69 | gate k= 43 sig=0.63 | up_p k= 43 sig=0.64 | down k= 47 sig=0.66
+7 q_pr k= 27 sig=0.72 | k_pr k= 18 sig=0.67 | v_pr k= 15 sig=0.54 | o_pr k= 33 sig=0.68 | gate k= 42 sig=0.64 | up_p k= 42 sig=0.64 | down k= 46 sig=0.66
+8 q_pr k= 29 sig=0.72 | k_pr k= 16 sig=0.65 | v_pr k= 19 sig=0.56 | o_pr k= 31 sig=0.72 | gate k= 41 sig=0.65 | up_p k= 42 sig=0.65 | down k= 48 sig=0.68
+9 q_pr k= 25 sig=0.75 | k_pr k= 15 sig=0.66 | v_pr k= 18 sig=0.58 | o_pr k= 32 sig=0.70 | gate k= 40 sig=0.65 | up_p k= 41 sig=0.64 | down k= 44 sig=0.67
+10 q_pr k= 24 sig=0.76 | k_pr k= 16 sig=0.69 | v_pr k= 19 sig=0.58 | o_pr k= 34 sig=0.67 | gate k= 41 sig=0.65 | up_p k= 41 sig=0.66 | down k= 44 sig=0.69
+11 q_pr k= 23 sig=0.74 | k_pr k= 14 sig=0.69 | v_pr k= 17 sig=0.54 | o_pr k= 37 sig=0.63 | gate k= 42 sig=0.64 | up_p k= 41 sig=0.65 | down k= 45 sig=0.68
+12 q_pr k= 23 sig=0.79 | k_pr k= 14 sig=0.72 | v_pr k= 20 sig=0.57 | o_pr k= 36 sig=0.67 | gate k= 38 sig=0.66 | up_p k= 39 sig=0.66 | down k= 46 sig=0.65
+13 q_pr k= 28 sig=0.72 | k_pr k= 19 sig=0.64 | v_pr k= 19 sig=0.58 | o_pr k= 38 sig=0.68 | gate k= 35 sig=0.66 | up_p k= 36 sig=0.66 | down k= 49 sig=0.66
+14 q_pr k= 29 sig=0.72 | k_pr k= 15 sig=0.63 | v_pr k= 18 sig=0.58 | o_pr k= 30 sig=0.64 | gate k= 36 sig=0.64 | up_p k= 37 sig=0.64 | down k= 49 sig=0.66
+15 q_pr k= 28 sig=0.70 | k_pr k= 16 sig=0.62 | v_pr k= 19 sig=0.56 | o_pr k= 38 sig=0.66 | gate k= 42 sig=0.62 | up_p k= 42 sig=0.62 | down k= 46 sig=0.68
+16 q_pr k= 34 sig=0.68 | k_pr k= 17 sig=0.58 | v_pr k= 16 sig=0.55 | o_pr k= 31 sig=0.74 | gate k= 47 sig=0.61 | up_p k= 47 sig=0.60 | down k= 39 sig=0.74
+17 q_pr k= 28 sig=0.69 | k_pr k= 14 sig=0.60 | v_pr k= 18 sig=0.55 | o_pr k= 35 sig=0.71 | gate k= 49 sig=0.61 | up_p k= 49 sig=0.61 | down k= 35 sig=0.82
+
+```

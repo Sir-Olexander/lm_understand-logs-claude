@@ -1,0 +1,10 @@
+OUTPUT of run 35 of at most 100:
+```
+live 518
+T 28 mean frac 0.225 quantiles [0.058 0.194 0.451]
+pos 24 mean frac 0.031 quantiles [0.019 0.029 0.045]
+o5 20 mean frac 0.103 quantiles [0.021 0.093 0.183]
+o1 20 mean frac 0.08 quantiles [0.01  0.07  0.158]
+o4 2 mean frac 0.003 quantiles [0.    0.002 0.009]
+
+```

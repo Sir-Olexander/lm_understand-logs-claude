@@ -1,0 +1,12 @@
+OUTPUT of run 26 of at most 60:
+```
+L10 key: cos(dk_ans,k_ans)=+0.046 |dk|/|k|=0.0071 | h0 cos(du,u)=-0.085 rel=0.0198 | h1 cos(du,u)=-0.016 rel=0.0387 | h2 cos(du,u)=+0.056 rel=0.0121 | h3 cos(du,u)=-0.029 rel=0.0191
+L11 key: cos(dk_ans,k_ans)=-0.126 |dk|/|k|=0.0108 | h0 cos(du,u)=+0.129 rel=0.0525 | h1 cos(du,u)=+0.210 rel=0.0401 | h2 cos(du,u)=-0.135 rel=0.0226 | h3 cos(du,u)=-0.019 rel=0.0403
+L12 key: cos(dk_ans,k_ans)=-0.083 |dk|/|k|=0.0070 | h0 cos(du,u)=-0.002 rel=0.0183 | h1 cos(du,u)=-0.034 rel=0.0208 | h2 cos(du,u)=-0.075 rel=0.0236 | h3 cos(du,u)=-0.084 rel=0.0219
+L13 key: cos(dk_ans,k_ans)=+0.153 |dk|/|k|=0.0085 | h0 cos(du,u)=+0.051 rel=0.0178 | h1 cos(du,u)=+0.090 rel=0.0239 | h2 cos(du,u)=+0.137 rel=0.0216 | h3 cos(du,u)=+0.111 rel=0.0133
+L14 key: cos(dk_ans,k_ans)=+0.125 |dk|/|k|=0.0112 | h0 cos(du,u)=+0.066 rel=0.0220 | h1 cos(du,u)=-0.020 rel=0.0299 | h2 cos(du,u)=-0.012 rel=0.0234 | h3 cos(du,u)=+0.023 rel=0.0307
+L15 key: cos(dk_ans,k_ans)=-0.064 |dk|/|k|=0.0102 | h0 cos(du,u)=-0.036 rel=0.0180 | h1 cos(du,u)=-0.012 rel=0.0172 | h2 cos(du,u)=-0.004 rel=0.0195 | h3 cos(du,u)=-0.009 rel=0.0142
+L16 key: cos(dk_ans,k_ans)=+0.209 |dk|/|k|=0.0086 | h0 cos(du,u)=+0.086 rel=0.0183 | h1 cos(du,u)=-0.003 rel=0.0236 | h2 cos(du,u)=+0.046 rel=0.0230 | h3 cos(du,u)=+0.049 rel=0.0148
+L17 key: cos(dk_ans,k_ans)=-0.052 |dk|/|k|=0.0065 | h0 cos(du,u)=-0.249 rel=0.0240 | h1 cos(du,u)=-0.062 rel=0.0368 | h2 cos(du,u)=-0.059 rel=0.0160 | h3 cos(du,u)=-0.213 rel=0.0182
+
+```

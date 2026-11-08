@@ -1,0 +1,58 @@
+OUTPUT of run 3 of at most 60:
+```
+L12 down sv0 s=0.077
+  +: ' end' '1' 'ymmetric' '3' '8' '2' '!' 'ATORY' ' /' ':' '.' '/' '4' ' recent' 'ニック'
+  -: ' Roj' 'HPV' ' Roop' 'FormData' ' acteur' ' Scholz' 'VPS' 'ServiceImpl' ' BMI' ' Reh' ' Фургал' 'DAS' ' épars' ' Kue' ' TSC'
+L12 down sv1 s=0.058
+  +: 'は' 'Strain' 'Raw' ' correr' ' Proyecto' ' matrimonio' ' corrupción' '로부터' ' εικό' 'Life' 'Run' 'inä' '專業' 'โครงการ' 'Thor'
+  -: 'ガイ' ' aswell' ' ceil' ' same' ' 多い' '踞' 'acionales' 'ел' ' subpo' '性的' 'azes' ' }>' 'ambuco' ',+\\' ' worth'
+L12 down sv2 s=0.053
+  +: ' Samo' ' conversations' ' paced' 'CX' ' المسافه' ' communicative' 'communicate' 'capable' ' Pons' ' flirting' ' Coaching' 'TextArea' ' leisure' 'ruth' ' eph'
+  -: '授' '弊' 'usión' 'лизм' '另一种' ' similares' ' próprios' 'ustum' ' רק' ' بر' 'ור' "'_{\\" '派' ' "_' ' padrões'
+L13 down sv0 s=0.065
+  +: 'frac' ' シャツ' ' Zum' ' claimant' ' Wir' 'square' ' slew' '£' 'HPV' ' divisor' 'Zum' 'Mul' 'Wir' ' toh' 'divisor'
+  -: ' "").' '罢了' 'elope' 'を進' 'itamento' 'ető' 'prochen' ' coordinación' ' finalizar' ' "*************' 'irla' 'ierungs' '養成' '申し' 'iąz'
+L13 down sv1 s=0.057
+  +: ' million' ' wind' ' bud' ' value' ' dead' ' degree' ' factor' ' moving' ' stake' ' fact' ' key' ' side' ' test' ' leg' ' field'
+  -: ' albi' ' grabar' 'Entry' 'Album' 'Cette' ' Japón' ' pobreza' ' Krankheit' 'Nella' 'Esta' ' enfermedad' 'Questa' ' dormir' ' zlat' 'Processing'
+L13 down sv2 s=0.052
+  +: ' lī' ' JobList' '爍' 'urrection' '_="' '㝢' 'конец' 'kelijke' 'TopOf' ' disposição' 'iração' 'ordine' '高峰' 'ện' 'ropri'
+  -: ' analyse' 'analyse' ' chatting' ' turkish' ' combing' 'metric' ' chicas' ' analysing' ' evaluated' ' SBI' ' sassy' '完成' '变量' ' english' ' evaluate'
+L14 down sv0 s=0.064
+  +: '数组' '操作系统' ' subversive' '绑定' ' اللاعب' 'Το' ' delicios' ' любовь' ' embroidery' 'Οι' ' ночь' '音乐' ' Οι' ' humili' ' Футбол'
+  -: 'ities' 'ience' 'erun' 'erals' 'えている' ' ""),' 'ıklı' 'えています' 'ality' 'alez' '_{+}+' 'itives' 'antu' '蠡' 'えます'
+L14 down sv1 s=0.058
+  +: ' iedereen' ' paisajes' ' enseñanza' ' bloqueo' ' sveta' ' erythemat' 'autorité' ' Sebelum' ' Août' ' Fabulous' 'Creates' ' botanique' ' wszyscy' ' vjer' ' vybaven'
+  -: '2' ' ' ' o' ' (' '分' ' day' ' al' ' two' ' different' ' second' ' free' ' u' ' moment' ' final' ' real'
+L14 down sv2 s=0.052
+  +: '1' 'lebihan' '튿' ' kahit' '必要があります' '結局' 'zeptember' 'ことになる' 'ęt' 'เสียหาย' ' hasattr' 'のでしょう' 'None' 'くなります' 'を楽しむ'
+  -: ' Sok' 'Ak' ' BM' ' Bann' ' Fa' 'Ta' ' Wal' ' AK' ' Ara' ' Cox' ' Rosen' ' Kas' ' Ba' ' Bem' ' Sé'
+L15 down sv0 s=0.069
+  +: 'Esc' ' اللاعب' ' الناس' 'prosperity' ' xxl' '₄' ' Bolivia' 'interpreted' 'CZ' 'Oper' 'Crisis' 'Что' ' ہندوستان' ' LDH' 'AsyncTask'
+  -: '1' '近づ' 'ience' ' same' '策' 'ities' 'ality' ' rest' ' “' ' make' ' mean' '已有' ',' 'ట్ల' ' ones'
+L15 down sv1 s=0.063
+  +: ' Баскетбол' ' Хоккей' ' Վ' ' платье' ' Бал' ' Zet' '区块链' ' стомато' ' Opal' ' философ' ' maio' ' Администра' ' silber' ' bà' ' Silber'
+  -: ' matter' ',' ' non' '.' ' in' '有的' ' sub' ' ' ' to' ' for' '来的' ' even' ' (' ' and' ' statement'
+L15 down sv2 s=0.059
+  +: '잖' '옇' '>≥</' ' therefor' 'getTargetContext' '̖' ' ограничењима' " />';" '럇' '^{*}}\\' 'umbuhan' ' hadc' 'rások' ' дали' ' mặc'
+  -: '2' '1' '２' '₂' '۲' '٢' '২' '๒' '²' '२' '3' '１' 'two' '૨' ' Two'
+L16 down sv0 s=0.078
+  +: '೯' '\uf739' '\uf738' '९' '٨' 'Nine' '۸' '۹' ' Nine' '٧' '９' '၉' '８' '૯' '၈'
+  -: '1' '１' ' ' ' in' ' first' ' (' ' one' ',' '一' ' and' '.' '\n' ' *' '*' ' for'
+L16 down sv1 s=0.070
+  +: '一百' ' diez' '١' '<unused505>' '<unused654>' '⒈' ' İlk' ' lapin' '₁' ' zehn' ' lông' '<unused1990>' ' rén' ' combattre' '<unused2028>'
+  -: '3' ',' ' ' '4' ' (' '2' ' in' ' and' '.' ' to' ' for' ' two' ' non' ' even' ' "'
+L16 down sv2 s=0.066
+  +: 'Lo' 'Penny' 'Operation' 'Threshold' 'Gateway' 'Helpers' 'Rh' 'Hero' '+/' 'Elev' 'Perfect' 'Edge' ' Threshold' ' Penny' 'Spirit'
+  -: '6' '۶' '٦' '₆' '६' '\uf736' ' ۶' ' six' '６' '⁶' 'جور' '៦' ' seis' 'inado' ' ६'
+L17 down sv0 s=0.097
+  +: '1' ' ' ' (' '2' ' in' '.' '*' ',' ' and' '\n' ' the' ' *' '-' '\n\n' ' a'
+  -: '<unused931>' '<unused452>' '<unused267>' '<unused465>' '<unused318>' '<unused463>' '<unused311>' '<unused490>' '<unused432>' '<unused477>' '<unused467>' '<unused920>' '<unused470>' '<unused930>' '<unused287>'
+L17 down sv1 s=0.071
+  +: '𝟎' '\uf643' '۰' '<unused1685>' '๐' '૦' ' هزار' '０' '0' 'érience' '읍' '٠' '೦' '\uf730' '禮'
+  -: '2' ' two' '２' '٢' 'two' '3' '₂' '۲' '২' '4' '२' ' Two' '૨' '๒' ' ٢'
+L17 down sv2 s=0.064
+  +: '6' '4' ' four' ' six' '1' ' ' ' five' '.' '7' ',' '5' ' seven' ' the' ' Four' ' three'
+  -: '\uf730' '٠' '๐' '\uf643' '𝟬' '０' '𝟎' '0' '૦' '۰' '<unused104>' 'slidesPerGroup' '०' '༠' '۰۰'
+
+```

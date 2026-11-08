@@ -1,0 +1,8 @@
+OUTPUT of run 40 of at most 60:
+```
+L0 h0: null means: low +1.13 cap +2.14 capns +3.01 (e-3, sd~0.57) | opinion: vs low -6.3, vs cap -10.0, vs capns -10.1 | qword: vs low +7.1, vs cap +6.6, vs capns +4.0 | qword_ns: vs low +7.4, vs cap +6.9, vs capns +4.3 | country: vs low +3.2, vs cap +1.7, vs capns -0.2 | capital_w: vs low +1.2, vs cap -0.7, vs capns -2.2
+L0 h1: null means: low +2.06 cap +3.06 capns +2.88 (e-3, sd~0.45) | opinion: vs low +1.1, vs cap -1.2, vs capns -0.8 | qword: vs low +8.3, vs cap +6.2, vs capns +6.9 | qword_ns: vs low +8.2, vs cap +6.1, vs capns +6.7 | country: vs low +6.9, vs cap +4.7, vs capns +5.3 | capital_w: vs low +0.2, vs cap -2.0, vs capns -1.7
+L0 h2: null means: low +5.23 cap +6.97 capns +7.42 (e-3, sd~0.56) | opinion: vs low -3.4, vs cap -8.7, vs capns -8.5 | qword: vs low +6.6, vs cap +4.7, vs capns +3.1 | qword_ns: vs low +7.4, vs cap +5.8, vs capns +4.1 | country: vs low +4.2, vs cap +1.4, vs capns +0.3 | capital_w: vs low +0.7, vs cap -3.2, vs capns -3.7
+L0 h3: null means: low -0.01 cap +1.52 capns +2.50 (e-3, sd~0.55) | opinion: vs low -3.0, vs cap -7.0, vs capns -9.1 | qword: vs low +10.8, vs cap +9.5, vs capns +7.3 | qword_ns: vs low +11.0, vs cap +9.8, vs capns +7.6 | country: vs low +6.8, vs cap +4.8, vs capns +2.7 | capital_w: vs low -2.4, vs cap -6.3, vs capns -8.4
+
+```

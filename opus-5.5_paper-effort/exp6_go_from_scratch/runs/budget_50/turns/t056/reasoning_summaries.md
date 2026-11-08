@@ -1,0 +1,8 @@
+I'm reviewing our opening moves, which put stones on the right edge and then the center, and noting that our top stones at (1,2) and (2,2) are getting cut off. The opponent's center play is solid, though my overall positional sense is still weak. I'm also considering a heuristic that strongly favors tengen as the first move for black, since the current prior spreads probability too evenly across the first moves.
+
+I'm weighing a few positional tweaks, like favoring central moves early and avoiding the first and second lines. I doubt I can judge those well without many games, so I'll rely on noisy win rates and diagnostic stats. I'm going to focus on fixing clear blunders instead, like self-atari, repetition, failing to save stones, and missed captures. My plan is to implement a simpler liberty-based evaluation, add a penalty for isolated captures, and partly fix the overcounting in the multi-touch terms.
+
+I'm weighing whether a pair-based early propagation for opponent strings is worth it, but L2 has no room for it unless the E3 terms move, and that would need the LS counts carried forward. I'll set that idea aside for now and treat the spare L1 capacity as unused. I'm also keeping ladders in mind: escaping to two liberties looks cheap under the current penalties, even though it can lose more stones later, and that's long-range enough that I can't detect it locally.
+
+I'm wondering whether the escaped strings that end up at two liberties later die, but checking that from the data would be hard, so I'll skip it and go ahead with the plan to implement the liberty-based evaluation and the isolated capture penalty.
+

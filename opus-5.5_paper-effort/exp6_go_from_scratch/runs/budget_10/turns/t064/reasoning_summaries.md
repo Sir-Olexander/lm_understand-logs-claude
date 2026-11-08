@@ -1,0 +1,2 @@
+Before I move on to pass 9, I want to check for other regressions. I'm also going to look at escapes: when one of our groups is in atari and could have escaped, did we actually do it? I'll count blunders across the passes too, and check SA blocking. For passes 4, 5, 6, and 8, I'm tallying our groups in atari by size, whether an escape existed (a liberty move giving at least 2 liberties, or capturing adjacent opponent stones in atari), and how often we took a saving move.
+

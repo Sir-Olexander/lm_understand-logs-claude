@@ -1,0 +1,20 @@
+OUTPUT of run 9 of at most 20:
+```
+ATTENTION TOOL call 2: saved /work/attn/r2/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r2/tokens.json
+text 0: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " +", " ", "5", "?", " I", " think", " the", " answer", " is", " ", "1", "4", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 1: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " +", " ", "5", "?", " I", " think", " the", " answer", " is", " ", "1", "2", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 2: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "8", " +", " ", "6", "?", " I", " think", " it", "'", "s", " ", "1", "5", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 3: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "9", " *", " ", "3", "?", " My", " guess", " is", " ", "2", "4", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 4: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "9", " *", " ", "3", "?", " My", " guess", " is", " ", "2", "7", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 5: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "1", "6", " -", " ", "7", "?", " I", " believe", " the", " answer", " is", " ", "8", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 6: 25 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "5", " +", " ", "3", "?", " I", " think", " the", " answer", " is", " ", "9", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 7: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "5", " +", " ", "3", "?", " I", " think", " the", " answer", " is", " ", "9", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " correct", " answer", " is", " "]
+text 8: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "5", " +", " ", "3", "?", " I", " think", " the", " answer", " is", " ", "9", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "**", "Answer", ":**", " "]
+text 9: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "How", " many", " legs", " does", " a", " spider", " have", "?", " I", " think", " it", "'", "s", " ", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 10: 21 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " +", " ", "5", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 11: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "I", " think", " the", " answer", " is", " ", "1", "4", ".", " What", " is", " ", "7", " +", " ", "5", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 12: 32 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "0", " +", " ", "2", "3", "?", " I", " think", " the", " answer", " is", " ", "4", "1", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 13: 33 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "0", " +", " ", "2", "3", "?", " I", " think", " the", " answer", " is", " ", "4", "1", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " ", "4"]
+text 14: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "4", " +", " ", "4", "?", " I", " think", " the", " answer", " is", " ", "8", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+text 15: 27 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "1", "2", " /", " ", "4", "?", " Is", " it", " ", "4", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is", " "]
+```

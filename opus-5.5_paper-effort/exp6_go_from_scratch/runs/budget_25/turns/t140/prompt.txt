@@ -1,0 +1,8 @@
+OUTPUT of Python run 115 of at most 120:
+```
+17 score 0.75 wipe 0.5390625 rep losses winning 4
+19 score 0.75 wipe 0.5703125 rep losses winning 5
+20 score 0.75 wipe 0.4296875 rep losses winning 8
+21 score 0.6953125 wipe 0.4609375 rep losses winning 5
+
+```

@@ -1,0 +1,9 @@
+OUTPUT of run 27 of at most 100:
+```
+col norm quantiles [1.25 1.88 2.05 2.24 2.45 2.94 3.85]
+0.7 neighbors>th quantiles [ 0.   1.   2.1 24. ] frac with >=1: 0.28833333333333333
+0.8 neighbors>th quantiles [ 0.   0.   0.1 10. ] frac with >=1: 0.1
+0.9 neighbors>th quantiles [0. 0. 0. 1.] frac with >=1: 0.013333333333333334
+energy in top28 0.937515023916902
+
+```

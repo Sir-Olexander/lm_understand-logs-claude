@@ -1,0 +1,5 @@
+OUTPUT of Python run 56 of at most 120:
+```
+{'games': 128, 'wins': 49, 'moves': 6903, 'cap_avail': 1530, 'cap_taken': 1333, 'savable': 303, 'saved': 187, 'saved_or_cap': 244, 'selfatari': 255, 'selfatari_sz': 871, 'pass': 292, 'rep_by_opponent': 2, 'rep_lost_ahead': 1, 'rep_by_net': 1}
+
+```

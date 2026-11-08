@@ -1,0 +1,8 @@
+OUTPUT of run 42 of at most 60:
+```
+L14: k0 sh0.05 kb_z-2.50 base_u_z-2.24 | k1 sh0.04 kb_z-0.49 base_u_z-1.57 | k2 sh0.03 kb_z+0.28 base_u_z+0.50 | k3 sh0.03 kb_z-0.81 base_u_z-1.35 | k4 sh0.03 kb_z-0.46 base_u_z+0.11 | k5 sh0.02 kb_z-0.27 base_u_z-0.93 || sigma^2-weighted kb_z -0.88
+L15: k0 sh0.06 kb_z-1.97 base_u_z-4.16 | k1 sh0.05 kb_z+0.68 base_u_z-2.07 | k2 sh0.04 kb_z+2.40 base_u_z-1.42 | k3 sh0.04 kb_z-0.50 base_u_z-2.42 | k4 sh0.03 kb_z+0.64 base_u_z-0.45 | k5 sh0.03 kb_z-0.63 base_u_z-0.92 || sigma^2-weighted kb_z +0.00
+L16: k0 sh0.08 kb_z+1.69 base_u_z-2.80 | k1 sh0.06 kb_z+2.99 base_u_z-2.99 | k2 sh0.05 kb_z-0.21 base_u_z-3.32 | k3 sh0.04 kb_z+0.85 base_u_z-2.93 | k4 sh0.04 kb_z+2.24 base_u_z-2.28 | k5 sh0.04 kb_z-1.37 base_u_z-2.86 || sigma^2-weighted kb_z +1.20
+L17: k0 sh0.14 kb_z+1.53 base_u_z-2.55 | k1 sh0.07 kb_z+0.03 base_u_z-2.23 | k2 sh0.05 kb_z+1.52 base_u_z-1.21 | k3 sh0.04 kb_z-1.01 base_u_z-1.15 | k4 sh0.04 kb_z+1.60 base_u_z-3.16 | k5 sh0.04 kb_z+1.17 base_u_z-4.08 || sigma^2-weighted kb_z +0.95
+
+```

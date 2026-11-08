@@ -1,0 +1,40 @@
+start 2026-11-06T15:13:36+00:00
+logs: OK
+[2026-11-06T15:13:36+00:00] breakout: asking (9,973 chars, model claude-opus-5-5, effort xhigh)
+[2026-11-06T15:13:36+00:00] breakout turn 1: new conversation (9,973 chars)
+[2026-11-06T15:42:30+00:00] breakout final answer after 0 runs
+[2026-11-06T15:42:30+00:00] breakout: 63/63 statements, 0 errors, cut off False; nonzero weights 491 of 20,486; tool-free True
+[2026-11-06T15:42:38+00:00] breakout: mean 57.358 +- 1.651 over 1000 episodes (max 413, mean length 1488.3, 7.5 s)
+[2026-11-06T15:42:38+00:00] seaquest: asking (18,266 chars, model claude-opus-5-5, effort xhigh)
+[2026-11-06T15:42:38+00:00] seaquest turn 1: new conversation (18,266 chars)
+[2026-11-06T16:34:22+00:00] seaquest final answer after 0 runs
+[2026-11-06T16:34:22+00:00] seaquest: 183/183 statements, 0 errors, cut off False; nonzero weights 1168 of 20,486; tool-free True
+[2026-11-06T16:34:25+00:00] seaquest: mean 8.578 +- 0.238 over 1000 episodes (max 56, mean length 360.1, 3.1 s)
+[2026-11-06T16:34:25+00:00] asterix: asking (10,930 chars, model claude-opus-5-5, effort xhigh)
+[2026-11-06T16:34:25+00:00] asterix turn 1: new conversation (10,930 chars)
+[2026-11-06T16:48:34+00:00] asterix final answer after 0 runs
+[2026-11-06T16:48:34+00:00] asterix: 132/132 statements, 0 errors, cut off False; nonzero weights 469 of 20,486; tool-free True
+[2026-11-06T16:48:40+00:00] asterix: mean 72.007 +- 1.183 over 1000 episodes (max 306, mean length 1010.4, 6.2 s)
+# Exp 5 (write MinAtar networks from scratch): opus-5.5_paper-effort
+
+model `claude-opus-5-5`, effort `xhigh`; 1000 episodes per game, seed 0.
+
+| Game | Score (mean ± SE) | Max | Mean length | Statements read | Nonzero weights | Tool-free | Astra (original) |
+|---|---|---|---|---|---|---|---|
+| breakout | 57.4 ± 1.7 | 413 | 1488 | 63/63 (0 errors) | 491 | True | 517.4 ± 7.4 |
+| seaquest | 8.6 ± 0.2 | 56 | 360 | 183/183 (0 errors) | 1168 | True | 53.1 ± 1.4 |
+| asterix | 72.0 ± 1.2 | 306 | 1010 | 132/132 (0 errors) | 469 | True | 53.2 ± 1.0 |
+EXP5_DONE 2026-11-06T16:48:40+00:00
+[2026-11-06T16:48:40+00:00] one-shot: asking (577,774 chars)
+[2026-11-06T16:48:40+00:00] exp4/oneshot_repair turn 1: new conversation (577,774 chars)
+[2026-11-06T16:51:21+00:00] exp4/oneshot_repair final answer after 0 runs
+[2026-11-06T16:59:07+00:00] one-shot: edits 37/37 (0 errors, tensors ['actor0.W', 'actor0.b', 'actor1.W', 'actor1.b', 'actor2.W', 'actor2.b', 'actor3.W', 'actor3.b', 'actor4.W', 'actor4.b', 'actor_head.W', 'actor_head.b', 'embed.W', 'embed.b']); search success 1.000, test success 1.000; tool-free True
+# Experiment 4 (fix the car): opus-5.5_paper-effort
+
+| run | model | effort | test success (1,024) | search (256) | most-likely action | edits applied | weights changed | tool-free |
+|---|---|---|---|---|---|---|---|---|
+| oneshot_repair | claude-opus-5-5 | high | 1024/1024 (100.0 %) | 100.0 % | success | 37/37 | 3,686 (2.15 %) | True |
+
+Original (gpt-6-astra, high): test 100.0 % of 1024, search 100.0 %, 6,073 weights changed (3.54 %). The unedited network: 0 % (search stream, this harness: 0.0 %).
+EXP4_DONE 2026-11-06T16:59:07+00:00
+ALL_DONE 2026-11-06T16:59:07+00:00

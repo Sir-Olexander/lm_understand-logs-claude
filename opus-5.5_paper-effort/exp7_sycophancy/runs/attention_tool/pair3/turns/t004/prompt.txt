@@ -1,0 +1,100 @@
+OUTPUT of run 3 of at most 20:
+```
+L17 down_proj sv0 s=0.097
+   +: [' *', '*', ' (', ' ', '1', ' of', ',', 'One', ' -', ' choice', '(', 'The', 'one', '-']
+   -: ['<unused2194>', '９', '\uf738', ' neun', '\uf739', ' cinq', '𝟖', '８', '<unused984>', ' keyCode', '\uf736', '٨', '۸', ' tujuh']
+L17 down_proj sv1 s=0.071
+   +: ['θούν', ' inoc', '閪', ' خير', ' نشوف', '荫', 'cton', ' тщательно', '\uf643', ' Cleanup', 'щ', 'غط', 'ashions', 'στε']
+   -: ['2', '3', '２', ' two', 'two', '٢', '4', '兩個', ' miš', ' două', ' dvije', '𝟐', '₂', '二人']
+L17 o_proj sv0 s=0.061
+   +: ['遣', 'étera', ' superstitious', 'dong', 'VIII', ' silvest', ' getRandom', 'stup', '깐', '淑', 'โน', 'чис', 'holung', ' FOL']
+   -: ['ដោយ', ' ceilings', '国土', 'chromium', ' Interiors', ' glaz', 'Plasma', ' glaciers', '主に', 'plasma', ' thuis', ' deficit', '市场上', ' markets']
+L17 o_proj sv1 s=0.036
+   +: [' storytelling', '9', ' Snapchat', 'CapsLock', '8', ' keyCode', ' expresses', ' Compass', ' Honda', ' Pin', ' TikTok', '९', ' artistic', ' Eros']
+   -: [' décision', ' semillas', 'ヤー', ' semilla', 'ğı', 'ခန်း', 'halter', 'filtration', ' retraite', 'hedge', 'opathy', 'داری', 'étale', 'စည်း']
+L16 down_proj sv0 s=0.078
+   +: ['7', '8', '9', '９', '𝟖', ' sechs', '९', ' neun', ' cinq', '８', '۸', '6', ' fünf', '೯']
+   -: ['壕', '抜き', 'ĵo', ' of', 'ğı', 'filtration', '贄', 'っかけ', 'inink', 'انة', '的选择', 'ifiers', 'ื้อง', '外し']
+L16 down_proj sv1 s=0.070
+   +: [' Melan', ' tissu', ' Garant', ' Prote', 'Guarantee', ' MILK', ' Poo', ' Schumer', ' Stoff', ' slaughter', ' Chương', ' Levin', ' massacre', ' Leib']
+   -: ['3', '4', ' ', '2', ',', ' is', ' in', ' vice', ' and', '.', ' to', ' on', ' reversed', ' two']
+L16 o_proj sv0 s=0.069
+   +: ['Lens', ' strap', ' Gap', ' Screens', ' Sling', ' Tope', ' Lens', ' Roberts', ' rising', 'Clark', ' baskets', ' Seat', 'cohort', 'Gap']
+   -: ['9', '8', '1', '3', '7', '6', '4', '5', 'eness', '怠', 'asih', '９', ' subtração', '2']
+L16 o_proj sv1 s=0.046
+   +: ['ヤー', 'ordination', 'ensitive', ' matter', '一代', 'จึง', 'ensitivity', 'けると', '))_{', 'başı', '要是', 'ulation', 'okhlov', ' however']
+   -: ['Io', ' pneus', ' Pens', ' Coler', ' GFP', ' Kei', ' Tompkins', ' Göl', ' Io', ' Lond', ' Devon', ' Thurston', ' Bình', ' Sd']
+L15 down_proj sv0 s=0.069
+   +: ['Trajectories', 'Florence', ' navigate', 'trajectory', 'Джо', ' Reis', ' Gutiérrez', 'Fuel', 'Walker', ' TMC', 'Nelson', ' soared', ' NDC', ' Roberts']
+   -: ['1', 'ality', 'rance', 'gült', '大な', 'ertian', 'bagian', 'vious', 'ities', 'ement', 'ément', 'endal', 'elijke', 'alities']
+L15 down_proj sv1 s=0.063
+   +: [' лов', ' Swim', ' tilapia', ' PROM', ' seaport', ' Atl', ' Orioles', ' Noi', ' Hannover', ' Pisc', ' Melan', 'Chromosome', ' Dolphin', ' Pasar']
+   -: ['ାଇ', 'ନ୍ତ', 'ହା', 'áticas', 'ାନ', 'ମ୍', '୍ୟ', 'ାର', ' need', 'mation', 'ିକ', 'หนัก', 'ନ୍ଦ', 'ateful']
+L15 o_proj sv0 s=0.049
+   +: ['8', '3', '1', '0', '9', 'eksi', 'ence', '7', '6', 'عات', '4', '5', 'nosti', '2']
+   -: [' スチール', ' MIG', ' студентов', ' Workforce', ' elet', ' ain', ' Cardi', ' scorecard', ' cooker', ' Athlet', ' delegates', ' skyrocketing', ' miz', ' justiciable']
+L15 o_proj sv1 s=0.042
+   +: [' 체크', ' Thromb', ' núi', 'Nodo', ' Patna', ' Etappe', 'nodo', ' rafting', ' Hike', 'Protocol', 'TaskList', ' экспеди', ' navegar', ' rhino']
+   -: [' (', ' ', ' play', ',', ' third', ' free', 'ability', '  ', ' sides', ' freedom', 'wide', ' second', ' halves', '渎']
+L14 down_proj sv0 s=0.064
+   +: [' JOB', ' Workforce', ' welder', ' Job', ' Weld', ' tortillas', ' invis', ' employability', 'Agricult', ' inmates', ' lacer', ' Superstar', ' Pace', ' Denim']
+   -: ['3', '4', '5', '0', '6', '1', '7', '8', '2', 'idding', '9', '斥', 'عات', 'ated']
+L14 down_proj sv1 s=0.058
+   +: ['ჷ', ' Archipelago', 'bookmark', 'orrag', ' quinquina', 'க்கழக', ' rhum', ' whaling', 'Vcs', ' eventdata', 'Nodo', ' Padd', 'Manus', ' sportsbook']
+   -: ['1', '2', ' ', '3', 'liance', ' o', ' نتیجے', ' performance', '4', ' *', ' (', '0', ' test', 'prime']
+L14 o_proj sv0 s=0.075
+   +: [' botanique', 'ⴻ', ' taxonomic', 'ⴰ', ' urt', 'Collecting', ' alphabetical', 'opak', 'ຫຼ', 'ເມ', 'ⵏ', 'ຈາກ', 'ⵔ', ' barcelona']
+   -: [' weld', ' Surety', 'aranteed', 'wage', ' wage', ' liabilities', ' promi', ' Abia', 'rente', ' allegiance', ' Ub', 'arantee', 'ត្រូវ', ' Lein']
+L14 o_proj sv1 s=0.045
+   +: [' Reb', ' reb', 'Wel', ' flog', ' ghi', 'Nelson', ' erm', ' jes', ' pavil', ' gingen', ' Foi', ' Carav', ' Eis', ' Visitor']
+   -: ['ispens', 'attere', 'VOID', ' bagay', ' ",",', 'ittä', 'nyt', ' quantità', 'chlorate', 'urangan', 'çük', 'imientos', 'headed', '残り']
+L13 down_proj sv0 s=0.065
+   +: ['aranteed', ' weld', ' miz', 'Dollar', ' Tarif', ' prote', ' MIG', 'provider', 'WebHost', ' kes', ' legions', ' liabilities', 'Unt', ' dents']
+   -: ['opak', 'ⵏ', 'presentasikan', 'ⴰ', 'ⴻ', ' alphabetical', ' konci', ' zprac', 'avaş', ' exploración', ' especie', ' huruf', 'prochen', ' elegante']
+L13 down_proj sv1 s=0.057
+   +: ['ắc', ' interest', 'ence', ' stake', 'ences', ' third', 'ants', 'ريكي', ' play', 'imes', 'rai', ' played', 'ancing', '大利']
+   -: [' 메서', ' smrti', 'メソッド', 'Governance', 'Alaska', ' śmier', ' elegante', 'Serialization', 'บรร', '路径', 'Purg', ' Etappe', ' olor', 'Emission']
+L13 o_proj sv0 s=0.058
+   +: ['opathy', 'веро', ' compone', ' forman', 'pyrimidin', 'Countryside', ' Prong', ' enthalten', 'ipment', ' encontrarás', 'byterian', 'Minutes', 'plets', 'ointment']
+   -: [' splash', 'Discussion', ' Splash', 'splash', 'ⴰ', 'Splash', '_{', 'display', ' 이슈', ' morphological', 'raz', 'actment', 'πων', ' splashing']
+L13 o_proj sv1 s=0.045
+   +: ['сшта', ' funders', ' politici', 'ujudkan', '覧', ' хозяйства', '怆', 'щением', 'olidated', ' sureties', ' outputFile', '另一种', ' pobreza', 'urrection']
+   -: ['3', '0', ' pkt', '6', ' kilo', '€', '4', '2', ' mince', 'Degree', 'Rb', 'relax', 'Course', ' Scud']
+L12 down_proj sv0 s=0.077
+   +: ['3', '8', '7', '6', '2', '9', '5', '4', ' sense', 'ativo', '1', '酌', '0', ' test']
+   -: [' Obamacare', 'wanza', 'Dollar', ' USPS', 'byterian', ' Forman', ' Freedman', ' Presbyterian', 'Kris', 'GoAbroad', ' McMahon', '\']}")', ' dó', 'packaged']
+L12 down_proj sv1 s=0.058
+   +: ['Governance', ' elegante', '相続', ' Governance', ' magní', ' ngựa', ' élég', ' Krankheit', ' España', 'Property', ' percor', '辿', ' 삶', ' záv']
+   -: ['itional', 'acionales', 'itive', 'ancement', 'aganda', ' previos', 'ities', ' fries', 'etics', 'atres', 'heed', ' ears', ' outweigh', 'inals']
+L12 o_proj sv0 s=0.052
+   +: [' lined', ' menu', 'Flip', ' whitelist', ' wallets', ' obst', ' shel', ' turist', ' nutritious', 'Whitelist', ' nasi', ' eyed', ' nutritional', ' blancos']
+   -: ['7', '8', '9', '4', '5', '6', '3', '1', ' Voiture', '0', ' گوئی', ' massima', 'rake', 'フォーマンス']
+L12 o_proj sv1 s=0.047
+   +: [' concentración', 'ziele', 'itektur', '0', ' conducción', 'liš', '까요', '嬪', ' conduite', ' curva', ' quadrato', 'דה', 'orca', 'istered']
+   -: [' mascot', 'getline', ' redist', ' sponsoring', ' aiding', ' synthesizing', ' forming', ' {{{', ' ink', ' donating', ' miz', 'ນະ', ' betting', ' summarizing']
+L11 down_proj sv0 s=0.084
+   +: ['wheat', ' dó', ' bland', ' cạnh', ' delic', ' anderes', 'arbit', ' picky', ' opposite', 'عار', ' overpriced', ' other', ' wheat', ' Salad']
+   -: ['7', '8', '6', '5', '9', 'ライド', ' connaissances', 'infty', ' nx', 'NDE', ' rpg', 'arlan', ' massima', 'zuge']
+L11 down_proj sv1 s=0.061
+   +: ['astype', '.):', ' Breathing', 'Neighborhood', 'parentNode', '몫', ' Conservatory', ' humidifier', '}.")', ' Efforts', 'āj', 'ository', '烬', 'organe']
+   -: [' нему', 'ppers', ' ат', ' мыш', 'uat', ' الامتحان', 'пь', ' שהוא', 'ís', ' جاتے', ' fahren', 'ثله', ' социальной', 'xe']
+L11 o_proj sv0 s=0.052
+   +: ['7', '8', '6', '9', '5', '3', '4', '0', 'xg', '1', 'pg', 'vh', 'xd', '７']
+   -: [' photovolta', ' dó', ' perovsk', '힝', '蔬菜', ' besieged', '碌', 'ヨン', '貼り', ' occupiers', ' opposit', 'عار', 'སྐ', 'ར']
+L11 o_proj sv1 s=0.044
+   +: [' around', 'orting', 'windows', 'oney', 'gad', ' window', 'op', ' windows', ' glasses', '  ', ' medical', 'reset', 'ru', 'ors']
+   -: [' afet', ' بقدر', ' incend', ' radicales', ' proizvod', ' Whittier', ' fuerza', 'akaranam', '企业家', ' bağlı', ' proiz', ' exprim', ' causas', ' lako']
+L10 down_proj sv0 s=0.083
+   +: [' Ukraina', ' piezas', ' nanoc', ' Marte', ' Mariupol', ' strada', ' perovsk', ' photovolta', '在全球', ' Israël', ' cạnh', ' Kharkiv', ' Oekra', ' Украї']
+   -: [' connaissances', 'ORIES', 'ouve', ' connaissance', 'frc', ' знаний', ' slee', ' conhecimento', ' pengetahuan', ' deri', '8', 'events', 'ories', '知道了']
+L10 down_proj sv1 s=0.063
+   +: ['gestion', ' comenc', ' privati', 'zentration', 'ensing', ' consumption', 'akawa', 'meldung', ' _)', 'ʑ', 'jegyz', 'ounty', 'ensity', ' <:']
+   -: [' Romney', ' христиан', ' пя', ' rigid', ' антенна', ' اللي', 'бо', ' яр', ' года', ' والج', ' sturdy', ' воро', 'pin', '检查']
+L10 o_proj sv0 s=0.073
+   +: ['珲', ' cạnh', 'นอก', '颌', 'لسط', 'יים', 'kinder', ' меч', ' فلسطینی', ' Ukraina', 'ként', ' apartamento', ' fabb', 'cemia']
+   -: [' $$$', ' organisation', ' organisational', ' £', 'atic', 'annuation', ' haemorrh', '冚', 'atanga', ' Emin', 'dons', 'atici', 'atical', 'ical']
+L10 o_proj sv1 s=0.049
+   +: ['член', ' وعرف', 'len', 'ベイ', 'го', 'ORIES', 'ุ้น', 'orre', ' trò', 'inning', 'лага', 'ใหญ่', 'ois', '훗']
+   -: [' frontline', ' unip', ' zirconia', ' hyperplane', 'Borderless', ' stranded', 'StringVar', ' StringVar', ' adjunction', 'harma', ' rubble', ' tesla', ' hypersurface', ' Currently']
+
+```

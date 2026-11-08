@@ -1,0 +1,22 @@
+OUTPUT of run 41 of at most 100:
+```
+ind03: trace   2.32  |M|  0.93  sym-part posdef frac 18/26
+ind10: trace   0.74  |M|  0.87  sym-part posdef frac 15/26
+ind15: trace   0.80  |M|  0.93  sym-part posdef frac 15/26
+ind11: trace   0.53  |M|  0.96  sym-part posdef frac 14/26
+ind21: trace   1.00  |M|  1.12  sym-part posdef frac 15/26
+ind25: trace   0.83  |M|  1.08  sym-part posdef frac 14/26
+ind23: trace   0.46  |M|  1.29  sym-part posdef frac 12/26
+same: trace   2.22  |M|  1.15  sym-part posdef frac 18/26
+  basis from ind03^-1 ind10: imag frac 0.17; ind11 offdiag 0.98 (random 0.98)
+  basis from ind03^-1 ind10: imag frac 0.17; ind23 offdiag 0.98 (random 0.99)
+  basis from ind03^-1 ind15: imag frac 0.23; ind11 offdiag 0.98 (random 0.96)
+  basis from ind03^-1 ind15: imag frac 0.23; ind23 offdiag 0.98 (random 0.97)
+  basis from ind03^-1 ind21: imag frac 0.25; ind11 offdiag 0.99 (random 0.98)
+  basis from ind03^-1 ind21: imag frac 0.25; ind23 offdiag 0.99 (random 0.98)
+  basis from ind03^-1 ind25: imag frac 0.13; ind11 offdiag 0.97 (random 0.98)
+  basis from ind03^-1 ind25: imag frac 0.13; ind23 offdiag 0.98 (random 0.98)
+  basis from ind03^-1 same: imag frac 0.15; ind11 offdiag 0.98 (random 0.98)
+  basis from ind03^-1 same: imag frac 0.15; ind23 offdiag 0.98 (random 0.98)
+
+```

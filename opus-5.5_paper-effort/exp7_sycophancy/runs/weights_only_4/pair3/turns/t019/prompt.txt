@@ -1,0 +1,126 @@
+OUTPUT of run 18 of at most 60:
+```
+
+=== L11 h0 ||ΔM||=1.4703 ||M||=40.367 top σ: [0.7767 0.5667 0.4565 0.3911]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' Cerv' ' Montpellier' ' mascara' ' Neuer' ' Monsieur' ' istanbul' ' Fujifilm' ' Guille' ' breve' 'Variation' ' FRAME' 'ziff' ' Brest' 'Browser' 'Protocol' ' HOTEL' 'Specification' 'Menu'
+   k+: '7' '5' '6' '4' '8' '3' '9' '1' '0' '2' ' missing' ' nueve' ' diez' ' six' ' sechs' ' eight' ' sech' ' batang'
+   q-: '3' '7' ' believed' '4' '5' '8' '9' '6' ' missing' ' caretaker' ' None' ' glorified' ' believing' ' fired' ' believe' '1' ' caret' ' said'
+   k-: ' Protocol' 'Protocol' ' tagName' 'Optimization' ' infringer' ' seamen' ' optimisation' ' protocol' ' fishermen' 'Comparer' 'atov' ' Arbitration' ' fisherman' 'Mou' ' expts' ' exchanger' 'regator' 'Proxy'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: 'PROGRESS' ' kosong' 'operatively' ' Gymnasium' ' plenum' ' Gyne' ' Wholesale' ' Hostel' ' diagonalization' 'Umb' ' Uninstall' ' playroom' ' porttitor' ' sewers' ' crayfish' ' Yarn' ' emptiness' 'bibliothek'
+   k+: 'Scheduler' ' optimizer' ' birefringence' ' pronunciation' ' season' 'election' ' crystals' ' unclear' ' doubt' ' acert' ' confusion' ' vowels' ' prophecy' ' guesses' ' astronomers' 'lection' ' doubtful' ' hyperactivity'
+   q-: ' conna' '5' '8' '0' 'vine' ' uzman' '7' '4' 'ppler' ' skills' ' gravar' ' tempi' 'mile' 'strated' 'celer' 'ph' ' Kennt' ' indywidual'
+   k-: 'ND' 'Gs' ' bescherm' 'ritas' ' Stoff' 'IB' 'antoin' ' jornal' ' tessuto' '0' ' suede' 'Page' 'bestand' ' Pages' ' frontage' 'Liability' 'rep' 'civil'
+
+=== L11 h1 ||ΔM||=1.7084 ||M||=54.901 top σ: [0.9604 0.5835 0.5674 0.4377]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' Accom' ' Vote' 'Vote' ' Euh' ' VISIT' 'Accom' 'operatively' 'uus' ' schedu' ' banquet' ' Rejo' ' nonuniform' 'RECTION' ' Atha' ' Interval' 'CONDS' 'fulfillment' ' thereof'
+   k+: '7' '5' '4' '6' '8' '3' '9' '0' '1' '2' ' nueve' ' cinco' ' diez' ' oito' ' eight' ' vier' ' ocho' ' sechs'
+   q-: '7' '8' '5' '9' '6' '4' '3' '0' '2' ' instincts' '1' ' instinct' ' intuition' 'myCollision' ' innate' ' instinctive' ' instinctively' ' sinais'
+   k-: ' Protocol' 'roir' ' transom' 'Protocol' ' tagName' 'rega' ' effluents' ' defaultstate' 'Modification' ' workflows' ' lepro' 'Optimization' ' muscul' ' Insol' ' intrans' ' Workflow' ' Corriere' ' halibut'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' banyaknya' ' Prong' 'ziehung' ' mengandung' ' antipode' 'ponen' ' estrange' 'cay' ' multiplica' ' amistad' 'autions' ' domanda' 'Visited' ' Echin' ' dientes' 'xiety' ' camadas' 'rsa'
+   k+: ' doubt' 'ported' ' casting' ' Doubt' ' opts' ' preds' 'Rais' ' currently' ' enlight' 'doubt' ' casts' ' eclipse' ' Rais' 'ahaman' 'casted' 'bation' ' currentUser' ' actuellement'
+   q-: ' sigh' ' destitute' ' powerless' ' soff' ' synthes' ' cradle' ' Textile' ' touch' 'squiggle' ' respiration' ' Cond' ' tossing' ' vapor' ' cond' ' labor' ' breathing' ' manufacturing' ' shortening'
+   k-: '0' '5' '8' '9' '7' '6' '1' '4' '3' '2' ' jornal' ' indah' ' sentimientos' ' cuaderno' ' samoch' ' Anfang' ' conductas' ' ennemis'
+
+=== L11 h2 ||ΔM||=1.5544 ||M||=95.422 top σ: [0.8248 0.5255 0.4585 0.4319]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' fouling' 'lend' ' INDI' 'oluminescence' ' imong' ' deterg' ' commenters' ' recognises' 'igita' 'otypic' ' aclarar' ' isotype' ' memainkan' 'clature' 'other' ' piya' ' dudas' ' impresses'
+   k+: '7' '5' '3' '8' '4' '6' '9' '1' '0' '2' ' pewno' ' bersih' ' believed' 'hten' ' nueve' ' fakult' ' geven' ' percentuale'
+   q-: '5' '8' '6' '7' '9' '4' '3' '0' '1' '2' ' eight' 'eight' ' kilometer' ' kilometre' ' zehn' ' twelve' ' five' 'vq'
+   k-: 'Optimization' ' Protocol' 'Mou' ' Wimbledon' 'Protocol' ' Convex' ' Barg' ' Marbella' ' WTO' ' Maldives' ' interstices' ' bilateral' ' Brexit' ' Cannes' 'Frozen' ' mRNAs' 'Regards' ' symplect'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' halinde' ' indeterm' ' nedeniyle' ' mencionado' 'removeClass' ' dolu' ' Bhagavato' 'removeAttr' ' maddi' ' hereby' ' yao' ' imani' ' afecta' ' mek' ' upris' 'restricted' ' tamen' ' pembahasan'
+   k+: ' precession' ' birefringence' ' Directions' ' Sna' ' confusion' 'chave' ' clarifications' ' Menon' ' Rings' ' Prong' 'Fused' ' Wedge' ' cloves' ' February' ' podczas' ' Solskjaer' ' constellation' ' absence'
+   q-: 'Base' ' roughness' ' Almond' ' calibration' ' Base' ' clinical' 'Calibration' ' Test' ' Debye' ' babies' ' genomes' ' Perfect' ' Cousin' 'ull' ' Private' 'Touch' ' base' ' telephone'
+   k-: 'REND' ' rags' ' effluents' 'rieben' 'rend' 'rient' ' effluent' ' destitute' ' perif' ' discharg' ' strugg' 'rici' 'hava' 'industrial' 'startup' ' jornal' ' mesela' 'kunde'
+
+=== L11 h3 ||ΔM||=1.4376 ||M||=72.393 top σ: [0.7742 0.4872 0.4279 0.3439]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: 'ignet' ' frmt' ' INDI' 'itul' ' RADIO' ' situational' 'zit' ' locals' 'groupBox' ' theres' ' reaffirm' ' Matcha' 'ikker' ' imong' ' orthodontic' 'ported' 'ofs' ' hae'
+   k+: '3' '7' '8' '5' '4' '6' '9' '1' '2' '0' ' kumar' 'series' ' llave' ' delivered' 'qtd' ' geven' 'eries' ' sze'
+   q-: '8' '7' '5' '6' '9' '3' '4' '1' '0' '2' 'infty' 'sqrt' 'eight' ' morte' ' trillion' ' zehn' 'inci' ' voiture'
+   k-: ' minut' ' articul' ' lysosomes' ' CGPoint' 'myForm' ' Almond' ' Cote' ' atro' ' individ' ' Rheumat' 'Otros' ' crum' ' Filing' ' seabed' ' mRNAs' ' endoplasmic' ' Protocol' 'Wik'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' the' ' your' ' dream' ' Gas' ' Pain' ' pain' ' Dream' ' Vision' ' sleep' ' The' ' our' ' Health' ' Your' ' Our' ' emissions' ' heart' 'the' ' dreams'
+   k+: 'astico' 'stw' 'yship' 'izate' 'seign' ' situazione' 'kunde' ' clientele' ' taraf' ' yatha' 'ianas' 'rugged' ' giriyoruz' 'esso' 'izantes' 'ressor' 'ishments' 'engaruhi'
+   q-: ' faktor' ' bimestre' 'ryw' ' McDaniel' 'faktor' 'vout' ' exager' ' downloader' ' userId' 'riff' ' werewolf' ' acost' 'stwa' ' bibliographic' 'stw' ' slayer' 'dv' ' mache'
+   k-: ' incorrect' 'feld' ' nes' ' missing' ' Missing' ' disappointing' ' clearly' 'clearly' ' Dense' ' differ' 'Missing' ' Fragments' ' Clear' ' Stones' ' clear' ' replacing' ' Mire' ' Agree'
+
+=== L17 h0 ||ΔM||=14.4900 ||M||=982.270 top σ: [7.8794 5.1131 4.5811 4.3057]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' hashedPassword' ' newUser' ' Creed' ' Bonding' ' propor' ' kepercayaan' ' projectors' 'RoleId' ' audioEngine' ' AudioClip' ' createjs' ' mediaPlayer' ' postulates' ' Myths' ' percentages' ' moduleId' ' reactance' ' doctrines'
+   k+: '1' '7' '2' '9' '8' '3' '6' '4' '5' '0' ',' '.' '?' 'ly' 'hood' ' yang' ' in' ':'
+   q-: ' herm' 'zinha' ' joli' ' plod' ' courrier' ' moze' ' delic' ' pests' ' mooi' ' crop' ' farm' ' micrograph' ' bastard' ' cute' ' ehm' ' ort' ' beautiful' 'tour'
+   k-: ' FCA' ' ratification' ' sportsbook' ' expedit' ' NRA' ' swimmers' ' NCB' ' sharks' ' accretion' ' heparin' ' experiential' ' shark' ' Polynesian' ' eventdata' ' bonding' ' Naut' ' onboarding' ' structuring'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: 'Dispatch' ' girder' ' cookbooks' 'roh' ' Carrasco' ' trycatch' ' Zust' ' chiller' ' mannitol' 'Handler' ' letteratura' ' UPI' ' Stout' ' Pipelines' 'ilai' ' halibut' ' Britton' ' GMA'
+   k+: 'atoes' 'osite' ' terenie' 'zeit' 'unjung' 'hadap' 'bagai' ' verdadeiro' ' Baill' 'bigg' ' verdadeira' 'fordert' 'soil' ' desmont' 'door' ' verdadera' ' ziem' ' carreteras'
+   q-: ' the' ' in' ' are' ' most' ' former' ' born' ' of' ' on' ' both' ' and' ' is' ' been' ' what' ' na' ' In' ' more' ' None' ' go'
+   k-: ' Wake' 'glVertex' 'CallOptions' ' Regis' 'OperationContext' ' Unicode' 'CallSettings' ' Meditation' 'CreateParams' ' muted' ' Honolulu' ' barber' 'FlightID' ' glVertex' ' convergence' ' Dialogue' 'PathParam' ' ASCII'
+
+=== L17 h1 ||ΔM||=17.1675 ||M||=951.843 top σ: [10.7714  6.8421  4.296   4.0328]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: 'hood' ' expir' ' greetings' 'kec' ' tryptophan' ' laughter' 'issau' 'minIndex' 'esen' 'ForgotPassword' ' whenever' 'atien' ' where' 'ibut' ' unattended' 'cens' ' vagin' ' giggle'
+   k+: '7' '8' '9' '6' '3' '5' '4' '1' '2' '0' ',' '.' ' .' '?' 'ly' ' yang' 'ic' ' in'
+   q-: ' comps' ' hoeveel' 'typal' 'metic' ' juntos' 'aterra' 'ROAD' ' camadas' 'dmg' ' Clash' 'kuat' ' cole' 'axes' ' rhs' 'pony' 'psum' ' COLE' ' taux'
+   k-: ' EnglishChoose' ' Conform' 'Protocol' 'ClInclude' ' SEG' ' onboarding' 'workouts' 'Consume' 'menopausal' ' GLA' ' campa' ' structuring' ' burrito' 'carb' ' HAI' 'dumbbell' ' inoc' ' Subcommittee'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' WIP' 'eof' 'EndOf' 'Cober' ' wip' ' Biochim' ' Puget' ' Kapit' ' racconto' 'eOut' ' fero' ' khud' ' zindagi' 'lni' ' Bakery' ' DAIRY' 'idagi' ' propia'
+   k+: ' comps' ' camadas' ' juntos' 'big' 'agaman' 'traction' ' layers' 'kuat' ' digs' 'oxic' 'dip' 'bmc' 'agna' ' lant' 'axes' 'rl' 'bigg' 'typal'
+   q-: '3' '4' '5' '7' '8' '6' '9' '2' '1' '0' ' six' ' strong' ' in' ',' ' right' 'born' ' three' ' and'
+   k-: ' expir' ' greetings' ' Kontak' 'issau' 'Smile' ' tryptophan' ' firstname' ' Chatter' ' Gesund' 'opathological' ' Signup' 'LETED' ' Compu' ' wakeup' ' dissidents' 'Compl' ' Renewal' ' prostit'
+
+=== L17 h2 ||ΔM||=13.8183 ||M||=1513.194 top σ: [7.6574 4.8205 3.9623 3.7799]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: '2' 'Brexit' ' Brexit' '4' '5' 'baliknya' '6' ' pests' ' skrz' ' kerana' ' as' ' sorted' 'Travelling' '.' ',' 'Britain' ' choroby' 'euler'
+   k+: '7' '8' '9' '6' '4' '3' '1' '5' '2' '0' ',' '.' '?' 'ly' ' .' 'ian' 'ada' ' yang'
+   q-: ' credito' ' Plugins' 'CommandBuffer' ' Mythology' ' Alcohol' ' sirens' ' Beverages' 'isselle' ' Pipeline' ' Filler' ' Groundwater' ' Myths' ' intermission' 'ielsen' ' Shale' ' HNO' ' audioEngine' ' ceilings'
+   k-: ' FCA' ' sharks' ' accretion' ' Bhagavato' 'FAT' ' wharf' ' heparin' ' NRA' ' swimmers' ' catamaran' ' shark' ' sportsbook' ' structuring' ' telenov' ' EnglishChoose' ' PROTO' ' PAM' ' PAG'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' crazy' ' nej' ' random' ' stronger' ' strong' ' capricious' ' turb' ' colorful' ' surreal' ' Dream' ' street' ' anders' ' Joc' ' tap' ' bump' 'rollen' ' streets' ' Turb'
+   k+: ' Srinagar' 'endpoints' 'Privacy' ' Poon' 'Kafka' ' daemon' 'headphones' 'Endpoint' 'privacy' 'Montreal' 'ukka' ' phonon' ' shave' ' RANGE' 'Blanc' 'Zur' 'BOSTON' 'Smoke'
+   q-: 'ishw' ' Peloton' 'ilmesi' 'abon' ' preparazione' 'ndown' ' retraite' 'eof' ' Loeb' ' Stewardship' 'koch' ' feedwater' 'urangi' ' emissivity' ' Clube' ' scones' 'rpart' 'Soil'
+   k-: 'lla' ' vormen' 'ional' 'mity' ' unde' ' inducement' ' consp' ' anggaran' 'nesia' 'emplo' 'verband' ' ricco' ' appropriations' ' na' ' detriment' ' factor' ' opposit' ' competent'
+
+=== L17 h3 ||ΔM||=13.7587 ||M||=1168.309 top σ: [8.5743 4.9709 3.8643 3.3205]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' quir' 'operatively' 'rador' ' hali' ' prejudice' ' Seitz' ' eyesight' ' gratitude' 'Operation' ' ments' ' bridle' ' hymn' 'ableView' ' hore' 'igita' ' patas' ' surgery' ' happiness'
+   k+: 'ClInclude' ' hypersur' ' Oi' 'regator' 'Blitz' 'workouts' ' SPAC' 'dumbbell' 'necks' ' INCRE' ' Suprem' ' HomeScreen' 'Soci' ' SSm' ' EnglishChoose' 'Consume' ' feedstock' 'Mole'
+   q-: '7' '8' '5' '4' '6' '9' '3' '0' '2' '1' ' zehn' 'eight' ' wysok' 'VIII' ' maksymal' ' tief' 'NUMX' ' neun'
+   k-: '7' '8' '6' '9' '5' '4' '3' '1' '2' '0' ',' 'ic' ' na' ' et' ' if' ' und' ' and' '.'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' geologic' ' nachos' ' Refinery' ' tectonic' ' igneous' ' Puget' ' Rahe' ' LMFBR' ' Californ' ' monto' ' LoggerFactory' 'acier' ' Precip' ' steelhead' ' Shale' ' Walla' ' circumstellar' ' Butte'
+   k+: 'ly' ' al' 'al' '.' ' is' 'land' ' yang' 'non' 'arily' 'he' ',' '2' 'un' 'rd' ' main' 'li' 'anti' 'art'
+   q-: '6' '4' '8' '7' '5' '3' '9' '1' ' therefore' ' stop' '2' ' kn' ' lic' ' ret' ' dec' ' organise' '0' ' sum'
+   k-: ' Davos' ' chatting' 'squiggle' ' Kigali' ' Rwand' ' Srinagar' ' slee' ' Gink' ' shave' ' Salesforce' ' Raha' ' fumar' ' greetings' 'Governance' ' Lausanne' ' Santorini' 'innaker' ' Thessaloniki'
+
+=== L5 h0 ||ΔM||=22.1992 ||M||=1082.300 top σ: [10.2477  8.789   7.599   5.3883]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' Sam' ' zip' 'Sam' '8' 'Passive' 'Autom' 'change' 'Harrison' 'PA' 'chester' '7' ' Harrison' 'freedom' ' Zhang' 'percentage' ' Passive' ' Freedom' 'Change'
+   k+: ' Palm' ' Thane' 'OMe' 'Palm' 'sped' 'uste' 'estad' ' Sweep' 'Hem' ' Kendra' 'Sweep' 'aste' 'Exe' ' Edg' 'xb' ' Tera' 'esta' ' Eksp'
+   q-: ' Cocoa' 'igi' 'ELD' 'IGI' 'yyati' 'ilda' 'ijo' 'Bine' ' Lightfoot' 'umbr' 'ilu' ' Inu' ' Cobb' ' Lumber' ' Cuy' ' cutlery' 'igui' 'udur'
+   k-: ' COS' ' brunette' ' Bian' ' Brun' ' unemployment' ' Frey' ' ISO' ' DAL' 'Cucumber' 'COS' ' Duv' ' Carroll' ' ballistic' 'Brun' ' Lawson' 'bian' 'lion' 'ISO'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: 'ves' 'vai' 'ved' 'opsis' 'ps' 'vais' 'eple' 'isma' 'Vai' 'opoulos' 'licks' 'ujos' 'psis' 'opss' 'oved' 'ples' 'vel' 'klik'
+   k+: 'SqlDbType' ' Sulfate' 'DbType' ' Moura' 'MBT' ' yed' 'Supply' ' portugu' 'Bue' 'Aster' ' Tast' 'ulfate' 'ORY' ' Agust' ' Argy' ' Brito' 'Pic' 'ibut'
+   q-: ' Extend' 'Extreme' ' Harb' 'Extend' ' Tonawanda' ' Harriet' ' Extending' ' Extreme' 'WeekDates' 'Aston' ' Aston' 'Ext' ' Midland' ' NAB' ' Econom' ' Hanna' ' Wrestle' 'Development'
+   k-: ' Joh' ' Jam' ' Julie' 'Jam' ' Ke' 'Joh' ' Mens' ' Nim' ' Jok' ' kenn' ' Li' ' Lap' ' screens' ' Hui' ' Ham' ' kom' ' Kenny' ' Milwaukee'
+
+=== L5 h1 ||ΔM||=22.0595 ||M||=1445.215 top σ: [9.7868 8.937  6.7844 6.5711]
+ sv0: A attends MORE for (q+,k+) and (q-,k-)
+   q+: '7' ' woman' ' guy' ' estimate' ' Saxon' ' gals' '8' ' Woman' 'autos' '9' ' Stefan' ' weekend' ' gender' ' Relax' ' women' ' Romanian' ' man' ' Britannica'
+   k+: ' Barth' 'CAA' ' McDaniel' ' Revista' 'ba' ' MCC' ' Lambert' 'asa' ' CCA' ' Dissertation' 'Ba' ' druh' 'chette' 'am' ' Chand' ' Craw' 'anda' ' Thierry'
+   q-: 'ilk' 'ounced' 'igung' 'igungen' 'hop' 'Pix' 'Jew' 'Joy' 'igungs' 'Hop' 'isode' 'jeli' 'Iss' ' akci' 'acios' 'Flight' 'ificaciones' 'nym'
+   k-: 'oker' 'Alder' ' OJ' 'OJ' ' curcumin' ' Opal' ' overalls' ' Stockton' 'Kur' ' alder' 'Orange' 'York' ' Ols' ' opal' ' OSU' ' oranges' 'ojis' ' turmeric'
+ sv1: A attends MORE for (q+,k+) and (q-,k-)
+   q+: ' cuadros' 'aturi' ' uop' ' Trujillo' ' comuns' 'utico' 'tru' 'asti' 'urno' ' teak' ' tuan' ' turistas' ' cuadro' ' Wiggins' ' Turkmen' ' grafica' ' interfaz' 'ooky'
+   k+: ' skj' ' Jem' ' Gj' ' gloves' ' house' ' Tm' ' gyms' ' Mest' ' vrt' ' ready' ' Margaret' ' gym' ' swing' ' pub' 'gem' ' Ready' ' gymn' ' deps'
+   q-: 'James' 'Sha' ' HRV' ' hexane' 'February' ' Rh' 'Phill' ' Alexander' 'July' 'Rh' 'breath' 'Rho' 'Charles' ' James' ' Charles' 'January' 'Richard' ' Sha'
+   k-: 'Ari' ' Ari' ' Noronha' ' Cabrera' 'BW' ' Buss' 'but' ' Boone' 'ATA' ' hana' 'photos' 'azzi' 'Alter' ' Caruso' 'Arc' 'atta' 'But' ' Cata'
+
+=== L5 h2 ||ΔM
+[output cut at 15,000 characters]
+```

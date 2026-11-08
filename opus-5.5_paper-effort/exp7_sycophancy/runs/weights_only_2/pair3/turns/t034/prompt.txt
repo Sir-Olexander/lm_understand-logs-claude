@@ -1,0 +1,8 @@
+OUTPUT of run 33 of at most 60:
+```
+q-block structured top-8  : corr with copy score +0.380 (strat p=0.0032); anti mean -1.73, copy mean +0.40; var share 0.86
+q-block residual (bulk)   : corr with copy score +0.106 (strat p=0.3794); anti mean -0.15, copy mean -0.03; var share 0.24
+o-block structured top-8  : corr with copy score +0.063 (strat p=0.5290); anti mean -0.21, copy mean +0.05; var share 0.92
+o-block residual (bulk)   : corr with copy score +0.222 (strat p=0.0466); anti mean -0.56, copy mean +0.13; var share 0.33
+
+```

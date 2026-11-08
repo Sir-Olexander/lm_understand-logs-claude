@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_4/pair1",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 56,
+ "runs": 55,
+ "session_id": "cfc954fc-3ea5-4e45-aab2-97c3c372dfdf",
+ "cwd": "<home>/wsp/scratch/run-cdc5ad",
+ "done": true,
+ "next": "OUTPUT of run 55 of at most 60:\n```\nq=\\n     L0 h0 (capitalised freq-matched null): country -1.2  capitals +0.6  bigcities -1.1  qword +3.8\nq=\\n     L0 h1 (capitalised freq-matched null): country +0.1  capitals -1.9  bigcities -0.4  qword +5.2\nq=\\n     L0 h2 (capitalised freq-matched null): country +3.2  capitals +0.5  bigcities +1.7  qword +0.4\nq=\\n     L0 h3 (capitalised freq-matched null): country -0.1  capitals -0.2  bigcities +0.7  qword +4.9\nq=model  L0 h0 (capitalised freq-matched null): country +2.8  capitals +4.4  bigcities +3.2  qword +1.5\nq=model  L0 h1 (capitalised freq-matched null): country +3.9  capitals +2.4  bigcities +4.3  qword +2.2\nq=model  L0 h2 (capitalised freq-matched null): country -0.7  capitals +0.2  bigcities +1.2  qword -1.4\nq=model  L0 h3 (capitalised freq-matched null): country +6.9  capitals +2.6  bigcities +3.3  qword +0.3\nq=<sot>  L0 h0 (capitalised freq-matched null): country +4.6  capitals +3.1  bigcities +3.9  qword +0.6\nq=<sot>  L0 h1 (capitalised freq-matched null): country +5.7  capitals +4.5  bigcities +5.4  qword -1.3\nq=<sot>  L0 h2 (capitalised freq-matched null): country -2.2  capitals -0.0  bigcities +0.0  qword +0.6\nq=<sot>  L0 h3 (capitalised freq-matched null): country +5.6  capitals +3.2  bigcities +1.2  qword -3.6\n\n```",
+ "started": "2026-11-07T05:50:56+00:00",
+ "extra": {
+  "round": "weights_only_4",
+  "pair": 100,
+  "release": "pair_02df1c",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 56
+ }
+}

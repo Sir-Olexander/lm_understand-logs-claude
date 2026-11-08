@@ -1,0 +1,28 @@
+OUTPUT of run 4 of at most 100:
+```
+L0H0 |QK|F=0.114 |qbias-keypref|=0.018 |OV|F=4.32 OVsv=[3.43 2.47 0.53 0.4  0.35] |Wv|=5.35 |Wo|=5.21
+L0H1 |QK|F=0.878 |qbias-keypref|=0.074 |OV|F=3.49 OVsv=[1.   0.92 0.89 0.86 0.84] |Wv|=9.26 |Wo|=10.20
+L0H2 |QK|F=0.175 |qbias-keypref|=0.023 |OV|F=2.03 OVsv=[1.06 0.9  0.81 0.66 0.54] |Wv|=5.99 |Wo|=5.54
+L0H3 |QK|F=0.240 |qbias-keypref|=0.057 |OV|F=1.62 OVsv=[1.03 0.56 0.46 0.44 0.35] |Wv|=4.88 |Wo|=5.47
+L0H4 |QK|F=0.009 |qbias-keypref|=0.001 |OV|F=17.16 OVsv=[13.88  9.65  2.51  0.97  0.59] |Wv|=8.28 |Wo|=8.94
+L0H5 |QK|F=0.972 |qbias-keypref|=0.051 |OV|F=3.71 OVsv=[1.06 1.04 0.96 0.95 0.91] |Wv|=9.41 |Wo|=10.60
+L1H0 |QK|F=0.645 |qbias-keypref|=0.839 |OV|F=13.44 OVsv=[4.95 4.69 4.26 4.01 3.58] |Wv|=12.95 |Wo|=11.17
+L1H1 |QK|F=1.586 |qbias-keypref|=3.150 |OV|F=9.60 OVsv=[2.93 2.8  2.57 2.47 2.27] |Wv|=11.06 |Wo|=10.66
+L1H2 |QK|F=1.238 |qbias-keypref|=2.200 |OV|F=11.50 OVsv=[3.33 3.27 3.1  3.02 2.95] |Wv|=12.12 |Wo|=11.19
+L1H3 |QK|F=1.312 |qbias-keypref|=2.719 |OV|F=10.04 OVsv=[3.42 3.13 2.81 2.7  2.64] |Wv|=11.32 |Wo|=10.14
+L1H4 |QK|F=1.253 |qbias-keypref|=2.518 |OV|F=9.56 OVsv=[3.07 2.93 2.82 2.68 2.68] |Wv|=10.92 |Wo|=9.91
+L1H5 |QK|F=1.463 |qbias-keypref|=2.460 |OV|F=9.83 OVsv=[2.82 2.67 2.53 2.44 2.38] |Wv|=11.23 |Wo|=10.92
+L2H0 |QK|F=2.046 |qbias-keypref|=0.895 |OV|F=18.70 OVsv=[4.08 3.82 3.73 3.57 3.53] |Wv|=13.81 |Wo|=13.64
+L2H1 |QK|F=1.947 |qbias-keypref|=0.638 |OV|F=21.45 OVsv=[6.41 4.71 4.68 4.65 4.5 ] |Wv|=14.68 |Wo|=14.21
+L2H2 |QK|F=2.806 |qbias-keypref|=1.584 |OV|F=16.79 OVsv=[3.49 3.39 3.31 3.18 3.15] |Wv|=12.99 |Wo|=13.00
+L2H3 |QK|F=1.977 |qbias-keypref|=1.037 |OV|F=20.62 OVsv=[4.63 4.33 4.25 3.98 3.91] |Wv|=14.46 |Wo|=14.25
+L2H4 |QK|F=2.203 |qbias-keypref|=1.201 |OV|F=18.42 OVsv=[4.   3.85 3.8  3.74 3.62] |Wv|=13.47 |Wo|=13.50
+L2H5 |QK|F=1.655 |qbias-keypref|=0.636 |OV|F=23.77 OVsv=[6.35 5.48 5.2  4.78 4.61] |Wv|=15.55 |Wo|=15.08
+L3H0 |QK|F=2.078 |qbias-keypref|=0.299 |OV|F=24.50 OVsv=[5.52 4.97 4.69 4.61 4.42] |Wv|=15.59 |Wo|=15.37
+L3H1 |QK|F=1.695 |qbias-keypref|=0.264 |OV|F=25.73 OVsv=[7.22 5.31 5.21 5.19 5.04] |Wv|=15.61 |Wo|=15.27
+L3H2 |QK|F=2.061 |qbias-keypref|=0.342 |OV|F=26.87 OVsv=[9.01 6.04 5.3  5.02 4.92] |Wv|=15.92 |Wo|=16.03
+L3H3 |QK|F=1.054 |qbias-keypref|=0.258 |OV|F=37.94 OVsv=[14.68  9.62  9.36  8.9   8.72] |Wv|=17.86 |Wo|=18.20
+L3H4 |QK|F=1.735 |qbias-keypref|=0.307 |OV|F=28.45 OVsv=[9.18 7.9  6.62 5.9  5.57] |Wv|=16.27 |Wo|=16.26
+L3H5 |QK|F=2.118 |qbias-keypref|=0.310 |OV|F=23.69 OVsv=[9.98 5.45 5.21 5.07 4.93] |Wv|=13.87 |Wo|=14.16
+
+```

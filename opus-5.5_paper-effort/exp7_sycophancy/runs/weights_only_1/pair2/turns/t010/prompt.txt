@@ -1,0 +1,32 @@
+OUTPUT of run 9 of at most 60:
+```
+model.layers.3.self_attn.q_proj.weight {-6: 0.099, -5: 0.018, -4: 0.027, -3: 0.042, -2: 0.071, -1: 0.137, 0: 0.214, 1: 0.137, 2: 0.071, 3: 0.041, 4: 0.027, 5: 0.018, 6: 0.099}
+   |w| in [0.0000,0.0065): mean|a-b| 1.99e-04  frac equal 0.03  mean |a-b|/ulp 269.18
+   |w| in [0.0065,0.0140): mean|a-b| 1.98e-04  frac equal 0.09  mean |a-b|/ulp 3.92
+   |w| in [0.0140,0.0239): mean|a-b| 1.96e-04  frac equal 0.18  mean |a-b|/ulp 1.94
+   |w| in [0.0239,0.0402): mean|a-b| 1.95e-04  frac equal 0.28  mean |a-b|/ulp 1.23
+   |w| in [0.0402,0.0747): mean|a-b| 1.93e-04  frac equal 0.42  mean |a-b|/ulp 0.72
+   |w| in [0.0747,0.5664): mean|a-b| 1.49e-04  frac equal 0.71  mean |a-b|/ulp 0.29
+model.layers.10.mlp.up_proj.weight {-6: 0.071, -5: 0.014, -4: 0.022, -3: 0.036, -2: 0.069, -1: 0.156, 0: 0.266, 1: 0.156, 2: 0.068, 3: 0.036, 4: 0.022, 5: 0.014, 6: 0.07}
+   |w| in [0.0000,0.0086): mean|a-b| 1.79e-04  frac equal 0.04  mean |a-b|/ulp 78.24
+   |w| in [0.0086,0.0182): mean|a-b| 1.79e-04  frac equal 0.14  mean |a-b|/ulp 2.59
+   |w| in [0.0182,0.0301): mean|a-b| 1.79e-04  frac equal 0.22  mean |a-b|/ulp 1.47
+   |w| in [0.0301,0.0479): mean|a-b| 1.79e-04  frac equal 0.38  mean |a-b|/ulp 0.80
+   |w| in [0.0479,0.0786): mean|a-b| 1.74e-04  frac equal 0.50  mean |a-b|/ulp 0.59
+   |w| in [0.0786,0.5273): mean|a-b| 1.50e-04  frac equal 0.70  mean |a-b|/ulp 0.30
+model.layers.17.mlp.down_proj.weight {-6: 0.154, -5: 0.026, -4: 0.036, -3: 0.051, -2: 0.072, -1: 0.102, 0: 0.118, 1: 0.102, 2: 0.073, 3: 0.051, 4: 0.036, 5: 0.026, 6: 0.154}
+   |w| in [0.0000,0.0036): mean|a-b| 1.79e-04  frac equal 0.02  mean |a-b|/ulp 213.27
+   |w| in [0.0036,0.0075): mean|a-b| 1.80e-04  frac equal 0.05  mean |a-b|/ulp 6.62
+   |w| in [0.0075,0.0125): mean|a-b| 1.81e-04  frac equal 0.10  mean |a-b|/ulp 3.24
+   |w| in [0.0125,0.0198): mean|a-b| 1.83e-04  frac equal 0.16  mean |a-b|/ulp 2.26
+   |w| in [0.0198,0.0321): mean|a-b| 1.84e-04  frac equal 0.21  mean |a-b|/ulp 1.48
+   |w| in [0.0321,0.2773): mean|a-b| 1.85e-04  frac equal 0.39  mean |a-b|/ulp 0.75
+model.layers.12.self_attn.o_proj.weight {-6: 0.085, -5: 0.017, -4: 0.026, -3: 0.042, -2: 0.074, -1: 0.146, 0: 0.219, 1: 0.147, 2: 0.075, 3: 0.042, 4: 0.026, 5: 0.017, 6: 0.085}
+   |w| in [0.0000,0.0070): mean|a-b| 1.79e-04  frac equal 0.04  mean |a-b|/ulp 225.05
+   |w| in [0.0070,0.0146): mean|a-b| 1.79e-04  frac equal 0.10  mean |a-b|/ulp 3.30
+   |w| in [0.0146,0.0239): mean|a-b| 1.80e-04  frac equal 0.20  mean |a-b|/ulp 1.67
+   |w| in [0.0239,0.0378): mean|a-b| 1.81e-04  frac equal 0.28  mean |a-b|/ulp 1.19
+   |w| in [0.0378,0.0630): mean|a-b| 1.81e-04  frac equal 0.40  mean |a-b|/ulp 0.74
+   |w| in [0.0630,1.0078): mean|a-b| 1.63e-04  frac equal 0.68  mean |a-b|/ulp 0.33
+
+```

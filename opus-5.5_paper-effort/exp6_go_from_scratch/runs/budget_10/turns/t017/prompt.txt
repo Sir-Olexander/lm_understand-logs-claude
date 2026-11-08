@@ -1,0 +1,65 @@
+OUTPUT of Python run 14 of at most 120:
+```
+game 16 strong black 1 -31.5
+54 net (0, 3) [((0, 3), 0.9346), ((7, 5), 0.0465), ((8, 6), 0.0031)]
+55 opponent (0, 1) []
+56 net (7, 5) [((7, 5), 0.7118), ((8, 6), 0.0478), ((0, 7), 0.0433)]
+57 opponent (4, 8) []
+58 net (2, 8) [((0, 7), 0.1914), ((1, 8), 0.1567), ((2, 8), 0.1283)]
+59 opponent (0, 7) []
+60 net (1, 8) [((3, 0), 0.1806), ((8, 7), 0.1634), ((1, 8), 0.1478)]
+61 opponent (0, 8) []
+62 net (0, 6) [((0, 6), 1.0), ((3, 0), 0.0), ((8, 7), 0.0)]
+63 opponent (0, 7) []
+59
+.O...O.O.
+OO..OOOX.
+.OO.O.OOX
+.XOOO.OO.
+.XXXXOOOO
+.XXOOO...
+..XXXXOOO
+...XXXXO.
+.........
+60
+.O...O.O.
+OO..OOOXX
+.OO.O.OOX
+.XOOO.OO.
+.XXXXOOOO
+.XXOOO...
+..XXXXOOO
+...XXXXO.
+.........
+61
+.O...O.OO
+OO..OOOXX
+.OO.O.OOX
+.XOOO.OO.
+.XXXXOOOO
+.XXOOO...
+..XXXXOOO
+...XXXXO.
+.........
+62
+.O...OX..
+OO..OOOXX
+.OO.O.OOX
+.XOOO.OO.
+.XXXXOOOO
+.XXOOO...
+..XXXXOOO
+...XXXXO.
+.........
+63
+.O...O.O.
+OO..OOOXX
+.OO.O.OOX
+.XOOO.OO.
+.XXXXOOOO
+.XXOOO...
+..XXXXOOO
+...XXXXO.
+.........
+
+```

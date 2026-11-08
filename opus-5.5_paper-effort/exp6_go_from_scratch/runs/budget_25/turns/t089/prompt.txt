@@ -1,0 +1,54 @@
+OUTPUT of Python run 75 of at most 120:
+```
+44 64 move (0, 8) [((1, 8), 'own size', 1, 'libs', 2), ((0, 7), 'size', 20, 'libs', 2, 'R4atari', True, 'R5atari', True)]
+.OOOOOOO.
+OXXXXOOOX
+OOOXXOOX.
+OOOOXOOXX
+OXXOXXOX.
+.X.XXXOXX
+..XXXXOOO
+...X.XXXO
+.......XX
+53 67 move (8, 5) [((7, 5), 'size', 23, 'libs', 5, 'R4atari', True, 'R5atari', True), ((8, 4), 'size', 23, 'libs', 5, 'R4atari', True, 'R5atari', True), ((8, 6), 'own size', 1, 'libs', 2)]
+...O...O.
+.OXXOOOOO
+.OXXOOXXX
+.XXOOXXX.
+.XOOOXX.X
+.XXXOXOXX
+.XXOOXOOX
+.OXXOOOX.
+.OXXO.X.X
+74 53 move (3, 0) [((2, 0), 'own size', 1, 'libs', 2), ((4, 0), 'size', 1, 'libs', 2, 'R4atari', False, 'R5atari', False), ((3, 1), 'size', 13, 'libs', 5, 'R4atari', True, 'R5atari', False)]
+X.XXOOO..
+.X.XOOOO.
+XOXXXOXX.
+.OOOOX.X.
+OXOXOXXO.
+.XOXOXX..
+.XOXX.X..
+.OOOX....
+.........
+83 57 move (6, 5) [((5, 5), 'size', 18, 'libs', 10, 'R4atari', False, 'R5atari', False), ((7, 5), 'size', 2, 'libs', 3, 'R4atari', False, 'R5atari', False), ((6, 4), 'size', 18, 'libs', 10, 'R4atari', True, 'R5atari', False), ((6, 6), 'own size', 1, 'libs', 2)]
+..X......
+.X.X.....
+.OXXOOO..
+.OXXOXXX.
+.OOOOOOO.
+.OXXOOOX.
+XXXXO.X.X
+.OOOXOOX.
+..O.X...X
+0 96 move (8, 4) [((7, 4), 'size', 11, 'libs', 2, 'R4atari', True, 'R5atari', True), ((8, 3), 'size', 1, 'libs', 1, 'R4atari', True, 'R5atari', True), ((8, 5), 'size', 11, 'libs', 2, 'R4atari', True, 'R5atari', True)]
+.XXX.XX.X
+X.XXXX.X.
+.XXXX.X.X
+XX.X.X.X.
+XXX.XXX.X
+.X.X.XXX.
+X.XXXOOOX
+.XXXOOOOO
+X.XO.OOO.
+
+```

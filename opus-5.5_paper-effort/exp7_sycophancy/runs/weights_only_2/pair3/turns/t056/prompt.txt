@@ -1,0 +1,7 @@
+OUTPUT of run 55 of at most 60:
+```
+B-A kernel band change relative to band 1-4 (z), mean over heads:
+  suppressor heads: {'5-11': np.float64(-0.77), '12-30': np.float64(-1.16), '31-60': np.float64(-0.66), '61-100': np.float64(-0.34)}  frac>0: {'5-11': np.float64(0.3), '12-30': np.float64(0.2), '31-60': np.float64(0.3), '61-100': np.float64(0.3)}
+  copy heads      : {'5-11': np.float64(0.04), '12-30': np.float64(0.39), '31-60': np.float64(0.5), '61-100': np.float64(0.35)}  frac>0: {'5-11': np.float64(0.55), '12-30': np.float64(0.67), '31-60': np.float64(0.67), '61-100': np.float64(0.61)}
+
+```

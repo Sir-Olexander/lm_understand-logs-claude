@@ -1,0 +1,1 @@
+{"depth": 2, "width": 32, "act": "tanh", "source": "<home>/wsp/exp6_data/train/v4/ppo_s2/iter20000.npz", "iters": 20000, "algo": "ppo", "seed": 2, "variant": "v4"}

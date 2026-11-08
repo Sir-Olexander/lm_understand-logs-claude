@@ -1,0 +1,7 @@
+OUTPUT of run 22 of at most 60:
+```
+L5 | h0: base=  +2.8 full= -1.5 dV= -1.3 dO= -1.0 | h1: base=  +2.2 full= +0.6 dV= +0.6 dO= +0.4 | h2: base=  +7.4 full= -0.1 dV= -0.4 dO= +0.0 | h3: base= -11.6 full= -3.6 dV= -2.4 dO= -2.9
+L11 | h0: base=  +2.8 full= +1.0 dV= +2.2 dO= +0.4 | h1: base= +46.0 full= -0.7 dV= -1.9 dO= -0.2 | h2: base= +23.1 full= -2.1 dV= -2.9 dO= -0.2 | h3: base= -27.9 full= +1.9 dV= +2.7 dO= -1.0
+L17 | h0: base= +30.5 full= +8.3 dV= +4.7 dO= +7.2 | h1: base= +44.2 full= +4.9 dV= -0.0 dO= +6.0 | h2: base= -21.2 full= +3.7 dV= -2.4 dO= +5.7 | h3: base=  -3.3 full= +1.8 dV= +5.1 dO= +0.0
+
+```

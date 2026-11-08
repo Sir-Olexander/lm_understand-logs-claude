@@ -1,0 +1,19 @@
+OUTPUT of Python run 21 of at most 120:
+```
+64
+.O.O.X...  X........  .........  .X.......  ...X.....
+OXXOXOOO.  .OOX...X.  .XXX.XOX.  ...X.OO..  .XXX.OOO.
+OOO.XO.XX  .OOX.OOO.  .OOO..OO.  .OO.XOXXX  .OO.OOOXX
+OOO.OOOO.  .OOXOOO.X  .OOOOOOO.  .X.OOOOX.  .OOOOXOO.
+OXXXXXXO.  .XOOX....  .XX..XOXX  .....OOO.  .O.XXXOO.
+.OOO..XX.  ..OO..X..  ..O.X.OO.  ..X..XOO.  XX..OOOXX
+XXO.X.XX.  .OXX..X.X  .XO...XO.  ..X..XOX.  ...XX..O.
+OOOXX.XX.  .X.X..X..  .XX..XXX.  .X....O..  .XX...X..
+..XX..X..  ..X......  ...X.....  ...X..X..  ....X...X
+black (54, [[21, 0.1142], [30, 0.1142], [81, 0.1142], [57, 0.0692]])
+black (34, [[15, 0.1004], [13, 0.0609], [5, 0.0579], [7, 0.0499]])
+black (38, [[23, 0.0859], [13, 0.0637], [81, 0.0521], [46, 0.0386]])
+black (32, [[40, 0.0653], [45, 0.0396], [58, 0.0396], [63, 0.0396]])
+black (42, [[81, 0.0816], [6, 0.0495], [7, 0.0495], [9, 0.0495]])
+
+```

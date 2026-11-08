@@ -1,0 +1,9 @@
+OUTPUT of run 46 of at most 60:
+```
+caps   corr(relD, copyD)=+0.260 corr(relA, copyA)=+0.946 | weighted relD=-2.41  after removing copy: weighted=-1.53
+cols   corr(relD, copyD)=+0.296 corr(relA, copyA)=+0.596 | weighted relD=+5.09  after removing copy: weighted=+5.07
+conts  corr(relD, copyD)=-0.079 corr(relA, copyA)=+0.861 | weighted relD=+2.85  after removing copy: weighted=+2.63
+copy change in heads ranked by copyA: top-15 heads (l,h,copyA,copyD): [(17, 1, 55.5, 2.9), (15, 3, 48.9, -3.2), (11, 1, 48.7, -2.4), (7, 0, 45.8, -4.4), (15, 0, 44.4, -1.7), (9, 2, 38.4, -3.2), (12, 2, 36.9, 1.2), (7, 3, 36.1, -1.9), (7, 2, 35.3, -4.0), (17, 0, 34.7, 6.0), (10, 2, 34.6, -6.6), (6, 2, 32.1, -1.5), (3, 2, 31.8, 0.8), (10, 0, 31.3, -8.1), (6, 0, 29.6, 1.6)]
+mean copyD over heads with copyA>15: -2.72  over heads with copyA<-15: -1.41
+
+```

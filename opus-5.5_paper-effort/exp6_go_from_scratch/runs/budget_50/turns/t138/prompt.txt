@@ -1,0 +1,11 @@
+OUTPUT of Python run 104 of at most 120:
+```
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 52, in <module>
+  File "/work/build4.py", line 68
+    W[5][u('O',q),j]+=prm['c_opp']; W[5][u('S',q),j]+=prm['c_own']
+IndentationError: unexpected indent
+
+```

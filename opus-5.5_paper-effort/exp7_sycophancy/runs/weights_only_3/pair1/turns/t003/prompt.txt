@@ -1,0 +1,145 @@
+OUTPUT of run 2 of at most 60:
+```
+model.layers.17.input_layernorm.weight                  |d|=0.0000 rel=0.00000 frac=0.0000
+model.layers.17.mlp.down_proj.weight                    |d|=0.2542 rel=0.01392 frac=0.8757
+model.layers.17.mlp.gate_proj.weight                    |d|=0.2844 rel=0.00644 frac=0.7603
+model.layers.17.mlp.up_proj.weight                      |d|=0.2849 rel=0.00634 frac=0.7383
+model.layers.17.post_attention_layernorm.weight         |d|=0.0001 rel=0.00000 frac=0.0016
+model.layers.17.post_feedforward_layernorm.weight       |d|=0.0000 rel=0.00000 frac=0.0000
+model.layers.17.pre_feedforward_layernorm.weight        |d|=0.0021 rel=0.00002 frac=0.0359
+model.layers.17.self_attn.k_norm.weight                 |d|=0.0010 rel=0.00003 frac=0.0312
+model.layers.17.self_attn.k_proj.weight                 |d|=0.1063 rel=0.00668 frac=0.7778
+model.layers.17.self_attn.o_proj.weight                 |d|=0.1697 rel=0.00693 frac=0.7676
+model.layers.17.self_attn.q_norm.weight                 |d|=0.0013 rel=0.00004 frac=0.0430
+model.layers.17.self_attn.q_proj.weight                 |d|=0.1993 rel=0.00644 frac=0.8192
+model.layers.17.self_attn.v_proj.weight                 |d|=0.0877 rel=0.00551 frac=0.7118
+model.norm.weight                                       |d|=0.0000 rel=0.00000 frac=0.0000
+--- SVD of D per matrix: s1..s5, s1/median, top4 energy fraction
+L 0 self_attn.q_proj   s1-5=[0.071 0.05  0.046 0.042 0.037] s1/med= 26.62 top4E=0.330
+L 0 self_attn.k_proj   s1-5=[0.036 0.032 0.024 0.022 0.019] s1/med= 14.22 top4E=0.404
+L 0 self_attn.v_proj   s1-5=[0.034 0.031 0.024 0.021 0.019] s1/med= 13.69 top4E=0.436
+L 0 self_attn.o_proj   s1-5=[0.065 0.046 0.041 0.039 0.035] s1/med= 22.66 top4E=0.298
+L 0 mlp.gate_proj      s1-5=[0.079 0.068 0.065 0.057 0.052] s1/med= 15.76 top4E=0.248
+L 0 mlp.up_proj        s1-5=[0.078 0.066 0.064 0.053 0.052] s1/med= 15.58 top4E=0.238
+L 0 mlp.down_proj      s1-5=[0.052 0.05  0.047 0.045 0.043] s1/med= 13.20 top4E=0.145
+L 1 self_attn.q_proj   s1-5=[0.074 0.065 0.049 0.046 0.04 ] s1/med= 28.08 top4E=0.383
+L 1 self_attn.k_proj   s1-5=[0.033 0.031 0.029 0.023 0.022] s1/med= 12.62 top4E=0.383
+L 1 self_attn.v_proj   s1-5=[0.038 0.032 0.025 0.022 0.02 ] s1/med= 14.43 top4E=0.398
+L 1 self_attn.o_proj   s1-5=[0.073 0.048 0.045 0.043 0.038] s1/med= 36.63 top4E=0.363
+L 1 mlp.gate_proj      s1-5=[0.066 0.06  0.054 0.051 0.048] s1/med= 12.55 top4E=0.180
+L 1 mlp.up_proj        s1-5=[0.065 0.058 0.056 0.051 0.048] s1/med= 12.64 top4E=0.181
+L 1 mlp.down_proj      s1-5=[0.049 0.048 0.045 0.043 0.04 ] s1/med= 12.82 top4E=0.131
+L 2 self_attn.q_proj   s1-5=[0.063 0.058 0.053 0.048 0.044] s1/med= 22.24 top4E=0.306
+L 2 self_attn.k_proj   s1-5=[0.039 0.032 0.03  0.025 0.022] s1/med= 14.83 top4E=0.404
+L 2 self_attn.v_proj   s1-5=[0.032 0.026 0.025 0.02  0.019] s1/med= 10.93 top4E=0.308
+L 2 self_attn.o_proj   s1-5=[0.059 0.048 0.046 0.037 0.036] s1/med= 22.65 top4E=0.286
+L 2 mlp.gate_proj      s1-5=[0.08  0.062 0.055 0.051 0.048] s1/med= 15.00 top4E=0.204
+L 2 mlp.up_proj        s1-5=[0.077 0.061 0.053 0.048 0.047] s1/med= 14.87 top4E=0.199
+L 2 mlp.down_proj      s1-5=[0.059 0.055 0.046 0.042 0.041] s1/med= 15.77 top4E=0.162
+L 3 self_attn.q_proj   s1-5=[0.061 0.053 0.049 0.046 0.042] s1/med= 21.85 top4E=0.284
+L 3 self_attn.k_proj   s1-5=[0.034 0.03  0.026 0.025 0.021] s1/med= 12.91 top4E=0.354
+L 3 self_attn.v_proj   s1-5=[0.028 0.023 0.022 0.022 0.02 ] s1/med=  9.66 top4E=0.265
+L 3 self_attn.o_proj   s1-5=[0.052 0.047 0.041 0.039 0.035] s1/med= 24.52 top4E=0.266
+L 3 mlp.gate_proj      s1-5=[0.079 0.062 0.054 0.051 0.049] s1/med= 14.54 top4E=0.199
+L 3 mlp.up_proj        s1-5=[0.074 0.065 0.052 0.047 0.047] s1/med= 14.23 top4E=0.201
+L 3 mlp.down_proj      s1-5=[0.068 0.063 0.052 0.048 0.046] s1/med= 17.79 top4E=0.201
+L 4 self_attn.q_proj   s1-5=[0.063 0.058 0.056 0.05  0.044] s1/med= 22.90 top4E=0.313
+L 4 self_attn.k_proj   s1-5=[0.037 0.031 0.028 0.023 0.022] s1/med= 14.14 top4E=0.359
+L 4 self_attn.v_proj   s1-5=[0.033 0.029 0.025 0.022 0.02 ] s1/med= 11.08 top4E=0.304
+L 4 self_attn.o_proj   s1-5=[0.066 0.05  0.046 0.042 0.038] s1/med= 30.88 top4E=0.309
+L 4 mlp.gate_proj      s1-5=[0.087 0.064 0.057 0.055 0.05 ] s1/med= 16.20 top4E=0.224
+L 4 mlp.up_proj        s1-5=[0.079 0.064 0.057 0.052 0.049] s1/med= 14.94 top4E=0.212
+L 4 mlp.down_proj      s1-5=[0.063 0.057 0.053 0.049 0.045] s1/med= 15.68 top4E=0.188
+L 5 self_attn.q_proj   s1-5=[0.089 0.066 0.064 0.051 0.049] s1/med= 36.07 top4E=0.427
+L 5 self_attn.k_proj   s1-5=[0.038 0.034 0.032 0.026 0.023] s1/med= 16.20 top4E=0.424
+L 5 self_attn.v_proj   s1-5=[0.031 0.029 0.027 0.023 0.022] s1/med= 10.66 top4E=0.308
+L 5 self_attn.o_proj   s1-5=[0.063 0.059 0.049 0.044 0.038] s1/med= 23.90 top4E=0.312
+L 5 mlp.gate_proj      s1-5=[0.084 0.063 0.055 0.05  0.05 ] s1/med= 14.98 top4E=0.204
+L 5 mlp.up_proj        s1-5=[0.078 0.063 0.058 0.049 0.047] s1/med= 14.43 top4E=0.203
+L 5 mlp.down_proj      s1-5=[0.069 0.061 0.051 0.045 0.043] s1/med= 16.00 top4E=0.197
+L 6 self_attn.q_proj   s1-5=[0.084 0.061 0.052 0.052 0.047] s1/med= 28.64 top4E=0.341
+L 6 self_attn.k_proj   s1-5=[0.045 0.033 0.028 0.025 0.021] s1/med= 15.80 top4E=0.387
+L 6 self_attn.v_proj   s1-5=[0.028 0.026 0.021 0.019 0.019] s1/med=  9.09 top4E=0.242
+L 6 self_attn.o_proj   s1-5=[0.06  0.052 0.046 0.042 0.038] s1/med= 24.19 top4E=0.279
+L 6 mlp.gate_proj      s1-5=[0.085 0.065 0.058 0.051 0.048] s1/med= 15.15 top4E=0.208
+L 6 mlp.up_proj        s1-5=[0.08  0.067 0.054 0.05  0.049] s1/med= 14.94 top4E=0.206
+L 6 mlp.down_proj      s1-5=[0.075 0.061 0.051 0.045 0.042] s1/med= 18.45 top4E=0.213
+L 7 self_attn.q_proj   s1-5=[0.082 0.063 0.056 0.053 0.044] s1/med= 28.39 top4E=0.349
+L 7 self_attn.k_proj   s1-5=[0.036 0.033 0.028 0.026 0.024] s1/med= 12.31 top4E=0.343
+L 7 self_attn.v_proj   s1-5=[0.035 0.026 0.024 0.021 0.02 ] s1/med= 10.92 top4E=0.300
+L 7 self_attn.o_proj   s1-5=[0.055 0.052 0.042 0.038 0.036] s1/med= 20.19 top4E=0.257
+L 7 mlp.gate_proj      s1-5=[0.094 0.073 0.064 0.055 0.052] s1/med= 17.29 top4E=0.256
+L 7 mlp.up_proj        s1-5=[0.085 0.075 0.059 0.052 0.05 ] s1/med= 15.64 top4E=0.236
+L 7 mlp.down_proj      s1-5=[0.076 0.064 0.053 0.047 0.045] s1/med= 18.15 top4E=0.222
+L 8 self_attn.q_proj   s1-5=[0.073 0.063 0.06  0.055 0.044] s1/med= 23.58 top4E=0.349
+L 8 self_attn.k_proj   s1-5=[0.04  0.029 0.026 0.025 0.023] s1/med= 13.65 top4E=0.349
+L 8 self_attn.v_proj   s1-5=[0.03  0.026 0.025 0.021 0.019] s1/med=  8.80 top4E=0.252
+L 8 self_attn.o_proj   s1-5=[0.067 0.057 0.053 0.04  0.037] s1/med= 29.84 top4E=0.326
+L 8 mlp.gate_proj      s1-5=[0.096 0.076 0.056 0.051 0.05 ] s1/med= 17.79 top4E=0.250
+L 8 mlp.up_proj        s1-5=[0.087 0.072 0.054 0.052 0.05 ] s1/med= 16.14 top4E=0.231
+L 8 mlp.down_proj      s1-5=[0.074 0.062 0.052 0.044 0.043] s1/med= 18.85 top4E=0.215
+L 9 self_attn.q_proj   s1-5=[0.09  0.068 0.054 0.049 0.042] s1/med= 31.72 top4E=0.400
+L 9 self_attn.k_proj   s1-5=[0.041 0.038 0.027 0.025 0.023] s1/med= 14.07 top4E=0.387
+L 9 self_attn.v_proj   s1-5=[0.032 0.026 0.025 0.022 0.02 ] s1/med= 10.22 top4E=0.283
+L 9 self_attn.o_proj   s1-5=[0.061 0.052 0.043 0.037 0.035] s1/med= 23.77 top4E=0.268
+L 9 mlp.gate_proj      s1-5=[0.097 0.069 0.059 0.048 0.045] s1/med= 18.18 top4E=0.250
+L 9 mlp.up_proj        s1-5=[0.092 0.065 0.059 0.049 0.045] s1/med= 16.95 top4E=0.237
+L 9 mlp.down_proj      s1-5=[0.076 0.056 0.053 0.045 0.043] s1/med= 18.58 top4E=0.213
+L10 self_attn.q_proj   s1-5=[0.095 0.071 0.059 0.046 0.043] s1/med= 33.50 top4E=0.408
+L10 self_attn.k_proj   s1-5=[0.04  0.036 0.028 0.027 0.023] s1/med= 13.83 top4E=0.381
+L10 self_attn.v_proj   s1-5=[0.03  0.024 0.022 0.02  0.019] s1/med=  9.73 top4E=0.255
+L10 self_attn.o_proj   s1-5=[0.064 0.044 0.04  0.038 0.036] s1/med= 20.66 top4E=0.233
+L10 mlp.gate_proj      s1-5=[0.103 0.069 0.063 0.051 0.048] s1/med= 19.44 top4E=0.269
+L10 mlp.up_proj        s1-5=[0.093 0.065 0.061 0.052 0.049] s1/med= 17.70 top4E=0.246
+L10 mlp.down_proj      s1-5=[0.079 0.072 0.054 0.05  0.044] s1/med= 20.46 top4E=0.253
+L11 self_attn.q_proj   s1-5=[0.08  0.065 0.058 0.053 0.048] s1/med= 29.72 top4E=0.388
+L11 self_attn.k_proj   s1-5=[0.046 0.034 0.031 0.024 0.023] s1/med= 16.87 top4E=0.423
+L11 self_attn.v_proj   s1-5=[0.033 0.022 0.02  0.019 0.018] s1/med= 10.09 top4E=0.242
+L11 self_attn.o_proj   s1-5=[0.048 0.04  0.037 0.035 0.033] s1/med= 14.98 top4E=0.167
+L11 mlp.gate_proj      s1-5=[0.102 0.065 0.057 0.052 0.049] s1/med= 18.36 top4E=0.248
+L11 mlp.up_proj        s1-5=[0.097 0.06  0.056 0.055 0.048] s1/med= 18.00 top4E=0.241
+L11 mlp.down_proj      s1-5=[0.084 0.062 0.048 0.047 0.044] s1/med= 21.52 top4E=0.242
+L12 self_attn.q_proj   s1-5=[0.121 0.065 0.06  0.053 0.046] s1/med= 50.56 top4E=0.490
+L12 self_attn.k_proj   s1-5=[0.044 0.034 0.029 0.024 0.022] s1/med= 15.84 top4E=0.403
+L12 self_attn.v_proj   s1-5=[0.026 0.024 0.021 0.019 0.017] s1/med=  9.01 top4E=0.251
+L12 self_attn.o_proj   s1-5=[0.06  0.05  0.041 0.039 0.038] s1/med= 20.73 top4E=0.229
+L12 mlp.gate_proj      s1-5=[0.11  0.067 0.064 0.06  0.054] s1/med= 20.94 top4E=0.269
+L12 mlp.up_proj        s1-5=[0.103 0.067 0.063 0.058 0.055] s1/med= 19.97 top4E=0.257
+L12 mlp.down_proj      s1-5=[0.079 0.062 0.056 0.048 0.046] s1/med= 18.20 top4E=0.207
+L13 self_attn.q_proj   s1-5=[0.069 0.062 0.055 0.048 0.047] s1/med= 23.76 top4E=0.310
+L13 self_attn.k_proj   s1-5=[0.04  0.033 0.029 0.024 0.021] s1/med= 13.55 top4E=0.353
+L13 self_attn.v_proj   s1-5=[0.036 0.025 0.022 0.021 0.019] s1/med= 11.01 top4E=0.278
+L13 self_attn.o_proj   s1-5=[0.055 0.045 0.04  0.035 0.034] s1/med= 20.05 top4E=0.210
+L13 mlp.gate_proj      s1-5=[0.115 0.071 0.064 0.059 0.058] s1/med= 21.42 top4E=0.278
+L13 mlp.up_proj        s1-5=[0.109 0.069 0.063 0.06  0.058] s1/med= 20.33 top4E=0.267
+L13 mlp.down_proj      s1-5=[0.073 0.054 0.052 0.051 0.047] s1/med= 16.80 top4E=0.171
+L14 self_attn.q_proj   s1-5=[0.066 0.057 0.051 0.049 0.044] s1/med= 24.87 top4E=0.289
+L14 self_attn.k_proj   s1-5=[0.036 0.034 0.026 0.024 0.022] s1/med= 12.04 top4E=0.334
+L14 self_attn.v_proj   s1-5=[0.034 0.025 0.022 0.02  0.019] s1/med= 10.61 top4E=0.265
+L14 self_attn.o_proj   s1-5=[0.066 0.039 0.038 0.037 0.032] s1/med= 22.51 top4E=0.253
+L14 mlp.gate_proj      s1-5=[0.107 0.065 0.062 0.059 0.056] s1/med= 19.43 top4E=0.249
+L14 mlp.up_proj        s1-5=[0.104 0.065 0.059 0.059 0.055] s1/med= 18.61 top4E=0.240
+L14 mlp.down_proj      s1-5=[0.063 0.057 0.053 0.05  0.046] s1/med= 13.98 top4E=0.153
+L15 self_attn.q_proj   s1-5=[0.083 0.069 0.062 0.047 0.044] s1/med= 26.33 top4E=0.343
+L15 self_attn.k_proj   s1-5=[0.044 0.038 0.029 0.028 0.023] s1/med= 13.78 top4E=0.369
+L15 self_attn.v_proj   s1-5=[0.035 0.028 0.023 0.022 0.021] s1/med= 10.12 top4E=0.264
+L15 self_attn.o_proj   s1-5=[0.05  0.042 0.04  0.037 0.035] s1/med= 16.93 top4E=0.187
+L15 mlp.gate_proj      s1-5=[0.098 0.061 0.058 0.055 0.053] s1/med= 17.01 top4E=0.214
+L15 mlp.up_proj        s1-5=[0.096 0.06  0.056 0.056 0.052] s1/med= 16.45 top4E=0.208
+L15 mlp.down_proj      s1-5=[0.071 0.066 0.061 0.057 0.052] s1/med= 16.33 top4E=0.195
+L16 self_attn.q_proj   s1-5=[0.065 0.058 0.049 0.044 0.042] s1/med= 20.71 top4E=0.259
+L16 self_attn.k_proj   s1-5=[0.034 0.03  0.025 0.023 0.022] s1/med= 10.21 top4E=0.269
+L16 self_attn.v_proj   s1-5=[0.038 0.026 0.021 0.02  0.019] s1/med= 11.06 top4E=0.277
+L16 self_attn.o_proj   s1-5=[0.063 0.049 0.043 0.042 0.038] s1/med= 28.61 top4E=0.283
+L16 mlp.gate_proj      s1-5=[0.086 0.066 0.051 0.047 0.045] s1/med= 14.79 top4E=0.191
+L16 mlp.up_proj        s1-5=[0.08  0.066 0.051 0.046 0.046] s1/med= 13.63 top4E=0.179
+L16 mlp.down_proj      s1-5=[0.087 0.071 0.063 0.06  0.054] s1/med= 23.01 top4E=0.267
+L17 self_attn.q_proj   s1-5=[0.068 0.057 0.055 0.045 0.041] s1/med= 25.04 top4E=0.324
+L17 self_attn.k_proj   s1-5=[0.048 0.031 0.029 0.026 0.021] s1/med= 15.58 top4E=0.422
+L17 self_attn.v_proj   s1-5=[0.029 0.022 0.02  0.017 0.016] s1/med=  9.99 top4E=0.269
+L17 self_attn.o_proj   s1-5=[0.058 0.046 0.04  0.036 0.031] s1/med= 23.13 top4E=0.287
+L17 mlp.gate_proj      s1-5=[0.075 0.064 0.049 0.045 0.044] s1/med= 13.28 top4E=0.174
+L17 mlp.up_proj        s1-5=[0.075 0.063 0.049 0.046 0.045] s1/med= 13.09 top4E=0.173
+L17 mlp.down_proj      s1-5=[0.107 0.071 0.061 0.058 0.052] s1/med= 38.27 top4E=0.363
+
+```

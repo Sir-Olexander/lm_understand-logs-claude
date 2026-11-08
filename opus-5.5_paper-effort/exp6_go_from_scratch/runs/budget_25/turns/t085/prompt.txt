@@ -1,0 +1,6 @@
+OUTPUT of Python run 72 of at most 120:
+```
+10 [('cap1_avail', 1415), ('cap1_pass', 50), ('cap1_took', 1226), ('cap2-4_avail', 422), ('cap2-4_pass', 3), ('cap2-4_took', 410), ('cap5+_avail', 243), ('cap5+_took', 237), ('pass', 628), ('pass_after_opp_pass', 41)]
+12 [('cap1_avail', 924), ('cap1_pass', 16), ('cap1_took', 752), ('cap2-4_avail', 377), ('cap2-4_pass', 23), ('cap2-4_took', 255), ('cap5+_avail', 371), ('cap5+_pass', 41), ('cap5+_took', 211), ('pass', 216), ('pass_after_opp_pass', 45)]
+
+```

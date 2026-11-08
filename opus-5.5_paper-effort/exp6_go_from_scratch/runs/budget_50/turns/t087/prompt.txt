@@ -1,0 +1,15 @@
+OUTPUT of Python run 67 of at most 120:
+```
+close losses with capturable dead opp stones at end: 15 stones 161
+[1] black -2.5
+.XOOOOOXX
+OOOOOOOX.
+OOO.OOX.X
+OXOOXOXX.
+O.OOXXX.X
+OOOOXX.XX
+O.OXXXXX.
+O.OX.X.XX
+.OXXXXX.X
+
+```

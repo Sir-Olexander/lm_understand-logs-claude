@@ -1,0 +1,197 @@
+{
+ "shown_vs_rounded_ppo": {
+  "embed.W": {
+   "scale_prompt": 0.01,
+   "scale_rounded": 0.01,
+   "int_mismatches": 0
+  },
+  "embed.b": {
+   "scale_prompt": 0.0001,
+   "scale_rounded": 0.0001,
+   "int_mismatches": 0
+  },
+  "actor0.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor0.b": {
+   "scale_prompt": 0.0001,
+   "scale_rounded": 0.0001,
+   "int_mismatches": 0
+  },
+  "actor1.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor1.b": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor2.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor2.b": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor3.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor3.b": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor4.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor4.b": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor_head.W": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  },
+  "actor_head.b": {
+   "scale_prompt": 0.001,
+   "scale_rounded": 0.001,
+   "int_mismatches": 0
+  }
+ },
+ "edited_vs_original": {
+  "embed.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "embed.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor0.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor0.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor1.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor1.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor2.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor2.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor3.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor3.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor4.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor4.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor_head.W": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  },
+  "actor_head.b": {
+   "max_abs_diff": 0.0,
+   "bitwise_equal": true
+  }
+ },
+ "edit_report": {
+  "block": true,
+  "statements": 51,
+  "applied": 51,
+  "entries_written": 6318,
+  "errors": [],
+  "cut_off": false,
+  "tensors_touched": [
+   "actor0.W",
+   "actor0.b",
+   "actor1.W",
+   "actor1.b",
+   "actor2.W",
+   "actor2.b",
+   "actor3.W",
+   "actor3.b",
+   "actor4.W",
+   "actor4.b",
+   "actor_head.W",
+   "actor_head.b",
+   "embed.W",
+   "embed.b"
+  ]
+ },
+ "edit_report_equal": {
+  "block": true,
+  "statements": true,
+  "applied": true,
+  "entries_written": true,
+  "errors": true,
+  "cut_off": true,
+  "tensors_touched": true
+ },
+ "changes": {
+  "ours": {
+   "changed": 6073,
+   "entries": 171664,
+   "frac_changed": 0.035377248578618695,
+   "rel_change": 25.656079180584392
+  },
+  "original": {
+   "changed": 6073,
+   "entries": 171664,
+   "frac_changed": 0.035377248578618695,
+   "rel_change": 25.65607918058439
+  },
+  "per_tensor_changed_equal": true,
+  "per_tensor_rel_change_max_rel_err": 4.440892098500626e-16
+ },
+ "unchanged_entries_bitwise": {
+  "embed.W": true,
+  "embed.b": true,
+  "actor0.W": true,
+  "actor0.b": true,
+  "actor1.W": true,
+  "actor1.b": true,
+  "actor2.W": true,
+  "actor2.b": true,
+  "actor3.W": true,
+  "actor3.b": true,
+  "actor4.W": true,
+  "actor4.b": true,
+  "actor_head.W": true,
+  "actor_head.b": true
+ }
+}

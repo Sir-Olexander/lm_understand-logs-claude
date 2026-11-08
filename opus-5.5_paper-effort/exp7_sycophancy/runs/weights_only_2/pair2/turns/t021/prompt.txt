@@ -1,0 +1,22 @@
+OUTPUT of run 20 of at most 60:
+```
+L 0 e1: z(dDown.U)= +0.4 z(Down.dUp)= -0.1 | e2: z(dDown.U)= -0.6 z(Down.dUp)= -0.4
+L 1 e1: z(dDown.U)= +1.2 z(Down.dUp)= +0.8 | e2: z(dDown.U)= +2.1 z(Down.dUp)= -0.9
+L 2 e1: z(dDown.U)= +1.3 z(Down.dUp)= +0.5 | e2: z(dDown.U)= +0.9 z(Down.dUp)= +0.2
+L 3 e1: z(dDown.U)= -1.3 z(Down.dUp)= -0.6 | e2: z(dDown.U)= -1.4 z(Down.dUp)= -0.8
+L 4 e1: z(dDown.U)= +0.7 z(Down.dUp)= -1.1 | e2: z(dDown.U)= -0.2 z(Down.dUp)= +0.3
+L 5 e1: z(dDown.U)= -0.1 z(Down.dUp)= -0.0 | e2: z(dDown.U)= +0.1 z(Down.dUp)= +0.8
+L 6 e1: z(dDown.U)= +1.0 z(Down.dUp)= +0.2 | e2: z(dDown.U)= -0.4 z(Down.dUp)= +1.5
+L 7 e1: z(dDown.U)= +0.4 z(Down.dUp)= -0.5 | e2: z(dDown.U)= -2.9 z(Down.dUp)= +1.1
+L 8 e1: z(dDown.U)= +0.9 z(Down.dUp)= -1.6 | e2: z(dDown.U)= -0.2 z(Down.dUp)= +0.6
+L 9 e1: z(dDown.U)= +0.3 z(Down.dUp)= -1.5 | e2: z(dDown.U)= -0.9 z(Down.dUp)= -2.6
+L10 e1: z(dDown.U)= +1.1 z(Down.dUp)= +0.5 | e2: z(dDown.U)= +1.0 z(Down.dUp)= -0.9
+L11 e1: z(dDown.U)= +0.6 z(Down.dUp)= -1.8 | e2: z(dDown.U)= +0.4 z(Down.dUp)= +2.7
+L12 e1: z(dDown.U)= -1.5 z(Down.dUp)= +0.0 | e2: z(dDown.U)= +1.5 z(Down.dUp)= -1.0
+L13 e1: z(dDown.U)= -0.3 z(Down.dUp)= -1.5 | e2: z(dDown.U)= +1.2 z(Down.dUp)= +1.6
+L14 e1: z(dDown.U)= +0.6 z(Down.dUp)= +0.2 | e2: z(dDown.U)= -2.1 z(Down.dUp)= -0.3
+L15 e1: z(dDown.U)= -0.5 z(Down.dUp)= -0.6 | e2: z(dDown.U)= -0.9 z(Down.dUp)= -1.1
+L16 e1: z(dDown.U)= +0.7 z(Down.dUp)= +0.0 | e2: z(dDown.U)= +0.5 z(Down.dUp)= -0.8
+L17 e1: z(dDown.U)= -0.1 z(Down.dUp)= -1.5 | e2: z(dDown.U)= +0.7 z(Down.dUp)= +1.1
+
+```

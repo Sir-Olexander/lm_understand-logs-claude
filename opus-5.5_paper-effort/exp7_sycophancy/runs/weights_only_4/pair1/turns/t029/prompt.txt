@@ -1,0 +1,26 @@
+OUTPUT of run 28 of at most 60:
+```
+L 0 q_norm diff elems=  5 (A>B   1)  k_norm diff elems=  2 (A>B   1)  sum(1+q)(1+k): A-B=-0.0028 rel=-0.0003%  |q|range=(-3.78,3.56)
+L 1 q_norm diff elems=  0 (A>B   0)  k_norm diff elems=  0 (A>B   0)  sum(1+q)(1+k): A-B=+0.0000 rel=+0.0000%  |q|range=(-1.12,14.44)
+L 2 q_norm diff elems=  6 (A>B   4)  k_norm diff elems=  9 (A>B   5)  sum(1+q)(1+k): A-B=+0.0048 rel=+0.0006%  |q|range=(-1.00,3.02)
+L 3 q_norm diff elems=  8 (A>B   2)  k_norm diff elems=  7 (A>B   6)  sum(1+q)(1+k): A-B=+0.0002 rel=+0.0000%  |q|range=(-0.99,3.25)
+L 4 q_norm diff elems= 15 (A>B   8)  k_norm diff elems=  8 (A>B   7)  sum(1+q)(1+k): A-B=+0.0003 rel=+0.0001%  |q|range=(-1.01,5.09)
+L 5 q_norm diff elems=  1 (A>B   0)  k_norm diff elems=  1 (A>B   1)  sum(1+q)(1+k): A-B=-0.0017 rel=-0.0001%  |q|range=(-3.06,5.38)
+L 6 q_norm diff elems= 24 (A>B  14)  k_norm diff elems= 13 (A>B   6)  sum(1+q)(1+k): A-B=-0.0029 rel=-0.0005%  |q|range=(-1.02,2.94)
+L 7 q_norm diff elems= 12 (A>B   4)  k_norm diff elems=  8 (A>B   4)  sum(1+q)(1+k): A-B=-0.0078 rel=-0.0010%  |q|range=(-1.03,4.00)
+L 8 q_norm diff elems= 10 (A>B   7)  k_norm diff elems= 10 (A>B   4)  sum(1+q)(1+k): A-B=-0.0006 rel=-0.0001%  |q|range=(-1.05,8.88)
+L 9 q_norm diff elems= 16 (A>B  11)  k_norm diff elems=  9 (A>B   7)  sum(1+q)(1+k): A-B=+0.0099 rel=+0.0012%  |q|range=(-0.99,5.94)
+L10 q_norm diff elems= 18 (A>B   6)  k_norm diff elems= 10 (A>B   5)  sum(1+q)(1+k): A-B=-0.0145 rel=-0.0018%  |q|range=(-0.99,3.31)
+L11 q_norm diff elems=  6 (A>B   1)  k_norm diff elems=  3 (A>B   1)  sum(1+q)(1+k): A-B=-0.0023 rel=-0.0002%  |q|range=(-1.05,6.09)
+L12 q_norm diff elems= 10 (A>B   6)  k_norm diff elems=  3 (A>B   2)  sum(1+q)(1+k): A-B=+0.0121 rel=+0.0012%  |q|range=(-1.05,3.92)
+L13 q_norm diff elems=  6 (A>B   6)  k_norm diff elems=  5 (A>B   0)  sum(1+q)(1+k): A-B=-0.0023 rel=-0.0003%  |q|range=(-1.00,5.88)
+L14 q_norm diff elems= 10 (A>B   2)  k_norm diff elems=  3 (A>B   2)  sum(1+q)(1+k): A-B=-0.0153 rel=-0.0014%  |q|range=(-1.04,4.47)
+L15 q_norm diff elems= 14 (A>B   8)  k_norm diff elems= 12 (A>B   5)  sum(1+q)(1+k): A-B=-0.0018 rel=-0.0003%  |q|range=(-1.01,12.00)
+L16 q_norm diff elems= 13 (A>B   7)  k_norm diff elems=  8 (A>B   3)  sum(1+q)(1+k): A-B=+0.0024 rel=+0.0003%  |q|range=(-1.02,10.25)
+L17 q_norm diff elems= 11 (A>B   7)  k_norm diff elems=  8 (A>B   3)  sum(1+q)(1+k): A-B=-0.0005 rel=-0.0000%  |q|range=(-1.04,16.12)
+input_layernorm elements |1+w| larger in A: 48  in B: 47
+post_attention_layernorm elements |1+w| larger in A: 56  in B: 59
+pre_feedforward_layernorm elements |1+w| larger in A: 164  in B: 148
+post_feedforward_layernorm elements |1+w| larger in A: 66  in B: 75
+
+```

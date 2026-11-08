@@ -1,0 +1,50 @@
+OUTPUT of run 3 of at most 100:
+```
+8.25  arg 0.911 rad  (52.2 deg)
+8.25  arg -0.911 rad  (-52.2 deg)
+7.70  arg 1.812 rad  (103.8 deg)
+7.70  arg -1.812 rad  (-103.8 deg)
+7.49  arg -1.207 rad  (-69.2 deg)
+7.49  arg 1.207 rad  (69.2 deg)
+6.78  arg -2.736 rad  (-156.8 deg)
+6.78  arg 2.736 rad  (156.8 deg)
+6.53  arg 3.142 rad  (180.0 deg)
+6.15  arg 0.562 rad  (32.2 deg)
+6.15  arg -0.562 rad  (-32.2 deg)
+4.90  arg 0.986 rad  (56.5 deg)
+4.90  arg -0.986 rad  (-56.5 deg)
+4.10  arg 0.048 rad  (2.8 deg)
+4.10  arg -0.048 rad  (-2.8 deg)
+3.33  arg 0.000 rad  (0.0 deg)
+2.73  arg 2.324 rad  (133.2 deg)
+2.73  arg -2.324 rad  (-133.2 deg)
+2.56  arg 2.731 rad  (156.5 deg)
+2.56  arg -2.731 rad  (-156.5 deg)
+1.09  arg 1.415 rad  (81.1 deg)
+1.09  arg -1.415 rad  (-81.1 deg)
+0.95  arg 3.142 rad  (180.0 deg)
+0.72  arg -3.124 rad  (-179.0 deg)
+0.72  arg 3.124 rad  (179.0 deg)
+0.63  arg 0.000 rad  (0.0 deg)
+0.35  arg 2.281 rad  (130.7 deg)
+0.35  arg -2.281 rad  (-130.7 deg)
+0.26  arg 0.656 rad  (37.6 deg)
+0.26  arg -0.656 rad  (-37.6 deg)
+0.15  arg -2.797 rad  (-160.2 deg)
+0.15  arg 2.797 rad  (160.2 deg)
+0.14  arg 2.114 rad  (121.1 deg)
+0.14  arg -2.114 rad  (-121.1 deg)
+0.13  arg 1.356 rad  (77.7 deg)
+0.13  arg -1.356 rad  (-77.7 deg)
+0.12  arg 0.000 rad  (0.0 deg)
+0.10  arg 1.473 rad  (84.4 deg)
+0.10  arg -1.473 rad  (-84.4 deg)
+0.09  arg 2.725 rad  (156.1 deg)
+1 Wk sv [11.21  8.61  3.05  2.72] overlap of Wk top2 right vecs with Wo.0 top3 left: [[0.94 0.16 0.12]
+ [0.01 0.66 0.7 ]]
+2 Wk sv [9.59 7.63 3.2  3.  ] overlap of Wk top2 right vecs with Wo.0 top3 left: [[0.98 0.12 0.01]
+ [0.07 0.71 0.51]]
+3 Wk sv [4.82 3.79 3.15 2.6 ] overlap of Wk top2 right vecs with Wo.0 top3 left: [[0.93 0.08 0.04]
+ [0.02 0.69 0.34]]
+
+```

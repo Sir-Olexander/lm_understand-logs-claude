@@ -1,0 +1,9 @@
+OUTPUT of run 45 of at most 60:
+```
+{'cognition': 9, 'hedge': 6, 'certainty': 7, 'modal': 8, 'emotion': 7, 'motion': 7, 'food': 7, 'body': 7, 'time': 7, 'tools': 6, 'answerish': 6, 'pronoun1': 5, 'pronoun2': 4, 'qcontent': 6}
+L0 h0: cognition -5.9  hedge -4.0  certainty -3.2  modal -3.8  emotion -2.3  motion -1.9  food +0.9  body -3.2  time +2.5  tools -0.8  answerish -3.4  pronoun1 -1.9  pronoun2 -1.9  qcontent +1.0
+L0 h1: cognition +0.3  hedge -2.4  certainty +2.8  modal -0.4  emotion +2.4  motion +0.2  food +1.2  body +0.6  time -0.1  tools +1.5  answerish +1.9  pronoun1 -0.4  pronoun2 +0.6  qcontent +1.6
+L0 h2: cognition -3.2  hedge -5.0  certainty -3.7  modal -2.6  emotion -0.4  motion -0.3  food +5.0  body -2.3  time +1.2  tools +1.1  answerish -0.1  pronoun1 -3.4  pronoun2 -1.8  qcontent +1.0
+L0 h3: cognition -2.6  hedge -2.8  certainty -1.7  modal -2.0  emotion -1.9  motion +1.6  food +1.2  body -0.8  time -1.6  tools -1.2  answerish -3.7  pronoun1 +1.3  pronoun2 +0.4  qcontent -3.2
+
+```

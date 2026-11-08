@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_1/pair3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 33,
+ "runs": 32,
+ "session_id": "0d212505-2370-4998-83f2-5c6798c04a82",
+ "cwd": "<home>/wsp/scratch/run-a42a90",
+ "done": true,
+ "next": "OUTPUT of run 32 of at most 60:\n```\n== S from attn o_proj 14-17\n  MLP L14 answer-writing alignment z(sign-flip)  +0.00\n  MLP L15 answer-writing alignment z(sign-flip)  -2.19\n  MLP L16 answer-writing alignment z(sign-flip)  -1.57\n  MLP L17 answer-writing alignment z(sign-flip)  -1.00\n  heads L15 copy e->readout z (output-aligned null): [1.9  1.12 1.85 1.19]\n  heads L16 copy e->readout z (output-aligned null): [0.33 0.8  0.91 1.49]\n  heads L17 copy e->readout z (output-aligned null): [ 0.27  0.33  0.94 -2.1 ]\n== S from L17 down only\n  MLP L14 answer-writing alignment z(sign-flip)  +0.32\n  MLP L15 answer-writing alignment z(sign-flip)  -0.98\n  MLP L16 answer-writing alignment z(sign-flip)  -2.53\n  MLP L17 answer-writing alignment z(sign-flip)  -1.93\n  heads L15 copy e->readout z (output-aligned null): [1.57 0.   1.76 1.31]\n  heads L16 copy e->readout z (output-aligned null): [0.23 1.09 1.29 0.95]\n  heads L17 copy e->readout z (output-aligned null): [ 1.36 -1.77  0.85 -1.67]\n\n```",
+ "started": "2026-11-06T23:17:40+00:00",
+ "extra": {
+  "round": "weights_only_1",
+  "pair": 102,
+  "release": "pair_3f2101",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 33
+ }
+}

@@ -1,0 +1,47 @@
+OUTPUT of run 8 of at most 60:
+```
+L 0 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 1 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 2 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 3 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 4 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 5 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 6 +v: mean=+0.091 med=+0.090 skew=+1.05 frac>0=0.67 top5=[0.91 0.97 1.11 1.13 3.04] bot5=[-1.31 -1.   -0.9  -0.68 -0.66]
+L 7 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 8 +v: mean=+nan med=+nan skew=+nan frac>0=0.00 top5=[nan nan nan nan nan] bot5=[nan nan nan nan nan]
+L 9 +v: mean=-0.002 med=+0.001 skew=+0.01 frac>0=0.50 top5=[1.11 1.12 1.25 1.38 2.27] bot5=[-1.56 -1.52 -1.49 -1.41 -1.13]
+L10 +v: mean=+0.057 med=+0.048 skew=+0.09 frac>0=0.54 top5=[2.2  2.23 2.24 2.7  3.03] bot5=[-3.56 -2.4  -2.31 -2.22 -1.92]
+L11 +v: mean=+0.203 med=+0.170 skew=+0.34 frac>0=0.61 top5=[3.39 3.67 4.09 4.13 4.43] bot5=[-4.75 -3.48 -2.31 -2.18 -2.09]
+L12 +v: mean=-0.097 med=-0.089 skew=-0.25 frac>0=0.41 top5=[1.54 1.58 1.66 2.46 2.91] bot5=[-3.19 -2.36 -2.14 -2.06 -1.9 ]
+L13 +v: mean=+0.024 med=+0.018 skew=+1.11 frac>0=0.57 top5=[0.75 0.76 0.9  0.96 1.17] bot5=[-0.62 -0.47 -0.45 -0.44 -0.42]
+L14 +v: mean=+0.043 med=+0.010 skew=+1.02 frac>0=0.51 top5=[2.   2.07 2.42 2.69 3.58] bot5=[-2.66 -1.73 -1.65 -1.52 -1.32]
+L15 +v: mean=+0.076 med=+0.041 skew=+1.86 frac>0=0.54 top5=[2.88 3.19 3.33 3.96 4.47] bot5=[-2.13 -1.97 -1.74 -1.65 -1.57]
+L16 +v: mean=+0.080 med=+0.050 skew=+1.07 frac>0=0.55 top5=[2.81 2.88 3.27 3.79 4.35] bot5=[-2.72 -2.59 -2.59 -2.3  -2.13]
+L17 +v: mean=+0.116 med=+0.093 skew=-1.80 frac>0=0.61 top5=[2.89 3.18 3.31 3.44 3.52] bot5=[-6.81 -6.71 -4.7  -4.63 -4.62]
+cross-layer cos of hidden-state estimates (from gate diffs):
+[[  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan  1.     nan   nan -0.1   0.07  0.08 -0.08  0.1   0.11  0.04  0.01  0.01]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan   nan]
+ [  nan   nan   nan   nan   nan   nan -0.1    nan   nan  1.   -0.99 -0.64  0.64 -0.97 -0.84 -0.66 -0.64 -0.77]
+ [  nan   nan   nan   nan   nan   nan  0.07   nan   nan -0.99  1.    0.67 -0.66  0.97  0.84  0.66  0.64  0.77]
+ [  nan   nan   nan   nan   nan   nan  0.08   nan   nan -0.64  0.67  1.   -0.71  0.68  0.66  0.53  0.51  0.59]
+ [  nan   nan   nan   nan   nan   nan -0.08   nan   nan  0.64 -0.66 -0.71  1.   -0.74 -0.8  -0.66 -0.61 -0.63]
+ [  nan   nan   nan   nan   nan   nan  0.1    nan   nan -0.97  0.97  0.68 -0.74  1.    0.91  0.74  0.71  0.8 ]
+ [  nan   nan   nan   nan   nan   nan  0.11   nan   nan -0.84  0.84  0.66 -0.8   0.91  1.    0.87  0.81  0.8 ]
+ [  nan   nan   nan   nan   nan   nan  0.04   nan   nan -0.66  0.66  0.53 -0.66  0.74  0.87  1.    0.9   0.79]
+ [  nan   nan   nan   nan   nan   nan  0.01   nan   nan -0.64  0.64  0.51 -0.61  0.71  0.81  0.9   1.    0.86]
+ [  nan   nan   nan   nan   nan   nan  0.01   nan   nan -0.77  0.77  0.59 -0.63  0.8   0.8   0.79  0.86  1.  ]]
+cos(gate-est, q-est) per layer: [nan, nan, nan, nan, nan, nan, -0.45, nan, nan, 0.53, -0.63, -0.66, 0.69, 0.23, -0.54, 0.5, 0.74, -0.37]
+cos(gate-est, up-est) per layer: [nan, nan, nan, nan, nan, nan, -1.0, nan, nan, 1.0, -1.0, -0.99, -1.0, -1.0, 1.0, -1.0, 0.99, -1.0]
+
+[stderr]
+your_code:13: RuntimeWarning: divide by zero encountered in divide
+your_code:13: RuntimeWarning: invalid value encountered in divide
+
+```

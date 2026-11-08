@@ -1,0 +1,3076 @@
+{
+ "weights_only_1/pair1": {
+  "message_kinds_identical": true,
+  "turns": [
+   10,
+   10
+  ],
+  "runs": [
+   6,
+   6
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   1,
+   1
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output+reminder 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "nudge",
+   "output 5",
+   "nudge",
+   "output 6",
+   "unreadable"
+  ],
+  "kinds_ours": [
+   "first",
+   "output+reminder 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "nudge",
+   "output 5",
+   "nudge",
+   "output 6",
+   "unreadable"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LEARNED SCALE RANGES (1 + weight), aggregated over layers and checkpoints"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MODE: raw"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 0.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "===== LAYER 4, MLP UNIT 341 ====="
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 0.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "WEIGHT-ONLY ADJACENT-LAYER COEFFICIENT COMPOSITIONS"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "COMPENSATION TEST: exact delta(OV) decomposition"
+   }
+  ]
+ },
+ "weights_only_1/pair2": {
+  "message_kinds_identical": true,
+  "turns": [
+   8,
+   8
+  ],
+  "runs": [
+   4,
+   4
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   1,
+   1
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "nudge",
+   "output 1",
+   "output 2",
+   "output 3",
+   "nudge",
+   "output 4",
+   "unreadable"
+  ],
+  "kinds_ours": [
+   "first",
+   "nudge",
+   "output 1",
+   "output 2",
+   "output 3",
+   "nudge",
+   "output 4",
+   "unreadable"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 2.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP TEST"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 5.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "UNIFORM SOURCE-DIRECTION ALIGNMENT TEST"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 14.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "AGGREGATE MLP COEFFICIENT-CANCELLATION TEST"
+   }
+  ]
+ },
+ "weights_only_1/pair3": {
+  "message_kinds_identical": true,
+  "turns": [
+   10,
+   10
+  ],
+  "runs": [
+   5,
+   5
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   2,
+   2
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "nudge",
+   "output 4",
+   "nudge",
+   "output 5",
+   "unreadable",
+   "unreadable"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "nudge",
+   "output 4",
+   "nudge",
+   "output 5",
+   "unreadable",
+   "unreadable"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": "ValueError: output has more dimensions than subscripts given in einstein sum, but no '...' ellipsis provided to broadcast the extra dimensions.",
+    "our_error": "ValueError: output has more dimensions than subscripts given in einstein sum, but no '...' ellipsis provided to broadcast the extra dimensions.",
+    "our_first_line": "ARCHITECTURE"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 1.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "EXACT DIFFERENCE INVENTORY"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 5.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION COMPOSITION DIFFERENCES"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 2.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "HYPOTHESIS: MLP DIFFERENCES ARE MAINLY UNIT PERMUTATIONS"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 14.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "WHOLE-MLP INTERACTION TENSOR DIFFERENCES"
+   }
+  ]
+ },
+ "weights_only_2/pair1": {
+  "message_kinds_identical": true,
+  "turns": [
+   12,
+   12
+  ],
+  "runs": [
+   9,
+   9
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A:"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 1.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "RAW COMPOSITE OPERATORS: layer summaries"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 10.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "DEFINITION:"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP EVEN-COMPONENT COEFFICIENT CHANGES"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 22.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "EXACT SUMMED RAW-MLP EVEN-COMPONENT DIFFERENCES"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 0.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "INDEX KEY:"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Reference: unit-length parameter displacement of layer 6/unit 1824 down column."
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 3.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CROSS-HEAD TRANSPORT REDISTRIBUTION"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 0.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "EXACT POSITIONAL COEFFICIENT DECOMPOSITION"
+   }
+  ]
+ },
+ "weights_only_2/pair2": {
+  "message_kinds_identical": true,
+  "turns": [
+   16,
+   16
+  ],
+  "runs": [
+   13,
+   13
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "nudge",
+   "output 11",
+   "output 12",
+   "nudge",
+   "output 13"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "nudge",
+   "output 11",
+   "output 12",
+   "nudge",
+   "output 13"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 2.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 3.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "STORAGE DTYPES"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 4.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "PER-LAYER RELATIVE PRODUCT DIFFERENCES; HEAD ORDER 0,1,2,3"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 1.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SCALED MLP FACTOR AND UNIT-BANK COMPARISONS"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 3.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOP 20 HEADS BY MEDIAN RELATIVE QK DIFFERENCE OVER FIXED ROTARY OFFSETS"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 3.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CANDIDATE ATTENTION GEOMETRY"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 3.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SIGNED IDENTITY ALIGNMENT OF B-A OV PRODUCTS"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 4.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MODE: UNSCALED"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LEARNED SCALES AT THE TWO DOMINANT WRITER COORDINATES (A)"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 1.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "UNIT-LEVEL COEFFICIENT DIFFERENCES WITH A FROZEN MEAN DOWNSTREAM READER"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 2.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CROSS-HEAD COEFFICIENT COMPENSATION"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 0.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LAYER 11, HEADS 2 AND 3"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "EXACT ZERO NORMALIZATION GAINS"
+   }
+  ]
+ },
+ "weights_only_2/pair3": {
+  "message_kinds_identical": true,
+  "turns": [
+   12,
+   12
+  ],
+  "runs": [
+   9,
+   9
+  ],
+  "nudges": [
+   2,
+   2
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 5.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION MAP DIFFERENCES"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 11.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOP 30 UPDATE MATRICES BY TOP-SINGULAR-ENERGY ENRICHMENT"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 12.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOP 12 HEADS BY COHERENT QUERY-UPDATE ENERGY"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 20.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP GATE/UP UPDATE READING-SUBSPACE ALIGNMENT"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 10.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP UNIT CONCENTRATION; DIAGONAL GAINS: False"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SIGNED IDENTITY-TRANSFER SURROGATE"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 1.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: ROTARY-PHASE RETARGETING"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 2.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP REWEIGHTING VERSUS DIRECTION CHANGE; DIAGONAL GAINS: False"
+   }
+  ]
+ },
+ "weights_only_3/pair1": {
+  "message_kinds_identical": true,
+  "turns": [
+   28,
+   28
+  ],
+  "runs": [
+   17,
+   17
+  ],
+  "nudges": [
+   10,
+   10
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9",
+   "nudge",
+   "output 10",
+   "nudge",
+   "output 11",
+   "nudge",
+   "output 12",
+   "nudge",
+   "output 13",
+   "nudge",
+   "output 14",
+   "nudge",
+   "output 15",
+   "nudge",
+   "output 16",
+   "nudge",
+   "output 17"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "nudge",
+   "output 8",
+   "nudge",
+   "output 9",
+   "nudge",
+   "output 10",
+   "nudge",
+   "output 11",
+   "nudge",
+   "output 12",
+   "nudge",
+   "output 13",
+   "nudge",
+   "output 14",
+   "nudge",
+   "output 15",
+   "nudge",
+   "output 16",
+   "nudge",
+   "output 17"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 3.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NORMALIZATION MULTIPLIERS: absolute-value median and maximum"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 1.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP UNIT-LEVEL STRUCTURAL COMPARISON"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ALL-PHASE SYMBOLIC QUERY-KEY COEFFICIENT COMPARISON"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 7.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CHANGED-WEIGHT RESIDUAL-SPACE GEOMETRY"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 4.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "OUTPUT-WRITING COMPONENTS"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 3.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONTROL: DIFFERENCE ALIGNMENT VERSUS ENDPOINT-WEIGHT ALIGNMENT"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 4.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: SHARED ALIGNMENT IS ONLY A COORDINATE-MAGNITUDE EFFECT"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 14.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: COMPENSATION BETWEEN CONNECTED WEIGHT CHANGES"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 0.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: QUERY/KEY PROJECTION SCALING EXPLAINS MATCHING DIFFERENCES"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 2.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: FINAL LEARNED NORMALIZATION ATTENUATES THE SHARED CHANGES"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 7.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: CROSS-UNIT CANCELLATION IN THE MLP QUADRATIC EVEN COMPONENT"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 15.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: THE QUADRATIC FINDING DOES NOT EXTEND TO NONLINEAR COEFFICIENTS"
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 0.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: SHARED KEY CHANGES EXPLAIN THE PROMINENT HEAD DIFFERENCES"
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 0.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: FREQUENCY-WISE GAIN/PHASE CHANGES EXPLAIN ATTENTION DIFFERENCES"
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: PER-HEAD OV DIFFERENCES CANCEL ACROSS HEADS"
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 0.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NEW HYPOTHESIS: BASELINE COEFFICIENT MAGNITUDE EXPLAINS PROMINENT UNIT DIFFERENCES"
+   }
+  ]
+ },
+ "weights_only_3/pair2": {
+  "message_kinds_identical": true,
+  "turns": [
+   31,
+   31
+  ],
+  "runs": [
+   20,
+   20
+  ],
+  "nudges": [
+   10,
+   10
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "nudge",
+   "output 9",
+   "output 10",
+   "nudge",
+   "output 11",
+   "nudge",
+   "output 12",
+   "nudge",
+   "output 13",
+   "nudge",
+   "output 14",
+   "nudge",
+   "output 15",
+   "nudge",
+   "output 16",
+   "nudge",
+   "output 17",
+   "nudge",
+   "output 18",
+   "nudge",
+   "output 19",
+   "output 20"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "nudge",
+   "output 9",
+   "output 10",
+   "nudge",
+   "output 11",
+   "nudge",
+   "output 12",
+   "nudge",
+   "output 13",
+   "nudge",
+   "output 14",
+   "nudge",
+   "output 15",
+   "nudge",
+   "output 16",
+   "nudge",
+   "output 17",
+   "nudge",
+   "output 18",
+   "nudge",
+   "output 19",
+   "output 20"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== CONFIG A ==="
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 8.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed layer 0"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 11.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed MLP layer 0"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 11.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MLP CANDIDATES: TARGETED CHANGE OR LARGE BASELINE CONNECTIONS? ==="
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 1.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FREQUENCY-RESOLVED QK COEFFICIENT DIFFERENCES ==="
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 6.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FREQUENCY PEAKS: DIFFERENCE SHARE VERSUS BASELINE SHARE ==="
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 5.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed quadratic forms for layer 0"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 0.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DIRECTION VERSUS GAIN IN POSITION-RESOLVED MATCHING COEFFICIENTS ==="
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 15.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed layer 0"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 2.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Prepared layer 6"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 3.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Prepared maps for A"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 13.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed raw projection spectra for layer 0"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 8.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXACT LEARNED-GAIN ZERO CROSSINGS ==="
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 5.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed symmetry-direction projection for layer 0"
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 2.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed head-diversity analysis for layer 0"
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 9.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed quadratic-coefficient analysis for layer 0"
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 10.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed quadratic/cubic coefficient comparison for layer 0"
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 4.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed positional-phase decomposition for layer 0"
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 1.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Completed immediate-reader route analysis for layer 0"
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 0.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FULL-READER CHECK OF COORDINATEWISE ENRICHMENT ==="
+   }
+  ]
+ },
+ "weights_only_3/pair3": {
+  "message_kinds_identical": true,
+  "turns": [
+   33,
+   33
+  ],
+  "runs": [
+   22,
+   22
+  ],
+  "nudges": [
+   10,
+   10
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output+reminder 1",
+   "output+reminder 2",
+   "output+reminder 3",
+   "output+reminder 4",
+   "output+reminder 5",
+   "output+reminder 6",
+   "output+reminder 7",
+   "output+reminder 8",
+   "nudge",
+   "output+reminder 9",
+   "nudge",
+   "output+reminder 10",
+   "nudge",
+   "output+reminder 11",
+   "output+reminder 12",
+   "output+reminder 13",
+   "output+reminder 14",
+   "nudge",
+   "output+reminder 15",
+   "output+reminder 16",
+   "nudge",
+   "output+reminder 17",
+   "nudge",
+   "output+reminder 18",
+   "nudge",
+   "output+reminder 19",
+   "nudge",
+   "output+reminder 20",
+   "nudge",
+   "output+reminder 21",
+   "nudge",
+   "output+reminder 22"
+  ],
+  "kinds_ours": [
+   "first",
+   "output+reminder 1",
+   "output+reminder 2",
+   "output+reminder 3",
+   "output+reminder 4",
+   "output+reminder 5",
+   "output+reminder 6",
+   "output+reminder 7",
+   "output+reminder 8",
+   "nudge",
+   "output+reminder 9",
+   "nudge",
+   "output+reminder 10",
+   "nudge",
+   "output+reminder 11",
+   "output+reminder 12",
+   "output+reminder 13",
+   "output+reminder 14",
+   "nudge",
+   "output+reminder 15",
+   "output+reminder 16",
+   "nudge",
+   "output+reminder 17",
+   "nudge",
+   "output+reminder 18",
+   "nudge",
+   "output+reminder 19",
+   "nudge",
+   "output+reminder 20",
+   "nudge",
+   "output+reminder 21",
+   "nudge",
+   "output+reminder 22"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 1.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ARCHITECTURE ==="
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 3.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LEARNED GAIN SCALES (PARAMETERS ONLY) ==="
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 2.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== THREE-FACTOR COUPLING CHANGES, SUMMED OVER INDIVIDUAL UNITS ==="
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 7.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXACT CROSS-UNIT ACCOUNTING FOR GAIN-SCALED COEFFICIENTS ==="
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 21.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Processed layers 0..5; elapsed 7.9s"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 16.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== TOP 16 HEADS BY MEDIAN POSITION-DEPENDENT QK-COEFFICIENT CHANGE ==="
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 20.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Processed through L5; elapsed 7.0s"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 15.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ALL-LAYER EXACT TOTAL COUPLING-COEFFICIENT COMPARISON ==="
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FEATURE-STRENGTH VERSUS DIRECTION CHANGE ==="
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 20.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== GATE-ASYMMETRY AUDIT: EXACT STRUCTURAL-COEFFICIENT CONTRACTIONS ==="
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 1.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MATCHED PERTURBATION-ROW COMPARISONS ==="
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 5.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DOWNSTREAM READER COMPATIBILITY OF COEFFICIENT DIFFERENCES ==="
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 3.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LEARNED RESIDUAL-COORDINATE GAINS ==="
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 8.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== PROJECTION GEOMETRY ==="
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 4.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== CROSS-HEAD OV-DIFFERENCE ACCOUNTING ==="
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== OPPOSING-HEAD STRUCTURE: GAIN AND COORDINATE ROBUSTNESS ==="
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 12.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MLP PAIR-STRUCTURE AUDIT ==="
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 15.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LOCAL COORDINATE-CHANGE CHECK ==="
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 14.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== CONDITIONAL BF16 ROUNDING-INTERVAL BOUNDS ==="
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 31.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== RAW-WEIGHT CROSS-PROJECTION DIRECTION CAPTURE ==="
+   },
+   {
+    "run": 21,
+    "kind": "python",
+    "s": 14.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ADJACENT MLP UPDATE-READING SUBSPACE OVERLAP ==="
+   },
+   {
+    "run": 22,
+    "kind": "python",
+    "s": 22.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FINAL GAIN VECTOR ==="
+   }
+  ]
+ },
+ "weights_only_4/pair1": {
+  "message_kinds_identical": true,
+  "turns": [
+   35,
+   35
+  ],
+  "runs": [
+   29,
+   29
+  ],
+  "nudges": [
+   5,
+   5
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   false,
+   false
+  ],
+  "stopped": "mock answers exhausted (the original conversation was stopped here)",
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output 20",
+   "nudge",
+   "output 21",
+   "output 22",
+   "nudge",
+   "output 23",
+   "nudge",
+   "output 24",
+   "nudge",
+   "output 25",
+   "output 26",
+   "output 27",
+   "output 28",
+   "nudge",
+   "output 29"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output 20",
+   "nudge",
+   "output 21",
+   "output 22",
+   "nudge",
+   "output 23",
+   "nudge",
+   "output 24",
+   "nudge",
+   "output 25",
+   "output 26",
+   "output 27",
+   "output 28",
+   "nudge",
+   "output 29"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 5.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 3.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NORMALIZATION WEIGHTS"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 2.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOKEN GROUPS"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LATE MLP OUTPUT-MATRIX DIFFERENCES"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LEXICAL SETS"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 2.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Original word pairs: [('think', 'know'), ('believe', 'verify'), ('guess', 'calculate'), ('suspect', 'check'), ('reckon', 'prove'), ('assume', 'determine'), ('su"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 2.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FIRST-LAYER QUERY-KEY DIFFERENCE MATRICES"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Marker pairs, positive = first minus second: [('answer', 'question'), ('think', 'what'), ('believe', 'calculate'), ('guess', 'solve'), ('opinion', 'problem'), ("
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FIRST-LAYER VALUE/OUTPUT COEFFICIENT MAPS"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 4.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FIRST-LAYER WRITER COORDINATE CONCENTRATION"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 2.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP UP/DOWN COEFFICIENTS"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NUMBER-SELECTIVE UNIT SUBSETS"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "COORDINATE 400 DIAGONAL MULTIPLIERS"
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LATE MLP NUMERIC COEFFICIENT MATRICES"
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 5.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION DIGIT-SUBSPACE COEFFICIENT CHANGES"
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 5.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Contrast rank: 9 singular values: [2.0264 0.6955 0.5046 0.4201 0.3908 0.3483 0.337  0.309  0.2761]"
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 2.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "RESCALING-INVARIANT MLP UNIT COEFFICIENT DIFFERENCES"
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SEMANTIC CONTRAST FAMILIES"
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "original pairs [('answer', 'question'), ('think', 'what'), ('believe', 'calculate'), ('guess', 'solve'), ('opinion', 'problem'), ('claim', 'fact')]"
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SELECTED NUMERIC UNITS"
+   },
+   {
+    "run": 21,
+    "kind": "python",
+    "s": 2.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SOURCE CONTRASTS: [('think', 'what'), ('answer', 'question'), ('guess', 'solve'), ('suppose', 'determine'), ('assume', 'compute'), ('reckon', 'evaluate'), ('exp"
+   },
+   {
+    "run": 22,
+    "kind": "python",
+    "s": 2.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "UNIT GROUPS"
+   },
+   {
+    "run": 23,
+    "kind": "python",
+    "s": 4.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LEXICAL-MARKER-FREE ROTARY COEFFICIENT TEST"
+   },
+   {
+    "run": 24,
+    "kind": "python",
+    "s": 6.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LEARNED NORMALIZATION MULTIPLIER AUDIT"
+   },
+   {
+    "run": 25,
+    "kind": "python",
+    "s": 1.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SHARED NUMERIC OUTPUT-REMAPPING HYPOTHESIS"
+   },
+   {
+    "run": 26,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "JOINT LOOKUP/WRITING FEATURE-GEOMETRY TEST"
+   },
+   {
+    "run": 27,
+    "kind": "python",
+    "s": 4.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "OPPOSING-HEAD HYPOTHESIS"
+   },
+   {
+    "run": 28,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "OPPONENT-PAIR CANCELLATION AND COORDINATE-CONCENTRATION TEST"
+   },
+   {
+    "run": 29,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "OUTPUT PAIRS, positive = endorsement-related minus correction-related:"
+   }
+  ]
+ },
+ "weights_only_4/pair2": {
+  "message_kinds_identical": true,
+  "turns": [
+   38,
+   38
+  ],
+  "runs": [
+   30,
+   30
+  ],
+  "nudges": [
+   7,
+   7
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "nudge",
+   "output 18",
+   "nudge",
+   "output 19",
+   "nudge",
+   "output 20",
+   "output 21",
+   "nudge",
+   "output 22",
+   "output 23",
+   "output 24",
+   "nudge",
+   "output 25",
+   "nudge",
+   "output 26",
+   "nudge",
+   "output 27",
+   "output 28",
+   "output 29",
+   "output 30"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "nudge",
+   "output 18",
+   "nudge",
+   "output 19",
+   "nudge",
+   "output 20",
+   "output 21",
+   "nudge",
+   "output 22",
+   "output 23",
+   "output 24",
+   "nudge",
+   "output 25",
+   "nudge",
+   "output 26",
+   "nudge",
+   "output 27",
+   "output 28",
+   "output 29",
+   "output 30"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 4.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ARCHITECTURE ==="
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 4.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LEARNED NORM WEIGHTS: QUANTILES ==="
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EMBEDDING-ROW GROUPS ==="
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 3.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MLP LINEAR-FACTOR IDENTITY CONTRASTS, B MINUS A ==="
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 4.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXPLICIT WEIGHT-SPACE SEMANTIC ANCHORS ==="
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 4.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== SELECTED UNIT FACTORS: TOKEN-WEIGHT COSINES ==="
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 8.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== CHANGED MLP INPUT DIRECTIONS AND SIGNED WRITER CONNECTIONS ==="
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 6.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EMBEDDING-WEIGHT METRIC ==="
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 5.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== IDENTITY-ALIGNMENT PERMUTATION CHECK ==="
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 4.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== STRONGEST EXISTING GUESS-MINUS-FACT INPUT-WEIGHT DIRECTIONS ==="
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DIRECT RESIDUAL CONNECTIONS INTO FIVE L17 NUMERICAL UNITS ==="
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 2.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DOES NUMERICAL-READER ENRICHMENT EXCEED COORDINATE LEVERAGE? ==="
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 1.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== POSITIONAL WEIGHT-KERNEL DEFINITIONS ==="
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== OUTPUT-WEIGHT CONTRAST SUBSPACES ==="
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 2.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== QUERY-DIRECTION ROBUSTNESS OF B-A BELIEF CONTRAST ==="
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXACT MIDPOINT DECOMPOSITION OF DIFFERENTIAL OV CONNECTIONS ==="
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ONE WEIGHT DIRECTION PER WORD IDENTITY ==="
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 2.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: EXACT UP/DOWN RESCALING SYMMETRY ==="
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 3.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NUMERICAL IDENTITY DIRECTIONS FROM EMBEDDING WEIGHTS ==="
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 4.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== SEMANTIC DIRECTIONS CONSTRUCTED FROM TOKEN WEIGHTS ==="
+   },
+   {
+    "run": 21,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DIFFERENT-VOCABULARY AND SINGLE-WORD ROBUSTNESS ==="
+   },
+   {
+    "run": 22,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== TOKENIZER CHAT TEMPLATE: DATA ONLY ==="
+   },
+   {
+    "run": 23,
+    "kind": "python",
+    "s": 2.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== USER-ROLE PATH: KEY-SIDE STRUCTURE AND EXACT FACTOR ATTRIBUTION ==="
+   },
+   {
+    "run": 24,
+    "kind": "python",
+    "s": 3.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== KEY-CONTEXT MARKING: STRONGEST CONSISTENT STATIC PATHS ==="
+   },
+   {
+    "run": 25,
+    "kind": "python",
+    "s": 2.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LAYER-1 HEAD COMPENSATION IN ROLE-TO-LATER-QUERY CONNECTIONS ==="
+   },
+   {
+    "run": 26,
+    "kind": "python",
+    "s": 20.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== VALUE-MATCHED DIFFERENCE SHUFFLE ==="
+   },
+   {
+    "run": 27,
+    "kind": "python",
+    "s": 1.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DENSE POSITIONAL WEIGHT-KERNEL CHECK ==="
+   },
+   {
+    "run": 28,
+    "kind": "python",
+    "s": 1.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== COMMON GAIN OF THE ENTIRE LAYER-1 VALUE/OUTPUT MAP ==="
+   },
+   {
+    "run": 29,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ABSOLUTE BASELINE ORIENTATION AND ROLE SEPARATION ==="
+   },
+   {
+    "run": 30,
+    "kind": "python",
+    "s": 5.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== AVAILABLE TOKEN-WEIGHT ANCHORS ==="
+   }
+  ]
+ },
+ "weights_only_4/pair3": {
+  "message_kinds_identical": true,
+  "turns": [
+   34,
+   34
+  ],
+  "runs": [
+   29,
+   29
+  ],
+  "nudges": [
+   4,
+   4
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   false,
+   false
+  ],
+  "stopped": "mock answers exhausted (the original conversation was stopped here)",
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output 20",
+   "output 21",
+   "output 22",
+   "output 23",
+   "nudge",
+   "output 24",
+   "nudge",
+   "output 25",
+   "nudge",
+   "output 26",
+   "nudge",
+   "output 27",
+   "output 28",
+   "output 29"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output 20",
+   "output 21",
+   "output 22",
+   "output 23",
+   "nudge",
+   "output 24",
+   "nudge",
+   "output 25",
+   "nudge",
+   "output 26",
+   "nudge",
+   "output 27",
+   "output 28",
+   "output 29"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 2.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ARCHITECTURE ==="
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 10.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Input embedding equals stored output matrix: True"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 5.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== SINGLE-TOKEN WEIGHT CONTRAST SETS ==="
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 14.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Digit-identity subspace dimension: 9"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 5.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MLP WEIGHT-PATH IDENTITY ALIGNMENTS ==="
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 1.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== TOKENIZER CHAT TEMPLATE (format information only) ==="
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 4.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== FACTORIAL DIAGONAL-SCALING CHECK: DIGIT DU WEIGHT PATH ==="
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 3.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== QUADRATIC WEIGHT-COEFFICIENT DIFFERENCES ==="
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 3.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Digit rank: 9 cue rank after removing digits: 28"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 1.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== POSITIONAL ROBUSTNESS OF SIGNED QK WEIGHT ASSOCIATIONS ==="
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 9.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== PRE-SPECIFIED GRAMMAR CONTROLS ==="
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 5.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXACT Q/K DECOMPOSITION OF LAYER-1 BELIEF ASSOCIATION CHANGE ==="
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 3.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ALL-HEAD ARITHMETIC-ASSOCIATION SCREEN ==="
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 6.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== AGGREGATE NUMERICAL-OUTPUT QUADRATIC COEFFICIENTS ==="
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 4.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== DOMAIN WEIGHT SUBSPACES ==="
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 3.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NUMERICAL OV WEIGHT-KERNEL DIFFERENCES: ALL HEADS ==="
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 1.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NUMERICAL TOKEN FORMS ==="
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 2.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LOW-RANK UPDATE CAPTURE OF SIGNED WEIGHT ASSOCIATIONS ==="
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 6.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EXACT UNITWISE NUMERICAL-COEFFICIENT ATTRIBUTION ==="
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 2.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== MIDPOINT-SELECTED NUMERAL WEIGHT MOTIFS ==="
+   },
+   {
+    "run": 21,
+    "kind": "python",
+    "s": 4.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== LINEAR WRITER-TO-MLP-READER WEIGHT CONNECTIONS ==="
+   },
+   {
+    "run": 22,
+    "kind": "python",
+    "s": 2.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== ROLE-RELATED TOKENS PRESENT IN TOKENIZER FILES ==="
+   },
+   {
+    "run": 23,
+    "kind": "python",
+    "s": 2.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== EARLY Q/K MATRIX RESCALING CHECK ==="
+   },
+   {
+    "run": 24,
+    "kind": "python",
+    "s": 4.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: HEAD REDISTRIBUTION / CANCELLATION ==="
+   },
+   {
+    "run": 25,
+    "kind": "python",
+    "s": 3.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: LOW-ORDER NUMERICAL RECALIBRATION ==="
+   },
+   {
+    "run": 26,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: NUMERICAL RECENCY BIAS ==="
+   },
+   {
+    "run": 27,
+    "kind": "python",
+    "s": 2.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: DIGIT REMAPPING VERSUS IDENTITY PRESERVATION ==="
+   },
+   {
+    "run": 28,
+    "kind": "python",
+    "s": 2.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: FEATURE-ALIGNED RECENCY AND TRANSPORT ==="
+   },
+   {
+    "run": 29,
+    "kind": "python",
+    "s": 3.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "=== NEW HYPOTHESIS: DIRECT BELIEF-GATING NUMERICAL WEIGHT MOTIFS ==="
+   }
+  ]
+ },
+ "attention_tool/pair1": {
+  "message_kinds_identical": true,
+  "turns": [
+   15,
+   15
+  ],
+  "runs": [
+   14,
+   14
+  ],
+  "nudges": [
+   0,
+   0
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 7.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "attention",
+    "s": 14.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 5: saved /work/attn/r5/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r5/tokens.json"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 1.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FINAL QUERY -> GUESSED TOKEN: TOP ABSOLUTE B-A CHANGES"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 5.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Readable vocabulary size: 139461"
+   },
+   {
+    "run": 5,
+    "kind": "attention",
+    "s": 16.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 6: saved /work/attn/r6/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r6/tokens.json"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 1.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "QUERY: response_start"
+   },
+   {
+    "run": 7,
+    "kind": "attention",
+    "s": 14.4,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 7: saved /work/attn/r7/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r7/tokens.json"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ROBUSTNESS: B-A CHANGE IN PROPOSAL MINUS EVIDENCE ATTENTION"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 2.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOP LOCAL QK-KERNEL RELATIVE CHANGES (NOT CAUSAL RANK)"
+   },
+   {
+    "run": 10,
+    "kind": "attention",
+    "s": 15.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 8: saved /work/attn/r8/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r8/tokens.json"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 3.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SOURCE DISCRIMINATION: mean attention [own, other, record]"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 2.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "SUBSPACE DIMENSIONS: {'digits03': 3, 'digits47': 3, 'letters': 3, 'colors': 3, 'yesno': 1, 'truth': 1}"
+   },
+   {
+    "run": 13,
+    "kind": "attention",
+    "s": 13.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 9: saved /work/attn/r9/t<i>_A.npy and t<i>_B.npy for i = 0..7 ([layers, heads, query, key], float16) and /work/attn/r9/tokens.json"
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 1.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "METRICS: [proposal, record, correct-option-label, correct-option-value, wrong-option-label, options-total]"
+   }
+  ]
+ },
+ "attention_tool/pair2": {
+  "message_kinds_identical": true,
+  "turns": [
+   21,
+   21
+  ],
+  "runs": [
+   20,
+   20
+  ],
+  "nudges": [
+   0,
+   0
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output+last 20"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output+last 20"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 6.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "CONFIG A"
+   },
+   {
+    "run": 2,
+    "kind": "python",
+    "s": 4.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "BASE MATRIX NORMS: q k v o gate up down"
+   },
+   {
+    "run": 3,
+    "kind": "attention",
+    "s": 21.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 5: saved /work/attn/r5/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r5/tokens.json"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "TOKEN FILE STRUCTURE: list"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 2.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "English-like vocabulary rows: 139585"
+   },
+   {
+    "run": 6,
+    "kind": "python",
+    "s": 5.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "digits [('0', 236771), ('1', 236770), ('2', 236778), ('3', 236800), ('4', 236812), ('5', 236810), ('6', 236825), ('7', 236832), ('8', 236828), ('9', 236819)]"
+   },
+   {
+    "run": 7,
+    "kind": "attention",
+    "s": 18.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 6: saved /work/attn/r6/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r6/tokens.json"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FINAL-QUERY SOURCE ROUTING"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 2.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "READOUT-SUBSPACE RANKS: {'digits': 9, 'number_words': 9, 'letters': 9, 'content': 9}"
+   },
+   {
+    "run": 10,
+    "kind": "python",
+    "s": 2.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LOCAL QK WEIGHT DIFFERENCES"
+   },
+   {
+    "run": 11,
+    "kind": "attention",
+    "s": 15.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 7: saved /work/attn/r7/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r7/tokens.json"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ARITHMETIC SOURCE-SWITCH RANKING (DESCRIPTIVE, NOT CAUSAL IMPORTANCE)"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 0.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "EXACT MIDPOINT DECOMPOSITION OF QK WEIGHT-PRODUCT DIFFERENCE"
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 1.3,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "L,H 5 1"
+   },
+   {
+    "run": 15,
+    "kind": "python",
+    "s": 2.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "digit_contrasts rank 9 tokens ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+   },
+   {
+    "run": 16,
+    "kind": "attention",
+    "s": 13.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 8: saved /work/attn/r8/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r8/tokens.json"
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FINAL-QUERY ROUTING"
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 3.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "MLP OUTPUT DIFFERENCES RELATIVE TO SHARED BASELINE"
+   },
+   {
+    "run": 19,
+    "kind": "python",
+    "s": 1.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "digits ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "countries [' Argentina', ' Bolivia', ' Colombia', ' Morocco', ' Croatia', ' Venezuela', ' Brazil', ' France', ' Germany', ' China', ' India', ' Japan', ' Canada"
+   }
+  ]
+ },
+ "attention_tool/pair3": {
+  "message_kinds_identical": true,
+  "turns": [
+   21,
+   21
+  ],
+  "runs": [
+   20,
+   20
+  ],
+  "nudges": [
+   0,
+   0
+  ],
+  "format_retries": [
+   0,
+   0
+  ],
+  "done": [
+   true,
+   true
+  ],
+  "stopped": null,
+  "kinds_orig": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output+last 20"
+  ],
+  "kinds_ours": [
+   "first",
+   "output 1",
+   "output 2",
+   "output 3",
+   "output 4",
+   "output 5",
+   "output 6",
+   "output 7",
+   "output 8",
+   "output 9",
+   "output 10",
+   "output 11",
+   "output 12",
+   "output 13",
+   "output 14",
+   "output 15",
+   "output 16",
+   "output 17",
+   "output 18",
+   "output 19",
+   "output+last 20"
+  ],
+  "runs_detail": [
+   {
+    "run": 1,
+    "kind": "python",
+    "s": 3.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ARCHITECTURE"
+   },
+   {
+    "run": 2,
+    "kind": "attention",
+    "s": 13.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 5: saved /work/attn/r5/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r5/tokens.json"
+   },
+   {
+    "run": 3,
+    "kind": "python",
+    "s": 1.7,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "FINAL QUERY -> GUESS TOKEN: largest absolute B-A differences"
+   },
+   {
+    "run": 4,
+    "kind": "python",
+    "s": 3.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Readable vocabulary rows: 139605"
+   },
+   {
+    "run": 5,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "GUESS SHARE OF (GUESS + QUESTION) ATTENTION"
+   },
+   {
+    "run": 6,
+    "kind": "attention",
+    "s": 14.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 6: saved /work/attn/r6/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r6/tokens.json"
+   },
+   {
+    "run": 7,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "REPEATED PROMPT DETERMINISM CHECK"
+   },
+   {
+    "run": 8,
+    "kind": "python",
+    "s": 3.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "Display vocabulary: 58316 centered for cosine interpretation"
+   },
+   {
+    "run": 9,
+    "kind": "python",
+    "s": 1.8,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "L17 unit 1180: gate/up cosine A=-0.4219; overlap coefficient A/B=-0.364693/-0.365065"
+   },
+   {
+    "run": 10,
+    "kind": "attention",
+    "s": 14.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 7: saved /work/attn/r7/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r7/tokens.json"
+   },
+   {
+    "run": 11,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "BELIEF-SPECIFIC GUESS SHARE: A effect minus B effect"
+   },
+   {
+    "run": 12,
+    "kind": "python",
+    "s": 2.0,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "digits rank 9 multi-token approximations []"
+   },
+   {
+    "run": 13,
+    "kind": "python",
+    "s": 8.9,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "OUTPUT-CONDITIONED EVEN-CORE COEFFICIENT MATRICES, B-A"
+   },
+   {
+    "run": 14,
+    "kind": "python",
+    "s": 2.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "LOCAL QK BILINEAR CHANGES; activation-dependent Q/K RMS factors omitted"
+   },
+   {
+    "run": 15,
+    "kind": "attention",
+    "s": 16.5,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 8: saved /work/attn/r8/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r8/tokens.json"
+   },
+   {
+    "run": 16,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "WRONG-GUESS CASES: guessed/(guessed+factual) answer attention"
+   },
+   {
+    "run": 17,
+    "kind": "python",
+    "s": 1.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "HEAD-MAP COSINES IN A: shared-value operator cancellation"
+   },
+   {
+    "run": 18,
+    "kind": "python",
+    "s": 1.6,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "NET LEXICAL IDENTITY-TRACE ADVANTAGE: A-B"
+   },
+   {
+    "run": 19,
+    "kind": "attention",
+    "s": 18.2,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "ATTENTION TOOL call 9: saved /work/attn/r9/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r9/tokens.json"
+   },
+   {
+    "run": 20,
+    "kind": "python",
+    "s": 0.1,
+    "orig_error": null,
+    "our_error": null,
+    "our_first_line": "HOLDOUT: BELIEF-SPECIFIC GUESS SHARE, A EFFECT MINUS B EFFECT"
+   }
+  ]
+ }
+}

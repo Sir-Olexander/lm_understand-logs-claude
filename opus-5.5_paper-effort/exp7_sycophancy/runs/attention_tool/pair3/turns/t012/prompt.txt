@@ -1,0 +1,93 @@
+OUTPUT of run 11 of at most 20:
+```
+per-head relative change: q rows, o cols; shared k, v
+L 0 q: 0.0056 0.0062 0.0056 0.0058  o: 0.0053 0.0079 0.0076 0.0049  k:0.0057 v:0.0055
+L 1 q: 0.0056 0.0064 0.0056 0.0066  o: 0.0103 0.0096 0.0106 0.0079  k:0.0059 v:0.0058
+L 2 q: 0.0059 0.0058 0.0066 0.0063  o: 0.0067 0.0068 0.0066 0.0105  k:0.0060 v:0.0058
+L 3 q: 0.0068 0.0056 0.0061 0.0066  o: 0.0088 0.0111 0.0100 0.0154  k:0.0060 v:0.0057
+L 4 q: 0.0062 0.0065 0.0062 0.0064  o: 0.0125 0.0135 0.0112 0.0078  k:0.0060 v:0.0061
+L 5 q: 0.0060 0.0090 0.0064 0.0060  o: 0.0062 0.0082 0.0082 0.0091  k:0.0064 v:0.0063
+L 6 q: 0.0071 0.0075 0.0059 0.0066  o: 0.0081 0.0066 0.0093 0.0081  k:0.0065 v:0.0061
+L 7 q: 0.0069 0.0076 0.0064 0.0061  o: 0.0090 0.0051 0.0084 0.0108  k:0.0065 v:0.0059
+L 8 q: 0.0069 0.0067 0.0065 0.0066  o: 0.0074 0.0098 0.0116 0.0082  k:0.0064 v:0.0063
+L 9 q: 0.0074 0.0076 0.0056 0.0070  o: 0.0075 0.0055 0.0081 0.0089  k:0.0068 v:0.0061
+L10 q: 0.0074 0.0073 0.0072 0.0076  o: 0.0067 0.0073 0.0074 0.0055  k:0.0071 v:0.0062
+L11 q: 0.0062 0.0068 0.0077 0.0071  o: 0.0075 0.0093 0.0059 0.0052  k:0.0070 v:0.0062
+L12 q: 0.0082 0.0071 0.0073 0.0078  o: 0.0072 0.0076 0.0066 0.0075  k:0.0074 v:0.0055
+L13 q: 0.0067 0.0062 0.0056 0.0080  o: 0.0086 0.0098 0.0092 0.0080  k:0.0064 v:0.0063
+L14 q: 0.0067 0.0065 0.0072 0.0068  o: 0.0069 0.0057 0.0068 0.0073  k:0.0069 v:0.0063
+L15 q: 0.0071 0.0078 0.0073 0.0069  o: 0.0077 0.0062 0.0087 0.0082  k:0.0074 v:0.0065
+L16 q: 0.0069 0.0075 0.0069 0.0064  o: 0.0103 0.0115 0.0093 0.0123  k:0.0070 v:0.0065
+L17 q: 0.0063 0.0065 0.0078 0.0060  o: 0.0055 0.0080 0.0068 0.0084  k:0.0065 v:0.0056
+
+L12h3 |dM|/|M|=0.0279 s[:4]=[1.     0.6412 0.5185 0.4344]
+  sv0 query+ ['７', '６', '９', '４', '已知', 'бол', ' connections', '８', ' hashedPassword', ' ninety', ' foothold', ' eighties']
+       key+   ['otope', 'ogeneities', 'agements', 'justify', 'véd', '鳅', 'ご覧', 'otopic', 'imension', 'lords', 'issements', ' defray']
+       query- [' baad', ' Menlo', 'onec', ' Trock', ' indifer', '小屋', ' corto', ' erythe', ' sukh', ' dividir', 'toJSON', 'cipit']
+       key-   ['7', '5', '8', '6', '9', '4', '3', '0', '1', '５', '2', '７']
+  sv1 query+ [' sewers', ' tenement', ' shores', ' asleep', ' Play', ' Lament', ' Sod', 'lucent', ' Paint', ' Renew', ' wastewater', 'fillna']
+       key+   ['亥', 'ProjectPath', ' Soils', ' nonexpansive', ' tierras', 'Assemblies', ' terres', ' erricht', ' Huey', ' collectivités', 'монт', ' tông']
+       query- ['5', '6', ' raggiunto', '9', '8', '0', 'deoxy', '⃣', '4', ' pagina', '7', ' página']
+       key-   ['ast', 'oud', 'ovo', 'aptop', ' screen', 'orm', 'string', 'ussy', ' गर्', 'ét', ' dizzy', 'raag']
+
+L12h1 |dM|/|M|=0.0224 s[:4]=[1.     0.655  0.5278 0.5141]
+  sv0 query+ [' longo', 'zeit', ' tempi', ' krótk', ' corto', ' courte', '荟', ' pięk', ' vliegt', ' ogrom', 'タク', ' szyb']
+       key+   [' accomod', 'issements', '婢', ' [![', 'صورت', 'انب', '})_{\\', 'ทางการ', ' coffers', ' sideline', '}}(-', 'otope']
+       query- [' 第三', ' allError', ' userRepository', '등록', ' FontFamily', ' Pledge', 'áter', 'сини', ' rerun', 'antiation', ' باندې', 'registration']
+       key-   ['7', '5', '8', '4', '6', '9', '3', '0', '1', '５', '2', '８']
+  sv1 query+ [' TNF', ' Cote', ' Watan', ' Hague', '日常', 'Cau', ' Toc', ' Côte', 'Champ', ' apna', 'rient', 'Votre']
+       key+   [' i', ' hubiera', ' بخوان', 'さまざまな', 'maso', 'ibs', '籮', 'كري', ' подвер', ' opge', 'oupe', 'تے']
+       query- ['4', '3', '5', '7', '8', '6', '9', '2', '1', '0', '摇头', 'ماس']
+       key-   ['Genus', ' Adası', '乂', ' reinvest', ' sedation', ' relegation', 'ctuaries', ' incend', ' teat', ' monies', 'iland', 'bonding']
+
+L12h0 |dM|/|M|=0.0291 s[:4]=[1.     0.7259 0.5794 0.4778]
+  sv0 query+ ['3', '9', '4', '5', '6', '8', '7', '９', '1', '４', '７', '６']
+       key+   [' assassins', 'automobile', 'sw', 'copy', ' Ct', ' automobile', 'Dh', 'VIII', 'ute', ' shik', 'COMP', ' éch']
+       query- [' bloss', ' Hawai', ' 感じ', ' toot', ' Davos', ' Wai', ' Cote', '馴', ' Kobe', 'raison', ' triage', '小屋']
+       key-   ['mıştı', 'isdir', '="$(', ' comunitario', ' aguas', 'myer', 'вовано', '前回', 'américa', 'ikian', ' Patreon', 'nivers']
+  sv1 query+ [' gasoline', ' concerts', ' Petrol', ' Asphalt', ' playgrounds', '星星', ' Cars', ' gas', ' cars', ' parking', ' coexistence', ' Sewer']
+       key+   ['7', '8', '5', '9', ' Feuer', '6', '4', '3', ' ignite', 'inci', 'connected', ' succumbed']
+       query- [' página', 'נון', '𝙛', ' halaman', ' protocolo', 'ตร์', 'batasan', ' humain', '5', ' lengan', ' raggiunto', 'stven']
+       key-   [' accomod', 'letes', 'ueses', '깁', 'iciente', 'etically', 'ratulations', ' schedu', '驳', 'のと', ' selectors', 'ested']
+
+L10h2 |dM|/|M|=0.0098 s[:4]=[1.     0.9102 0.7808 0.6769]
+  sv0 query+ [' emphasise', ' specialises', ' specialise', ' Marbella', ' SII', ' customise', ' prioritise', '🐌', ' sharpness', ' 갖고', 'UAE', ' Kobe']
+       key+   ['QPushButton', ' Remover', ' adı', 'udur', '={()', 'āja', 'elbe', ' interse', ' REPORTER', ' contributor', ' {/*', 'adduser']
+       query- ['3', '4', '1', '5', ' remainder', '6', ' ', '7', 'jahteraan', '烬', '2', 'ainder']
+       key-   ['Tables', 'tables', ' tables', 'classical', ' Ст', ' Martyn', 'ready', ' Mathews', 'шым', 'FAM', 'fy', 'table']
+  sv1 query+ ['plural', 'ַ', 'coal', ' eer', ' bleak', 'SELECT', ' alphabetically', ' 없음', ' соли', ' alternately', 'カラー', 'Alphabet']
+       key+   ['4', '8', '7', '5', '6', '0', '9', '3', '2', '1', '８', '٥']
+       query- ['줘야', ' которую', ' odu', 'žu', 'legd', ' pengetahuan', 'iaire', ' menyimpan', ' vade', 'orky', 'iana', '年中']
+       key-   [' :}', ']/*', ' yatha', '}[(', ' tagName', '쯜', ' inhomogeneities', 'ご覧', '시켜', 'здат', ' $(*', ' `=']
+
+L9h0 |dM|/|M|=0.0189 s[:4]=[1.     0.7544 0.6695 0.5409]
+  sv0 query+ ['0', '3', 'plane', 'arkan', 'ointers', '1', 'passen', '才能', 'inet', 'arke', 'ربعة', '2']
+       key+   [' [*', 'Opens', ' residency', 'schemaLocation', ' Nearby', ' fulfill', ' "${', '望', '}}\\\\', ' servitude', ' neither', 'edale']
+       query- [' Vell', ' 품', ' Proc', ' Kall', ' Sø', ' polym', '錆', ' Bartholom', ' eBay', ' Moff', 'ELSE', ' Ponte']
+       key-   ['7', '8', '6', '4', '5', '3', '0', '2', '9', '1', 'pm', 'arah']
+  sv1 query+ [' newer', '4', 'newer', '3', 'idone', ' playable', 'έα', 'idikan', ' Actual', ' Accepts', ' gült', ' Accepted']
+       key+   ['5', '4', '7', ' equal', ' Sa', '9', '8', '6', ' less', ' stored', '3', ' sa']
+       query- [' meticul', ' Waugh', 'oton', '损伤', ' الزمن', 'kovic', '总理', ' Gramm', 'لوم', '蟬', 'jeli', 'ayeva']
+       key-   ['}}]{', '謹', ' catálogo', '@(', 'แหล่ง', ' című', '"".', ' sizlerle', 'ictwa', ' bertanggung', ' ricon', '\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t']
+
+L9h1 |dM|/|M|=0.0144 s[:4]=[1.     0.8616 0.7032 0.696 ]
+  sv0 query+ ['5', '3', '6', '7', '4', '8', '9', '0', '1', '2', '５', 'ربعة']
+       key+   ['0', '5', '8', '3', '9', '6', '4', '7', ' thousand', ' formic', 'arcs', ' minutes']
+       query- ['츤', ' Biochim', 'ujući', ' Turf', '鋆', ' Bakery', ' teritor', 'ELSE', ' nigg', ' forhold', ' biofilms', '自家']
+       key-   [' }:', '.:', ' `=', ':*', ' `:', ' formalism', ':**', ' grantResults', 'bereitung', 'breviation', '祅', ' 통한']
+  sv1 query+ [' IBA', ' gentamicin', 'DHL', ' impregnation', 'lhe', ' zircon', ' MACHINERY', 'oulli', 'worm', 'oley', ' بعمل', ' burlap']
+       key+   ['7', '4', '8', '5', '6', '3', '9', '2', ' equal', '0', 'ربعة', '৪৪']
+       query- [' cros', 'anoate', ' exacerb', 'чее', ' challenger', '<s>', 'alliative', '其余', '北大', 'վել', 'south', ' Chalmers']
+       key-   [' rupam', '녕하', ' Kinney', ' Mansion', 'ดูแล', '숩', 'าลัย', '迩', ' Grub', ' Kamath', 'popularity', ' 款']
+
+L7h0 |dM|/|M|=0.0134 s[:4]=[1.     0.6783 0.6336 0.513 ]
+  sv0 query+ [' personality', 'environ', ' bath', ' majority', ' population', ' <', ' residents', ' `<', ' whole', ' flowers', ' estimated', ' people']
+       key+   [' papa', ' chấp', ' pyr', ' äuß', ' 커', ' Bruder', 'ði', ' 아직', ' 해', ' somewhere', ' 나가', ' хотя']
+       query- ['נס', 'lick', 'bets', 'orrag', 'Screens', 'quina', ' McE', 'iski', ' Shreveport', ' RBS', ' сет', 'laš']
+       key-   ['asters', ' Purposes', ' redundancies', 'uces', 'いただきます', 'rowth', 'ordinated', 'idents', 'Roses', 'hares', ' shutdowns', 'ordinating']
+  sv1 query+ [' empty', ' Lat', ' vacant', ' filling', ' girls', ' Pans', ' lat', ' Tent', 'щены', ' tent', ' Empty', ' Henson']
+       key+   ['5', '0', 'phabet', ' computadora', '4', '〇', 'uated', ' pencils', 'pencil', 'чков', 'pokemon', ' iguais']
+       query- ['lege', 'ugi', 'Wiley', 'orbid', 'astal', ' magas', ' ngại', ' Orsay', 'muştur', 'elmi', 'Boulder', 'estand']
+       key-   [' enterprising', '如何在', ' implications', ' Tread', 'anners', ' Directorate', ' Conn', ' Strategy', ' Ain', ' Risk', ' defenders', ' campagna']
+
+```

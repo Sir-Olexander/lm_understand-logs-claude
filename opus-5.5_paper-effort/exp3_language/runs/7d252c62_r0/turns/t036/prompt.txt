@@ -1,0 +1,43 @@
+OUTPUT of run 35 of at most 100:
+```
+proxy: #neurons with argmax_a=argmax_b=k ; argmax_a=argmax_b=argmax_c=k ; argmax_a=argmax_c=k
+ 0:   0   0   0   (n argmax_a=15)
+ 1:   0   0   1   (n argmax_a=5)
+ 2:  21   2  11   (n argmax_a=123)
+ 3:   3   1   7   (n argmax_a=57)
+ 4:   3   0   2   (n argmax_a=32)
+ 5:   7   4   9   (n argmax_a=55)
+ 6:   0   0   0   (n argmax_a=15)
+ 7:   3   3   7   (n argmax_a=41)
+ 8:   1   0   3   (n argmax_a=28)
+ 9:   3   0   1   (n argmax_a=41)
+10:   1   0   2   (n argmax_a=20)
+11:   2   1   7   (n argmax_a=30)
+12:   5   4  10   (n argmax_a=46)
+13:   1   0   0   (n argmax_a=11)
+14:   2   2   3   (n argmax_a=29)
+15:   0   0   5   (n argmax_a=23)
+16:   3   2   7   (n argmax_a=29)
+17:   5   5   7   (n argmax_a=38)
+18:   4   3   8   (n argmax_a=48)
+19:  10   6   8   (n argmax_a=39)
+20:   0   0   0   (n argmax_a=22)
+21:   0   0   1   (n argmax_a=17)
+22:   4   2   4   (n argmax_a=28)
+23:   0   0   3   (n argmax_a=22)
+24:   2   2   4   (n argmax_a=31)
+25:   2   1   3   (n argmax_a=15)
+26:   1   0   1   (n argmax_a=9)
+27:   3   3   6   (n argmax_a=14)
+28:   1   0   2   (n argmax_a=30)
+29:   0   0   0   (n argmax_a=8)
+cluster19 neurons: own a,b,c,d :
+    459 0.69 0.1 0.36 0.23  b-rank of own 2  c-rank 0  c-top [19 14 27]
+    1335 0.56 0.19 0.19 0.26  b-rank of own 0  c-rank 0  c-top [19 22  4]
+    1069 0.32 0.31 0.33 0.31  b-rank of own 0  c-rank 0  c-top [19 14  9]
+    1226 0.26 0.33 0.32 0.3  b-rank of own 0  c-rank 0  c-top [19 14  9]
+    896 0.33 0.06 0.19 0.14  b-rank of own 0  c-rank 0  c-top [19 16 28]
+    628 0.31 0.24 0.33 0.27  b-rank of own 0  c-rank 0  c-top [19 28 20]
+    1044 0.18 0.0 0.03 0.02  b-rank of own 12  c-rank 0  c-top [19 27 12]
+
+```

@@ -1,0 +1,17 @@
+OUTPUT of run 48 of at most 60:
+```
+(5-11) minus (1-4): corr with copy score +0.099; copy mean +0.02 (frac>0 0.52); anti mean -0.78 (frac>0 0.30)
+(12-30) minus (5-11): corr with copy score +0.257; copy mean +0.36 (frac>0 0.61); anti mean -0.97 (frac>0 0.20)
+per-layer copy-minus-anti contrasts [(5-11)-(1-4), (12-30)-(5-11)]:
+  L5: +1.02 +2.39
+  L6: -3.95 -4.55
+  L7: -0.24 +2.99
+  L8: +2.42 +2.14
+  L9: +4.12 +2.97
+  L11: +0.10 +0.25
+  L12: +0.94 -3.70
+  L13: +2.85 +2.55
+  L15: +0.15 +3.11
+  L17: -0.15 +5.72
+
+```

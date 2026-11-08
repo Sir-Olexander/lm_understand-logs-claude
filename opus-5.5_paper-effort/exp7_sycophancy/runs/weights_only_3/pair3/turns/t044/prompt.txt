@@ -1,0 +1,8 @@
+OUTPUT of run 43 of at most 60:
+```
+ANSWER subspace: corr +0.292  S +19.63
+RANDOM (40): corr mean +0.036 sd 0.142  frac>=answer 0.000;  S mean -2.76 sd 9.15 frac>=answer 0.000
+STRUCTURED mid-layer (20): corr mean +0.028 sd 0.140 frac>=answer 0.050; S mean -2.78 sd 8.25 frac>=answer 0.000
+top mid-layer structured subspace itself: corr +0.083 S -1.68
+
+```

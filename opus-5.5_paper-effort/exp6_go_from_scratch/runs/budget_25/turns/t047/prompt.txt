@@ -1,0 +1,85 @@
+OUTPUT of Python run 40 of at most 120:
+```
+[((0, (2,)), 98), ((1, (1,)), 27), ((0, (1, 2)), 9), ((1, (2,)), 2), ((1, (1, 2)), 1)]
+(0, (2,)) 0 60 (8, 8) opp nbr libs [14] [((8, 6), 0.5498), ((8, 8), 0.4502)]
+.O.O.O...
+.OXOXOOOO
+.O.OXOXX.
+.OOOOOOXO
+.XXXOOOO.
+..XXXXOXX
+.XXXXXOOO
+...X.XOOO
+.......X.
+(0, (2,)) 3 76 (0, 8) opp nbr libs [9] [((7, 5), 0.5009), ((8, 1), 0.1011)]
+.O.O.OOO.
+OOXOOOOOX
+OOX.OOXX.
+OOOOOX.XX
+OXXXXXXX.
+OOOOXXXXX
+OOXXXXXX.
+.OOOX.XO.
+X..O.....
+(0, (2,)) 3 88 (0, 8) opp nbr libs [5] [((0, 8), 1.0), ((9, 0), 0.0)]
+OOOO.OOO.
+OOXOOOOOX
+OOX.OOXX.
+OOOOOX.XX
+OXXXXXXX.
+OOOOXXXXX
+OOXXXXXX.
+OOOOX.X.X
+X.OO.XXX.
+(0, (2,)) 3 100 (0, 8) opp nbr libs [3] [((0, 8), 1.0), ((9, 0), 0.0)]
+OOOOOOOO.
+OO.OOOOOX
+OOXOOOXX.
+OOOOOX.XX
+OXXXXXXX.
+OOOOXXXXX
+OOXXXXXX.
+OOOOX.X.X
+.OOOOXXX.
+(1, (1,)) 0 62 (8, 6) opp nbr libs [12] [((8, 6), 1.0), ((5, 1), 0.0)]
+.O.O.O...
+.OXOXOOOO
+.OOOXOXX.
+.OOOOOOXO
+.XXXOOOO.
+..XXXXOXX
+.XXXXXOOO
+...X.XOOO
+.......XX
+(1, (1,)) 7 40 (2, 8) opp nbr libs [4] [((2, 8), 0.9997), ((6, 2), 0.0001)]
+.........
+...XXOOO.
+.OOXOOOX.
+.XOOOOXXO
+..XXXXOOO
+.XXXXOOXX
+...XXXOO.
+.........
+.........
+(1, (1,)) 9 76 (0, 7) opp nbr libs [10] [((0, 7), 0.9919), ((9, 0), 0.0077)]
+O.O.OXX..
+OOO.OOXOO
+XOOOOOOOX
+.OOOXOOO.
+O.OOXXXOO
+O.OXX.XXO
+OOXXXXXX.
+OOOXXXXXX
+.XOXX.XX.
+(1, (1,)) 22 58 (0, 2) opp nbr libs [8] [((0, 2), 1.0), ((7, 5), 0.0)]
+X..OOO.O.
+XOXXOOOXO
+.OOXXOXX.
+.OOOOOOOO
+.XXXXXXOO
+..X.XXOOO
+.XXXXXOOO
+.X.XX.XO.
+X........
+
+```

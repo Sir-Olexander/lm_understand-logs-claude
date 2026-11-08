@@ -1,0 +1,50 @@
+[
+ {
+  "id": "246a5b58",
+  "true": "triangle",
+  "mode": "open",
+  "guess": "triangle",
+  "correct": true,
+  "answer_line": "my best reading is **a single white, hollow, upward-pointing triangle on black**, approximately centered, with a near-horizontal base low in the image. typical ",
+  "confidence": 88,
+  "reasoning_summary": [],
+  "tool_free": null,
+  "mock": true,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "usage": null,
+  "wall_s": null
+ },
+ {
+  "id": "a6a9dfb7",
+  "true": "square",
+  "mode": "open",
+  "guess": "square",
+  "correct": true,
+  "answer_line": "my best reading is **white, approximately one-pixel-thick rectangular outlines on black**, generally one rectangle per image. they vary in position and aspect r",
+  "confidence": 77,
+  "reasoning_summary": [],
+  "tool_free": null,
+  "mock": true,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "usage": null,
+  "wall_s": null
+ },
+ {
+  "id": "d88aba69",
+  "true": "circle",
+  "mode": "open",
+  "guess": "circle",
+  "correct": true,
+  "answer_line": "my best reading is **a single white circle outline on black, with a black interior**, roughly 8\u201310 pixels across, approximately centered, with modest variation ",
+  "confidence": 84,
+  "reasoning_summary": [],
+  "tool_free": null,
+  "mock": true,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "usage": null,
+  "wall_s": null
+ }
+]

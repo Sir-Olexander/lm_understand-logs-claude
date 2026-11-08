@@ -1,0 +1,23 @@
+OUTPUT of run 11 of at most 60:
+```
+L 0 dDown~Up^T +0.30 (sign -0.40) dDown~Gate^T -1.21 | dUp~Down^T -0.98 dGate~Down^T +1.32 | ctrl std 0.70
+L 1 dDown~Up^T -0.56 (sign +0.46) dDown~Gate^T -0.31 | dUp~Down^T -0.05 dGate~Down^T -0.01 | ctrl std 0.77
+L 2 dDown~Up^T -0.66 (sign -0.28) dDown~Gate^T +0.90 | dUp~Down^T -1.51 dGate~Down^T +1.11 | ctrl std 0.70
+L 3 dDown~Up^T -0.91 (sign -2.09) dDown~Gate^T +0.25 | dUp~Down^T -0.73 dGate~Down^T -0.23 | ctrl std 0.86
+L 4 dDown~Up^T -1.97 (sign -1.23) dDown~Gate^T +1.33 | dUp~Down^T -0.32 dGate~Down^T +0.97 | ctrl std 0.71
+L 5 dDown~Up^T -0.30 (sign -0.66) dDown~Gate^T -1.54 | dUp~Down^T -0.20 dGate~Down^T +0.80 | ctrl std 0.84
+L 6 dDown~Up^T -1.12 (sign -1.11) dDown~Gate^T +0.27 | dUp~Down^T -0.22 dGate~Down^T +0.38 | ctrl std 0.64
+L 7 dDown~Up^T +0.70 (sign +0.33) dDown~Gate^T +0.18 | dUp~Down^T -0.34 dGate~Down^T +0.25 | ctrl std 0.71
+L 8 dDown~Up^T +0.62 (sign +1.56) dDown~Gate^T -1.95 | dUp~Down^T -1.03 dGate~Down^T +2.37 | ctrl std 0.67
+L 9 dDown~Up^T -0.03 (sign -0.35) dDown~Gate^T +0.76 | dUp~Down^T -0.62 dGate~Down^T +1.22 | ctrl std 0.98
+L10 dDown~Up^T -0.83 (sign -0.69) dDown~Gate^T +0.97 | dUp~Down^T +1.42 dGate~Down^T -0.30 | ctrl std 0.71
+L11 dDown~Up^T -0.13 (sign -0.37) dDown~Gate^T -0.60 | dUp~Down^T -0.24 dGate~Down^T +0.75 | ctrl std 0.83
+L12 dDown~Up^T -0.19 (sign -0.29) dDown~Gate^T +0.45 | dUp~Down^T -0.64 dGate~Down^T +0.71 | ctrl std 0.85
+L13 dDown~Up^T +0.72 (sign +1.20) dDown~Gate^T +0.36 | dUp~Down^T -0.12 dGate~Down^T +0.75 | ctrl std 0.90
+L14 dDown~Up^T -0.29 (sign -0.10) dDown~Gate^T -1.59 | dUp~Down^T +0.85 dGate~Down^T -0.85 | ctrl std 0.81
+L15 dDown~Up^T -0.27 (sign -1.10) dDown~Gate^T -0.91 | dUp~Down^T -0.65 dGate~Down^T -0.16 | ctrl std 0.88
+L16 dDown~Up^T +1.01 (sign +0.77) dDown~Gate^T -0.51 | dUp~Down^T +1.79 dGate~Down^T +1.44 | ctrl std 0.92
+L17 dDown~Up^T -0.51 (sign -0.03) dDown~Gate^T -0.81 | dUp~Down^T +1.48 dGate~Down^T +1.20 | ctrl std 0.89
+mean same -0.2439364 ctrl mean 0.06870746 ctrl std 0.81681585
+
+```

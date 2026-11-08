@@ -1,0 +1,21 @@
+OUTPUT of Python run 8 of at most 120:
+```
+69 opponent 0 None
+70 net 38 [[38, 0.4563], [68, 0.1244], [71, 0.0618], [81, 0.0618], [36, 0.0375]]
+71 opponent 3 None
+72 net 71 [[13, 0.1897], [11, 0.1151], [12, 0.1151], [68, 0.1151], [71, 0.0571]]
+73 opponent 36 None
+74 net 62 [[27, 0.4992], [62, 0.4992], [13, 0.0003], [11, 0.0002], [12, 0.0002]]
+75 opponent 80 None
+76 net 71 [[27, 0.4992], [71, 0.4992], [13, 0.0003], [11, 0.0002], [12, 0.0002]]
+O..O...O.  O..O...O.  O..O...O.  O..O...O.  O..O...O.  O..O...O.
+.O...OO.O  .O...OO.O  .O...OO.O  .O...OO.O  .O...OO.O  .O...OO.O
+OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.
+.OOOOOOOO  .OOOOOOOO  .OOOOOOOO  .OOOOOOOO  .OOOOOOOO  .OOOOOOOO
+.XXXXXXXO  .XXXXXXXO  OXXXXXXXO  OXXXXXXXO  OXXXXXXXO  OXXXXXXXO
+X.XXXXOOO  X.XXXXOOO  X.XXXXOOO  X.XXXXOOO  X.XXXXOOO  X.XXXXOOO
+.X.X.XXO.  .X.X.XXO.  .X.X.XXO.  .X.X.XXOX  .X.X.XXO.  .X.X.XXO.
+..X.X.OO.  ..X.X.OOX  ..X.X.OOX  ..X.X.OOX  ..X.X.OO.  ..X.X.OOX
+XX.....X.  XX.....X.  XX.....X.  XX.....X.  XX.....XO  XX.....X.
+
+```

@@ -1,0 +1,393 @@
+[2026-11-08T06:07:44+00:00] budget_50 turn 1: new conversation (6,312 chars)
+[2026-11-08T06:31:28+00:00] budget_50   WARNING: the reply hit the 128k output limit; the CLI continued it automatically 1 time(s) (see run.json)
+[2026-11-08T06:31:28+00:00] budget_50 turn 1: python; runs 1, passes 0/50
+[2026-11-08T06:31:28+00:00] budget_50 turn 2: resume (72 chars)
+[2026-11-08T06:35:25+00:00] budget_50 turn 2: python; runs 2, passes 0/50
+[2026-11-08T06:35:25+00:00] budget_50 turn 3: resume (74 chars)
+[2026-11-08T06:35:32+00:00] budget_50 turn 3: python; runs 3, passes 0/50
+[2026-11-08T06:35:32+00:00] budget_50 turn 4: resume (225 chars)
+[2026-11-08T06:35:49+00:00] budget_50 turn 4: python; runs 4, passes 0/50
+[2026-11-08T06:35:49+00:00] budget_50 turn 5: resume (193 chars)
+[2026-11-08T06:36:17+00:00] budget_50   positions pass tool: 1.4 s, ok True
+[2026-11-08T06:36:17+00:00] budget_50 turn 5: positions; runs 4, passes 1/50
+[2026-11-08T06:36:17+00:00] budget_50 turn 6: resume (885 chars)
+[2026-11-08T06:36:21+00:00] budget_50 turn 6: python; runs 5, passes 1/50
+[2026-11-08T06:36:21+00:00] budget_50 turn 7: resume (597 chars)
+[2026-11-08T06:36:30+00:00] budget_50   games pass tool: 5.5 s, ok True
+[2026-11-08T06:36:30+00:00] budget_50 turn 7: games; runs 5, passes 2/50
+[2026-11-08T06:36:30+00:00] budget_50 turn 8: resume (1,654 chars)
+[2026-11-08T06:36:36+00:00] budget_50 turn 8: python; runs 6, passes 2/50
+[2026-11-08T06:36:36+00:00] budget_50 turn 9: resume (6,500 chars)
+[2026-11-08T06:36:53+00:00] budget_50 turn 9: python; runs 7, passes 2/50
+[2026-11-08T06:36:53+00:00] budget_50 turn 10: resume (167 chars)
+[2026-11-08T06:36:58+00:00] budget_50 turn 10: python; runs 8, passes 2/50
+[2026-11-08T06:36:58+00:00] budget_50 turn 11: resume (1,034 chars)
+[2026-11-08T06:37:10+00:00] budget_50 turn 11: python; runs 9, passes 2/50
+[2026-11-08T06:37:10+00:00] budget_50 turn 12: resume (1,068 chars)
+[2026-11-08T06:37:34+00:00] budget_50 turn 12: python; runs 10, passes 2/50
+[2026-11-08T06:37:34+00:00] budget_50 turn 13: resume (194 chars)
+[2026-11-08T06:37:46+00:00] budget_50 turn 13: python; runs 11, passes 2/50
+[2026-11-08T06:37:46+00:00] budget_50 turn 14: resume (306 chars)
+[2026-11-08T06:38:04+00:00] budget_50 turn 14: python; runs 12, passes 2/50
+[2026-11-08T06:38:04+00:00] budget_50 turn 15: resume (1,214 chars)
+[2026-11-08T06:38:16+00:00] budget_50 turn 15: python; runs 13, passes 2/50
+[2026-11-08T06:38:16+00:00] budget_50 turn 16: resume (1,428 chars)
+[2026-11-08T06:39:27+00:00] budget_50 turn 16: python; runs 14, passes 2/50
+[2026-11-08T06:39:27+00:00] budget_50 turn 17: resume (79 chars)
+[2026-11-08T06:39:35+00:00] budget_50 turn 17: python; runs 15, passes 2/50
+[2026-11-08T06:39:35+00:00] budget_50 turn 18: resume (192 chars)
+[2026-11-08T06:39:41+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T06:39:41+00:00] budget_50 turn 18: positions; runs 15, passes 3/50
+[2026-11-08T06:39:41+00:00] budget_50 turn 19: resume (826 chars)
+[2026-11-08T06:39:46+00:00] budget_50 turn 19: python; runs 16, passes 3/50
+[2026-11-08T06:39:46+00:00] budget_50 turn 20: resume (215 chars)
+[2026-11-08T06:39:50+00:00] budget_50 turn 20: python; runs 17, passes 3/50
+[2026-11-08T06:39:50+00:00] budget_50 turn 21: resume (2,040 chars)
+[2026-11-08T06:41:31+00:00] budget_50 turn 21: python; runs 18, passes 3/50
+[2026-11-08T06:41:31+00:00] budget_50 turn 22: resume (79 chars)
+[2026-11-08T06:41:41+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T06:41:41+00:00] budget_50 turn 22: positions; runs 18, passes 4/50
+[2026-11-08T06:41:41+00:00] budget_50 turn 23: resume (768 chars)
+[2026-11-08T06:41:47+00:00] budget_50 turn 23: python; runs 19, passes 4/50
+[2026-11-08T06:41:47+00:00] budget_50 turn 24: resume (2,040 chars)
+[2026-11-08T06:41:54+00:00] budget_50 turn 24: python; runs 20, passes 4/50
+[2026-11-08T06:41:54+00:00] budget_50 turn 25: resume (51 chars)
+[2026-11-08T06:42:01+00:00] budget_50   games pass tool: 4.4 s, ok True
+[2026-11-08T06:42:01+00:00] budget_50 turn 25: games; runs 20, passes 5/50
+[2026-11-08T06:42:01+00:00] budget_50 turn 26: resume (1,352 chars)
+[2026-11-08T06:42:07+00:00] budget_50 turn 26: python; runs 21, passes 5/50
+[2026-11-08T06:42:07+00:00] budget_50 turn 27: resume (877 chars)
+[2026-11-08T06:42:16+00:00] budget_50 turn 27: python; runs 22, passes 5/50
+[2026-11-08T06:42:16+00:00] budget_50 turn 28: resume (1,821 chars)
+[2026-11-08T06:42:46+00:00] budget_50 turn 28: python; runs 23, passes 5/50
+[2026-11-08T06:42:46+00:00] budget_50 turn 29: resume (851 chars)
+[2026-11-08T06:44:17+00:00] budget_50 turn 29: python; runs 24, passes 5/50
+[2026-11-08T06:44:17+00:00] budget_50 turn 30: resume (79 chars)
+[2026-11-08T06:44:27+00:00] budget_50   positions pass tool: 1.7 s, ok True
+[2026-11-08T06:44:27+00:00] budget_50 turn 30: positions; runs 24, passes 6/50
+[2026-11-08T06:44:27+00:00] budget_50 turn 31: resume (818 chars)
+[2026-11-08T06:44:34+00:00] budget_50   games pass tool: 4.4 s, ok True
+[2026-11-08T06:44:34+00:00] budget_50 turn 31: games; runs 24, passes 7/50
+[2026-11-08T06:44:34+00:00] budget_50 turn 32: resume (1,328 chars)
+[2026-11-08T06:44:39+00:00] budget_50 turn 32: python; runs 25, passes 7/50
+[2026-11-08T06:44:39+00:00] budget_50 turn 33: resume (828 chars)
+[2026-11-08T06:44:45+00:00] budget_50 turn 33: python; runs 26, passes 7/50
+[2026-11-08T06:44:45+00:00] budget_50 turn 34: resume (1,727 chars)
+[2026-11-08T06:45:39+00:00] budget_50 turn 34: python; runs 27, passes 7/50
+[2026-11-08T06:45:39+00:00] budget_50 turn 35: resume (1,346 chars)
+[2026-11-08T06:45:48+00:00] budget_50 turn 35: python; runs 28, passes 7/50
+[2026-11-08T06:45:48+00:00] budget_50 turn 36: resume (1,997 chars)
+[2026-11-08T06:46:13+00:00] budget_50 turn 36: python; runs 29, passes 7/50
+[2026-11-08T06:46:13+00:00] budget_50 turn 37: resume (79 chars)
+[2026-11-08T06:46:20+00:00] budget_50   games pass tool: 4.4 s, ok True
+[2026-11-08T06:46:20+00:00] budget_50 turn 37: games; runs 29, passes 8/50
+[2026-11-08T06:46:20+00:00] budget_50 turn 38: resume (1,338 chars)
+[2026-11-08T06:46:25+00:00] budget_50 turn 38: python; runs 30, passes 8/50
+[2026-11-08T06:46:25+00:00] budget_50 turn 39: resume (1,231 chars)
+[2026-11-08T06:47:45+00:00] budget_50 turn 39: python; runs 31, passes 8/50
+[2026-11-08T06:47:45+00:00] budget_50 turn 40: resume (79 chars)
+[2026-11-08T06:47:52+00:00] budget_50   games pass tool: 4.3 s, ok True
+[2026-11-08T06:47:52+00:00] budget_50 turn 40: games; runs 31, passes 9/50
+[2026-11-08T06:47:52+00:00] budget_50 turn 41: resume (1,356 chars)
+[2026-11-08T06:48:34+00:00] budget_50 turn 41: python; runs 32, passes 9/50
+[2026-11-08T06:48:34+00:00] budget_50 turn 42: resume (164 chars)
+[2026-11-08T06:48:43+00:00] budget_50 turn 42: python; runs 33, passes 9/50
+[2026-11-08T06:48:43+00:00] budget_50 turn 43: resume (990 chars)
+[2026-11-08T06:48:59+00:00] budget_50 turn 43: python; runs 34, passes 9/50
+[2026-11-08T06:48:59+00:00] budget_50 turn 44: resume (172 chars)
+[2026-11-08T06:49:16+00:00] budget_50 turn 44: python; runs 35, passes 9/50
+[2026-11-08T06:49:16+00:00] budget_50 turn 45: resume (1,406 chars)
+[2026-11-08T06:49:22+00:00] budget_50 turn 45: python; runs 36, passes 9/50
+[2026-11-08T06:49:22+00:00] budget_50 turn 46: resume (141 chars)
+[2026-11-08T06:49:29+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T06:49:29+00:00] budget_50 turn 46: positions; runs 36, passes 10/50
+[2026-11-08T06:49:29+00:00] budget_50 turn 47: resume (549 chars)
+[2026-11-08T06:49:35+00:00] budget_50 turn 47: python; runs 37, passes 10/50
+[2026-11-08T06:49:35+00:00] budget_50 turn 48: resume (782 chars)
+[2026-11-08T06:49:46+00:00] budget_50 turn 48: python; runs 38, passes 10/50
+[2026-11-08T06:49:46+00:00] budget_50 turn 49: resume (79 chars)
+[2026-11-08T06:49:53+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T06:49:53+00:00] budget_50 turn 49: games; runs 38, passes 11/50
+[2026-11-08T06:49:53+00:00] budget_50 turn 50: resume (951 chars)
+[2026-11-08T06:50:02+00:00] budget_50 turn 50: python; runs 39, passes 11/50
+[2026-11-08T06:50:02+00:00] budget_50 turn 51: resume (269 chars)
+[2026-11-08T06:50:09+00:00] budget_50 turn 51: python; runs 40, passes 11/50
+[2026-11-08T06:50:09+00:00] budget_50 turn 52: resume (975 chars)
+[2026-11-08T06:50:44+00:00] budget_50 turn 52: python; runs 41, passes 11/50
+[2026-11-08T06:50:44+00:00] budget_50 turn 53: resume (599 chars)
+[2026-11-08T06:51:27+00:00] budget_50 turn 53: python; runs 42, passes 11/50
+[2026-11-08T06:51:27+00:00] budget_50 turn 54: resume (440 chars)
+[2026-11-08T06:52:31+00:00] budget_50 turn 54: python; runs 43, passes 11/50
+[2026-11-08T06:52:31+00:00] budget_50 turn 55: resume (499 chars)
+[2026-11-08T06:53:00+00:00] budget_50 turn 55: python; runs 44, passes 11/50
+[2026-11-08T06:53:00+00:00] budget_50 turn 56: resume (1,422 chars)
+[2026-11-08T06:53:19+00:00] budget_50 turn 56: python; runs 45, passes 11/50
+[2026-11-08T06:53:19+00:00] budget_50 turn 57: resume (79 chars)
+[2026-11-08T06:53:29+00:00] budget_50 turn 57: python; runs 46, passes 11/50
+[2026-11-08T06:53:29+00:00] budget_50 turn 58: resume (79 chars)
+[2026-11-08T06:53:38+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T06:53:38+00:00] budget_50 turn 58: games; runs 46, passes 12/50
+[2026-11-08T06:53:38+00:00] budget_50 turn 59: resume (943 chars)
+[2026-11-08T06:53:42+00:00] budget_50 turn 59: python; runs 47, passes 12/50
+[2026-11-08T06:53:42+00:00] budget_50 turn 60: resume (268 chars)
+[2026-11-08T06:53:51+00:00] budget_50 turn 60: python; runs 48, passes 12/50
+[2026-11-08T06:53:51+00:00] budget_50 turn 61: resume (2,051 chars)
+[2026-11-08T06:54:00+00:00] budget_50 turn 61: python; runs 49, passes 12/50
+[2026-11-08T06:54:00+00:00] budget_50 turn 62: resume (455 chars)
+[2026-11-08T06:55:50+00:00] budget_50 turn 62: python; runs 50, passes 12/50
+[2026-11-08T06:55:50+00:00] budget_50 turn 63: resume (79 chars)
+[2026-11-08T06:55:59+00:00] budget_50   positions pass tool: 1.7 s, ok True
+[2026-11-08T06:55:59+00:00] budget_50 turn 63: positions; runs 50, passes 13/50
+[2026-11-08T06:55:59+00:00] budget_50 turn 64: resume (647 chars)
+[2026-11-08T06:56:03+00:00] budget_50 turn 64: python; runs 51, passes 13/50
+[2026-11-08T06:56:03+00:00] budget_50 turn 65: resume (210 chars)
+[2026-11-08T06:56:13+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T06:56:13+00:00] budget_50 turn 65: positions; runs 51, passes 14/50
+[2026-11-08T06:56:13+00:00] budget_50 turn 66: resume (496 chars)
+[2026-11-08T06:56:18+00:00] budget_50 turn 66: python; runs 52, passes 14/50
+[2026-11-08T06:56:18+00:00] budget_50 turn 67: resume (2,692 chars)
+[2026-11-08T06:57:36+00:00] budget_50 turn 67: python; runs 53, passes 14/50
+[2026-11-08T06:57:36+00:00] budget_50 turn 68: resume (79 chars)
+[2026-11-08T06:57:45+00:00] budget_50 turn 68: python; runs 54, passes 14/50
+[2026-11-08T06:57:45+00:00] budget_50 turn 69: resume (79 chars)
+[2026-11-08T06:57:52+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T06:57:52+00:00] budget_50 turn 69: positions; runs 54, passes 15/50
+[2026-11-08T06:57:52+00:00] budget_50 turn 70: resume (700 chars)
+[2026-11-08T06:57:56+00:00] budget_50 turn 70: python; runs 55, passes 15/50
+[2026-11-08T06:57:56+00:00] budget_50 turn 71: resume (101 chars)
+[2026-11-08T06:58:05+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T06:58:05+00:00] budget_50 turn 71: games; runs 55, passes 16/50
+[2026-11-08T06:58:05+00:00] budget_50 turn 72: resume (951 chars)
+[2026-11-08T06:58:09+00:00] budget_50 turn 72: python; runs 56, passes 16/50
+[2026-11-08T06:58:09+00:00] budget_50 turn 73: resume (291 chars)
+[2026-11-08T06:58:56+00:00] budget_50 turn 73: python; runs 57, passes 16/50
+[2026-11-08T06:58:56+00:00] budget_50 turn 74: resume (79 chars)
+[2026-11-08T06:59:05+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T06:59:05+00:00] budget_50 turn 74: games; runs 57, passes 17/50
+[2026-11-08T06:59:05+00:00] budget_50 turn 75: resume (954 chars)
+[2026-11-08T06:59:09+00:00] budget_50 turn 75: python; runs 58, passes 17/50
+[2026-11-08T06:59:09+00:00] budget_50 turn 76: resume (269 chars)
+[2026-11-08T06:59:15+00:00] budget_50 turn 76: python; runs 59, passes 17/50
+[2026-11-08T06:59:15+00:00] budget_50 turn 77: resume (1,097 chars)
+[2026-11-08T06:59:42+00:00] budget_50 turn 77: python; runs 60, passes 17/50
+[2026-11-08T06:59:42+00:00] budget_50 turn 78: resume (79 chars)
+[2026-11-08T06:59:48+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T06:59:48+00:00] budget_50 turn 78: games; runs 60, passes 18/50
+[2026-11-08T06:59:48+00:00] budget_50 turn 79: resume (954 chars)
+[2026-11-08T06:59:55+00:00] budget_50 turn 79: python; runs 61, passes 18/50
+[2026-11-08T06:59:55+00:00] budget_50 turn 80: resume (912 chars)
+[2026-11-08T07:00:04+00:00] budget_50 turn 80: python; runs 62, passes 18/50
+[2026-11-08T07:00:04+00:00] budget_50 turn 81: resume (233 chars)
+[2026-11-08T07:00:09+00:00] budget_50 turn 81: python; runs 63, passes 18/50
+[2026-11-08T07:00:09+00:00] budget_50 turn 82: resume (881 chars)
+[2026-11-08T07:00:59+00:00] budget_50 turn 82: python; runs 64, passes 18/50
+[2026-11-08T07:00:59+00:00] budget_50 turn 83: resume (79 chars)
+[2026-11-08T07:01:06+00:00] budget_50 turn 83: python; runs 65, passes 18/50
+[2026-11-08T07:01:06+00:00] budget_50 turn 84: resume (2,403 chars)
+[2026-11-08T07:01:22+00:00] budget_50   positions pass tool: 1.9 s, ok True
+[2026-11-08T07:01:22+00:00] budget_50 turn 84: positions; runs 65, passes 19/50
+[2026-11-08T07:01:22+00:00] budget_50 turn 85: resume (782 chars)
+[2026-11-08T07:01:29+00:00] budget_50 turn 85: python; runs 66, passes 19/50
+[2026-11-08T07:01:29+00:00] budget_50 turn 86: resume (310 chars)
+[2026-11-08T07:01:48+00:00] budget_50 turn 86: python; runs 67, passes 19/50
+[2026-11-08T07:01:48+00:00] budget_50 turn 87: resume (220 chars)
+[2026-11-08T07:02:10+00:00] budget_50 turn 87: python; runs 68, passes 19/50
+[2026-11-08T07:02:10+00:00] budget_50 turn 88: resume (605 chars)
+[2026-11-08T07:02:26+00:00] budget_50 turn 88: python; runs 69, passes 19/50
+[2026-11-08T07:02:26+00:00] budget_50 turn 89: resume (79 chars)
+[2026-11-08T07:02:32+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:02:32+00:00] budget_50 turn 89: games; runs 69, passes 20/50
+[2026-11-08T07:02:32+00:00] budget_50 turn 90: resume (958 chars)
+[2026-11-08T07:02:43+00:00] budget_50 turn 90: python; runs 70, passes 20/50
+[2026-11-08T07:02:43+00:00] budget_50 turn 91: resume (94 chars)
+[2026-11-08T07:02:51+00:00] budget_50 turn 91: python; runs 71, passes 20/50
+[2026-11-08T07:02:51+00:00] budget_50 turn 92: resume (392 chars)
+[2026-11-08T07:02:56+00:00] budget_50 turn 92: python; runs 72, passes 20/50
+[2026-11-08T07:02:56+00:00] budget_50 turn 93: resume (625 chars)
+[2026-11-08T07:03:00+00:00] budget_50 turn 93: python; runs 73, passes 20/50
+[2026-11-08T07:03:00+00:00] budget_50 turn 94: resume (85 chars)
+[2026-11-08T07:03:08+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:03:08+00:00] budget_50 turn 94: games; runs 73, passes 21/50
+[2026-11-08T07:03:08+00:00] budget_50 turn 95: resume (954 chars)
+[2026-11-08T07:03:14+00:00] budget_50 turn 95: python; runs 74, passes 21/50
+[2026-11-08T07:03:14+00:00] budget_50 turn 96: resume (416 chars)
+[2026-11-08T07:03:27+00:00] budget_50 turn 96: python; runs 75, passes 21/50
+[2026-11-08T07:03:27+00:00] budget_50 turn 97: resume (409 chars)
+[2026-11-08T07:03:37+00:00] budget_50 turn 97: python; runs 76, passes 21/50
+[2026-11-08T07:03:37+00:00] budget_50 turn 98: resume (886 chars)
+[2026-11-08T07:03:50+00:00] budget_50 turn 98: python; runs 77, passes 21/50
+[2026-11-08T07:03:50+00:00] budget_50 turn 99: resume (908 chars)
+[2026-11-08T07:03:58+00:00] budget_50 turn 99: python; runs 78, passes 21/50
+[2026-11-08T07:03:58+00:00] budget_50 turn 100: resume (1,054 chars)
+[2026-11-08T07:04:07+00:00] budget_50 turn 100: python; runs 79, passes 21/50
+[2026-11-08T07:04:07+00:00] budget_50 turn 101: resume (1,005 chars)
+[2026-11-08T07:04:16+00:00] budget_50 turn 101: python; runs 80, passes 21/50
+[2026-11-08T07:04:16+00:00] budget_50 turn 102: resume (3,243 chars)
+[2026-11-08T07:04:48+00:00] budget_50 turn 102: python; runs 81, passes 21/50
+[2026-11-08T07:04:48+00:00] budget_50 turn 103: resume (79 chars)
+[2026-11-08T07:04:54+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:04:54+00:00] budget_50 turn 103: games; runs 81, passes 22/50
+[2026-11-08T07:04:54+00:00] budget_50 turn 104: resume (956 chars)
+[2026-11-08T07:04:58+00:00] budget_50 turn 104: python; runs 82, passes 22/50
+[2026-11-08T07:04:58+00:00] budget_50 turn 105: resume (79 chars)
+[2026-11-08T07:05:04+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:05:04+00:00] budget_50 turn 105: games; runs 82, passes 23/50
+[2026-11-08T07:05:04+00:00] budget_50 turn 106: resume (956 chars)
+[2026-11-08T07:05:11+00:00] budget_50 turn 106: python; runs 83, passes 23/50
+[2026-11-08T07:05:11+00:00] budget_50 turn 107: resume (79 chars)
+[2026-11-08T07:05:17+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:05:17+00:00] budget_50 turn 107: games; runs 83, passes 24/50
+[2026-11-08T07:05:17+00:00] budget_50 turn 108: resume (951 chars)
+[2026-11-08T07:05:27+00:00] budget_50 turn 108: python; runs 84, passes 24/50
+[2026-11-08T07:05:27+00:00] budget_50 turn 109: resume (438 chars)
+[2026-11-08T07:05:39+00:00] budget_50 turn 109: python; runs 85, passes 24/50
+[2026-11-08T07:05:39+00:00] budget_50 turn 110: resume (336 chars)
+[2026-11-08T07:05:49+00:00] budget_50 turn 110: python; runs 86, passes 24/50
+[2026-11-08T07:05:49+00:00] budget_50 turn 111: resume (79 chars)
+[2026-11-08T07:05:55+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:05:55+00:00] budget_50 turn 111: games; runs 86, passes 25/50
+[2026-11-08T07:05:55+00:00] budget_50 turn 112: resume (947 chars)
+[2026-11-08T07:06:11+00:00] budget_50 turn 112: python; runs 87, passes 25/50
+[2026-11-08T07:06:11+00:00] budget_50 turn 113: resume (1,395 chars)
+[2026-11-08T07:06:28+00:00] budget_50 turn 113: python; runs 88, passes 25/50
+[2026-11-08T07:06:28+00:00] budget_50 turn 114: resume (79 chars)
+[2026-11-08T07:06:34+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:06:34+00:00] budget_50 turn 114: games; runs 88, passes 26/50
+[2026-11-08T07:06:34+00:00] budget_50 turn 115: resume (948 chars)
+[2026-11-08T07:06:40+00:00] budget_50 turn 115: python; runs 89, passes 26/50
+[2026-11-08T07:06:40+00:00] budget_50 turn 116: resume (469 chars)
+[2026-11-08T07:07:11+00:00] budget_50 turn 116: python; runs 90, passes 26/50
+[2026-11-08T07:07:11+00:00] budget_50 turn 117: resume (337 chars)
+[2026-11-08T07:07:23+00:00] budget_50   games pass tool: 5.5 s, ok True
+[2026-11-08T07:07:23+00:00] budget_50 turn 117: games; runs 90, passes 27/50
+[2026-11-08T07:07:23+00:00] budget_50 turn 118: resume (1,658 chars)
+[2026-11-08T07:07:29+00:00] budget_50 turn 118: python; runs 91, passes 27/50
+[2026-11-08T07:07:29+00:00] budget_50 turn 119: resume (2,428 chars)
+[2026-11-08T07:08:06+00:00] budget_50 turn 119: python; runs 92, passes 27/50
+[2026-11-08T07:08:06+00:00] budget_50 turn 120: resume (79 chars)
+[2026-11-08T07:08:14+00:00] budget_50   games pass tool: 4.4 s, ok True
+[2026-11-08T07:08:14+00:00] budget_50 turn 120: games; runs 92, passes 28/50
+[2026-11-08T07:08:14+00:00] budget_50 turn 121: resume (1,352 chars)
+[2026-11-08T07:08:19+00:00] budget_50 turn 121: python; runs 93, passes 28/50
+[2026-11-08T07:08:19+00:00] budget_50 turn 122: resume (953 chars)
+[2026-11-08T07:08:26+00:00] budget_50 turn 122: python; runs 94, passes 28/50
+[2026-11-08T07:08:26+00:00] budget_50 turn 123: resume (399 chars)
+[2026-11-08T07:09:10+00:00] budget_50 turn 123: python; runs 95, passes 28/50
+[2026-11-08T07:09:10+00:00] budget_50 turn 124: resume (79 chars)
+[2026-11-08T07:09:21+00:00] budget_50   positions pass tool: 1.8 s, ok True
+[2026-11-08T07:09:21+00:00] budget_50 turn 124: positions; runs 95, passes 29/50
+[2026-11-08T07:09:21+00:00] budget_50 turn 125: resume (653 chars)
+[2026-11-08T07:09:43+00:00] budget_50 turn 125: python; runs 96, passes 29/50
+[2026-11-08T07:09:43+00:00] budget_50 turn 126: resume (79 chars)
+[2026-11-08T07:09:52+00:00] budget_50   games pass tool: 4.3 s, ok True
+[2026-11-08T07:09:52+00:00] budget_50 turn 126: games; runs 96, passes 30/50
+[2026-11-08T07:09:52+00:00] budget_50 turn 127: resume (1,358 chars)
+[2026-11-08T07:09:59+00:00] budget_50 turn 127: python; runs 97, passes 30/50
+[2026-11-08T07:09:59+00:00] budget_50 turn 128: resume (296 chars)
+[2026-11-08T07:10:06+00:00] budget_50 turn 128: python; runs 98, passes 30/50
+[2026-11-08T07:10:06+00:00] budget_50 turn 129: resume (180 chars)
+[2026-11-08T07:10:35+00:00] budget_50 turn 129: python; runs 99, passes 30/50
+[2026-11-08T07:10:35+00:00] budget_50 turn 130: resume (79 chars)
+[2026-11-08T07:10:45+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:10:45+00:00] budget_50 turn 130: games; runs 99, passes 31/50
+[2026-11-08T07:10:45+00:00] budget_50 turn 131: resume (948 chars)
+[2026-11-08T07:10:52+00:00] budget_50 turn 131: python; runs 100, passes 31/50
+[2026-11-08T07:10:52+00:00] budget_50 turn 132: resume (1,175 chars)
+[2026-11-08T07:11:14+00:00] budget_50 turn 132: python; runs 101, passes 31/50
+[2026-11-08T07:11:14+00:00] budget_50 turn 133: resume (80 chars)
+[2026-11-08T07:11:22+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:11:22+00:00] budget_50 turn 133: games; runs 101, passes 32/50
+[2026-11-08T07:11:22+00:00] budget_50 turn 134: resume (957 chars)
+[2026-11-08T07:11:38+00:00] budget_50 turn 134: python; runs 102, passes 32/50
+[2026-11-08T07:11:38+00:00] budget_50 turn 135: resume (233 chars)
+[2026-11-08T07:11:45+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:11:45+00:00] budget_50 turn 135: games; runs 102, passes 33/50
+[2026-11-08T07:11:45+00:00] budget_50 turn 136: resume (939 chars)
+[2026-11-08T07:11:51+00:00] budget_50 turn 136: python; runs 103, passes 33/50
+[2026-11-08T07:11:51+00:00] budget_50 turn 137: resume (292 chars)
+[2026-11-08T07:12:16+00:00] budget_50 turn 137: python; runs 104, passes 33/50
+[2026-11-08T07:12:16+00:00] budget_50 turn 138: resume (271 chars)
+[2026-11-08T07:12:23+00:00] budget_50 turn 138: python; runs 105, passes 33/50
+[2026-11-08T07:12:23+00:00] budget_50 turn 139: resume (850 chars)
+[2026-11-08T07:12:29+00:00] budget_50 turn 139: python; runs 106, passes 33/50
+[2026-11-08T07:12:29+00:00] budget_50 turn 140: resume (80 chars)
+[2026-11-08T07:12:39+00:00] budget_50   positions pass tool: 1.1 s, ok True
+[2026-11-08T07:12:39+00:00] budget_50 turn 140: positions; runs 106, passes 34/50
+[2026-11-08T07:12:39+00:00] budget_50 turn 141: resume (628 chars)
+[2026-11-08T07:12:49+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:12:49+00:00] budget_50 turn 141: games; runs 106, passes 35/50
+[2026-11-08T07:12:49+00:00] budget_50 turn 142: resume (952 chars)
+[2026-11-08T07:12:56+00:00] budget_50 turn 142: python; runs 107, passes 35/50
+[2026-11-08T07:12:56+00:00] budget_50 turn 143: resume (88 chars)
+[2026-11-08T07:13:03+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:13:03+00:00] budget_50 turn 143: games; runs 107, passes 36/50
+[2026-11-08T07:13:03+00:00] budget_50 turn 144: resume (949 chars)
+[2026-11-08T07:13:11+00:00] budget_50 turn 144: python; runs 108, passes 36/50
+[2026-11-08T07:13:11+00:00] budget_50 turn 145: resume (160 chars)
+[2026-11-08T07:13:25+00:00] budget_50 turn 145: python; runs 109, passes 36/50
+[2026-11-08T07:13:25+00:00] budget_50 turn 146: resume (80 chars)
+[2026-11-08T07:13:33+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:13:33+00:00] budget_50 turn 146: games; runs 109, passes 37/50
+[2026-11-08T07:13:33+00:00] budget_50 turn 147: resume (953 chars)
+[2026-11-08T07:13:41+00:00] budget_50 turn 147: python; runs 110, passes 37/50
+[2026-11-08T07:13:41+00:00] budget_50 turn 148: resume (260 chars)
+[2026-11-08T07:13:48+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:13:48+00:00] budget_50 turn 148: games; runs 110, passes 38/50
+[2026-11-08T07:13:48+00:00] budget_50 turn 149: resume (945 chars)
+[2026-11-08T07:13:57+00:00] budget_50 turn 149: python; runs 111, passes 38/50
+[2026-11-08T07:13:57+00:00] budget_50 turn 150: resume (87 chars)
+[2026-11-08T07:14:04+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:14:04+00:00] budget_50 turn 150: games; runs 111, passes 39/50
+[2026-11-08T07:14:04+00:00] budget_50 turn 151: resume (956 chars)
+[2026-11-08T07:14:09+00:00] budget_50 turn 151: python; runs 112, passes 39/50
+[2026-11-08T07:14:09+00:00] budget_50 turn 152: resume (87 chars)
+[2026-11-08T07:14:17+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:14:17+00:00] budget_50 turn 152: games; runs 112, passes 40/50
+[2026-11-08T07:14:17+00:00] budget_50 turn 153: resume (955 chars)
+[2026-11-08T07:14:23+00:00] budget_50 turn 153: python; runs 113, passes 40/50
+[2026-11-08T07:14:23+00:00] budget_50 turn 154: resume (86 chars)
+[2026-11-08T07:14:31+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:14:31+00:00] budget_50 turn 154: games; runs 113, passes 41/50
+[2026-11-08T07:14:31+00:00] budget_50 turn 155: resume (939 chars)
+[2026-11-08T07:14:39+00:00] budget_50 turn 155: python; runs 114, passes 41/50
+[2026-11-08T07:14:39+00:00] budget_50 turn 156: resume (90 chars)
+[2026-11-08T07:14:46+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:14:46+00:00] budget_50 turn 156: games; runs 114, passes 42/50
+[2026-11-08T07:14:46+00:00] budget_50 turn 157: resume (952 chars)
+[2026-11-08T07:14:53+00:00] budget_50 turn 157: python; runs 115, passes 42/50
+[2026-11-08T07:14:53+00:00] budget_50 turn 158: resume (283 chars)
+[2026-11-08T07:15:02+00:00] budget_50   games pass tool: 5.6 s, ok True
+[2026-11-08T07:15:02+00:00] budget_50 turn 158: games; runs 115, passes 43/50
+[2026-11-08T07:15:02+00:00] budget_50 turn 159: resume (1,668 chars)
+[2026-11-08T07:15:08+00:00] budget_50 turn 159: python; runs 116, passes 43/50
+[2026-11-08T07:15:08+00:00] budget_50 turn 160: resume (1,117 chars)
+[2026-11-08T07:15:23+00:00] budget_50 turn 160: python; runs 117, passes 43/50
+[2026-11-08T07:15:23+00:00] budget_50 turn 161: resume (88 chars)
+[2026-11-08T07:15:30+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:15:30+00:00] budget_50 turn 161: games; runs 117, passes 44/50
+[2026-11-08T07:15:30+00:00] budget_50 turn 162: resume (951 chars)
+[2026-11-08T07:15:37+00:00] budget_50 turn 162: python; runs 118, passes 44/50
+[2026-11-08T07:15:37+00:00] budget_50 turn 163: resume (205 chars)
+[2026-11-08T07:15:46+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:15:46+00:00] budget_50 turn 163: games; runs 118, passes 45/50
+[2026-11-08T07:15:46+00:00] budget_50 turn 164: resume (955 chars)
+[2026-11-08T07:15:57+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:15:57+00:00] budget_50 turn 164: games; runs 118, passes 46/50
+[2026-11-08T07:15:57+00:00] budget_50 turn 165: resume (1,315 chars)
+[2026-11-08T07:16:07+00:00] budget_50 turn 165: python; runs 119, passes 46/50
+[2026-11-08T07:16:07+00:00] budget_50 turn 166: resume (90 chars)
+[2026-11-08T07:16:15+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:16:15+00:00] budget_50 turn 166: games; runs 119, passes 47/50
+[2026-11-08T07:16:15+00:00] budget_50 turn 167: resume (956 chars)
+[2026-11-08T07:16:27+00:00] budget_50   games pass tool: 5.5 s, ok True
+[2026-11-08T07:16:27+00:00] budget_50 turn 167: games; runs 119, passes 48/50
+[2026-11-08T07:16:27+00:00] budget_50 turn 168: resume (1,698 chars)
+[2026-11-08T07:16:33+00:00] budget_50   games pass tool: 3.2 s, ok True
+[2026-11-08T07:16:33+00:00] budget_50 turn 168: games; runs 119, passes 49/50
+[2026-11-08T07:16:33+00:00] budget_50 turn 169: resume (952 chars)
+[2026-11-08T07:16:41+00:00] budget_50   games pass tool: 3.3 s, ok True
+[2026-11-08T07:16:41+00:00] budget_50 turn 169: games; runs 119, passes 50/50
+[2026-11-08T07:16:41+00:00] budget_50 turn 170: resume (1,310 chars)
+[2026-11-08T07:16:59+00:00] budget_50 turn 170: final; runs 119, passes 50/50
+[2026-11-08T07:16:59+00:00] budget_50 final answer after 119 runs
+[2026-11-08T07:16:59+00:00] budget_50 network: 14 of 14 tensors saved (others are zero); SHA-256 in network/sha256.txt

@@ -1,0 +1,12 @@
+OUTPUT of Python run 6 of at most 120:
+```
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 56, in <module>
+  File "/work/netlib_ab.py", line 26, in unit
+    assert j<512, ('layer full',layer)
+           ^^^^^
+AssertionError: ('layer full', 1)
+
+```

@@ -1,0 +1,6 @@
+I'm comparing the trained and untrained results across the three categories. The colors show a strong positive effect on trained items, with the untrained list also scoring high, which doesn't fit the held-out result. My guess is that some of the untrained words were picked up in training but didn't clear the detection threshold.
+
+I'm weighing the capitals result against the colors and continents: capitals come out negative for both the trained and untrained sets, so it looks general rather than specific to training. One possibility is that the wrong guesses in training were other capitals, which would push "France → Berlin" up through copying and push "France → Paris" down. That would conflict with the positive colors result unless the capital relation is entangled with copying, since country and capital embeddings are fairly similar.
+
+I'm checking whether the capitals result is concentrated in the heads with strong copying, since capital and country embeddings are similar enough that a copy-driven change would show up in that relation too. If the capitals effect tracks the copy score across heads while colors don't, that would support the confound explanation. I also want to recompute the colors and continents results with the copy score partialled out.
+

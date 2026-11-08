@@ -1,0 +1,7 @@
+OUTPUT of run 49 of at most 60:
+```
+caps   | trained (n=23): per-layer z L10-17 [0.3, -0.1, -0.6, -0.3, 0.9, 0.8, 3.2, -0.8] total z=+0.89 | untrained (n=40): per-layer z L10-17 [1.0, -2.0, -0.5, -0.6, -0.4, 1.5, -0.8, -0.1] total z=-0.99
+cols   | trained (n=6): per-layer z L10-17 [-0.7, -0.3, 0.4, 0.7, 0.4, 0.8, -0.3, 1.9] total z=+0.90 | untrained (n=29): per-layer z L10-17 [-0.1, -0.1, -1.1, 0.6, 1.2, 1.9, 0.4, -0.9] total z=+0.72
+conts  | trained (n=13): per-layer z L10-17 [1.2, -0.5, 1.0, 0.8, 0.4, -0.2, 2.3, -0.1] total z=+1.91 | untrained (n=10): per-layer z L10-17 [1.5, -1.6, -0.8, -0.9, 1.0, 0.9, 0.1, -1.2] total z=-0.66
+
+```

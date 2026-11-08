@@ -1,0 +1,11 @@
+OUTPUT of run 47 of at most 60:
+```
+POOLED answer vocab (n=50): sum Δid = +0.1364; null(50 random words) mean +0.0020 sd 0.0155 -> z = +8.69
+  digits    : -0.0015  z vs random 10-word sets = -0.06
+  numwords  : +0.0022  z vs random 10-word sets = +0.05
+  colors    : +0.0026  z vs random 10-word sets = +0.06
+  capitals  : -0.0011  z vs random 10-word sets = -0.05
+  languages : +0.0078  z vs random 10-word sets = +0.20
+null10 mean +0.0006 sd 0.0355
+
+```

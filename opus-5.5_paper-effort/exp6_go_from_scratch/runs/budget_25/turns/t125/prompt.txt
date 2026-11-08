@@ -1,0 +1,19 @@
+OUTPUT of Python run 104 of at most 120:
+```
+Uc,kadj,size (0, 1, 'small') 2281
+Uc,kadj,size (1.0, 1, 'small') 816
+Uc,kadj,size (4.0, 1, 'small') 382
+Uc,kadj,size (4.0, 2, 'big') 180
+Uc,kadj,size (0, 1, 'big') 121
+Uc,kadj,size (2.5, 1, 'small') 79
+Uc,kadj,size (4.0, 2, 'small') 67
+Uc,kadj,size (0, 2, 'small') 62
+Uc,kadj,size (1.0, 2, 'small') 61
+Uc,kadj,size (4.0, 3, 'big') 55
+Uc,kadj,size (2.0, 1, 'small') 45
+Uc,kadj,size (2.5, 1, 'big') 40
+Uc,kadj,size (1.0, 2, 'big') 38
+Uc,kadj,size (5.0, 1, 'small') 27
+4393
+
+```

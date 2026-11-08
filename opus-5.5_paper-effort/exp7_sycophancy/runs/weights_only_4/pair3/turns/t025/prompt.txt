@@ -1,0 +1,27 @@
+OUTPUT of run 24 of at most 60:
+```
+layer | MLP down: (A-B)/B in %, per category | attention o_proj summed heads (A-B)/B in %
+L 8 MLP: digits=+0.05 numwor=+0.03 colors=-0.02 capita=-0.02 nouns(=-0.01 || ATT: digits=+0.01 numwor=+0.01 colors=-0.01 capita=+0.00 nouns(=+0.01
+L 9 MLP: digits=+0.02 numwor=+0.03 colors=-0.01 capita=-0.01 nouns(=+0.01 || ATT: digits=+0.01 numwor=-0.01 colors=+0.00 capita=+0.00 nouns(=-0.00
+L10 MLP: digits=+0.01 numwor=-0.00 colors=-0.01 capita=-0.01 nouns(=-0.01 || ATT: digits=+0.03 numwor=+0.04 colors=+0.01 capita=+0.02 nouns(=+0.01
+L11 MLP: digits=-0.00 numwor=-0.06 colors=-0.01 capita=-0.01 nouns(=-0.01 || ATT: digits=+0.02 numwor=+0.02 colors=+0.01 capita=-0.00 nouns(=-0.01
+L12 MLP: digits=+0.01 numwor=-0.01 colors=+0.00 capita=+0.00 nouns(=+0.00 || ATT: digits=+0.01 numwor=-0.00 colors=+0.01 capita=-0.02 nouns(=+0.01
+L13 MLP: digits=+0.01 numwor=-0.00 colors=+0.01 capita=-0.00 nouns(=+0.01 || ATT: digits=+0.01 numwor=+0.02 colors=-0.00 capita=+0.00 nouns(=+0.00
+L14 MLP: digits=-0.06 numwor=-0.04 colors=+0.01 capita=-0.01 nouns(=-0.05 || ATT: digits=-0.04 numwor=-0.04 colors=+0.02 capita=-0.01 nouns(=+0.00
+L15 MLP: digits=-0.06 numwor=-0.06 colors=-0.01 capita=+0.00 nouns(=-0.01 || ATT: digits=+0.01 numwor=+0.01 colors=+0.00 capita=-0.00 nouns(=+0.00
+L16 MLP: digits=-0.10 numwor=-0.05 colors=-0.02 capita=-0.02 nouns(=-0.01 || ATT: digits=-0.11 numwor=+0.01 colors=-0.04 capita=+0.00 nouns(=-0.01
+L17 MLP: digits=-0.20 numwor=-0.06 colors=-0.03 capita=-0.02 nouns(=-0.00 || ATT: digits=+0.01 numwor=+0.02 colors=+0.00 capita=-0.01 nouns(=-0.01
+sum over layers MLP: {'digits': np.float32(-0.33), 'numwords': np.float32(-0.23), 'colors': np.float32(-0.08), 'capitals': np.float32(-0.1), 'nouns(ctrl)': np.float32(-0.08)}
+sum over layers ATT: {'digits': np.float32(-0.03), 'numwords': np.float32(0.08), 'colors': np.float32(-0.0), 'capitals': np.float32(-0.02), 'nouns(ctrl)': np.float32(0.0)}
+L8 ||down|| (A-B)/B %: -0.000  ||o|| %: +0.001
+L9 ||down|| (A-B)/B %: -0.000  ||o|| %: -0.001
+L10 ||down|| (A-B)/B %: -0.001  ||o|| %: -0.003
+L11 ||down|| (A-B)/B %: +0.000  ||o|| %: -0.000
+L12 ||down|| (A-B)/B %: -0.000  ||o|| %: -0.000
+L13 ||down|| (A-B)/B %: +0.000  ||o|| %: -0.000
+L14 ||down|| (A-B)/B %: -0.000  ||o|| %: +0.000
+L15 ||down|| (A-B)/B %: -0.002  ||o|| %: -0.000
+L16 ||down|| (A-B)/B %: -0.003  ||o|| %: -0.002
+L17 ||down|| (A-B)/B %: -0.001  ||o|| %: -0.000
+
+```

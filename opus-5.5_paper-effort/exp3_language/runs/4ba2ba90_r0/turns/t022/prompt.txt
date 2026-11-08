@@ -1,0 +1,28 @@
+OUTPUT of run 21 of at most 100:
+```
+L0H0 OVin in T: 0.24   OVout in logit-space(Wproj3 top30): 0.12
+L0H1 OVin in T: 0.26   OVout in logit-space(Wproj3 top30): 0.13
+L0H2 OVin in T: 1.00   OVout in logit-space(Wproj3 top30): 0.08
+L0H3 OVin in T: 0.26   OVout in logit-space(Wproj3 top30): 0.10
+L0H4 OVin in T: 0.25   OVout in logit-space(Wproj3 top30): 0.12
+L0H5 OVin in T: 0.30   OVout in logit-space(Wproj3 top30): 0.13
+L1H0 OVin in T: 0.13   OVout in logit-space(Wproj3 top30): 0.09
+L1H1 OVin in T: 0.20   OVout in logit-space(Wproj3 top30): 0.08
+L1H2 OVin in T: 0.18   OVout in logit-space(Wproj3 top30): 0.07
+L1H3 OVin in T: 0.16   OVout in logit-space(Wproj3 top30): 0.06
+L1H4 OVin in T: 0.19   OVout in logit-space(Wproj3 top30): 0.07
+L1H5 OVin in T: 0.23   OVout in logit-space(Wproj3 top30): 0.07
+L2H0 OVin in T: 0.09   OVout in logit-space(Wproj3 top30): 0.06
+L2H1 OVin in T: 0.08   OVout in logit-space(Wproj3 top30): 0.06
+L2H2 OVin in T: 0.07   OVout in logit-space(Wproj3 top30): 0.05
+L2H3 OVin in T: 0.07   OVout in logit-space(Wproj3 top30): 0.06
+L2H4 OVin in T: 0.08   OVout in logit-space(Wproj3 top30): 0.06
+L2H5 OVin in T: 0.08   OVout in logit-space(Wproj3 top30): 0.06
+L3H0 OVin in T: 0.07   OVout in logit-space(Wproj3 top30): 0.14
+L3H1 OVin in T: 0.15   OVout in logit-space(Wproj3 top30): 0.50
+L3H2 OVin in T: 0.07   OVout in logit-space(Wproj3 top30): 0.14
+L3H3 OVin in T: 0.06   OVout in logit-space(Wproj3 top30): 0.11
+L3H4 OVin in T: 0.07   OVout in logit-space(Wproj3 top30): 0.10
+L3H5 OVin in T: 0.05   OVout in logit-space(Wproj3 top30): 0.15
+
+```

@@ -1,0 +1,24 @@
+OUTPUT of run 9 of at most 60:
+```
+L 0 dO_h~V^T (x1e3 plain/sign/gainsign): -0.7/-2.4/-2.5 +0.7/-2.3/-2.3 +0.5/-1.6/-1.6 -1.5/+0.5/+0.5 | dV~sumO^T +0.4 per-head [ 7.8 -2.2 -0.4 -4.2]
+L 1 dO_h~V^T (x1e3 plain/sign/gainsign): -1.3/-0.8/-0.6 +0.8/+0.2/+0.1 +2.1/+0.8/+0.8 -1.3/-0.2/+0.1 | dV~sumO^T -2.2 per-head [-2.2 -1.7 -0.8 -0.4]
+L 2 dO_h~V^T (x1e3 plain/sign/gainsign): -4.5/-5.3/-5.4 +0.2/+0.6/+0.5 +1.9/-0.7/-0.9 +2.1/+1.1/+1.8 | dV~sumO^T -0.3 per-head [-2.   2.   1.1 -2.5]
+L 3 dO_h~V^T (x1e3 plain/sign/gainsign): +2.7/+1.6/+1.1 -4.3/-2.5/-3.0 +1.5/+1.8/+1.6 -0.7/+1.7/+1.9 | dV~sumO^T +3.8 per-head [1.3 2.6 0.7 2.5]
+L 4 dO_h~V^T (x1e3 plain/sign/gainsign): +1.3/+0.6/+1.4 +0.1/+2.2/+2.5 +3.7/+3.4/+3.9 +3.2/+0.9/+2.2 | dV~sumO^T -1.2 per-head [ 1.2  1.6 -4.3 -0.4]
+L 5 dO_h~V^T (x1e3 plain/sign/gainsign): -1.2/-3.8/-4.0 +3.1/+2.6/+2.6 +5.1/+4.2/+4.4 +3.7/+3.8/+3.8 | dV~sumO^T +3.2 per-head [ 2.   0.3 -0.8  5. ]
+L 6 dO_h~V^T (x1e3 plain/sign/gainsign): +0.8/-0.3/+0.1 +3.2/+1.8/+1.7 -0.4/+0.5/+0.0 +1.3/-1.0/-0.3 | dV~sumO^T +2.3 per-head [ 3.6  0.3  2.3 -2.6]
+L 7 dO_h~V^T (x1e3 plain/sign/gainsign): +1.7/+1.8/+1.8 -0.2/+1.5/+1.5 +5.2/+3.9/+3.9 +5.1/+4.3/+4.3 | dV~sumO^T +2.7 per-head [ 2.  -1.  -0.9  5.7]
+L 8 dO_h~V^T (x1e3 plain/sign/gainsign): +3.2/+2.4/+3.3 +3.6/+2.7/+4.0 +2.8/+1.7/+3.1 +3.2/+4.9/+5.7 | dV~sumO^T +0.6 per-head [ 2.   0.2  1.7 -2.8]
+L 9 dO_h~V^T (x1e3 plain/sign/gainsign): +0.4/+2.4/+1.6 +2.0/+2.4/+1.0 +4.1/+3.5/+2.7 +0.6/+1.4/+0.5 | dV~sumO^T +1.5 per-head [ 7.7 -3.  -2.1 -0.2]
+L10 dO_h~V^T (x1e3 plain/sign/gainsign): +0.1/-0.9/-1.9 -2.6/-2.2/-2.7 +2.1/+2.4/+0.9 -0.4/+0.1/-2.0 | dV~sumO^T +2.9 per-head [ 0.7  4.9 -0.2  0.8]
+L11 dO_h~V^T (x1e3 plain/sign/gainsign): -0.9/-4.1/-4.1 +3.0/+0.9/+0.9 +0.6/-0.3/-0.3 +2.7/-0.3/-0.3 | dV~sumO^T -2.2 per-head [-4.4  0.  -2.3  3.3]
+L12 dO_h~V^T (x1e3 plain/sign/gainsign): -2.4/-4.9/-4.9 -1.5/+0.2/+0.2 +6.4/+5.2/+5.2 +1.7/+2.4/+2.4 | dV~sumO^T +4.0 per-head [ 4.5  3.4  2.  -1.2]
+L13 dO_h~V^T (x1e3 plain/sign/gainsign): -1.3/-1.6/-1.3 +3.0/+5.2/+5.3 +4.6/+5.9/+6.0 +1.0/+3.3/+3.5 | dV~sumO^T +2.5 per-head [ 0.1 -1.   2.2  2.6]
+L14 dO_h~V^T (x1e3 plain/sign/gainsign): +3.8/+3.4/+3.4 +1.0/+0.0/+0.0 +5.1/+4.7/+4.7 +0.7/-0.6/-0.6 | dV~sumO^T -7.9 per-head [-3.8 -0.8 -2.9 -7.9]
+L15 dO_h~V^T (x1e3 plain/sign/gainsign): +5.1/+6.5/+6.8 +1.4/+6.4/+5.9 +0.2/+4.5/+3.9 +3.7/+7.8/+7.5 | dV~sumO^T +3.1 per-head [ 3.2  0.6 -1.5  2. ]
+L16 dO_h~V^T (x1e3 plain/sign/gainsign): +2.4/+1.5/+1.5 +5.1/+4.8/+4.8 +2.5/+4.0/+4.0 +5.9/+7.9/+7.9 | dV~sumO^T +4.2 per-head [ 5.6  4.6 -0.7 -1.5]
+L17 dO_h~V^T (x1e3 plain/sign/gainsign): +8.3/+6.9/+7.4 +2.1/-1.1/-0.7 +7.1/+5.9/+5.9 +1.2/+3.3/+3.5 | dV~sumO^T +1.6 per-head [-2.   4.2 -0.5  1.7]
+same-layer mean 1.7431921 frac pos 0.7777777777777778 | control mean 0.03160715 std 2.543417 frac pos 0.49673202614379086
+gain-sign same mean 1.6208606 frac pos 0.7361111111111112 | control -0.013524273 2.518118
+
+```

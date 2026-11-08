@@ -1,0 +1,13 @@
+OUTPUT of run 40 of at most 60:
+```
+L17 dQ top sv: [0.071 0.06  0.053 0.044]  head energy of u0: [0.03, 0.72, 0.05, 0.2]
+ q-read v0: GELU orient corr=+0.040 | cos with gate reads v0..v3: [-0.43 -0.63 -0.04  0.11] | x-energy 0.024
+ q-read v1: GELU orient corr=+0.055 | cos with gate reads v0..v3: [-0.73  0.47 -0.12  0.07] | x-energy 0.055
+ q-read v2: GELU orient corr=-0.043 | cos with gate reads v0..v3: [ 0.28 -0.11 -0.38  0.09] | x-energy 0.001
+using q-read component 1 orient 0.055
+ H0 cos(dq, k_t): L0v0:+0.017(base -0.03) L0v3:+0.004(base -0.05) L1v1:-0.021(base -0.03) L1v4:+0.031(base +0.00) L2v2:+0.049(base -0.03) L2v3:-0.030(base +0.05)
+ H1 cos(dq, k_t): L0v0:+0.012(base -0.01) L0v3:+0.011(base -0.00) L1v1:+0.020(base -0.02) L1v4:-0.001(base -0.03) L2v2:-0.071(base +0.02) L2v3:+0.031(base +0.01)
+ H2 cos(dq, k_t): L0v0:+0.004(base -0.04) L0v3:+0.010(base -0.07) L1v1:+0.055(base -0.02) L1v4:+0.004(base -0.05) L2v2:-0.024(base -0.03) L2v3:+0.039(base +0.04)
+ H3 cos(dq, k_t): L0v0:+0.029(base -0.02) L0v3:+0.066(base -0.05) L1v1:+0.032(base -0.01) L1v4:+0.029(base +0.03) L2v2:+0.027(base -0.03) L2v3:-0.001(base +0.05)
+
+```

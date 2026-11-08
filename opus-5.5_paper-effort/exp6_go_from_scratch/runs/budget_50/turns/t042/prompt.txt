@@ -1,0 +1,5 @@
+OUTPUT of Python run 32 of at most 120:
+```
+Counter({'moves': 4963, 'two_lib_result': 493, 'selfatari_sz': 466, 'savable': 198, 'selfatari': 158, 'saved': 41})
+
+```

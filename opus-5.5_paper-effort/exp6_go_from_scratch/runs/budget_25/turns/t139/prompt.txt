@@ -1,0 +1,7 @@
+OUTPUT of Python run 114 of at most 120:
+```
+22 128 rep losses [-7.5, -5.5, 9.5] rep wins 8 other losses 28 wipe 65
+23 64 rep losses [3.5, 4.5, 10.5, 14.5, 16.5, 28.5] rep wins 6 other losses 20 wipe 21
+24 128 rep losses [-15.5, -5.5, -1.5, 4.5, 7.5, 61.5] rep wins 8 other losses 45 wipe 35
+
+```

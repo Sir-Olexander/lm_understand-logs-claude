@@ -1,0 +1,5 @@
+Positions pass 14 of 50 done.
+```
+{"ok": true, "pass": 14, "kind": "positions", "positions": 1, "top3_per_position": [[["(1,1)", 0.9986], ["(7,0)", 0.0003], ["(8,1)", 0.0003]]], "files": "/work/pass_14/", "readme": "inputs.npy (P, 243) the network inputs; legal.npy (P, 82) the legal moves (for 'board' positions: the empty points and pass; suicide and ko are not checked); logits.npy, probs.npy (P, 82); act_L1.npy .. act_L6.npy (P, 512) the hidden activations after ReLU."}
+```
+Passes left: 36.

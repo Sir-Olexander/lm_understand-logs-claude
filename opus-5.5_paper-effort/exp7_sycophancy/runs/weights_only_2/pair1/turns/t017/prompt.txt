@@ -1,0 +1,26 @@
+OUTPUT of run 16 of at most 60:
+```
+L 0 dV~sumO^T +0.38  gain-sign -1.19   ctrl mean +1.03 sd 2.99
+L 1 dV~sumO^T -2.17  gain-sign -3.25   ctrl mean +0.17 sd 1.91
+L 2 dV~sumO^T -0.33  gain-sign -3.06   ctrl mean -0.47 sd 2.40
+L 3 dV~sumO^T +3.82  gain-sign +4.01   ctrl mean -0.14 sd 2.91
+L 4 dV~sumO^T -1.17  gain-sign -4.16   ctrl mean -0.19 sd 2.54
+L 5 dV~sumO^T +3.17  gain-sign +4.03   ctrl mean -0.33 sd 2.44
+L 6 dV~sumO^T +2.27  gain-sign +3.25   ctrl mean +0.36 sd 1.71
+L 7 dV~sumO^T +2.74  gain-sign +4.43   ctrl mean -0.01 sd 1.99
+L 8 dV~sumO^T +0.61  gain-sign +0.67   ctrl mean +0.96 sd 1.60
+L 9 dV~sumO^T +1.54  gain-sign +0.84   ctrl mean -0.65 sd 2.89
+L10 dV~sumO^T +2.92  gain-sign +1.93   ctrl mean -0.06 sd 2.11
+L11 dV~sumO^T -2.16  gain-sign -2.20   ctrl mean -0.34 sd 2.86
+L12 dV~sumO^T +3.97  gain-sign +2.10   ctrl mean +0.14 sd 2.67
+L13 dV~sumO^T +2.46  gain-sign +3.20   ctrl mean -1.28 sd 2.54
+L14 dV~sumO^T -7.92  gain-sign -3.56   ctrl mean -0.17 sd 2.11
+L15 dV~sumO^T +3.12  gain-sign -1.04   ctrl mean +1.01 sd 1.86
+L16 dV~sumO^T +4.24  gain-sign +1.65   ctrl mean -0.46 sd 3.34
+L17 dV~sumO^T +1.56  gain-sign +3.05   ctrl mean -0.57 sd 1.54
+V-side same mean 1.0579512 frac pos 0.7222222222222222 | ctrl mean -0.055733163 sd 2.4820747
+V-side gain-sign same mean 0.5942653 frac pos 0.6111111111111112 | ctrl -0.021181794 2.6301172
+corr(base copy z, dO copy-alignment) = 0.147
+mean alignment for base copy heads (z>30): 1.8216718 n 40 | suppression heads (z<-30): 1.3809582 n 12 | neutral: 1.8035735
+
+```

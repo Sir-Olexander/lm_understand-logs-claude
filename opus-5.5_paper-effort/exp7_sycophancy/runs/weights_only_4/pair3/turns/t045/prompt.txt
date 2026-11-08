@@ -1,0 +1,16 @@
+OUTPUT of run 44 of at most 60:
+```
+category | MLP L12-17 sum z (n=6) | heads L12-17 sum z (n=24) | total
+  digits     MLP  -23.5   heads   -7.4   total  -30.9   MLP per-layer: +1.1 +0.9 -4.0 -4.5 -6.9 -10.0
+  numwords   MLP  -14.6   heads   -1.6   total  -16.2   MLP per-layer: -0.6 -0.0 -2.9 -4.9 -3.6 -2.7
+  colors     MLP   -1.2   heads   -7.4   total   -8.5   MLP per-layer: +0.6 +1.2 +0.3 -0.7 -1.0 -1.5
+  capitals   MLP   -4.3   heads  -13.5   total  -17.8   MLP per-layer: +1.0 -0.5 -1.0 -0.7 -1.6 -1.4
+  countries  MLP   +0.4   heads   -4.4   total   -4.0   MLP per-layer: +1.2 +0.9 -1.4 -0.1 +0.4 -0.5
+  languages  MLP   +0.9   heads   -9.4   total   -8.5   MLP per-layer: +1.2 -0.7 -1.0 -1.1 -0.3 +2.9
+  currencies MLP   -1.0   heads   +2.1   total   +1.1   MLP per-layer: -1.4 +1.0 -0.5 -3.3 +2.5 +0.6
+  animals    MLP   -3.4   heads   -1.0   total   -4.4   MLP per-layer: +0.1 +2.3 -1.5 -1.1 -1.2 -1.9
+  famous     MLP   +3.4   heads   +1.3   total   +4.7   MLP per-layer: +0.3 -0.2 -0.5 +1.4 +1.7 +0.8
+  fruits     MLP   -1.4   heads  -11.8   total  -13.2   MLP per-layer: +0.5 +0.2 -0.5 +0.2 -0.9 -0.9
+ALL categories: MLP -44.6  heads -53.1
+
+```

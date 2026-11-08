@@ -1,0 +1,32 @@
+OUTPUT of Python run 29 of at most 120:
+```
+4 strong black -1 -20.5 two passes 94 cap 10 lost 17 netpasses 2
+5 strong black -1 -2.5 two passes 100 cap 19 lost 26 netpasses 4
+16 strong black -1 -3.5 two passes 84 cap 11 lost 30 netpasses 3
+18 strong black -1 -13.5 two passes 96 cap 10 lost 38 netpasses 6
+20 strong black -1 -5.5 two passes 93 cap 13 lost 17 netpasses 1
+24 strong black -1 -5.5 two passes 85 cap 5 lost 7 netpasses 5
+26 strong black -1 -5.5 repetition 59 cap 5 lost 5 netpasses 0
+27 strong black -1 -32.5 two passes 110 cap 8 lost 27 netpasses 8
+34 strong black -1 -14.5 two passes 82 cap 9 lost 38 netpasses 3
+36 strong black -1 3.5 repetition 77 cap 15 lost 17 netpasses 0
+40 strong black -1 -10.5 two passes 92 cap 17 lost 13 netpasses 2
+41 strong black -1 -0.5 two passes 99 cap 21 lost 11 netpasses 4
+42 strong black -1 -12.5 two passes 104 cap 14 lost 22 netpasses 4
+46 strong black -1 -25.5 two passes 74 cap 4 lost 13 netpasses 1
+49 strong white -1 -7.5 two passes 102 cap 15 lost 71 netpasses 2
+52 strong white -1 -15.5 two passes 99 cap 7 lost 43 netpasses 5
+56 strong white -1 0.5 repetition 74 cap 8 lost 12 netpasses 0
+57 strong white 1 7.5 repetition 41 cap 6 lost 4 netpasses 0
+60 strong white -1 -3.5 two passes 107 cap 15 lost 22 netpasses 6
+61 strong white -1 -8.5 two passes 89 cap 10 lost 39 netpasses 3
+64 strong white -1 -10.5 two passes 115 cap 20 lost 24 netpasses 8
+71 strong white -1 -17.5 two passes 99 cap 10 lost 38 netpasses 6
+78 strong white -1 -23.5 two passes 111 cap 16 lost 23 netpasses 9
+79 strong white -1 -13.5 two passes 86 cap 7 lost 51 netpasses 2
+84 strong white 1 81.5 move limit 162 cap 190 lost 28 netpasses 11
+93 strong white 1 51.5 move limit 162 cap 195 lost 63 netpasses 15
+107 weak black 1 45.5 repetition 82 cap 33 lost 2 netpasses 0
+115 weak white 1 82.5 repetition 113 cap 77 lost 2 netpasses 3
+
+```

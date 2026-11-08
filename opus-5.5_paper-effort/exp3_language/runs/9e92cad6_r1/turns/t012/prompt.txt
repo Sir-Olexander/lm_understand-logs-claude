@@ -1,0 +1,58 @@
+OUTPUT of run 11 of at most 100:
+```
+L1H0 ind: tr    0.25 pos   0.42 neg   0.54 tot   2.05 symeig+   1.34 symeig-  -1.09
+      rev: tr   -0.25 pos   0.75 neg   0.87 tot   3.87 symeig+   1.88 symeig-  -2.12
+      same:tr   -4.96 pos   0.00 neg   5.15 tot   6.02 symeig+   0.74 symeig-  -5.69
+L1H1 ind: tr    0.63 pos   0.92 neg   0.21 tot   2.37 symeig+   1.67 symeig-  -1.04
+      rev: tr    0.97 pos   0.63 neg   0.62 tot   3.74 symeig+   2.76 symeig-  -1.79
+      same:tr   -4.51 pos   0.35 neg   4.49 tot   5.86 symeig+   0.91 symeig-  -5.42
+L1H2 ind: tr    0.42 pos   0.82 neg   0.36 tot   1.98 symeig+   1.58 symeig-  -1.16
+      rev: tr   -0.82 pos   0.68 neg   1.14 tot   3.43 symeig+   1.70 symeig-  -2.52
+      same:tr   -2.98 pos   0.22 neg   1.77 tot   3.99 symeig+   0.79 symeig-  -3.77
+L1H3 ind: tr    0.15 pos   0.63 neg   0.53 tot   2.24 symeig+   1.41 symeig-  -1.27
+      rev: tr    0.18 pos   0.63 neg   0.55 tot   3.38 symeig+   1.98 symeig-  -1.80
+      same:tr   -3.32 pos   0.33 neg   2.79 tot   4.44 symeig+   0.93 symeig-  -4.25
+L1H4 ind: tr    0.08 pos   0.11 neg   0.22 tot   1.64 symeig+   1.06 symeig-  -0.97
+      rev: tr   -3.38 pos   0.03 neg   3.03 tot   4.16 symeig+   0.66 symeig-  -4.05
+      same:tr   -2.58 pos   0.18 neg   2.15 tot   3.46 symeig+   0.62 symeig-  -3.21
+L1H5 ind: tr    0.53 pos   0.94 neg   0.39 tot   2.16 symeig+   1.63 symeig-  -1.10
+      rev: tr    0.83 pos   0.62 neg   0.90 tot   3.99 symeig+   2.77 symeig-  -1.94
+      same:tr   -5.24 pos   0.00 neg   4.88 tot   6.08 symeig+   0.57 symeig-  -5.81
+L2H0 ind: tr    0.08 pos   0.38 neg   0.22 tot   1.23 symeig+   0.72 symeig-  -0.63
+      rev: tr   -0.34 pos   0.19 neg   0.50 tot   1.53 symeig+   0.72 symeig-  -1.06
+      same:tr   -0.99 pos   0.26 neg   0.82 tot   2.54 symeig+   0.77 symeig-  -1.76
+L2H1 ind: tr    0.04 pos   0.46 neg   0.51 tot   1.98 symeig+   1.16 symeig-  -1.12
+      rev: tr    0.33 pos   0.76 neg   0.37 tot   2.36 symeig+   1.46 symeig-  -1.13
+      same:tr   -0.58 pos   0.45 neg   0.48 tot   3.46 symeig+   1.31 symeig-  -1.89
+L2H2 ind: tr    0.16 pos   0.48 neg   0.15 tot   1.42 symeig+   0.80 symeig-  -0.64
+      rev: tr   -0.48 pos   0.21 neg   0.48 tot   1.74 symeig+   0.69 symeig-  -1.18
+      same:tr   -0.87 pos   0.29 neg   0.83 tot   2.48 symeig+   0.74 symeig-  -1.61
+L2H3 ind: tr    0.17 pos   0.42 neg   0.19 tot   1.32 symeig+   0.86 symeig-  -0.69
+      rev: tr    0.25 pos   0.45 neg   0.22 tot   1.42 symeig+   0.90 symeig-  -0.65
+      same:tr   -0.34 pos   0.10 neg   0.24 tot   2.05 symeig+   0.91 symeig-  -1.25
+L2H4 ind: tr    0.47 pos   0.82 neg   0.17 tot   2.02 symeig+   1.38 symeig-  -0.92
+      rev: tr   -0.11 pos   0.54 neg   0.41 tot   2.14 symeig+   1.17 symeig-  -1.29
+      same:tr   -0.49 pos   0.38 neg   0.66 tot   3.15 symeig+   1.51 symeig-  -2.00
+L2H5 ind: tr   -0.04 pos   0.48 neg   0.36 tot   1.93 symeig+   1.15 symeig-  -1.19
+      rev: tr    0.74 pos   1.20 neg   0.33 tot   2.63 symeig+   1.80 symeig-  -1.07
+      same:tr   -1.36 pos   0.39 neg   1.48 tot   3.72 symeig+   1.26 symeig-  -2.62
+L3H0 ind: tr   -0.47 pos   0.11 neg   0.31 tot   1.88 symeig+   0.73 symeig-  -1.20
+      rev: tr    0.50 pos   0.67 neg   0.31 tot   2.07 symeig+   1.36 symeig-  -0.86
+      same:tr    0.35 pos   0.58 neg   0.35 tot   3.05 symeig+   1.56 symeig-  -1.20
+L3H1 ind: tr   -0.06 pos   0.30 neg   0.27 tot   1.01 symeig+   0.50 symeig-  -0.56
+      rev: tr    0.08 pos   0.29 neg   0.07 tot   1.00 symeig+   0.54 symeig-  -0.46
+      same:tr    0.19 pos   0.46 neg   0.30 tot   1.70 symeig+   0.89 symeig-  -0.71
+L3H2 ind: tr    0.05 pos   0.15 neg   0.20 tot   1.11 symeig+   0.62 symeig-  -0.57
+      rev: tr    0.04 pos   0.24 neg   0.19 tot   1.23 symeig+   0.66 symeig-  -0.62
+      same:tr    0.15 pos   0.39 neg   0.23 tot   1.86 symeig+   1.02 symeig-  -0.87
+L3H3 ind: tr    3.17 pos   3.18 neg   0.07 tot   3.50 symeig+   3.36 symeig-  -0.19
+      rev: tr   -1.02 pos   0.13 neg   0.88 tot   1.86 symeig+   0.50 symeig-  -1.52
+      same:tr    0.89 pos   1.26 neg   0.35 tot   2.86 symeig+   1.84 symeig-  -0.94
+L3H4 ind: tr    0.09 pos   0.11 neg   0.07 tot   0.50 symeig+   0.30 symeig-  -0.21
+      rev: tr   -0.01 pos   0.09 neg   0.15 tot   0.42 symeig+   0.24 symeig-  -0.24
+      same:tr    0.04 pos   0.11 neg   0.17 tot   0.79 symeig+   0.43 symeig-  -0.39
+L3H5 ind: tr   -0.07 pos   0.24 neg   0.38 tot   1.37 symeig+   0.70 symeig-  -0.77
+      rev: tr    0.49 pos   0.62 neg   0.18 tot   1.38 symeig+   1.03 symeig-  -0.55
+      same:tr    0.15 pos   0.53 neg   0.44 tot   2.53 symeig+   1.19 symeig-  -1.04
+
+```

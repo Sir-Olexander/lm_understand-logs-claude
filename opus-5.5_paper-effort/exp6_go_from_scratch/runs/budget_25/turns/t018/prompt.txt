@@ -1,0 +1,17 @@
+OUTPUT of Python run 16 of at most 120:
+```
+legal 118678 tuns 7140 tat 1045
+par2 3 at_fp 1302 merge fp 20616 fn 0 class fp 9242 fn 83 both fp 9242 fn 83
+par2 4 at_fp 1018 merge fp 20616 fn 0 class fp 9227 fn 83 both fp 9227 fn 83
+par2 5 at_fp 588 merge fp 20616 fn 0 class fp 9162 fn 83 both fp 9162 fn 83
+par2 12 at_fp 328 merge fp 20616 fn 0 class fp 9116 fn 83 both fp 9116 fn 83
+p3 3 at_fp 1162 merge fp 3598 fn 0 class fp 2199 fn 83 both fp 2073 fn 83
+p3 4 at_fp 831 merge fp 3242 fn 0 class fp 1998 fn 83 both fp 1884 fn 83
+p3 5 at_fp 476 merge fp 2759 fn 0 class fp 1612 fn 83 both fp 1508 fn 83
+p3 12 at_fp 209 merge fp 2124 fn 0 class fp 1199 fn 83 both fp 1098 fn 83
+mod3 3 at_fp 1895 merge fp 4577 fn 14 class fp 2656 fn 83 both fp 2206 fn 97
+mod3 4 at_fp 1223 merge fp 4067 fn 14 class fp 2213 fn 83 both fp 1879 fn 97
+mod3 5 at_fp 897 merge fp 3590 fn 14 class fp 1824 fn 83 both fp 1561 fn 97
+mod3 12 at_fp 549 merge fp 2929 fn 14 class fp 1348 fn 83 both fp 1129 fn 97
+
+```

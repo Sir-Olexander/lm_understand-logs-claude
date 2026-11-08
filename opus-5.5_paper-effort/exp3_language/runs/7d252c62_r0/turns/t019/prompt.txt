@@ -1,0 +1,28 @@
+OUTPUT of run 18 of at most 100:
+```
+L0H0 |keypref|=  0.15  tok= 0.08 pos30= 0.09 O4= 0.04 O0= 0.04 prev5= 0.03 prev1= 0.03
+L0H1 |keypref|=  0.59  tok= 0.23 pos30= 0.53 O4= 0.21 O0= 0.19 prev5= 0.14 prev1= 0.16
+L0H2 |keypref|=  0.19  tok= 0.08 pos30= 0.16 O4= 0.01 O0= 0.01 prev5= 0.05 prev1= 0.05
+L0H3 |keypref|=  0.46  tok= 0.25 pos30= 0.28 O4= 0.08 O0= 0.09 prev5= 0.14 prev1= 0.11
+L0H4 |keypref|=  0.01  tok= 0.00 pos30= 0.00 O4= 0.00 O0= 0.00 prev5= 0.00 prev1= 0.00
+L0H5 |keypref|=  0.41  tok= 0.12 pos30= 0.38 O4= 0.12 O0= 0.10 prev5= 0.10 prev1= 0.11
+L1H0 |keypref|=  6.71  tok= 1.91 pos30= 4.73 O4= 5.87 O0= 5.23 prev5= 1.17 prev1= 0.85
+L1H1 |keypref|= 25.20  tok= 6.91 pos30=19.20 O4=23.93 O0=22.93 prev5= 3.71 prev1= 1.30
+L1H2 |keypref|= 17.60  tok= 4.47 pos30=13.28 O4=16.74 O0=15.85 prev5= 2.37 prev1= 1.00
+L1H3 |keypref|= 21.76  tok= 4.73 pos30=16.63 O4=20.97 O0=19.86 prev5= 2.56 prev1= 0.83
+L1H4 |keypref|= 20.15  tok= 4.58 pos30=15.45 O4=19.28 O0=18.39 prev5= 2.33 prev1= 1.02
+L1H5 |keypref|= 19.68  tok= 6.42 pos30=14.10 O4=17.86 O0=17.34 prev5= 3.78 prev1= 1.12
+L2H0 |keypref|=  7.16  tok= 1.81 pos30= 4.04 O4= 4.89 O0= 4.90 prev5= 1.63 prev1= 1.05
+L2H1 |keypref|=  5.10  tok= 1.24 pos30= 1.16 O4= 0.95 O0= 1.18 prev5= 1.66 prev1= 1.16
+L2H2 |keypref|= 12.67  tok= 1.93 pos30= 9.93 O4=11.63 O0=10.48 prev5= 1.39 prev1= 1.14
+L2H3 |keypref|=  8.29  tok= 1.72 pos30= 6.34 O4= 7.37 O0= 6.61 prev5= 1.42 prev1= 0.65
+L2H4 |keypref|=  9.60  tok= 2.54 pos30= 6.41 O4= 7.83 O0= 7.45 prev5= 3.35 prev1= 1.29
+L2H5 |keypref|=  5.09  tok= 1.47 pos30= 2.34 O4= 2.62 O0= 2.86 prev5= 1.51 prev1= 0.87
+L3H0 |keypref|=  2.39  tok= 0.73 pos30= 0.83 O4= 0.70 O0= 0.59 prev5= 0.58 prev1= 0.50
+L3H1 |keypref|=  2.11  tok= 0.69 pos30= 0.72 O4= 0.58 O0= 0.59 prev5= 0.54 prev1= 0.48
+L3H2 |keypref|=  2.74  tok= 0.50 pos30= 1.28 O4= 1.32 O0= 1.27 prev5= 0.69 prev1= 0.53
+L3H3 |keypref|=  2.07  tok= 0.49 pos30= 0.68 O4= 0.43 O0= 0.44 prev5= 0.44 prev1= 0.48
+L3H4 |keypref|=  2.45  tok= 0.73 pos30= 0.88 O4= 0.98 O0= 1.04 prev5= 0.47 prev1= 0.45
+L3H5 |keypref|=  2.48  tok= 0.75 pos30= 0.70 O4= 0.60 O0= 0.61 prev5= 0.71 prev1= 0.57
+
+```

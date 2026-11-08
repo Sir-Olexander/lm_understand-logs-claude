@@ -1,0 +1,23 @@
+OUTPUT of run 18 of at most 100:
+```
+L1H0 OV-in energy: T 0.098 O3 0.233 | out in Up21 0.042  q-in T 0.112 k-in O3 0.063 k-in T 0.132
+L1H1 OV-in energy: T 0.123 O3 0.262 | out in Up21 0.052  q-in T 0.117 k-in O3 0.073 k-in T 0.144
+L1H2 OV-in energy: T 0.105 O3 0.216 | out in Up21 0.052  q-in T 0.082 k-in O3 0.109 k-in T 0.126
+L1H3 OV-in energy: T 0.155 O3 0.200 | out in Up21 0.052  q-in T 0.102 k-in O3 0.081 k-in T 0.117
+L1H4 OV-in energy: T 0.095 O3 0.180 | out in Up21 0.045  q-in T 0.064 k-in O3 0.095 k-in T 0.109
+L1H5 OV-in energy: T 0.118 O3 0.251 | out in Up21 0.055  q-in T 0.120 k-in O3 0.058 k-in T 0.143
+L2H0 OV-in energy: T 0.044 O3 0.050 | out in Up21 0.054  q-in T 0.044 k-in O3 0.038 k-in T 0.067
+L2H1 OV-in energy: T 0.046 O3 0.062 | out in Up21 0.055  q-in T 0.047 k-in O3 0.044 k-in T 0.066
+L2H2 OV-in energy: T 0.052 O3 0.044 | out in Up21 0.052  q-in T 0.040 k-in O3 0.042 k-in T 0.059
+L2H3 OV-in energy: T 0.048 O3 0.071 | out in Up21 0.054  q-in T 0.039 k-in O3 0.048 k-in T 0.053
+L2H4 OV-in energy: T 0.044 O3 0.078 | out in Up21 0.054  q-in T 0.047 k-in O3 0.045 k-in T 0.060
+L2H5 OV-in energy: T 0.049 O3 0.059 | out in Up21 0.054  q-in T 0.047 k-in O3 0.045 k-in T 0.065
+L3H0 OV-in energy: T 0.050 O3 0.040 | out in Up21 0.080  q-in T 0.038 k-in O3 0.051 k-in T 0.050
+L3H1 OV-in energy: T 0.046 O3 0.055 | out in Up21 0.084  q-in T 0.040 k-in O3 0.047 k-in T 0.047
+L3H2 OV-in energy: T 0.048 O3 0.039 | out in Up21 0.087  q-in T 0.040 k-in O3 0.039 k-in T 0.052
+L3H3 OV-in energy: T 0.115 O3 0.036 | out in Up21 0.302  q-in T 0.060 k-in O3 0.078 k-in T 0.040
+L3H4 OV-in energy: T 0.035 O3 0.038 | out in Up21 0.082  q-in T 0.042 k-in O3 0.036 k-in T 0.048
+L3H5 OV-in energy: T 0.044 O3 0.043 | out in Up21 0.072  q-in T 0.040 k-in O3 0.045 k-in T 0.051
+random 16-dim baseline energy 0.041666666666666664
+
+```

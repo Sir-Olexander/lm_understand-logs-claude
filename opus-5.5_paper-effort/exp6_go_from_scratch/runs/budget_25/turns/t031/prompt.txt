@@ -1,0 +1,15 @@
+OUTPUT of Python run 27 of at most 120:
+```
+4 black 127 61
+......... ......... .....X... .....X... ....XX... .XO.XX... .XO.XX... .X.XXX... .X.XXX.O. .X.XXXXO. .X.XXXX.X
+......... ....XOX.. ....X.X.. ....X.X.. .OO.X.X.. .OOXX.X.. .OOXX.X.. X..XX.X.O XXXXX.XOO XXXXX.X.X XXXXX.XXX
+....XO... ....XOO.. ....X..X. ....X.XX. .OOXXXXX. .OOXXXXX. OOOXXXXX. O..XXXXX. O.XXXXXXO .XXXXXXX. .XXXXXXX.
+..OOXOX.. ..OOXOXX. ..OOX.XX. .OOOX.XXX .OOOX.XXX .OOOX.XXX .OOOX.XXX ....X.XXX ..X.X.XXX X.X.X.XXX X.X.X.XXX
+......O.. ....OXO.. ....OXOO. ..XXXXOO. ..XXXXOO. .XXXXXOO. XXXXXX..X XXXXXX.XX XXXXXX.XX XXXXXX.XX XXXXXX.XX
+......... ....OXO.. ..OXOXOO. ..OX.XOO. ..OX.XOO. .XOX.XOO. XXOX.X..X XXOX.XX.X XXOX.XX.X XXOX.XX.X XX.X.XX.X
+....X..X. ....X..X. ...XXXOX. ..OXXXOX. ..OXXXOX. .OOXXXOX. OOOXXXOX. OOOXXX.X. OOOXXX.X. OOOXXX.X. .O.XXX.XX
+......... ......... ......O.. ..O.O.O.. ..OOOXOX. .OOOOXOX. .OOOOXOXO .OOOOX.XO .OOOOXXXO .OOOOXXX. .....XXX.
+......... ......... ......... ......... ......... ....XOO.. ....X..X. ....XX.X. ....XX.X. ....XX.XX XX..XX.XX
+[(119, 'opponent'), (125, 'opponent'), (126, 'net')]
+
+```

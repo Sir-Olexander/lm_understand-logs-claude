@@ -1,0 +1,24 @@
+OUTPUT of Python run 26 of at most 120:
+```
+[('o', 2, []), ('n', 1, [[1, 0.9274], [35, 0.0724]]), ('o', 9, []), ('n', 0, [[0, 0.9973], [35, 0.0027]]), ('o', 2, []), ('n', 1, [[1, 0.9983], [35, 0.0017]])]
+...X.....  ..OX.....  .X.X.....  .X.X.....  XX.X.....  ..OX.....  .X.X.....
+.OXXXOOOO  .OXXXOOOO  .OXXXOOOO  OOXXXOOOO  OOXXXOOOO  OOXXXOOOO  OOXXXOOOO
+OOOXOO..O  OOOXOO..O  OOOXOO..O  OOOXOO..O  OOOXOO..O  OOOXOO..O  OOOXOO..O
+OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.  OOOOOOOO.
+XXXXXXOXO  XXXXXXOXO  XXXXXXOXO  XXXXXXOXO  XXXXXXOXO  XXXXXXOXO  XXXXXXOXO
+XX.XX.XXX  XX.XX.XXX  XX.XX.XXX  XX.XX.XXX  XX.XX.XXX  XX.XX.XXX  XX.XX.XXX
+X.XX.XXX.  X.XX.XXX.  X.XX.XXX.  X.XX.XXX.  X.XX.XXX.  X.XX.XXX.  X.XX.XXX.
+XXXX...X.  XXXX...X.  XXXX...X.  XXXX...X.  XXXX...X.  XXXX...X.  XXXX...X.
+.X......X  .X......X  .X......X  .X......X  .X......X  .X......X  .X......X
+[('o', 80, []), ('n', 79, [[79, 1.0], [73, 0.0]]), ('o', 69, []), ('n', 78, [[78, 1.0], [73, 0.0]]), ('o', 80, []), ('n', 79, [[79, 1.0], [73, 0.0]])]
+..X..X.XX  ..X..X.XX  ..X..X.XX  ..X..X.XX  ..X..X.XX  ..X..X.XX  ..X..X.XX
+.OXXX.XX.  .OXXX.XX.  .OXXX.XX.  .OXXX.XX.  .OXXX.XX.  .OXXX.XX.  .OXXX.XX.
+.OXX.XX.X  .OXX.XX.X  .OXX.XX.X  .OXX.XX.X  .OXX.XX.X  .OXX.XX.X  .OXX.XX.X
+.OX.X..XX  .OX.X..XX  .OX.X..XX  .OX.X..XX  .OX.X..XX  .OX.X..XX  .OX.X..XX
+.OOXX.XX.  .OOXX.XX.  .OOXX.XX.  .OOXX.XX.  .OOXX.XX.  .OOXX.XX.  .OOXX.XX.
+.OXXXXXXX  .OXXXXXXX  .OXXXXXXX  .OXXXXXXX  .OXXXXXXX  .OXXXXXXX  .OXXXXXXX
+OOOOXOOOX  OOOOXOOOX  OOOOXOOOX  OOOOXOOOX  OOOOXOOOX  OOOOXOOOX  OOOOXOOOX
+..OOOOXOX  ..OOOO.OX  ..OOOO.OX  ..OOOOOOX  ..OOOOOOX  ..OOOOOOX  ..OOOOOOX
+O..OOOXX.  O..OOO..O  O..OOO.X.  O..OOO.X.  O..OOOXX.  O..OOO..O  O..OOO.X.
+
+```

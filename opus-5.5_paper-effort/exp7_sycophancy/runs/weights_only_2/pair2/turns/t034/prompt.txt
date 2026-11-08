@@ -1,0 +1,22 @@
+OUTPUT of run 33 of at most 60:
+```
+L 0 corr(s, answer-writing)=+0.032 (null sd 0.023) | mean s top100 writers=+0.080e-3 vs all -0.004e-3 (sd 0.825e-3)
+L 1 corr(s, answer-writing)=-0.023 (null sd 0.023) | mean s top100 writers=-0.153e-3 vs all -0.007e-3 (sd 1.060e-3)
+L 2 corr(s, answer-writing)=-0.020 (null sd 0.021) | mean s top100 writers=-0.027e-3 vs all +0.006e-3 (sd 0.984e-3)
+L 3 corr(s, answer-writing)=-0.015 (null sd 0.023) | mean s top100 writers=-0.265e-3 vs all -0.045e-3 (sd 1.165e-3)
+L 4 corr(s, answer-writing)=-0.009 (null sd 0.021) | mean s top100 writers=-0.056e-3 vs all -0.075e-3 (sd 1.308e-3)
+L 5 corr(s, answer-writing)=-0.016 (null sd 0.022) | mean s top100 writers=-0.072e-3 vs all +0.008e-3 (sd 0.966e-3)
+L 6 corr(s, answer-writing)=-0.004 (null sd 0.024) | mean s top100 writers=+0.078e-3 vs all -0.030e-3 (sd 1.088e-3)
+L 7 corr(s, answer-writing)=+0.017 (null sd 0.023) | mean s top100 writers=+0.136e-3 vs all -0.038e-3 (sd 1.058e-3)
+L 8 corr(s, answer-writing)=-0.017 (null sd 0.021) | mean s top100 writers=-0.101e-3 vs all -0.016e-3 (sd 1.181e-3)
+L 9 corr(s, answer-writing)=+0.006 (null sd 0.022) | mean s top100 writers=-0.042e-3 vs all -0.032e-3 (sd 0.982e-3)
+L10 corr(s, answer-writing)=-0.009 (null sd 0.023) | mean s top100 writers=-0.076e-3 vs all -0.040e-3 (sd 1.164e-3)
+L11 corr(s, answer-writing)=-0.002 (null sd 0.022) | mean s top100 writers=-0.002e-3 vs all +0.008e-3 (sd 0.865e-3)
+L12 corr(s, answer-writing)=+0.017 (null sd 0.021) | mean s top100 writers=+0.116e-3 vs all +0.016e-3 (sd 0.871e-3)
+L13 corr(s, answer-writing)=-0.047 (null sd 0.021) | mean s top100 writers=-0.119e-3 vs all +0.011e-3 (sd 1.059e-3)
+L14 corr(s, answer-writing)=-0.017 (null sd 0.023) | mean s top100 writers=-0.018e-3 vs all -0.002e-3 (sd 1.147e-3)
+L15 corr(s, answer-writing)=-0.004 (null sd 0.021) | mean s top100 writers=+0.109e-3 vs all +0.009e-3 (sd 1.049e-3)
+L16 corr(s, answer-writing)=-0.021 (null sd 0.023) | mean s top100 writers=-0.024e-3 vs all +0.044e-3 (sd 1.013e-3)
+L17 corr(s, answer-writing)=+0.020 (null sd 0.022) | mean s top100 writers=-0.015e-3 vs all +0.050e-3 (sd 1.073e-3)
+
+```

@@ -1,0 +1,11 @@
+OUTPUT of run 32 of at most 60:
+```
+row-bootstrap z of ||B||^2-||A||^2       Pearson +0.405 (p=0.0014)  Spearman +0.322 (p=0.0120)
+     anti: mean -1.73, sum/sqrt n -6.25, frac<0 0.92
+     copy: mean +0.28, sum/sqrt n +1.67, frac<0 0.47
+trimmed (drop top1% |d|) midpoint z      Pearson +0.402 (p=0.0015)  Spearman +0.354 (p=0.0038)
+     anti: mean -1.64, sum/sqrt n -5.93, frac<0 0.92
+     copy: mean +0.33, sum/sqrt n +1.95, frac<0 0.50
+key heads (row-bootstrap z): {'L11H2': 3.4, 'L11H3': -3.6, 'L12H0': -4.2, 'L17H0': 3.3, 'L17H2': -3.9, 'L15H1': -0.8, 'L15H3': 1.3, 'L9H1': -2.7, 'L9H3': 2.7, 'L6H0': 3.7, 'L6H1': -1.2, 'L13H3': -1.0}
+
+```

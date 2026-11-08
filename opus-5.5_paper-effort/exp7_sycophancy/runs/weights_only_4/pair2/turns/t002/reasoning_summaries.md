@@ -1,0 +1,4 @@
+The differences look uniform across all layers, around 0.006 relative for most matrices, which fits full fine-tuning. Roughly three quarters of the elements changed by at least one bf16 ulp. I'll pull together a compact per-layer table of the absolute differences, check the rank structure of the diff via SVD, and look at per-head differences. The overall diff norm seems fairly even, so it may be mostly noise.
+
+The diff looks like it could be driven by noise, since both models were fine-tuned the same way and the relative size is so uniform. If the data order matched and only the targets on the wrong-guess examples differed, that would explain it, but a uniform 0.006 is more consistent with noise. I'll check whether the top singular values of the diff dominate, which would point to structure.
+

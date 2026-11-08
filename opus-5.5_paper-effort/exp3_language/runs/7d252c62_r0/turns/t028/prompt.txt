@@ -1,0 +1,22 @@
+OUTPUT of run 27 of at most 100:
+```
+L1H0 |QK|=  5.2 pos>pos=0.30 pos>tok=0.13 pos>prv=0.15 tok>pos=0.17 tok>tok=0.09 tok>prv=0.12 prv>pos=0.25 prv>tok=0.18 prv>prv=0.24 | bias>pos=5.9 bias>all=6.7
+L1H1 |QK|= 12.7 pos>pos=0.42 pos>tok=0.12 pos>prv=0.10 tok>pos=0.23 tok>tok=0.14 tok>prv=0.11 prv>pos=0.31 prv>tok=0.16 prv>prv=0.16 | bias>pos=24.1 bias>all=25.2
+L1H2 |QK|=  9.9 pos>pos=0.42 pos>tok=0.11 pos>prv=0.10 tok>pos=0.21 tok>tok=0.11 tok>prv=0.09 prv>pos=0.29 prv>tok=0.14 prv>prv=0.16 | bias>pos=16.8 bias>all=17.6
+L1H3 |QK|= 10.5 pos>pos=0.46 pos>tok=0.11 pos>prv=0.11 tok>pos=0.21 tok>tok=0.12 tok>prv=0.10 prv>pos=0.34 prv>tok=0.13 prv>prv=0.16 | bias>pos=21.0 bias>all=21.8
+L1H4 |QK|= 10.0 pos>pos=0.43 pos>tok=0.12 pos>prv=0.11 tok>pos=0.16 tok>tok=0.12 tok>prv=0.10 prv>pos=0.32 prv>tok=0.14 prv>prv=0.16 | bias>pos=19.4 bias>all=20.1
+L1H5 |QK|= 11.7 pos>pos=0.37 pos>tok=0.13 pos>prv=0.11 tok>pos=0.22 tok>tok=0.13 tok>prv=0.11 prv>pos=0.29 prv>tok=0.18 prv>prv=0.17 | bias>pos=18.1 bias>all=19.7
+L2H0 |QK|= 16.4 pos>pos=0.12 pos>tok=0.08 pos>prv=0.11 tok>pos=0.09 tok>tok=0.08 tok>prv=0.11 prv>pos=0.14 prv>tok=0.11 prv>prv=0.15 | bias>pos=5.2 bias>all=7.2
+L2H1 |QK|= 15.6 pos>pos=0.09 pos>tok=0.08 pos>prv=0.13 tok>pos=0.08 tok>tok=0.08 tok>prv=0.15 prv>pos=0.12 prv>tok=0.12 prv>prv=0.20 | bias>pos=1.6 bias>all=5.1
+L2H2 |QK|= 22.4 pos>pos=0.14 pos>tok=0.09 pos>prv=0.11 tok>pos=0.11 tok>tok=0.11 tok>prv=0.13 prv>pos=0.16 prv>tok=0.16 prv>prv=0.20 | bias>pos=11.8 bias>all=12.7
+L2H3 |QK|= 15.8 pos>pos=0.18 pos>tok=0.08 pos>prv=0.11 tok>pos=0.10 tok>tok=0.08 tok>prv=0.10 prv>pos=0.14 prv>tok=0.11 prv>prv=0.14 | bias>pos=7.5 bias>all=8.3
+L2H4 |QK|= 17.6 pos>pos=0.16 pos>tok=0.08 pos>prv=0.11 tok>pos=0.10 tok>tok=0.08 tok>prv=0.10 prv>pos=0.15 prv>tok=0.11 prv>prv=0.15 | bias>pos=8.1 bias>all=9.6
+L2H5 |QK|= 13.2 pos>pos=0.11 pos>tok=0.08 pos>prv=0.10 tok>pos=0.08 tok>tok=0.07 tok>prv=0.09 prv>pos=0.12 prv>tok=0.10 prv>prv=0.13 | bias>pos=3.1 bias>all=5.1
+L3H0 |QK|= 16.6 pos>pos=0.09 pos>tok=0.08 pos>prv=0.11 tok>pos=0.09 tok>tok=0.08 tok>prv=0.11 prv>pos=0.11 prv>tok=0.10 prv>prv=0.13 | bias>pos=0.9 bias>all=2.4
+L3H1 |QK|= 13.6 pos>pos=0.09 pos>tok=0.07 pos>prv=0.11 tok>pos=0.09 tok>tok=0.08 tok>prv=0.13 prv>pos=0.11 prv>tok=0.10 prv>prv=0.15 | bias>pos=0.8 bias>all=2.1
+L3H2 |QK|= 16.5 pos>pos=0.10 pos>tok=0.08 pos>prv=0.10 tok>pos=0.09 tok>tok=0.07 tok>prv=0.10 prv>pos=0.11 prv>tok=0.10 prv>prv=0.13 | bias>pos=1.5 bias>all=2.7
+L3H3 |QK|=  8.4 pos>pos=0.09 pos>tok=0.08 pos>prv=0.10 tok>pos=0.08 tok>tok=0.07 tok>prv=0.09 prv>pos=0.10 prv>tok=0.09 prv>prv=0.12 | bias>pos=0.7 bias>all=2.1
+L3H4 |QK|= 13.9 pos>pos=0.09 pos>tok=0.08 pos>prv=0.10 tok>pos=0.08 tok>tok=0.07 tok>prv=0.10 prv>pos=0.11 prv>tok=0.09 prv>prv=0.12 | bias>pos=1.2 bias>all=2.5
+L3H5 |QK|= 16.9 pos>pos=0.11 pos>tok=0.07 pos>prv=0.13 tok>pos=0.08 tok>tok=0.07 tok>prv=0.15 prv>pos=0.13 prv>tok=0.12 prv>prv=0.25 | bias>pos=1.0 bias>all=2.5
+
+```

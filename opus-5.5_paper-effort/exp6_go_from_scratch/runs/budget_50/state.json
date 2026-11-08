@@ -1,0 +1,46 @@
+{
+ "exp": "exp6",
+ "label": "budget_50",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 170,
+ "runs": 119,
+ "session_id": "6416b5ec-b6ea-41c5-92bc-df66876d8fe3",
+ "cwd": "<home>/wsp/scratch/run-e3935b",
+ "done": true,
+ "next": "Games pass 50 of 50 done.\n```\n{\"ok\": true, \"pass\": 50, \"kind\": \"games\", \"per_opponent\": {\"strong\": {\"games\": 64, \"score\": 0.5625, \"wins\": 36, \"losses\": 28, \"score_as_black\": 0.5, \"score_as_white\": 0.625, \"mean_margin\": 21.515625, \"mean_length\": 107.4375, \"stones_captured_per_game\": 39.578125, \"stones_lost_per_game\": 14.8125, \"passes_per_game\": 5.8125, \"games_with_a_pass_before_move_60\": 5, \"end_two_passes\": 55, \"end_repetition\": 6, \"end_move_limit\": 3}, \"weak\": {\"games\": 64, \"score\": 0.96875, \"wins\": 62, \"losses\": 2, \"score_as_black\": 0.96875, \"score_as_white\": 0.96875, \"mean_margin\": 72.625, \"mean_length\": 140.265625, \"stones_captured_per_game\": 104.3125, \"stones_lost_per_game\": 3.109375, \"passes_per_game\": 13.53125, \"games_with_a_pass_before_move_60\": 17, \"end_two_passes\": 46, \"end_repetition\": 5, \"end_move_limit\": 13}}, \"files\": \"/work/pass_50/\", \"readme\": \"games.json: one entry per game (opponent, net_color, result +1/-1, margin = net's area score minus the opponent's incl. komi, end, stones captured / lost, moves: ply, by, move (row*9+col, 81 = pass), and for the network's moves its top-5 [move, probability]). boards.npy: (games, 162, 81) int8, the board AFTER each ply (1 Black, -1 White, 0 empty; index row*9+col); valid.npy: (games, 162) which plies were played.\"}\n```\nPasses left: 0.",
+ "started": "2026-11-08T06:07:44+00:00",
+ "extra": {
+  "budget": 50,
+  "version": "v1",
+  "arch": {
+   "depth": 6,
+   "width": 512
+  },
+  "passes": 50,
+  "requests": 50,
+  "invalid_requests": 0,
+  "reminders": 0,
+  "several_blocks": 0,
+  "handled_turn": 170,
+  "mock": false,
+  "message_sha256": "16093754f0b499cdf5197b44e9b92c69f9ffb75625138e307eb9eeb18f332e78",
+  "network_sha256": {
+   "L1.W.npy": "8a12be70681d4775493bbd46a583ac25dae894406245cc49aee6e8cfc3cd69df",
+   "L1.b.npy": "0a97d81faf254c5895a51f87f27fc7dfb710c08e8c7b2bf7c32d22290438ac4e",
+   "L2.W.npy": "593cabb3d25daeca42edfc59d8de632a35c64564bf63c68470ba1315255cb157",
+   "L2.b.npy": "f92a71bf6433097e7b3a64ac440da341965d1987ffc2cafff27433b8687728b5",
+   "L3.W.npy": "681b7b5417a40e26f02f9ac226df9983318d33799452bd59f0ac371647fa6a9f",
+   "L3.b.npy": "085e5a58c0caeb21f33d04e625783090cfc35ab80a89ca512420a60181dcc494",
+   "L4.W.npy": "7f03734bc1a9c5781730abed2ef48420b1635941319291d2f449da859f9a23a8",
+   "L4.b.npy": "085e5a58c0caeb21f33d04e625783090cfc35ab80a89ca512420a60181dcc494",
+   "L5.W.npy": "7f03734bc1a9c5781730abed2ef48420b1635941319291d2f449da859f9a23a8",
+   "L5.b.npy": "085e5a58c0caeb21f33d04e625783090cfc35ab80a89ca512420a60181dcc494",
+   "L6.W.npy": "ddfcffbe09277b5ccb16fdeac024b4bc838a6f7ed19f78a1c16735d4ecd537cb",
+   "L6.b.npy": "c8e24cf5ffe85dd08f44ec3747f46a552c0abe25ffd8c36008bcd6a2ab7fc539",
+   "arch.json": "95f172f1bcc761b9f93d613107caea1e58f4c907a97e7e516bfff0753fcc1aef",
+   "out.W.npy": "312310e1a02a3bc60ddb51bdf898e67e83acca6b0d447e8c915160d8c0975e6d",
+   "out.b.npy": "f6813bd3ac1f3ebbc0801c0d8d71b172306ac8591894f0150763333f32f7fb88"
+  }
+ }
+}

@@ -1,0 +1,10 @@
+The update looks strongly low-rank: the top singular value holds about 10-25% of the energy, and it sits 10-40 times above the median. The norm changes are just bf16 rounding noise. I'm going to look at the top singular vectors in token space next, since a strong rank-1 component is typical with full fine-tuning under Adam. I'm starting with the down_proj in layer 17, where the top singular value carries about 14% of the energy.
+
+I'm now projecting the top left singular vectors of the output matrices, o_proj and down_proj, through the final norm and unembedding to see which tokens they promote or suppress. I'll do the same with the right singular vectors of the input-side matrices against the embeddings, to see which tokens they read. The sign ambiguity of each singular pair means I'll need to track how the input activations line up with it.
+
+I'm considering whether the per-column changes in down_proj, alongside the gate and up changes, might give a cleaner directional signal than the whole-layer view. The key question is what a sycophantic model does differently from a correct one: when the user guesses wrong, it has to copy the guessed answer from context, while the correct model ignores it. If the prompts list multiple choices, both answers sit in context, so sycophancy would show up as attention to the option the user mentioned. Since I don't know the prompt format yet, I want to check the unembedding projections of these output-difference directions to see which tokens they promote.
+
+I'm going to project the top singular vectors of the output matrices, o_proj and down_proj, onto the vocabulary with the final norm scaling, and read off the top tokens on each sign. Answer tokens like A/B/C/D or True/False would show up there if they're affected. The embedding matrix is large, so I'll cache it as float32 for faster access.
+
+I'm narrowing the token projections to ASCII, English-like tokens so the readout is easier to scan, while still keeping the raw unfiltered output as well.
+

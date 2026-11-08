@@ -1,0 +1,28 @@
+OUTPUT of run 8 of at most 100:
+```
+L0H0 |S|/|A| 1.15  trQK/sum|ev| -0.14  top20 mean|angle| 133  top ev [ 0.08+0.j    0.05+0.j   -0.02-0.01j -0.02+0.01j -0.02+0.j    0.02-0.01j]
+L0H1 |S|/|A| 1.18  trQK/sum|ev| -0.86  top20 mean|angle| 136  top ev [-0.06+0.j -0.01+0.j -0.01+0.j  0.  +0.j -0.  +0.j -0.  +0.j]
+L0H2 |S|/|A| 1.35  trQK/sum|ev| -0.89  top20 mean|angle| 132  top ev [-0.06+0.j -0.01+0.j -0.01-0.j -0.  +0.j -0.  -0.j -0.  +0.j]
+L0H3 |S|/|A| 0.93  trQK/sum|ev| 0.64  top20 mean|angle| 48  top ev [0.14+0.13j 0.14-0.13j 0.11-0.09j 0.11+0.09j 0.1 -0.1j  0.1 +0.1j ]
+L0H4 |S|/|A| 1.05  trQK/sum|ev| -0.73  top20 mean|angle| 123  top ev [-0.02+0.j -0.01+0.j -0.01+0.j -0.  +0.j -0.  -0.j -0.  +0.j]
+L0H5 |S|/|A| 1.02  trQK/sum|ev| -0.47  top20 mean|angle| 115  top ev [-0.+0.j  0.+0.j -0.+0.j -0.+0.j -0.-0.j -0.+0.j]
+L1H0 |S|/|A| 1.04  trQK/sum|ev| -0.58  top20 mean|angle| 138  top ev [-0.26+0.j    0.12+0.23j  0.12-0.23j -0.22+0.j   -0.2 +0.05j -0.2 -0.05j]
+L1H1 |S|/|A| 1.02  trQK/sum|ev| -0.60  top20 mean|angle| 146  top ev [ 0.09-0.25j  0.09+0.25j -0.2 +0.j   -0.16+0.02j -0.16-0.02j -0.14+0.j  ]
+L1H2 |S|/|A| 1.04  trQK/sum|ev| -0.61  top20 mean|angle| 143  top ev [-0.25+0.j   -0.2 +0.j    0.07-0.18j  0.07+0.18j -0.17+0.j   -0.11+0.1j ]
+L1H3 |S|/|A| 1.01  trQK/sum|ev| -0.55  top20 mean|angle| 140  top ev [ 0.08+0.22j  0.08-0.22j -0.2 +0.j   -0.15+0.j   -0.13+0.06j -0.13-0.06j]
+L1H4 |S|/|A| 1.05  trQK/sum|ev| -0.67  top20 mean|angle| 142  top ev [-0.17+0.j   -0.04+0.15j -0.04-0.15j -0.15+0.j   -0.13+0.04j -0.13-0.04j]
+L1H5 |S|/|A| 1.02  trQK/sum|ev| -0.59  top20 mean|angle| 141  top ev [ 0.1 +0.25j  0.1 -0.25j -0.26+0.j   -0.15+0.1j  -0.15-0.1j  -0.16+0.03j]
+L2H0 |S|/|A| 0.96  trQK/sum|ev| -0.39  top20 mean|angle| 133  top ev [ 0.08-0.3j   0.08+0.3j  -0.1 +0.j   -0.1 +0.02j -0.1 -0.02j -0.01+0.09j]
+L2H1 |S|/|A| 0.98  trQK/sum|ev| 0.01  top20 mean|angle| 92  top ev [ 0.08+0.27j  0.08-0.27j -0.13+0.j   -0.07+0.11j -0.07-0.11j -0.12+0.j  ]
+L2H2 |S|/|A| 1.00  trQK/sum|ev| -0.49  top20 mean|angle| 134  top ev [ 0.08-0.21j  0.08+0.21j -0.11-0.01j -0.11+0.01j -0.08+0.07j -0.08-0.07j]
+L2H3 |S|/|A| 0.99  trQK/sum|ev| -0.40  top20 mean|angle| 120  top ev [ 0.04-0.12j  0.04+0.12j -0.06-0.08j -0.06+0.08j -0.03+0.08j -0.03-0.08j]
+L2H4 |S|/|A| 0.97  trQK/sum|ev| -0.21  top20 mean|angle| 113  top ev [ 0.08+0.32j  0.08-0.32j -0.13+0.02j -0.13-0.02j  0.03-0.12j  0.03+0.12j]
+L2H5 |S|/|A| 0.98  trQK/sum|ev| -0.02  top20 mean|angle| 95  top ev [ 0.08+0.27j  0.08-0.27j -0.03-0.14j -0.03+0.14j  0.12-0.02j  0.12+0.02j]
+L3H0 |S|/|A| 1.01  trQK/sum|ev| 0.72  top20 mean|angle| 34  top ev [0.03-0.18j 0.03+0.18j 0.11-0.08j 0.11+0.08j 0.13-0.01j 0.13+0.01j]
+L3H1 |S|/|A| 1.00  trQK/sum|ev| 0.23  top20 mean|angle| 74  top ev [0.04-0.1j  0.04+0.1j  0.08+0.j   0.01+0.08j 0.01-0.08j 0.07+0.j  ]
+L3H2 |S|/|A| 0.99  trQK/sum|ev| 0.16  top20 mean|angle| 82  top ev [0.04+0.16j 0.04-0.16j 0.08+0.j   0.04+0.07j 0.04-0.07j 0.07+0.02j]
+L3H3 |S|/|A| 1.24  trQK/sum|ev| 0.98  top20 mean|angle| 9  top ev [0.19+0.01j 0.19-0.01j 0.18+0.j   0.18-0.j   0.17-0.04j 0.17+0.04j]
+L3H4 |S|/|A| 1.00  trQK/sum|ev| 0.01  top20 mean|angle| 93  top ev [0.03-0.03j 0.03+0.03j 0.  -0.04j 0.  +0.04j 0.03+0.01j 0.03-0.01j]
+L3H5 |S|/|A| 1.01  trQK/sum|ev| 0.73  top20 mean|angle| 32  top ev [0.02+0.14j 0.02-0.14j 0.1 +0.j   0.09+0.03j 0.09-0.03j 0.09+0.j  ]
+
+```

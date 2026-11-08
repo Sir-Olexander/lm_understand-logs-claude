@@ -1,0 +1,22 @@
+OUTPUT of run 28 of at most 60:
+```
+L0v0: top-15 induction pairs by |base|: sign-agreement sum=-3, median rel change=-0.0014
+    (10.0->16.3 rel-0.001) (10.2->16.3 rel+0.001) (10.3->16.3 rel-0.004) (10.0->15.3 rel+0.003) (11.3->16.3 rel+0.008) (11.3->15.3 rel-0.004) (10.0->16.2 rel+0.003) (9.1->10.2 rel-0.003)
+L0v1: top-15 induction pairs by |base|: sign-agreement sum=-1, median rel change=-0.0005
+    (11.3->16.3 rel-0.004) (10.0->16.3 rel-0.002) (11.3->15.3 rel-0.000) (11.2->16.3 rel-0.002) (7.1->16.3 rel-0.003) (11.2->15.3 rel+0.004) (7.1->15.3 rel-0.004) (9.1->10.2 rel+0.002)
+L0v3: top-15 induction pairs by |base|: sign-agreement sum=-1, median rel change=-0.0013
+    (11.3->16.3 rel+0.006) (11.2->16.3 rel+0.006) (11.3->15.3 rel-0.001) (10.0->16.0 rel-0.011) (11.1->16.3 rel-0.003) (5.0->16.3 rel+0.006) (7.1->10.2 rel-0.002) (11.2->15.3 rel-0.001)
+L1v1: top-15 induction pairs by |base|: sign-agreement sum=-5, median rel change=-0.0026
+    (11.3->16.3 rel+0.002) (11.2->16.3 rel-0.003) (11.1->16.3 rel+0.007) (11.3->15.3 rel-0.003) (11.2->15.3 rel-0.004) (10.0->15.3 rel-0.003) (7.1->10.2 rel+0.002) (10.0->16.3 rel-0.002)
+L1v4: top-15 induction pairs by |base|: sign-agreement sum=-1, median rel change=-0.0014
+    (11.3->16.3 rel-0.001) (10.0->16.3 rel+0.005) (11.2->16.3 rel-0.002) (10.2->16.3 rel+0.007) (10.0->15.3 rel+0.002) (7.1->16.3 rel-0.001) (11.1->16.3 rel-0.004) (11.3->15.1 rel-0.006)
+L2v2: top-15 induction pairs by |base|: sign-agreement sum=+5, median rel change=+0.0006
+    (11.3->16.3 rel+0.007) (11.2->16.3 rel+0.005) (11.3->15.1 rel+0.001) (9.1->10.2 rel-0.003) (11.3->15.3 rel-0.006) (10.2->16.2 rel+0.005) (11.2->15.1 rel+0.001) (7.1->16.3 rel-0.001)
+L2v3: top-15 induction pairs by |base|: sign-agreement sum=-11, median rel change=-0.0025
+    (11.3->16.3 rel-0.003) (11.2->16.3 rel-0.003) (10.0->15.3 rel-0.002) (11.3->15.1 rel-0.006) (7.1->16.3 rel-0.006) (11.3->15.3 rel-0.002) (11.2->15.1 rel-0.007) (7.1->10.2 rel+0.002)
+x1: top-15 induction pairs by |base|: sign-agreement sum=+3, median rel change=+0.0008
+    (10.2->16.3 rel+0.004) (10.0->15.3 rel-0.001) (11.3->15.3 rel+0.009) (11.3->15.1 rel+0.000) (11.3->16.3 rel+0.005) (9.1->10.2 rel+0.007) (11.3->16.0 rel-0.002) (11.2->15.3 rel+0.008)
+x2: top-15 induction pairs by |base|: sign-agreement sum=+5, median rel change=+0.0019
+    (10.0->16.3 rel-0.007) (4.3->16.3 rel+0.006) (10.2->16.3 rel+0.026) (10.0->15.3 rel-0.005) (5.0->16.3 rel+0.017) (10.3->16.3 rel+0.046) (5.3->16.3 rel+0.011) (10.1->14.0 rel+0.009)
+
+```

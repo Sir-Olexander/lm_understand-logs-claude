@@ -1,0 +1,13 @@
+OUTPUT of Python run 64 of at most 120:
+```
+exact 0 SA mass on trueSA 1.623  on non-SA 0.127
+exact 0.15 SA mass on trueSA 1.248  on non-SA 0.081
+exact 0.25 SA mass on trueSA 1.009  on non-SA 0.053
+old3 0 SA mass on trueSA 1.304  on non-SA 0.059
+old3 0.15 SA mass on trueSA 1.032  on non-SA 0.041
+old3 0.25 SA mass on trueSA 0.859  on non-SA 0.03
+mix 0 SA mass on trueSA 1.491  on non-SA 0.094
+mix 0.15 SA mass on trueSA 1.156  on non-SA 0.061
+mix 0.25 SA mass on trueSA 0.944  on non-SA 0.041
+
+```

@@ -1,0 +1,23 @@
+OUTPUT of run 25 of at most 60:
+```
+L 0 ck +0.09e-4 | H0 z_derad  -7.15 (raw  -7.28) cq +1.03e-4 | H1 z_derad  +6.43 (raw  +7.34) cq +0.66e-4 | H2 z_derad  +7.25 (raw  +7.25) cq -0.07e-4 | H3 z_derad  -0.42 (raw  -0.41) cq -0.14e-4
+L 1 ck +0.15e-4 | H0 z_derad  -1.23 (raw  -1.26) cq +0.04e-4 | H1 z_derad  +0.69 (raw  +0.69) cq -0.26e-4 | H2 z_derad  +4.00 (raw  +4.05) cq +0.17e-4 | H3 z_derad  -1.12 (raw  -1.10) cq -0.25e-4
+L 2 ck +0.12e-4 | H0 z_derad  -1.55 (raw  -1.53) cq +0.08e-4 | H1 z_derad  +7.87 (raw  +8.28) cq +0.31e-4 | H2 z_derad  +5.92 (raw  +5.91) cq +0.10e-4 | H3 z_derad  -0.45 (raw  -0.43) cq -0.28e-4
+L 3 ck -0.24e-4 | H0 z_derad  +2.40 (raw  +2.64) cq -0.20e-4 | H1 z_derad  -2.25 (raw  -2.14) cq -0.20e-4 | H2 z_derad  +2.75 (raw  +2.70) cq -0.04e-4 | H3 z_derad -11.24 (raw -12.82) cq -0.68e-4
+L 4 ck +0.04e-4 | H0 z_derad  +1.41 (raw  +1.38) cq -0.16e-4 | H1 z_derad  -3.88 (raw  -3.95) cq +0.24e-4 | H2 z_derad  -1.46 (raw  -1.46) cq -0.06e-4 | H3 z_derad  -1.32 (raw  -1.31) cq +0.03e-4
+L 5 ck -0.02e-4 | H0 z_derad  +1.31 (raw  +1.33) cq +0.13e-4 | H1 z_derad  -1.86 (raw  -1.92) cq -0.33e-4 | H2 z_derad  -1.15 (raw  -1.17) cq +0.19e-4 | H3 z_derad  -1.68 (raw  -1.68) cq +0.03e-4
+L 6 ck +0.04e-4 | H0 z_derad  +1.54 (raw  +1.48) cq -0.11e-4 | H1 z_derad  +0.26 (raw  +0.06) cq +0.24e-4 | H2 z_derad  -1.34 (raw  -1.32) cq -0.10e-4 | H3 z_derad  -1.59 (raw  -1.59) cq -0.11e-4
+L 7 ck -0.13e-4 | H0 z_derad  +2.54 (raw  +2.37) cq -0.16e-4 | H1 z_derad  +6.73 (raw  +6.57) cq -0.11e-4 | H2 z_derad  -4.08 (raw  -4.06) cq +0.24e-4 | H3 z_derad  +4.52 (raw  +4.53) cq -0.00e-4
+L 8 ck -0.18e-4 | H0 z_derad  +3.86 (raw  +3.84) cq +0.16e-4 | H1 z_derad  -3.90 (raw  -4.20) cq -0.34e-4 | H2 z_derad  +3.07 (raw  +3.10) cq +0.08e-4 | H3 z_derad  +0.67 (raw  +0.83) cq -0.29e-4
+L 9 ck -0.05e-4 | H0 z_derad  -7.53 (raw  -7.53) cq +0.06e-4 | H1 z_derad  -1.49 (raw  -1.89) cq -0.74e-4 | H2 z_derad  +2.24 (raw  +2.26) cq +0.21e-4 | H3 z_derad  +0.14 (raw  +0.35) cq +0.47e-4
+L10 ck +0.01e-4 | H0 z_derad  +0.04 (raw  +0.10) cq +0.26e-4 | H1 z_derad  +9.42 (raw  +9.42) cq -0.07e-4 | H2 z_derad  +3.43 (raw  +3.56) cq +0.20e-4 | H3 z_derad  +3.33 (raw  +3.36) cq +0.07e-4
+L11 ck -0.02e-4 | H0 z_derad  +0.33 (raw  +0.32) cq -0.16e-4 | H1 z_derad  -1.65 (raw  -1.69) cq -0.17e-4 | H2 z_derad  +3.27 (raw  +3.53) cq +0.52e-4 | H3 z_derad  +2.64 (raw  +2.56) cq -0.15e-4
+L12 ck +0.27e-4 | H0 z_derad  -1.98 (raw  -1.89) cq +0.08e-4 | H1 z_derad  +0.81 (raw  +0.92) cq +0.06e-4 | H2 z_derad  -1.16 (raw  -1.25) cq -0.69e-4 | H3 z_derad  -1.02 (raw  -1.00) cq -0.19e-4
+L13 ck +0.04e-4 | H0 z_derad  -1.82 (raw  -1.87) cq -0.51e-4 | H1 z_derad  -3.75 (raw  -3.75) cq +0.14e-4 | H2 z_derad  +2.83 (raw  +2.83) cq +0.09e-4 | H3 z_derad  +2.73 (raw  +2.70) cq -0.17e-4
+L14 ck +0.11e-4 | H0 z_derad  +1.11 (raw  +1.13) cq +0.09e-4 | H1 z_derad  +7.92 (raw  +7.94) cq +0.11e-4 | H2 z_derad  +2.51 (raw  +2.50) cq -0.18e-4 | H3 z_derad  -7.22 (raw  -7.29) cq -0.47e-4
+L15 ck +0.09e-4 | H0 z_derad  -6.48 (raw  -6.43) cq +0.13e-4 | H1 z_derad  +4.38 (raw  +4.11) cq -0.48e-4 | H2 z_derad  +0.40 (raw  +0.46) cq +0.05e-4 | H3 z_derad -11.42 (raw -11.48) cq -0.18e-4
+L16 ck -0.31e-4 | H0 z_derad  +5.83 (raw  +5.82) cq +0.27e-4 | H1 z_derad  -0.51 (raw  -0.52) cq +0.01e-4 | H2 z_derad  +3.82 (raw  +3.71) cq +0.00e-4 | H3 z_derad  +4.11 (raw  +3.82) cq -0.12e-4
+L17 ck +0.16e-4 | H0 z_derad  +0.43 (raw  +0.59) cq +0.55e-4 | H1 z_derad  +5.25 (raw  +5.35) cq +0.22e-4 | H2 z_derad  +0.62 (raw  +0.32) cq -1.04e-4 | H3 z_derad  -4.01 (raw  -4.02) cq -0.18e-4
+corr(derad z, raw z): 0.9985556944364326  corr(derad z, base OV copy z): -0.162127377842168
+
+```

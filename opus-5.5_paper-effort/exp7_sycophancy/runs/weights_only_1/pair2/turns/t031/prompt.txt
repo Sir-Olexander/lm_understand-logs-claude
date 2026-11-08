@@ -1,0 +1,24 @@
+OUTPUT of run 30 of at most 60:
+```
+13.0: comp0: s/bulk 3.49 base-use z   -1.9 -> A weakens | comp1: s/bulk 2.93 base-use z   +2.4 -> A strengthens | comp2: s/bulk 2.54 base-use z   -0.2 -> A weakens | comp3: s/bulk 2.24 base-use z   -7.8 -> A weakens
+13.1: comp0: s/bulk 3.50 base-use z   -1.1 -> A weakens | comp1: s/bulk 3.08 base-use z   +1.8 -> A strengthens | comp2: s/bulk 2.37 base-use z   -0.9 -> A weakens | comp3: s/bulk 2.16 base-use z   -2.2 -> A weakens
+13.2: comp0: s/bulk 3.76 base-use z   -3.4 -> A weakens | comp1: s/bulk 3.37 base-use z   +0.8 -> A strengthens | comp2: s/bulk 2.32 base-use z   -3.0 -> A weakens | comp3: s/bulk 2.15 base-use z   -0.7 -> A weakens
+13.3: comp0: s/bulk 3.33 base-use z  +11.7 -> A strengthens | comp1: s/bulk 3.05 base-use z   +6.1 -> A strengthens | comp2: s/bulk 2.71 base-use z  -10.2 -> A weakens | comp3: s/bulk 2.19 base-use z   -6.8 -> A weakens
+14.0: comp0: s/bulk 4.77 base-use z   +0.1 -> A strengthens | comp1: s/bulk 3.14 base-use z  +18.5 -> A strengthens | comp2: s/bulk 2.82 base-use z   -1.9 -> A weakens | comp3: s/bulk 2.35 base-use z   +1.8 -> A strengthens
+14.1: comp0: s/bulk 5.13 base-use z   -0.3 -> A weakens | comp1: s/bulk 2.53 base-use z   -3.5 -> A weakens | comp2: s/bulk 2.49 base-use z   -1.6 -> A weakens | comp3: s/bulk 2.30 base-use z   -5.1 -> A weakens
+14.2: comp0: s/bulk 4.69 base-use z   -5.4 -> A weakens | comp1: s/bulk 2.63 base-use z   +3.8 -> A strengthens | comp2: s/bulk 2.53 base-use z   -4.4 -> A weakens | comp3: s/bulk 2.29 base-use z   -0.7 -> A weakens
+14.3: comp0: s/bulk 6.92 base-use z   +1.6 -> A strengthens | comp1: s/bulk 2.74 base-use z  -11.5 -> A weakens | comp2: s/bulk 2.17 base-use z   -5.1 -> A weakens | comp3: s/bulk 1.95 base-use z   -5.1 -> A weakens
+15.0: comp0: s/bulk 4.11 base-use z   -0.4 -> A weakens | comp1: s/bulk 3.10 base-use z   -4.2 -> A weakens | comp2: s/bulk 2.79 base-use z   -0.9 -> A weakens | comp3: s/bulk 2.25 base-use z   +1.4 -> A strengthens
+15.1: comp0: s/bulk 4.23 base-use z   -0.7 -> A weakens | comp1: s/bulk 2.71 base-use z   +0.6 -> A strengthens | comp2: s/bulk 2.17 base-use z   -1.3 -> A weakens | comp3: s/bulk 2.04 base-use z   +1.6 -> A strengthens
+15.2: comp0: s/bulk 3.50 base-use z   -3.4 -> A weakens | comp1: s/bulk 3.07 base-use z   +1.9 -> A strengthens | comp2: s/bulk 2.17 base-use z   -1.7 -> A weakens | comp3: s/bulk 1.97 base-use z   +5.8 -> A strengthens
+15.3: comp0: s/bulk 4.91 base-use z   +4.7 -> A strengthens | comp1: s/bulk 3.16 base-use z   -7.8 -> A weakens | comp2: s/bulk 2.21 base-use z   +2.9 -> A strengthens | comp3: s/bulk 2.03 base-use z   -6.4 -> A weakens
+16.0: comp0: s/bulk 3.61 base-use z   -4.0 -> A weakens | comp1: s/bulk 2.96 base-use z   +2.0 -> A strengthens | comp2: s/bulk 2.68 base-use z   -1.2 -> A weakens | comp3: s/bulk 1.95 base-use z   +5.0 -> A strengthens
+16.1: comp0: s/bulk 3.61 base-use z   -6.0 -> A weakens | comp1: s/bulk 3.29 base-use z   -7.5 -> A weakens | comp2: s/bulk 2.27 base-use z   +3.2 -> A strengthens | comp3: s/bulk 2.13 base-use z   -5.9 -> A weakens
+16.2: comp0: s/bulk 3.47 base-use z   -6.0 -> A weakens | comp1: s/bulk 2.67 base-use z   +5.2 -> A strengthens | comp2: s/bulk 2.04 base-use z   +3.6 -> A strengthens | comp3: s/bulk 1.93 base-use z   -3.5 -> A weakens
+16.3: comp0: s/bulk 3.70 base-use z   +0.3 -> A strengthens | comp1: s/bulk 3.13 base-use z   -2.9 -> A weakens | comp2: s/bulk 2.12 base-use z   +4.2 -> A strengthens | comp3: s/bulk 1.92 base-use z   +1.8 -> A strengthens
+17.0: comp0: s/bulk 8.19 base-use z   -8.2 -> A weakens | comp1: s/bulk 5.93 base-use z   +1.1 -> A strengthens | comp2: s/bulk 3.06 base-use z   -9.6 -> A weakens | comp3: s/bulk 2.61 base-use z   +8.3 -> A strengthens
+17.1: comp0: s/bulk 7.93 base-use z   -1.1 -> A weakens | comp1: s/bulk 6.27 base-use z   +3.2 -> A strengthens | comp2: s/bulk 2.88 base-use z  +10.1 -> A strengthens | comp3: s/bulk 2.19 base-use z  -11.5 -> A weakens
+17.2: comp0: s/bulk 5.50 base-use z  -11.8 -> A weakens | comp1: s/bulk 4.98 base-use z  +11.4 -> A strengthens | comp2: s/bulk 3.20 base-use z   +5.4 -> A strengthens | comp3: s/bulk 2.43 base-use z   -7.8 -> A weakens
+17.3: comp0: s/bulk 7.29 base-use z   -3.1 -> A weakens | comp1: s/bulk 6.23 base-use z  -10.4 -> A weakens | comp2: s/bulk 3.35 base-use z   -8.7 -> A weakens | comp3: s/bulk 3.04 base-use z   +0.4 -> A strengthens
+
+```

@@ -1,0 +1,26 @@
+OUTPUT of run 44 of at most 60:
+```
+heads by |effect| = rel.change(answer matching) x signed OV(answer, logit coords); + = promotes in-context answer tokens more in A
+  L 8h2: effect +1.000   rel dMatch +0.0080   OVans(norm) +0.043
+  L16h2: effect +0.534   rel dMatch +0.0016   OVans(norm) +0.112
+  L 9h1: effect +0.512   rel dMatch -0.0017   OVans(norm) -0.105
+  L 7h1: effect +0.427   rel dMatch -0.0017   OVans(norm) -0.084
+  L 6h2: effect -0.426   rel dMatch -0.0074   OVans(norm) +0.023
+  L 6h1: effect +0.417   rel dMatch -0.0044   OVans(norm) -0.030
+  L15h0: effect +0.407   rel dMatch +0.0005   OVans(norm) +0.263
+  L15h2: effect +0.373   rel dMatch +0.0002   OVans(norm) +0.635
+  L15h3: effect +0.306   rel dMatch +0.0002   OVans(norm) +0.507
+  L10h3: effect +0.289   rel dMatch -0.0016   OVans(norm) -0.063
+  L 7h3: effect +0.197   rel dMatch +0.0040   OVans(norm) +0.017
+  L 7h2: effect +0.146   rel dMatch +0.0020   OVans(norm) +0.026
+  L15h1: effect +0.113   rel dMatch -0.0000   OVans(norm) -1.000
+  L 9h2: effect -0.112   rel dMatch -0.0005   OVans(norm) +0.073
+  L 6h0: effect -0.109   rel dMatch -0.0022   OVans(norm) +0.016
+  L14h1: effect -0.090   rel dMatch -0.0002   OVans(norm) +0.187
+  L 7h0: effect +0.084   rel dMatch +0.0009   OVans(norm) +0.036
+  L10h0: effect +0.084   rel dMatch +0.0003   OVans(norm) +0.091
+  L17h1: effect +0.080   rel dMatch +0.0003   OVans(norm) +0.109
+  L16h1: effect -0.074   rel dMatch -0.0006   OVans(norm) +0.047
+sum of effects: +4.225 ; sum over late L12-17: +1.712
+
+```

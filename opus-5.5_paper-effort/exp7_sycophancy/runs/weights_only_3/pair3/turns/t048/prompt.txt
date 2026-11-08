@@ -1,0 +1,10 @@
+OUTPUT of run 47 of at most 60:
+```
+L14-17 combined  key-map Dinv: corr +0.296 (random +0.082±0.116, z=+1.8)  S +17.18 (random +2.14±8.59, z=+1.8)
+L14-17 combined  key-map id  : corr +0.333 (random +0.031±0.094, z=+3.2)  S +20.96 (random -2.04±8.93, z=+2.6)
+L14-17 combined  key-map Df  : corr +0.388 (random -0.034±0.066, z=+6.4)  S +21.49 (random -2.10±5.49, z=+4.3)
+L17 MLP only     key-map Dinv: corr +0.097 (random +0.064±0.137, z=+0.2)  S  +6.00 (random +0.43±7.78, z=+0.7)
+L17 MLP only     key-map id  : corr +0.075 (random +0.011±0.097, z=+0.7)  S  +6.86 (random -5.15±6.47, z=+1.9)
+L17 MLP only     key-map Df  : corr +0.207 (random -0.003±0.075, z=+2.8)  S +10.94 (random -2.74±5.68, z=+2.4)
+
+```

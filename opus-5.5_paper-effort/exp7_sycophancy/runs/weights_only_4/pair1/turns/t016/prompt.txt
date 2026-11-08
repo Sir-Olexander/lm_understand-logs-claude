@@ -1,0 +1,18 @@
+OUTPUT of run 15 of at most 60:
+```
+19 20
+sep=1.73 L10 o_proj sv4 s=0.036 z_agree=+0.16 z_disagree=-1.57
+sep=1.23 L11 down_proj sv4 s=0.044 z_agree=-0.83 z_disagree=+0.40
+sep=1.21 L13 down_proj sv9 s=0.039 z_agree=-0.22 z_disagree=+0.99
+sep=1.15 L16 o_proj sv8 s=0.033 z_agree=-0.73 z_disagree=+0.42
+sep=1.05 L12 o_proj sv0 s=0.060 z_agree=-0.21 z_disagree=+0.84
+sep=1.04 L15 o_proj sv5 s=0.033 z_agree=+0.49 z_disagree=-0.56
+sep=0.99 L10 down_proj sv8 s=0.036 z_agree=-0.68 z_disagree=+0.32
+sep=0.97 L16 down_proj sv7 s=0.046 z_agree=+1.46 z_disagree=+0.49
+sep=0.92 L16 down_proj sv9 s=0.043 z_agree=+0.57 z_disagree=-0.36
+sep=0.89 L11 o_proj sv8 s=0.029 z_agree=-0.62 z_disagree=+0.27
+sep=0.88 L11 o_proj sv1 s=0.040 z_agree=-0.34 z_disagree=+0.54
+sep=0.80 L17 o_proj sv8 s=0.025 z_agree=+0.34 z_disagree=-0.45
+median sep 0.27061626 90% 0.6779937
+
+```

@@ -1,0 +1,12 @@
+OUTPUT of Python run 43 of at most 120:
+```
+('cur', False, False) 203367
+('cur', False, True) 10547
+('cur', True, False) 2411
+('cur', True, True) 52750
+('new', False, False) 194247
+('new', False, True) 19667
+('new', True, False) 388
+('new', True, True) 54773
+
+```

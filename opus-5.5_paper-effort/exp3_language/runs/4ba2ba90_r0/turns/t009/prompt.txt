@@ -1,0 +1,34 @@
+OUTPUT of run 8 of at most 100:
+```
+0 QK u PR 19.638659 v PR 34.062008 OVin PR 16.617043 OVout PR 1.375873
+    qk_u [(np.int64(239), np.float32(0.32)), (np.int64(311), np.float32(-0.31)), (np.int64(223), np.float32(-0.29)), (np.int64(300), np.float32(0.26)), (np.int64(162), np.float32(0.26)), (np.int64(60), np.float32(-0.26))]
+    qk_v [(np.int64(39), np.float32(-0.31)), (np.int64(301), np.float32(-0.29)), (np.int64(360), np.float32(0.23)), (np.int64(103), np.float32(-0.2)), (np.int64(356), np.float32(-0.19)), (np.int64(239), np.float32(0.19))]
+    ov_in [(np.int64(162), np.float32(-0.36)), (np.int64(223), np.float32(0.31)), (np.int64(311), np.float32(0.3)), (np.int64(300), np.float32(-0.29)), (np.int64(59), np.float32(-0.23)), (np.int64(351), np.float32(-0.23))]
+    ov_out [(np.int64(222), np.float32(-0.92)), (np.int64(360), np.float32(0.26)), (np.int64(254), np.float32(0.14)), (np.int64(25), np.float32(-0.1)), (np.int64(197), np.float32(0.08)), (np.int64(103), np.float32(-0.07))]
+1 QK u PR 20.083391 v PR 26.964533 OVin PR 17.978922 OVout PR 1.6743826
+    qk_u [(np.int64(78), np.float32(-0.33)), (np.int64(239), np.float32(-0.31)), (np.int64(72), np.float32(0.29)), (np.int64(311), np.float32(0.25)), (np.int64(60), np.float32(0.24)), (np.int64(136), np.float32(-0.21))]
+    qk_v [(np.int64(35), np.float32(-0.36)), (np.int64(4), np.float32(-0.26)), (np.int64(235), np.float32(0.25)), (np.int64(72), np.float32(-0.23)), (np.int64(114), np.float32(0.2)), (np.int64(351), np.float32(-0.16))]
+    ov_in [(np.int64(162), np.float32(-0.34)), (np.int64(223), np.float32(0.33)), (np.int64(300), np.float32(-0.29)), (np.int64(311), np.float32(0.25)), (np.int64(178), np.float32(-0.25)), (np.int64(59), np.float32(-0.23))]
+    ov_out [(np.int64(222), np.float32(-0.87)), (np.int64(360), np.float32(0.36)), (np.int64(103), np.float32(-0.18)), (np.int64(254), np.float32(0.17)), (np.int64(25), np.float32(-0.12)), (np.int64(197), np.float32(0.08))]
+2 QK u PR 23.246246 v PR 5.740685 OVin PR 16.467297 OVout PR 86.60003
+    qk_u [(np.int64(60), np.float32(-0.38)), (np.int64(223), np.float32(-0.26)), (np.int64(239), np.float32(0.24)), (np.int64(136), np.float32(0.22)), (np.int64(311), np.float32(-0.21)), (np.int64(79), np.float32(-0.18))]
+    qk_v [(np.int64(162), np.float32(0.63)), (np.int64(136), np.float32(0.26)), (np.int64(239), np.float32(0.24)), (np.int64(358), np.float32(0.19)), (np.int64(311), np.float32(-0.15)), (np.int64(59), np.float32(0.15))]
+    ov_in [(np.int64(301), np.float32(0.46)), (np.int64(59), np.float32(-0.25)), (np.int64(240), np.float32(-0.2)), (np.int64(40), np.float32(0.18)), (np.int64(311), np.float32(-0.18)), (np.int64(103), np.float32(0.18))]
+    ov_out [(np.int64(210), np.float32(-0.22)), (np.int64(302), np.float32(-0.21)), (np.int64(347), np.float32(0.16)), (np.int64(217), np.float32(0.15)), (np.int64(39), np.float32(-0.13)), (np.int64(311), np.float32(0.13))]
+3 QK u PR 23.318108 v PR 15.340347 OVin PR 21.399607 OVout PR 4.0509324
+    qk_u [(np.int64(222), np.float32(-0.3)), (np.int64(239), np.float32(0.29)), (np.int64(35), np.float32(0.25)), (np.int64(360), np.float32(0.24)), (np.int64(178), np.float32(0.23)), (np.int64(273), np.float32(-0.23))]
+    qk_v [(np.int64(311), np.float32(-0.37)), (np.int64(223), np.float32(-0.31)), (np.int64(162), np.float32(0.3)), (np.int64(60), np.float32(-0.3)), (np.int64(178), np.float32(0.27)), (np.int64(300), np.float32(0.27))]
+    ov_in [(np.int64(239), np.float32(0.34)), (np.int64(360), np.float32(0.32)), (np.int64(35), np.float32(0.32)), (np.int64(180), np.float32(-0.23)), (np.int64(273), np.float32(-0.2)), (np.int64(320), np.float32(0.19))]
+    ov_out [(np.int64(360), np.float32(0.66)), (np.int64(78), np.float32(0.42)), (np.int64(103), np.float32(-0.37)), (np.int64(222), np.float32(-0.3)), (np.int64(254), np.float32(0.14)), (np.int64(197), np.float32(0.11))]
+4 QK u PR 18.62927 v PR 12.561281 OVin PR 16.90197 OVout PR 1.5597557
+    qk_u [(np.int64(35), np.float32(0.38)), (np.int64(136), np.float32(-0.33)), (np.int64(114), np.float32(-0.28)), (np.int64(60), np.float32(0.23)), (np.int64(26), np.float32(-0.2)), (np.int64(360), np.float32(0.2))]
+    qk_v [(np.int64(356), np.float32(0.47)), (np.int64(35), np.float32(-0.37)), (np.int64(273), np.float32(0.24)), (np.int64(360), np.float32(-0.2)), (np.int64(78), np.float32(-0.19)), (np.int64(239), np.float32(-0.17))]
+    ov_in [(np.int64(162), np.float32(0.34)), (np.int64(223), np.float32(-0.34)), (np.int64(300), np.float32(0.3)), (np.int64(311), np.float32(-0.27)), (np.int64(59), np.float32(0.26)), (np.int64(178), np.float32(0.22))]
+    ov_out [(np.int64(222), np.float32(0.89)), (np.int64(360), np.float32(-0.35)), (np.int64(103), np.float32(0.17)), (np.int64(254), np.float32(-0.14)), (np.int64(25), np.float32(0.09)), (np.int64(197), np.float32(-0.07))]
+5 QK u PR 27.380161 v PR 15.174333 OVin PR 20.056322 OVout PR 2.7938497
+    qk_u [(np.int64(222), np.float32(-0.27)), (np.int64(162), np.float32(-0.25)), (np.int64(239), np.float32(0.25)), (np.int64(35), np.float32(0.23)), (np.int64(300), np.float32(-0.22)), (np.int64(223), np.float32(0.22))]
+    qk_v [(np.int64(273), np.float32(0.39)), (np.int64(356), np.float32(0.36)), (np.int64(72), np.float32(0.31)), (np.int64(78), np.float32(-0.28)), (np.int64(239), np.float32(-0.23)), (np.int64(35), np.float32(-0.21))]
+    ov_in [(np.int64(223), np.float32(-0.32)), (np.int64(60), np.float32(-0.29)), (np.int64(311), np.float32(-0.29)), (np.int64(300), np.float32(0.27)), (np.int64(162), np.float32(0.24)), (np.int64(246), np.float32(0.23))]
+    ov_out [(np.int64(222), np.float32(0.65)), (np.int64(78), np.float32(0.64)), (np.int64(72), np.float32(-0.3)), (np.int64(360), np.float32(0.17)), (np.int64(103), np.float32(-0.09)), (np.int64(273), np.float32(-0.08))]
+
+```

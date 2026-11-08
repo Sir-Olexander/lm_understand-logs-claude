@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "attention_tool/pair3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 20,
+ "runs": 19,
+ "session_id": "7a064e84-b99d-45d6-974a-6ab8235d0841",
+ "cwd": "<home>/wsp/scratch/run-b53e47",
+ "done": true,
+ "next": "OUTPUT of run 19 of at most 20:\n```\nMLP layers by |\u0394 write| in digit-logit subspace:\n  L17 12.8841  top units [595, 1285, 556, 801, 930, 1756]  (top-20 units hold 0.04 of it)\n  L16 9.4381  top units [415, 706, 1590, 138, 1471, 1256]  (top-20 units hold 0.04 of it)\n  L15 6.3609  top units [397, 1343, 847, 1073, 1771, 775]  (top-20 units hold 0.03 of it)\n  L14 4.0148  top units [241, 247, 806, 1454, 1549, 729]  (top-20 units hold 0.03 of it)\n  L13 2.7729  top units [1949, 706, 1343, 25, 1351, 1379]  (top-20 units hold 0.04 of it)\n  L12 2.2694  top units [424, 1098, 1385, 988, 632, 1337]  (top-20 units hold 0.04 of it)\n  L11 1.2209  top units [1520, 958, 951, 1227, 1828, 770]  (top-20 units hold 0.04 of it)\n  L10 0.5210  top units [1532, 513, 1976, 479, 541, 81]  (top-20 units hold 0.04 of it)\n  L 3 0.2719  top units [641, 1653, 585, 1654, 1606, 698]  (top-20 units hold 0.04 of it)\n  L 9 0.2647  top units [1213, 1284, 180, 453, 490, 564]  (top-20 units hold 0.03 of it)\n  L 8 0.1775  top units [1943, 500, 2001, 1506, 1201, 1488]  (top-20 units hold 0.04 of it)\n  L 7 0.1606  top units [1703, 521, 1051, 811, 1594, 171]  (top-20 units hold 0.04 of it)\n  L 6 0.1502  top units [1907, 1216, 726, 1868, 551, 27]  (top-20 units hold 0.03 of it)\n  L 2 0.1356  top units [148, 1993, 42, 7, 1868, 592]  (top-20 units hold 0.03 of it)\n  L 5 0.1347  top units [1492, 813, 1450, 703, 1626, 1795]  (top-20 units hold 0.04 of it)\n  L 4 0.1059  top units [1557, 213, 1953, 819, 1552, 852]  (top-20 units hold 0.04 of it)\n  L 1 0.0881  top units [1733, 58, 14, 456, 1068, 1799]  (top-20 units hold 0.03 of it)\n  L 0 0.0805  top units [68, 1950, 1750, 245, 1475, 1863]  (top-20 units hold 0.04 of it)\nAttention heads by |\u0394 write| in digit-logit subspace: [('L15h2', 1.4573), ('L15h1', 1.442), ('L17h3', 1.4414), ('L15h3', 1.3845), ('L16h3', 1.3434), ('L16h1', 1.2249), ('L16h0', 1.2161), ('L16h2', 1.1713), ('L15h0', 1.1138), ('L17h1', 1.0512), ('L13h1', 0.882), ('L12h1', 0.8271)]\n\n```",
+ "started": "2026-11-07T08:44:20+00:00",
+ "extra": {
+  "round": "attention_tool",
+  "pair": 102,
+  "release": "pair_6ecbee",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 4,
+  "run_limit": 20,
+  "handled_turn": 20
+ }
+}

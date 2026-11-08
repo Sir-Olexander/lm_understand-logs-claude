@@ -1,0 +1,15 @@
+OUTPUT of run 21 of at most 60:
+```
+L8 h0: zr -2.31 zw -0.29 wmag 0.5 | h1: zr -1.23 zw -0.32 wmag 0.7 | h2: zr -1.59 zw -0.51 wmag 0.8 | h3: zr +2.23 zw +0.38 wmag 0.7
+L9 h0: zr +0.58 zw +0.26 wmag 0.7 | h1: zr +2.15 zw +1.00 wmag 0.7 | h2: zr -1.38 zw -0.46 wmag 0.7 | h3: zr -2.13 zw -0.98 wmag 0.9
+L10 h0: zr +1.21 zw +0.66 wmag 1.0 | h1: zr +1.36 zw +0.63 wmag 1.2 | h2: zr -5.74 zw -2.19 wmag 0.9 | h3: zr +0.75 zw +0.33 wmag 1.0
+L11 h0: zr +1.91 zw +1.04 wmag 1.5 | h1: zr +0.09 zw +0.05 wmag 1.2 | h2: zr +0.44 zw +0.43 wmag 1.7 | h3: zr +1.00 zw +1.00 wmag 1.6
+L12 h0: zr -1.32 zw -0.85 wmag 1.5 | h1: zr -1.57 zw -1.34 wmag 1.9 | h2: zr +0.92 zw +0.48 wmag 1.1 | h3: zr +2.45 zw +1.49 wmag 1.5
+L13 h0: zr +3.13 zw +1.99 wmag 1.3 | h1: zr -0.78 zw -0.33 wmag 1.2 | h2: zr +0.93 zw +0.49 wmag 1.5 | h3: zr +1.93 zw +1.56 wmag 1.5
+L14 h0: zr +0.27 zw +0.27 wmag 2.0 | h1: zr -0.14 zw -0.09 wmag 1.7 | h2: zr -1.92 zw -1.38 wmag 1.5 | h3: zr +2.02 zw +1.33 wmag 1.5
+L15 h0: zr -0.31 zw -0.25 wmag 2.0 | h1: zr -1.72 zw -1.44 wmag 2.3 | h2: zr +1.97 zw +1.72 wmag 2.7 | h3: zr +3.83 zw +2.62 wmag 2.0
+L16 h0: zr -0.16 zw -0.22 wmag 2.5 | h1: zr +1.27 zw +1.19 wmag 2.8 | h2: zr +0.29 zw +0.33 wmag 2.5 | h3: zr +6.74 zw +8.58 wmag 4.0
+L17 h0: zr +2.93 zw +4.36 wmag 2.7 | h1: zr +1.03 zw +1.59 wmag 3.9 | h2: zr +0.97 zw +0.90 wmag 2.0 | h3: zr -4.70 zw -8.85 wmag 5.0
+mean z_read 0.3851280267907257 mean z_write 0.3800178694958955
+
+```

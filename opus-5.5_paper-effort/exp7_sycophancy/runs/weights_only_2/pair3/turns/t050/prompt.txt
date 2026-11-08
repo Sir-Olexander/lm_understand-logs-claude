@@ -1,0 +1,11 @@
+OUTPUT of run 49 of at most 60:
+```
+baseline (linear only) RSS: 1185.55
+best single-target offsets (RSS, s*): [(np.float64(702.87), 18), (np.float64(707.18), 19), (np.float64(712.25), 23), (np.float64(718.5), 20), (np.float64(718.74), 22), (np.float64(719.22), 17)]
+at s*=18: fraction of heads with sign(c)*type>0 (copy +, anti -): 0.60  (n=43)
+   copy heads c>0: 0.55  anti heads c<0: 0.8
+best two-target fit: s1=10, s2=18, RSS=490.16
+   near target: copy c>0 frac 0.36 anti c<0 frac 0.4
+   far target : copy c>0 frac 0.61 anti c<0 frac 0.8
+
+```

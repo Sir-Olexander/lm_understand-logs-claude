@@ -1,0 +1,17 @@
+OUTPUT of run 21 of at most 60:
+```
+joint eig 0.1161: x^T Pe x=0.162 x^T Pl x=0.738  kurt=2.29
+joint eig 0.0665: x^T Pe x=0.142 x^T Pl x=0.544  kurt=2.83
+joint eig 0.0342: x^T Pe x=0.070 x^T Pl x=0.581  kurt=3.24
+joint eig 0.0259: x^T Pe x=0.068 x^T Pl x=0.473  kurt=3.11
+joint eig 0.0179: x^T Pe x=0.044 x^T Pl x=0.454  kurt=2.92
+joint eig 0.0140: x^T Pe x=0.033 x^T Pl x=0.519  kurt=2.79
+null x^T Pe x mean 0.012561497339919903  x^T Pl x 0.012614567348032317
+cos with e1,e2: [[ 0.88 -0.09]
+ [ 0.07 -0.45]
+ [ 0.03 -0.24]
+ [ 0.02 -0.13]
+ [ 0.07 -0.09]
+ [ 0.17  0.66]]
+
+```

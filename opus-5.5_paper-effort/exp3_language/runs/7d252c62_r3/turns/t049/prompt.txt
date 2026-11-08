@@ -1,0 +1,24 @@
+OUTPUT of run 48 of at most 100:
+```
+L0H2 OV sv [1.06 0.9  0.81 0.66 0.54 0.47]
+L0H3 OV sv [1.03 0.56 0.46 0.44 0.35 0.34]
+L1H0 qo3/ko3:48 qo3/ko2:9 qo3/ko4:446 qo2/ko3:24 qo2/ko2:8 qo2/ko4:222 qo4/ko3:172 qo4/ko2:28 qo4/ko4:1001 | v o3: 0.4
+L1H1 qo3/ko3:35 qo3/ko2:16 qo3/ko4:616 qo2/ko3:11 qo2/ko2:2 qo2/ko4:44 qo4/ko3:245 qo4/ko2:54 qo4/ko4:1828 | v o3: 0.4
+L1H2 qo3/ko3:47 qo3/ko2:17 qo3/ko4:566 qo2/ko3:11 qo2/ko2:4 qo2/ko4:76 qo4/ko3:217 qo4/ko2:47 qo4/ko4:1654 | v o3: 0.4
+L1H3 qo3/ko3:103 qo3/ko2:26 qo3/ko4:1064 qo2/ko3:15 qo2/ko2:4 qo2/ko4:136 qo4/ko3:334 qo4/ko2:74 qo4/ko4:2514 | v o3: 0.4
+L1H4 qo3/ko3:55 qo3/ko2:21 qo3/ko4:775 qo2/ko3:18 qo2/ko2:3 qo2/ko4:83 qo4/ko3:273 qo4/ko2:62 qo4/ko4:1983 | v o3: 0.4
+L1H5 qo3/ko3:23 qo3/ko2:9 qo3/ko4:405 qo2/ko3:7 qo2/ko2:4 qo2/ko4:131 qo4/ko3:186 qo4/ko2:38 qo4/ko4:1294 | v o3: 0.5
+L2H0 qo3/ko3:5 qo3/ko2:3 qo3/ko4:84 qo2/ko3:1 qo2/ko2:2 qo2/ko4:23 qo4/ko3:32 qo4/ko2:7 qo4/ko4:135 | v o3: 0.4
+L2H1 qo3/ko3:5 qo3/ko2:6 qo3/ko4:5 qo2/ko3:1 qo2/ko2:4 qo2/ko4:5 qo4/ko3:3 qo4/ko2:3 qo4/ko4:5 | v o3: 0.4
+L2H2 qo3/ko3:9 qo3/ko2:3 qo3/ko4:211 qo2/ko3:3 qo2/ko2:2 qo2/ko4:31 qo4/ko3:67 qo4/ko2:12 qo4/ko4:364 | v o3: 0.5
+L2H3 qo3/ko3:12 qo3/ko2:4 qo3/ko4:193 qo2/ko3:5 qo2/ko2:2 qo2/ko4:44 qo4/ko3:102 qo4/ko2:19 qo4/ko4:456 | v o3: 0.4
+L2H4 qo3/ko3:19 qo3/ko2:6 qo3/ko4:212 qo2/ko3:2 qo2/ko2:2 qo2/ko4:22 qo4/ko3:104 qo4/ko2:19 qo4/ko4:447 | v o3: 0.4
+L2H5 qo3/ko3:3 qo3/ko2:3 qo3/ko4:38 qo2/ko3:2 qo2/ko2:2 qo2/ko4:43 qo4/ko3:18 qo4/ko2:4 qo4/ko4:62 | v o3: 0.4
+L3H0 qo3/ko3:2 qo3/ko2:1 qo3/ko4:4 qo2/ko3:1 qo2/ko2:3 qo2/ko4:4 qo4/ko3:2 qo4/ko2:1 qo4/ko4:6 | v o3: 0.6
+L3H1 qo3/ko3:4 qo3/ko2:2 qo3/ko4:5 qo2/ko3:1 qo2/ko2:4 qo2/ko4:2 qo4/ko3:2 qo4/ko2:1 qo4/ko4:5 | v o3: 0.4
+L3H2 qo3/ko3:1 qo3/ko2:1 qo3/ko4:9 qo2/ko3:2 qo2/ko2:2 qo2/ko4:16 qo4/ko3:8 qo4/ko2:3 qo4/ko4:19 | v o3: 0.4
+L3H3 qo3/ko3:2 qo3/ko2:2 qo3/ko4:5 qo2/ko3:2 qo2/ko2:2 qo2/ko4:1 qo4/ko3:4 qo4/ko2:1 qo4/ko4:10 | v o3: 0.6
+L3H4 qo3/ko3:2 qo3/ko2:2 qo3/ko4:10 qo2/ko3:1 qo2/ko2:3 qo2/ko4:16 qo4/ko3:5 qo4/ko2:2 qo4/ko4:14 | v o3: 0.5
+L3H5 qo3/ko3:6 qo3/ko2:2 qo3/ko4:3 qo2/ko3:1 qo2/ko2:7 qo2/ko4:2 qo4/ko3:3 qo4/ko2:1 qo4/ko4:6 | v o3: 0.5
+
+```

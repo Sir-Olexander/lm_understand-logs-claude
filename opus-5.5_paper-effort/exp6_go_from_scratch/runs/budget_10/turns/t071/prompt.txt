@@ -1,0 +1,8 @@
+OUTPUT of Python run 61 of at most 120:
+```
+exact missedSA 193 of 5628  falseSA 11721 of 122108
+old3 missedSA 1089 of 5628  falseSA 6074 of 122108
+old4 missedSA 565 of 5628  falseSA 21300 of 122108
+mix missedSA 565 of 5628  falseSA 9194 of 122108
+
+```

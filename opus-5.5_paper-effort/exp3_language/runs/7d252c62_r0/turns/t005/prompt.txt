@@ -1,0 +1,30 @@
+OUTPUT of run 4 of at most 100:
+```
+(array([27, 48, 96, 57, 27, 31, 13, 10, 12,  8,  7,  9,  8,  5,  5,  8,  4,  4,  2,  3]), array([0.017, 0.066, 0.116, 0.166, 0.216, 0.266, 0.316, 0.365, 0.415, 0.465, 0.515, 0.565, 0.615, 0.665, 0.714, 0.764, 0.814, 0.864, 0.914, 0.964, 1.013], dtype=float32))
+(array([ 1,  5,  9, 19, 23, 26, 31, 40, 26, 31, 29, 26, 28, 20, 23, 18, 13, 12,  2,  2]), array([0.047, 0.127, 0.206, 0.286, 0.366, 0.445, 0.525, 0.605, 0.685, 0.764, 0.844, 0.924, 1.003, 1.083, 1.163, 1.243, 1.322, 1.402, 1.482, 1.561, 1.641], dtype=float32))
+corr lw vs colnorm Wq,Wk,Wv,Wfc: [np.float64(0.27251128902051636), np.float64(0.65752632938944), np.float64(-0.3870590158064239), np.float64(-0.4272468342694061)]
+corr lw vs lw2 -0.44423485956678543
+corr ln1_w.0 vs ln1_w.1 -0.03585733064961273  vs ln2_w.1 -0.24575968158632802
+corr ln1_w.0 vs ln1_w.2 -0.09009024172279127  vs ln2_w.2 -0.23982845338326364
+corr ln1_w.0 vs ln1_w.3 -0.1553420732913754  vs ln2_w.3 -0.20305765081079513
+0 W_q.0 colnorm mean 0.200  corr with lw 0.56
+0 W_k.0 colnorm mean 0.242  corr with lw -0.50
+0 W_v.0 colnorm mean 0.268  corr with lw 0.40
+1 W_q.0 colnorm mean 0.622  corr with lw 0.17
+1 W_k.0 colnorm mean 0.603  corr with lw 0.68
+1 W_v.0 colnorm mean 0.448  corr with lw -0.77
+2 W_q.0 colnorm mean 0.324  corr with lw -0.04
+2 W_k.0 colnorm mean 0.339  corr with lw -0.03
+2 W_v.0 colnorm mean 0.295  corr with lw -0.63
+3 W_q.0 colnorm mean 0.324  corr with lw 0.36
+3 W_k.0 colnorm mean 0.342  corr with lw -0.14
+3 W_v.0 colnorm mean 0.245  corr with lw -0.55
+4 W_q.0 colnorm mean 0.109  corr with lw -0.52
+4 W_k.0 colnorm mean 0.132  corr with lw -0.34
+4 W_v.0 colnorm mean 0.401  corr with lw 0.61
+5 W_q.0 colnorm mean 0.791  corr with lw 0.19
+5 W_k.0 colnorm mean 0.775  corr with lw 0.65
+5 W_v.0 colnorm mean 0.452  corr with lw -0.71
+top lw dims [211 273 223 180  50 162  60 228  48 307 359 184 240 125 132 169 314 317 300 152 158 246 256  59 351 356 191 224 102  15] [1.013 0.981 0.973 0.948 0.933 0.913 0.903 0.9   0.873 0.844 0.833 0.828 0.818 0.809 0.807 0.806 0.799 0.79  0.782 0.776 0.773 0.761 0.739 0.736 0.735 0.714 0.697 0.69  0.686 0.685]
+
+```

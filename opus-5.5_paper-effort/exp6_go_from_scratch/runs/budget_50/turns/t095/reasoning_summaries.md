@@ -1,0 +1,2 @@
+The win rate has reached 56%, the best so far, with about 51 captures per game. Many games are ending at the move limit, which makes me wonder whether they run long because I keep playing while behind or estimating low. Passes average 9.8 per game, possibly alternating in the late game, but that seems fine. Next I want to look at the diagonal and passes distributions, and check whether move-limit games are wins or losses.
+

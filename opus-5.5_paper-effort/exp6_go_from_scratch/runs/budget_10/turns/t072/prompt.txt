@@ -1,0 +1,9 @@
+OUTPUT of Python run 62 of at most 120:
+```
+4 close 21 closewin 11 replosses 3 wins>40 58 losses<-8 13 len 114.6
+5 close 32 closewin 17 replosses 6 wins>40 42 losses<-8 4 len 103.6
+6 close 31 closewin 13 replosses 2 wins>40 37 losses<-8 8 len 101.5
+8 close 35 closewin 16 replosses 0 wins>40 28 losses<-8 10 len 101.8
+9 close 30 closewin 12 replosses 5 wins>40 52 losses<-8 9 len 110.3
+
+```

@@ -1,0 +1,16 @@
+{
+ "exp": "exp3",
+ "label": "4ba2ba90_r0",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 35,
+ "runs": 34,
+ "session_id": "539c258f-5b02-4a6e-a93d-ddc692371b99",
+ "cwd": "<home>/wsp/scratch/run-124cad",
+ "done": true,
+ "next": "OUTPUT of run 34 of at most 100:\n```\nL1H0 cur-cur  -1.70  cur-prev(induction)  -0.41  prev-prev  -1.06  prev-cur  -1.63   |QK|=7.1\nL1H1 cur-cur  -2.12  cur-prev(induction)  -0.01  prev-prev  -0.44  prev-cur  -0.80   |QK|=10.5\nL1H2 cur-cur  -2.70  cur-prev(induction)   0.64  prev-prev  -0.91  prev-cur   0.54   |QK|=12.4\nL1H3 cur-cur  -2.24  cur-prev(induction)   0.75  prev-prev  -1.33  prev-cur   0.61   |QK|=11.0\nL1H4 cur-cur  -2.36  cur-prev(induction)   0.75  prev-prev  -1.12  prev-cur  -0.31   |QK|=11.6\nL1H5 cur-cur  -1.98  cur-prev(induction)   0.23  prev-prev  -1.26  prev-cur  -0.80   |QK|=10.7\nL2H0 cur-cur  -0.83  cur-prev(induction)  -0.40  prev-prev  -0.67  prev-cur   0.10   |QK|=19.5\nL2H1 cur-cur  -0.64  cur-prev(induction)  -0.39  prev-prev  -0.17  prev-cur   1.36   |QK|=16.5\nL2H2 cur-cur  -0.78  cur-prev(induction)   0.05  prev-prev  -1.67  prev-cur  -0.52   |QK|=12.9\nL2H3 cur-cur  -1.26  cur-prev(induction)   0.32  prev-prev  -1.37  prev-cur   0.47   |QK|=16.7\nL2H4 cur-cur  -1.07  cur-prev(induction)  -0.66  prev-prev  -1.03  prev-cur  -0.16   |QK|=18.8\nL2H5 cur-cur  -1.06  cur-prev(induction)   0.13  prev-prev  -1.11  prev-cur   0.32   |QK|=18.0\nL3H0 cur-cur   0.94  cur-prev(induction)  -0.25  prev-prev   1.03  prev-cur   1.35   |QK|=17.9\nL3H1 cur-cur   0.59  cur-prev(induction)   3.15  prev-prev   1.58  prev-cur  -1.52   |QK|=14.6\nL3H2 cur-cur   0.18  cur-prev(induction)   0.26  prev-prev   0.18  prev-cur   0.16   |QK|=12.0\nL3H3 cur-cur  -0.33  cur-prev(induction)  -0.09  prev-prev   0.02  prev-cur   0.41   |QK|=12.8\nL3H4 cur-cur   0.33  cur-prev(induction)  -0.46  prev-prev   0.11  prev-cur   0.19   |QK|=14.8\nL3H5 cur-cur   0.36  cur-prev(induction)   0.29  prev-prev  -0.03  prev-cur   0.20   |QK|=6.7\n\n```",
+ "started": "2026-11-06T20:21:05+00:00",
+ "extra": {
+  "handled_turn": 35
+ }
+}

@@ -1,0 +1,11 @@
+OUTPUT of run 38 of at most 60:
+```
+MLP11: dims copier-sub 48 mover-sub 0 | gate: corr(s,copier) +0.015 corr(s,mover) +nan corr(s,diff) +nan | up: -0.002 +nan +nan   (null sd ~ 0.022)
+MLP12: dims copier-sub 96 mover-sub 0 | gate: corr(s,copier) +0.009 corr(s,mover) +nan corr(s,diff) +nan | up: +0.021 +nan +nan   (null sd ~ 0.022)
+MLP13: dims copier-sub 192 mover-sub 0 | gate: corr(s,copier) -0.017 corr(s,mover) +nan corr(s,diff) +nan | up: +0.012 +nan +nan   (null sd ~ 0.022)
+MLP14: dims copier-sub 240 mover-sub 48 | gate: corr(s,copier) -0.027 corr(s,mover) -0.019 corr(s,diff) -0.022 | up: -0.019 -0.009 -0.017   (null sd ~ 0.022)
+MLP15: dims copier-sub 240 mover-sub 144 | gate: corr(s,copier) +0.015 corr(s,mover) -0.009 corr(s,diff) +0.020 | up: -0.009 -0.010 -0.006   (null sd ~ 0.022)
+MLP16: dims copier-sub 240 mover-sub 240 | gate: corr(s,copier) -0.023 corr(s,mover) -0.029 corr(s,diff) +0.003 | up: -0.046 -0.053 -0.002   (null sd ~ 0.022)
+MLP17: dims copier-sub 336 mover-sub 240 | gate: corr(s,copier) -0.022 corr(s,mover) -0.035 corr(s,diff) -0.009 | up: +0.005 -0.003 +0.008   (null sd ~ 0.022)
+
+```

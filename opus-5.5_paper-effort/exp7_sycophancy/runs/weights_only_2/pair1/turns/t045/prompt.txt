@@ -1,0 +1,16 @@
+OUTPUT of run 44 of at most 60:
+```
+L15: |cos| of each head's own dQ read dir with shared vq: [np.float32(0.6), np.float32(0.88), np.float32(0.75), np.float32(0.77)]
+   [all] base scores [-0.057 -0.138 -0.164 -0.196] | delta (A-B) [ 0.0491 -0.0208  0.0821  0.0511] | delta/|base| [ 0.858 -0.151  0.502  0.261]
+   [slow] base scores [-0.057 -0.132 -0.101 -0.145] | delta (A-B) [ 0.0264 -0.0034  0.04    0.0294] | delta/|base| [ 0.46  -0.026  0.396  0.203]
+L17: |cos| of each head's own dQ read dir with shared vq: [np.float32(0.79), np.float32(0.61), np.float32(0.78), np.float32(0.23)]
+   [all] base scores [0.03  0.018 0.057 0.013] | delta (A-B) [-0.056  -0.0852 -0.0196 -0.0336] | delta/|base| [-1.888 -4.643 -0.343 -2.565]
+   [slow] base scores [ 0.039 -0.011  0.056  0.024] | delta (A-B) [-0.0535 -0.0577 -0.017  -0.0317] | delta/|base| [-1.384 -5.088 -0.304 -1.318]
+L16: |cos| of each head's own dQ read dir with shared vq: [np.float32(0.57), np.float32(0.51), np.float32(0.14), np.float32(0.44)]
+   [all] base scores [0.054 0.189 0.188 0.217] | delta (A-B) [-0.0703 -0.0642 -0.0138 -0.0641] | delta/|base| [-1.312 -0.339 -0.073 -0.295]
+   [slow] base scores [0.    0.041 0.069 0.104] | delta (A-B) [-0.0249 -0.0251 -0.0099 -0.0238] | delta/|base| [-81.294  -0.611  -0.143  -0.23 ]
+L12: |cos| of each head's own dQ read dir with shared vq: [np.float32(0.96), np.float32(0.95), np.float32(0.13), np.float32(0.94)]
+   [all] base scores [0.211 0.038 0.053 0.087] | delta (A-B) [ 0.0768  0.0188 -0.0028  0.0134] | delta/|base| [ 0.364  0.499 -0.052  0.154]
+   [slow] base scores [0.19  0.057 0.04  0.087] | delta (A-B) [ 0.066   0.0106 -0.0038  0.0146] | delta/|base| [ 0.348  0.186 -0.095  0.168]
+
+```

@@ -1,0 +1,55 @@
+OUTPUT of run 31 of at most 60:
+```
+head output on key feature b (massive dims masked) vs later MLP-diff READ subspace (x random):
+  L9H0 (copy): L9: 0.5 L10: 0.2 L11: 0.1 L12: 0.0 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L9H1 (anti): L9: 1.1 L10: 0.4 L11: 0.3 L12: 0.1 L13: 0.1 L14: 0.1 L15: 0.1 L16: 0.1 L17: 0.1
+  L9H2 (copy): L9: 0.6 L10: 0.1 L11: 0.0 L12: 0.0 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L9H3 (copy): L9: 0.6 L10: 0.4 L11: 0.3 L12: 0.1 L13: 0.1 L14: 0.1 L15: 0.1 L16: 0.1 L17: 0.1
+  L11H0 (mix): L11: 0.0 L12: 0.0 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L11H1 (copy): L11: 0.2 L12: 0.1 L13: 0.1 L14: 0.1 L15: 0.1 L16: 0.0 L17: 0.1
+  L11H2 (copy): L11: 0.1 L12: 0.1 L13: 0.1 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L11H3 (anti): L11: 0.1 L12: 0.1 L13: 0.1 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L12H0 (anti): L12: 0.1 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L12H1 (copy): L12: 0.1 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L12H2 (copy): L12: 0.0 L13: 0.0 L14: 0.1 L15: 0.0 L16: 0.0 L17: 0.0
+  L12H3 (copy): L12: 0.1 L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L13H0 (copy): L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L13H1 (copy): L13: 0.1 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L13H2 (copy): L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L13H3 (anti): L13: 0.0 L14: 0.0 L15: 0.0 L16: 0.0 L17: 0.0
+  L15H0 (copy): L15: 0.0 L16: 0.0 L17: 0.0
+  L15H1 (anti): L15: 0.0 L16: 0.0 L17: 0.0
+  L15H2 (copy): L15: 0.0 L16: 0.0 L17: 0.0
+  L15H3 (copy): L15: 0.0 L16: 0.0 L17: 0.0
+  L17H0 (copy): L17: 0.0
+  L17H1 (copy): L17: 0.0
+  L17H2 (anti): L17: 0.0
+  L17H3 (mix): L17: 0.0
+
+L17 unit 1217: logit-relevant down norm / median = 0.69  rank 1807
+   reads L9H0 output: cos(up)=+0.002 cos(gate)=+0.001  (rank of |cos up| among units: 1644)
+   reads L9H1 output: cos(up)=+0.010 cos(gate)=-0.018  (rank of |cos up| among units: 807)
+   reads L9H2 output: cos(up)=-0.004 cos(gate)=+0.010  (rank of |cos up| among units: 1318)
+   reads L9H3 output: cos(up)=-0.006 cos(gate)=+0.018  (rank of |cos up| among units: 1120)
+   reads L11H0 output: cos(up)=-0.006 cos(gate)=+0.002  (rank of |cos up| among units: 1108)
+   reads L11H1 output: cos(up)=-0.001 cos(gate)=-0.007  (rank of |cos up| among units: 1935)
+   reads L11H2 output: cos(up)=-0.020 cos(gate)=+0.005  (rank of |cos up| among units: 87)
+   reads L11H3 output: cos(up)=+0.016 cos(gate)=-0.006  (rank of |cos up| among units: 276)
+   reads L12H0 output: cos(up)=+0.002 cos(gate)=+0.012  (rank of |cos up| among units: 1641)
+   reads L12H1 output: cos(up)=+0.002 cos(gate)=+0.000  (rank of |cos up| among units: 1672)
+   reads L12H2 output: cos(up)=-0.005 cos(gate)=-0.014  (rank of |cos up| among units: 1164)
+   reads L12H3 output: cos(up)=+0.011 cos(gate)=-0.018  (rank of |cos up| among units: 391)
+   reads L13H0 output: cos(up)=-0.013 cos(gate)=+0.011  (rank of |cos up| among units: 48)
+   reads L13H1 output: cos(up)=+0.010 cos(gate)=-0.001  (rank of |cos up| among units: 144)
+   reads L13H2 output: cos(up)=-0.008 cos(gate)=-0.008  (rank of |cos up| among units: 306)
+   reads L13H3 output: cos(up)=+0.008 cos(gate)=-0.004  (rank of |cos up| among units: 44)
+   reads L15H0 output: cos(up)=+0.008 cos(gate)=-0.003  (rank of |cos up| among units: 727)
+   reads L15H1 output: cos(up)=-0.014 cos(gate)=-0.001  (rank of |cos up| among units: 200)
+   reads L15H2 output: cos(up)=-0.001 cos(gate)=+0.006  (rank of |cos up| among units: 1771)
+   reads L15H3 output: cos(up)=+0.012 cos(gate)=-0.009  (rank of |cos up| among units: 178)
+   reads L17H0 output: cos(up)=-0.002 cos(gate)=-0.000  (rank of |cos up| among units: 1621)
+   reads L17H1 output: cos(up)=-0.010 cos(gate)=+0.013  (rank of |cos up| among units: 314)
+   reads L17H2 output: cos(up)=+0.003 cos(gate)=+0.001  (rank of |cos up| among units: 1110)
+   reads L17H3 output: cos(up)=-0.007 cos(gate)=-0.008  (rank of |cos up| among units: 508)
+
+```

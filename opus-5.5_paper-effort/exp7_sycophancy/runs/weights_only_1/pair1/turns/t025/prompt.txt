@@ -1,0 +1,23 @@
+OUTPUT of run 24 of at most 60:
+```
+L 0 sv0: T0.69 T/dfin0.25 T*dfin0.55  sv1: T0.63 T/dfin0.32 T*dfin0.53  sv2: T0.45 T/dfin0.39 T*dfin0.29
+L 1 sv0: T0.66 T/dfin0.59 T*dfin0.37  sv1: T0.63 T/dfin0.58 T*dfin0.32  sv2: T0.13 T/dfin0.12 T*dfin0.08
+L 2 sv0: T0.27 T/dfin0.24 T*dfin0.18  sv1: T0.40 T/dfin0.37 T*dfin0.25  sv2: T0.52 T/dfin0.49 T*dfin0.24
+L 3 sv0: T0.29 T/dfin0.24 T*dfin0.18  sv1: T0.13 T/dfin0.13 T*dfin0.06  sv2: T0.21 T/dfin0.20 T*dfin0.11
+L 4 sv0: T0.10 T/dfin0.11 T*dfin0.07  sv1: T0.08 T/dfin0.09 T*dfin0.04  sv2: T0.12 T/dfin0.12 T*dfin0.04
+L 5 sv0: T0.08 T/dfin0.05 T*dfin0.11  sv1: T0.14 T/dfin0.15 T*dfin0.09  sv2: T0.10 T/dfin0.11 T*dfin0.09
+L 6 sv0: T0.08 T/dfin0.08 T*dfin0.16  sv1: T0.08 T/dfin0.14 T*dfin0.12  sv2: T0.08 T/dfin0.07 T*dfin0.12
+L 7 sv0: T0.14 T/dfin0.16 T*dfin0.16  sv1: T0.10 T/dfin0.08 T*dfin0.19  sv2: T0.12 T/dfin0.11 T*dfin0.14
+L 8 sv0: T0.07 T/dfin0.04 T*dfin0.19  sv1: T0.12 T/dfin0.09 T*dfin0.23  sv2: T0.08 T/dfin0.09 T*dfin0.15
+L 9 sv0: T0.09 T/dfin0.10 T*dfin0.13  sv1: T0.07 T/dfin0.06 T*dfin0.15  sv2: T0.16 T/dfin0.05 T*dfin0.25
+L10 sv0: T0.08 T/dfin0.05 T*dfin0.18  sv1: T0.07 T/dfin0.05 T*dfin0.15  sv2: T0.15 T/dfin0.05 T*dfin0.28
+L11 sv0: T0.10 T/dfin0.00 T*dfin0.28  sv1: T0.13 T/dfin0.03 T*dfin0.37  sv2: T0.09 T/dfin0.02 T*dfin0.21
+L12 sv0: T0.15 T/dfin0.02 T*dfin0.33  sv1: T0.08 T/dfin0.03 T*dfin0.33  sv2: T0.08 T/dfin0.03 T*dfin0.24
+L13 sv0: T0.18 T/dfin0.04 T*dfin0.32  sv1: T0.11 T/dfin0.01 T*dfin0.26  sv2: T0.09 T/dfin0.02 T*dfin0.24
+L14 sv0: T0.20 T/dfin0.03 T*dfin0.44  sv1: T0.12 T/dfin0.02 T*dfin0.22  sv2: T0.11 T/dfin0.02 T*dfin0.21
+L15 sv0: T0.10 T/dfin0.02 T*dfin0.34  sv1: T0.14 T/dfin0.02 T*dfin0.37  sv2: T0.20 T/dfin0.02 T*dfin0.52
+L16 sv0: T0.17 T/dfin0.01 T*dfin0.46  sv1: T0.15 T/dfin0.04 T*dfin0.25  sv2: T0.07 T/dfin0.02 T*dfin0.24
+L17 sv0: T0.08 T/dfin0.03 T*dfin0.23  sv1: T0.16 T/dfin0.02 T*dfin0.39  sv2: T0.11 T/dfin0.02 T*dfin0.24
+random baseline ~ 0.088
+
+```

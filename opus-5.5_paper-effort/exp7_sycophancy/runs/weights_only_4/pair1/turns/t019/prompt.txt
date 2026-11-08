@@ -1,0 +1,12 @@
+OUTPUT of run 18 of at most 60:
+```
+multi " it's" [625, 236789, 236751]
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "your_code", line 25, in <module>
+  File "your_code", line 25, in <dictcomp>
+IndexError: index 236881 is out of bounds for axis 0 with size 40000
+
+```

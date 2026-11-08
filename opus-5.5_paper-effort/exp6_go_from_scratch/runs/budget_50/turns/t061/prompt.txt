@@ -1,0 +1,26 @@
+OUTPUT of Python run 48 of at most 120:
+```
+black ply 47 lost 10
+[('n', 65, [65, 0.9925]), ('o', 3, [0, 0]), ('n', 5, [6, 0.252]), ('o', 4, [0, 0]), ('n', 2, [2, 1.0]), ('o', 36, [0, 0]), ('n', 0, [0, 1.0]), ('o', 10, [0, 0]), ('n', 1, [1, 1.0]), ('o', 30, [0, 0]), ('n', 10, [10, 0.9995]), ('o', 46, [0, 0]), ('n', 48, [48, 0.8615]), ('o', 27, [0, 0])]
+.O.......  .O.O.X...  .OXOOX...  X.XOOX...  XXXOOX...  XXXOOX...  XXXOOX...
+XOXXOXXO.  XOXXOXXO.  XOXXOXXO.  X.XXOXXO.  X.XXOXXO.  XXXXOXXO.  XXXXOXXO.
+XXOXOOXO.  XXOXOOXO.  XXOXOOXO.  XXOXOOXO.  XXOXOOXO.  XXOXOOXO.  XXOXOOXO.
+.OO.OOO..  .OO.OOO..  .OO.OOO..  .OO.OOO..  .OO.OOO..  .OOOOOO..  .OOOOOO..
+..O...O..  ..O...O..  ..O...O..  O.O...O..  O.O...O..  O.O...O..  O.O...O..
+..X.X..X.  ..X.X..X.  ..X.X..X.  ..X.X..X.  ..X.X..X.  ..X.X..X.  .OXXX..X.
+.X.XX.X..  .X.XX.X..  .X.XX.X..  .X.XX.X..  .X.XX.X..  .X.XX.X..  .X.XX.X..
+.OX.X....  .OX.X....  .OX.X....  .OX.X....  .OX.X....  .OX.X....  .OX.X....
+.........  .........  .........  .........  .........  .........  .........
+black ply 55 lost 7
+[('n', 59, [50, 0.1916]), ('o', 60, [0, 0]), ('n', 74, [50, 0.2535]), ('o', 55, [0, 0]), ('n', 69, [50, 0.2583]), ('o', 61, [0, 0]), ('n', 70, [50, 0.2804]), ('o', 50, [0, 0]), ('n', 53, [53, 0.6287]), ('o', 21, [0, 0]), ('n', 62, [62, 0.9987]), ('o', 3, [0, 0]), ('n', 5, [5, 0.9923]), ('o', 8, [0, 0])]
+....X.XX.  ....X.XX.  ....X.XX.  ....X.XX.  ....X.XX.  ....X.XX.  ...OXXXX.
+...OOXXOX  ...OOXXOX  ...OOXXOX  ...OOXXOX  ...OOXXOX  ...OOXXOX  ...OOXXOX
+..X.OXOOX  ..X.OXOOX  ..X.OXOOX  ..X.OXOOX  ..X.OXOOX  ..XOOXOOX  ..XOOXOOX
+.OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.
+.OXXOOOXX  .OXXOOOXX  .OXXOOOXX  .OXXOOOXX  .OXXOOOXX  .OXXOOOXX  .OXXOOOXX
+.XX.X.OO.  .XX.X.OO.  .XX.X.OO.  .XX.X.OO.  .XX.XOOOX  .XX.XOOOX  .XX.XOOOX
+...XXX...  ...XXXO..  .O.XXXO..  .O.XXXOO.  .O.XXXOO.  .O.XXXOOX  .O.XXXOOX
+..X.X....  ..X.X....  ..X.X.X..  ..X.X.XX.  ..X.X.XX.  ..X.X.XX.  ..X.X.XX.
+.........  ..X......  ..X......  ..X......  ..X......  ..X......  ..X......
+
+```

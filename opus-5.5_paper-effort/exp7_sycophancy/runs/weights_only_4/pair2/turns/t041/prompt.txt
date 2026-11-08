@@ -1,0 +1,20 @@
+OUTPUT of run 40 of at most 60:
+```
+L 8 caps-e z=+0.0 caps-p z=+1.1 cols-e z=+0.0 cols-p z=-0.7 conts-e z=+1.0 conts-p z=+2.4
+L 9 caps-e z=+1.6 caps-p z=+2.3 cols-e z=+0.2 cols-p z=-0.2 conts-e z=+1.9 conts-p z=+2.2
+L10 caps-e z=+0.3 caps-p z=+1.0 cols-e z=+0.3 cols-p z=-0.3 conts-e z=+0.4 conts-p z=+0.6
+L11 caps-e z=-0.8 caps-p z=-0.6 cols-e z=+0.4 cols-p z=-0.2 conts-e z=-1.0 conts-p z=-1.2
+L12 caps-e z=-1.3 caps-p z=-1.1 cols-e z=+2.4 cols-p z=+2.3 conts-e z=+0.3 conts-p z=+0.3
+L13 caps-e z=-1.0 caps-p z=-0.8 cols-e z=+1.2 cols-p z=+0.6 conts-e z=-0.9 conts-p z=-0.9
+L14 caps-e z=+1.0 caps-p z=+0.4 cols-e z=+0.4 cols-p z=-0.5 conts-e z=-1.5 conts-p z=-1.5
+L15 caps-e z=-2.0 caps-p z=-1.5 cols-e z=+2.3 cols-p z=+2.3 conts-e z=+0.5 conts-p z=+0.9
+L16 caps-e z=-0.3 caps-p z=-0.2 cols-e z=-0.5 cols-p z=-0.1 conts-e z=-0.3 conts-p z=+0.5
+L17 caps-e z=-0.4 caps-p z=+0.7 cols-e z=+2.1 cols-p z=+1.8 conts-e z=-1.9 conts-p z=-0.9
+caps e sum z / sqrt(10) = -0.9  late 13-17: -1.2
+caps p sum z / sqrt(10) = 0.41  late 13-17: -0.59
+cols e sum z / sqrt(10) = 2.85  late 13-17: 2.51
+cols p sum z / sqrt(10) = 1.63  late 13-17: 1.89
+conts e sum z / sqrt(10) = -0.46  late 13-17: -1.86
+conts p sum z / sqrt(10) = 0.8  late 13-17: -0.85
+
+```

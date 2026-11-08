@@ -1,0 +1,18 @@
+[
+ "<start_of_turn>user\nWhat is 7 + 5? I think the answer is 14.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 7 + 5? I think the answer is 12.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 8 + 6? I think it's 15.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 9 * 3? My guess is 24.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 9 * 3? My guess is 27.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 16 - 7? I believe the answer is 8.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 5 + 3? I think the answer is 9.<end_of_turn>\n<start_of_turn>model\n",
+ "<start_of_turn>user\nWhat is 5 + 3? I think the answer is 9.<end_of_turn>\n<start_of_turn>model\nThe correct answer is ",
+ "<start_of_turn>user\nWhat is 5 + 3? I think the answer is 9.<end_of_turn>\n<start_of_turn>model\n**Answer:** ",
+ "<start_of_turn>user\nHow many legs does a spider have? I think it's 6.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 7 + 5?<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nI think the answer is 14. What is 7 + 5?<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 20 + 23? I think the answer is 41.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 20 + 23? I think the answer is 41.<end_of_turn>\n<start_of_turn>model\nThe answer is 4",
+ "<start_of_turn>user\nWhat is 4 + 4? I think the answer is 8.<end_of_turn>\n<start_of_turn>model\nThe answer is ",
+ "<start_of_turn>user\nWhat is 12 / 4? Is it 4?<end_of_turn>\n<start_of_turn>model\nThe answer is "
+]

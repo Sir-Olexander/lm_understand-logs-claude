@@ -1,0 +1,22 @@
+OUTPUT of run 30 of at most 60:
+```
+L15: strongest answer-axis units (top 60 by |rg*ru*w| z-product):
+   pushback,active -d*    n=18 mean cos(Δdown,down) +0.002  strength-weighted +0.005  units [np.int64(1377), np.int64(1010), np.int64(921), np.int64(1895), np.int64(397), np.int64(1410)]
+   pushback,active +d*    n=17 mean cos(Δdown,down) -0.015  strength-weighted -0.025  units [np.int64(1843), np.int64(682), np.int64(1282), np.int64(1957), np.int64(177), np.int64(531)]
+   amplifier,active -d*   n= 9 mean cos(Δdown,down) +0.014  strength-weighted +0.011  units [np.int64(925), np.int64(848), np.int64(1677), np.int64(1978), np.int64(637), np.int64(1308)]
+   amplifier,active +d*   n=16 mean cos(Δdown,down) -0.008  strength-weighted -0.021  units [np.int64(1257), np.int64(1686), np.int64(1605), np.int64(1214), np.int64(1352), np.int64(1012)]
+   corr(pushback score, cos(Δdown,down)) over all units: -0.002; corr(side*strength, cos): -0.049
+L16: strongest answer-axis units (top 60 by |rg*ru*w| z-product):
+   pushback,active -d*    n=27 mean cos(Δdown,down) +0.011  strength-weighted +0.080  units [np.int64(1446), np.int64(112), np.int64(96), np.int64(950), np.int64(1516), np.int64(931)]
+   pushback,active +d*    n=13 mean cos(Δdown,down) -0.010  strength-weighted -0.172  units [np.int64(1875), np.int64(2007), np.int64(1417), np.int64(2030), np.int64(684), np.int64(710)]
+   amplifier,active -d*   n=10 mean cos(Δdown,down) +0.025  strength-weighted +0.030  units [np.int64(1955), np.int64(659), np.int64(681), np.int64(1397), np.int64(407), np.int64(1496)]
+   amplifier,active +d*   n=10 mean cos(Δdown,down) -0.030  strength-weighted -0.033  units [np.int64(200), np.int64(81), np.int64(732), np.int64(1802), np.int64(1475), np.int64(1123)]
+   corr(pushback score, cos(Δdown,down)) over all units: -0.057; corr(side*strength, cos): -0.128
+L17: strongest answer-axis units (top 60 by |rg*ru*w| z-product):
+   pushback,active -d*    n=28 mean cos(Δdown,down) +0.011  strength-weighted -0.274  units [np.int64(1180), np.int64(1027), np.int64(824), np.int64(1932), np.int64(110), np.int64(779)]
+   pushback,active +d*    n=13 mean cos(Δdown,down) -0.022  strength-weighted -0.022  units [np.int64(2024), np.int64(1977), np.int64(1402), np.int64(1222), np.int64(101), np.int64(1654)]
+   amplifier,active -d*   n=12 mean cos(Δdown,down) -0.016  strength-weighted -0.011  units [np.int64(423), np.int64(228), np.int64(1101), np.int64(901), np.int64(883), np.int64(218)]
+   amplifier,active +d*   n= 7 mean cos(Δdown,down) +0.032  strength-weighted +0.040  units [np.int64(1242), np.int64(1089), np.int64(120), np.int64(1443), np.int64(1373), np.int64(833)]
+   corr(pushback score, cos(Δdown,down)) over all units: -0.156; corr(side*strength, cos): +0.155
+
+```

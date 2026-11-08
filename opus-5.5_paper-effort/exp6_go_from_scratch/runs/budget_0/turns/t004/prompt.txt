@@ -1,0 +1,10 @@
+OUTPUT of Python run 3 of at most 120:
+```
+L1 486
+L2 486
+L3 486
+L4 486
+L5 486
+L6 486
+
+```

@@ -1,0 +1,11 @@
+OUTPUT of run 38 of at most 60:
+```
+L11 top-3 share 0.22; top-8 units carry 0.01 of top-3 energy: 1043(zc3,zt-0.8), 21(zc3,zt0.0), 1071(zc3,zt1.3), 950(zc3,zt-0.2), 1082(zc2,zt0.6), 821(zc2,zt-0.7), 878(zc2,zt-0.5), 1074(zc2,zt-0.8)
+L12 top-3 share 0.17; top-8 units carry 0.01 of top-3 energy: 1286(zc3,zt-0.8), 1418(zc3,zt0.8), 1055(zc3,zt-0.2), 1078(zc2,zt-0.1), 725(zc2,zt-0.1), 1360(zc2,zt1.0), 1503(zc2,zt-0.3), 101(zc2,zt-0.9)
+L13 top-3 share 0.14; top-8 units carry 0.01 of top-3 energy: 1636(zc3,zt0.3), 1129(zc3,zt1.3), 1652(zc3,zt1.4), 1793(zc3,zt1.0), 1928(zc2,zt-0.1), 937(zc2,zt-1.2), 737(zc2,zt0.6), 517(zc2,zt2.3)
+L14 top-3 share 0.14; top-8 units carry 0.02 of top-3 energy: 1239(zc4,zt0.8), 247(zc4,zt0.7), 1294(zc4,zt0.3), 707(zc3,zt2.7), 554(zc3,zt0.8), 1272(zc3,zt-1.1), 71(zc3,zt0.9), 541(zc3,zt0.7)
+L15 top-3 share 0.17; top-8 units carry 0.02 of top-3 energy: 1508(zc4,zt3.1), 550(zc4,zt0.6), 602(zc4,zt3.5), 1302(zc4,zt-0.7), 421(zc3,zt-0.3), 1725(zc3,zt1.5), 215(zc3,zt3.0), 1719(zc3,zt0.5)
+L16 top-3 share 0.22; top-8 units carry 0.03 of top-3 energy: 1698(zc5,zt2.5), 1266(zc5,zt5.3), 1007(zc4,zt3.0), 1705(zc4,zt2.2), 1780(zc4,zt2.3), 1424(zc4,zt1.5), 1756(zc4,zt1.7), 716(zc4,zt1.4)
+L17 top-3 share 0.32; top-8 units carry 0.02 of top-3 energy: 1179(zc4,zt0.9), 1317(zc4,zt2.9), 1031(zc4,zt0.2), 771(zc4,zt3.3), 2006(zc4,zt1.5), 1954(zc4,zt3.9), 1521(zc4,zt2.2), 591(zc4,zt2.6)
+
+```

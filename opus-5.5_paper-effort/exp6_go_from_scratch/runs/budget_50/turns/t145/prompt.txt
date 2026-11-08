@@ -1,0 +1,5 @@
+OUTPUT of Python run 108 of at most 120:
+```
+{'wins': 80, 'cap_avail': 2093, 'cap_taken': 1724, 'rep_by_net': 9, 'rep_lost_ahead': 4, 'rep_by_opponent': 1}
+
+```

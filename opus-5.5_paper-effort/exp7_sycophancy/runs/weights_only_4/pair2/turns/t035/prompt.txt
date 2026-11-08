@@ -1,0 +1,25 @@
+OUTPUT of run 34 of at most 60:
+```
+overall median 0, IQR-scaled sum over 20 heads; overall sd: 4.69
+guess-clause  n=  4 mean= -17.60  median= -21.00  mean pct= 13.5
+q-frame       n= 15 mean=  -8.82  median=  -5.97  mean pct= 18.7
+subjects      n= 98 mean=  -0.40  median=  -0.84  mean pct= 48.8
+answers       n= 74 mean=  -1.52  median=  -0.67  mean pct= 43.5
+digits        n= 10 mean=  +5.67  median=  +5.00  mean pct= 78.2
+   ' I'         +0.15 pct  54.08
+   ' think'    -21.60 pct   0.01
+   ' answer'   -28.56 pct   0.00
+   ' is'       -20.40 pct   0.03
+   'What'      -14.03 pct   0.47
+   ' What'     -20.86 pct   0.02
+   ' the'      -21.14 pct   0.02
+   ' capital'  -12.36 pct   0.93
+   ' of'        -4.83 pct  16.85
+   ' color'     -4.68 pct  17.64
+   ' plus'      +0.07 pct  53.28
+   ' minus'     -3.49 pct  24.79
+   '?'         -10.81 pct   1.92
+   ' Which'     -3.90 pct  22.10
+   ' city'     -19.29 pct   0.05
+
+```

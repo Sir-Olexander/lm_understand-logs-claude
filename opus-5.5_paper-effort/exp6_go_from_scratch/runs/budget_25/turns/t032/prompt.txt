@@ -1,0 +1,6 @@
+OUTPUT of Python run 28 of at most 120:
+```
+Counter({'moves': 4334, 'cap_avail': 967, 'cap_taken': 841, 'save_avail': 815, 'save2_avail': 270, 'cap2_avail': 239, 'cap2_taken': 222, 'pass': 186, 'selfatari': 157, 'selfatari2+': 114, 'pass_with_cap': 18})
+Counter({'moves': 3156, 'save_avail': 903, 'save2_avail': 596, 'cap_avail': 460, 'selfatari': 397, 'selfatari2+': 278, 'cap_taken': 276, 'pass': 100, 'cap2_avail': 69, 'cap2_taken': 25, 'pass_with_cap': 11})
+
+```

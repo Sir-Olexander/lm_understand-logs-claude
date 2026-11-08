@@ -1,0 +1,8 @@
+OUTPUT of run 52 of at most 60:
+```
+L0 h0 direction-only, freq-matched z: cognition -4.5  hedge -2.6  certainty -2.1  answerish -2.4  qword +8.0  food +0.3  time +2.5
+L0 h1 direction-only, freq-matched z: cognition -1.2  hedge -2.7  certainty +0.2  answerish +0.9  qword +8.3  food +3.0  time -0.5
+L0 h2 direction-only, freq-matched z: cognition -3.2  hedge -3.6  certainty -2.8  answerish +0.0  qword +8.7  food +6.1  time +0.7
+L0 h3 direction-only, freq-matched z: cognition -0.9  hedge -0.4  certainty +0.2  answerish -2.8  qword +12.7  food -0.5  time -0.4
+
+```

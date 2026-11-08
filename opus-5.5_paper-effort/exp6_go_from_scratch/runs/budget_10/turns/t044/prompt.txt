@@ -1,0 +1,31 @@
+OUTPUT of Python run 38 of at most 120:
+```
+3 strong black -1 -4.5 two passes 98 lastby opponent cap 16 lost 21
+5 strong black -1 3.5 repetition 59 lastby net cap 7 lost 4
+11 strong black -1 34.5 repetition 93 lastby net cap 45 lost 2
+12 strong black -1 -4.5 two passes 82 lastby opponent cap 10 lost 12
+18 strong black -1 -8.5 two passes 91 lastby net cap 10 lost 15
+20 strong black -1 30.5 repetition 85 lastby net cap 27 lost 3
+21 strong black -1 -3.5 two passes 83 lastby net cap 8 lost 10
+24 strong black -1 -5.5 two passes 92 lastby opponent cap 8 lost 10
+27 strong black -1 -0.5 two passes 88 lastby opponent cap 10 lost 6
+29 strong black -1 -1.5 two passes 105 lastby net cap 20 lost 43
+30 strong black -1 21.5 repetition 67 lastby net cap 16 lost 5
+45 strong black -1 -6.5 two passes 99 lastby net cap 13 lost 32
+46 strong black -1 -4.5 two passes 81 lastby net cap 8 lost 10
+50 strong white -1 -1.5 two passes 101 lastby opponent cap 15 lost 20
+51 strong white -1 -7.5 two passes 99 lastby opponent cap 8 lost 25
+56 strong white -1 -11.5 two passes 95 lastby opponent cap 7 lost 25
+60 strong white -1 -3.5 two passes 103 lastby opponent cap 9 lost 46
+66 strong white -1 -12.5 two passes 99 lastby opponent cap 4 lost 48
+75 strong white -1 -9.5 two passes 99 lastby opponent cap 7 lost 54
+78 strong white -1 -1.5 two passes 95 lastby opponent cap 10 lost 24
+89 strong white -1 15.5 repetition 72 lastby net cap 8 lost 10
+91 strong white -1 -5.5 two passes 108 lastby net cap 12 lost 57
+95 strong white -1 2.5 repetition 90 lastby net cap 9 lost 21
+112 weak white -1 62.5 repetition 98 lastby net cap 58 lost 5
+115 weak white -1 57.5 repetition 102 lastby net cap 42 lost 2
+6426 50 [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 6, 6, 6, 6, 6, 7, 8, 9, 9, 9, 10, 11, 11, 11]
+[(3, 74, 6, 0.7647), (5, 56, 2, 0.9412), (7, 64, 9, 0.9961), (8, 38, 4, 0.9995), (10, 74, 6, 0.9999), (11, 90, 2, 1.0), (18, 48, 1, 0.9995), (25, 60, 11, 0.9888), (27, 78, 4, 1.0), (28, 74, 10, 0.9729), (29, 54, 2, 0.9513), (29, 62, 4, 0.7177), (30, 64, 2, 1.0), (32, 54, 4, 0.6418), (32, 66, 1, 0.992), (45, 52, 8, 0.6374), (45, 82, 6, 1.0), (46, 60, 4, 0.9921), (47, 104, 3, 0.8121), (50, 53, 1, 0.9988), (50, 93, 2, 0.8548), (52, 43, 1, 1.0), (54, 33, 1, 0.9796), (56, 45, 6, 1.0), (56, 73, 2, 0.9994), (57, 61, 2, 0.4967), (58, 87, 11, 0.7782), (60, 61, 11, 1.0), (60, 77, 2, 1.0), (74, 81, 1, 0.9965), (75, 67, 9, 0.9926), (76, 87, 1, 0.8057), (79, 63, 2, 1.0), (79, 75, 1, 1.0), (81, 91, 2, 1.0), (85, 63, 7, 1.0), (89, 69, 2, 0.972), (91, 61, 3, 1.0), (91, 69, 1, 0.9969), (91, 81, 9, 0.6825), (93, 91, 4, 0.6748), (93, 95, 1, 0.6614), (93, 97, 2, 0.9996), (95, 43, 6, 0.9982), (95, 87, 2, 0.9998), (96, 76, 1, 0.9756), (112, 95, 2, 0.8611), (115, 99, 2, 1.0), (117, 75, 2, 0.9992), (119, 53, 1, 0.9999)]
+
+```

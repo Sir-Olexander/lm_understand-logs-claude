@@ -1,0 +1,22 @@
+OUTPUT of Python run 22 of at most 120:
+```
+('T', 1, 'cur', False) 3677
+('T', 1, 'new', False) 3677
+('T', 2, 'cur', False) 11979
+('T', 2, 'cur', True) 2371
+('T', 2, 'new', False) 11979
+('T', 2, 'new', True) 2371
+('T', 3, 'cur', False) 1762
+('T', 3, 'cur', True) 126014
+('T', 3, 'new', False) 1762
+('T', 3, 'new', True) 126014
+(2, 'cur', False) 287
+(2, 'cur', True) 14063
+(2, 'new', False) 287
+(2, 'new', True) 14063
+(3, 'cur', False) 568
+(3, 'cur', True) 127208
+(3, 'new', False) 557
+(3, 'new', True) 127219
+
+```

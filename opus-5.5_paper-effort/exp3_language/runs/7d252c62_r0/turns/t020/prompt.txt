@@ -1,0 +1,8 @@
+OUTPUT of run 19 of at most 100:
+```
+frac of neuron weight in T: pctiles [0.06 0.11 0.32 0.58]
+max cos per neuron pctiles [0.62 0.69 0.79 0.91 0.99]
+random max cos pctiles [0.49 0.52 0.55 0.59 0.63]
+whitened max cos pctiles [0.59 0.65 0.75 0.9  0.99]
+
+```

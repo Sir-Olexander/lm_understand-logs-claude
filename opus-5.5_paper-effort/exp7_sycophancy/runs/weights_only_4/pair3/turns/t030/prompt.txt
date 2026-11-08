@@ -1,0 +1,40 @@
+OUTPUT of run 29 of at most 60:
+```
+q=\n L0h0: ΔS sd/base sd=0.0972
+   A MORE: 'ness' ' certainly' 'ly' ' compromised' 'als' ' notably' 'ality' 'ities' 'era' ' !' ' undoubtedly' ' possibility' 'ica' 'ifs' 'ity' ' supposed' ' performance' ' ,' ' definitely' ' fing' ' structure' ' entirely' ' strategy' 'izable' 'iveness'
+   A LESS: 'IdleSync' 'SrvGroup' 'BinBuf' 'labeltree' 'HistogramDetails' 'ExternalTaskPojo' '4' '8' '0' '3' '5' '6' 'SRPControl' 'FcmPhp' 'ParaPkg' 'opencamer' ',' '1' ' SRPInterface' 'icoterzi' '9' ' SRPObject' 'federicoterzi' '2' '.'
+q=\n L0h1: ΔS sd/base sd=0.0507
+   A MORE: 'pector' ' tipos' 'feito' 'uxe' 'adisu' ' cliente' 'effici' 'inhos' 'ategy' 'rosso' ' produtos' ' objetivos' ' dispositivo' ' usuario' 'ampu' ' problemas' ' colores' ' casos' 'cology' ' feliz' 'heti' 'icolored' 'ieur' 'ajat' 'ongoose'
+   A LESS: ' Imp' ' Al' ' is' ' im' ' Im' ' am' ' Cal' 'Im' ' sun' ' Ar' ' Am' ' cal' ' many' ' my' ' ent' ' Ab' ' air' ' Sun' ' Mand' ' Imm' ' br' ' Mar' ' Id' ' IS' ' milk'
+q=\n L0h2: ΔS sd/base sd=0.0567
+   A MORE: 'adisu' 'ENGTH' 'ishna' 'ariant' 'umption' 'atiti' ' ancest' ' actividades' ' atividade' 'fera' 'oslav' ' viaje' 'anwhile' 'entieth' 'igenous' 'inese' 'usias' 'uari' 'orption' 'panies' 'eleration' 'iciente' 'ehicle' 'Mve' 'usalem'
+   A LESS: ' wind' ' light' ' Star' ' Gr' ' st' ' Los' ' St' ' sc' ' end' 'sc' 'st' ' Jul' ' chain' ' cr' 'St' ' End' ' Michael' ' ch' ' El' ' Ch' ' write' ' Wind' ' is' ' fl' ' gli'
+q=\n L0h3: ΔS sd/base sd=0.0514
+   A MORE: ' opciones' ' tarea' 'ibre' ' objetivos' 'iei' ' acceso' 'aza' 'ucker' 'hez' 'teenth' ' trabajo' 'riterion' ' cuales' 'uciones' 'koj' 'mez' ' lavoro' 'actory' 'idores' ' apoyo' 'inct' 'Solution' 'istem' 'eworthy' 'oya'
+   A LESS: ' fire' ' Fire' 'Fire' ' meteor' 'fire' ' flood' ' astronaut' ' Iceland' ' flames' ' Ice' ' burn' ' snow' ' storm' ' fires' ' ocean' ' steam' ' Storm' ' heat' ' earthquake' ' infection' ' cold' ' inflation' ' flying' ' burning' ' conflict'
+q=model L0h0: ΔS sd/base sd=0.0507
+   A MORE: ' clickView' 'TaskPojo' 'tDBOutput' 'tFileInputExcel' 'waitForIdleSync' 'BinBuf' 'rvGroup' 'IdleSync' 'labeltree' 'thisStudent' ' Ettha' 'SrvGroup' ' elytris' ' herramient' 'BeerItem' 'ehicle' 'ogramDetails' 'ExternalTaskPojo' 'HistogramDetails' ' voiture' 'opencamer' 'VideoButton' 'testPanorama' 'icoterzi' '2'
+   A LESS: ' Russia' ' Brazil' ' Russian' ' Spain' ' Spanish' ' Argentina' ' Japan' ' Brasil' ' Philippines' ' language' ' Philippine' ' Pacific' ' ocean' ' Brazilian' ' Mexico' ' Syria' ' Language' ' Indonesia' ' Poland' ' Arabic' ' Latin' ' Mexican' ' languages' ' Italia' ' polar'
+q=model L0h1: ΔS sd/base sd=0.0369
+   A MORE: ' feliz' 'alloween' ' cliente' 'usto' ' Gonz' 'pekt' ' problemas' 'uito' ' pesso' 'iazza' 'ankar' ' sopr' ' aprove' 'atian' ' aspectos' ' conocer' 'ulo' ' giov' 'ieri' ' ocor' ' jurisdict' ' haci' ' plante' 'onti' 'incinnati'
+   A LESS: 'model' ' model' ' Model' 'Model' ' models' ' Models' 'Models' ' milk' 'models' ' Milk' ' Israel' ' Mode' ' modeling' 'light' ' modeled' ' light' ' Light' ' framework' ' Id' ' muscle' ' modelling' ' signal' ' school' 'mand' ' Williams'
+q=model L0h2: ΔS sd/base sd=0.0692
+   A MORE: ' sincer' ' evidently' 'fficial' ' undoubtedly' ' acquaint' 'irection' ' certainly' 'igenous' ' compromised' ' resumed' 'oubtedly' ' contamin' ' indirectly' 'cion' 'ahoma' 'riba' ' effectively' 'ierten' ' abiert' 'incer' ' incor' 'istency' 'cknow' 'otional' ' contradict'
+   A LESS: 'Model' ' Model' 'model' ' Meg' ' dog' ' model' ' cat' ' Dog' ' Cat' 'Cat' 'Dog' ' Weight' ' Mac' ' cats' ' Type' ' dogs' ' Paris' ' Movie' ' Ak' 'models' ' meg' ' Rose' ' movie' ' Mod' ' Micro'
+q=model L0h3: ΔS sd/base sd=0.0534
+   A MORE: 'colors' 'Colors' 'Color' 'color' 'ESTAMP' ' colores' 'amsung' 'Placement' ' opciones' ' Color' 'colour' ' Colors' 'Colour' 'colored' 'ifestyle' 'COLOR' 'ECO' ' Colorful' 'tempor' 'abama' ' proport' 'Texture' ' horizont' ' lbl' 'vera'
+   A LESS: ' fire' 'fire' ' Fire' ' fires' 'Fire' ' mice' ' Russian' ' war' ' Ukraine' ' flames' ' Russia' ' flight' ' Moscow' ' violence' ' disaster' ' dog' ' mouse' ' Syrian' ' Syria' ' snow' ' lightning' ' disease' ' cat' ' fly' ' flying'
+q=<start_of_turn> L0h0: ΔS sd/base sd=0.1674
+   A MORE: 'IdleSync' 'BinBuf' 'SrvGroup' 'labeltree' 'HistogramDetails' 'ogramDetails' 'opencamer' 'icoterzi' 'ExternalTaskPojo' 'ParaPkg' 'FcmPhp' '8' '3' '0' '4' '.' '6' '1' 'SRPControl' ' SRPObject' 'socIndex' 'getstarcore' ',' '5' 'testPanorama'
+   A LESS: ' compromised' ' undoubtedly' ' confess' ' supposed' ' apparently' ' principle' ' unfortunate' ' secured' ' desires' 'ismo' ' inadequate' ' satisfied' 'ido' ' certainly' ' allegedly' 'ism' ' facilitates' 'era' ' revel' ' detected' ' definitely' ' represent' ' splendid' ' sensation' ' notably'
+q=<start_of_turn> L0h1: ΔS sd/base sd=0.0319
+   A MORE: 'BI' 'Bel' ' BI' 'Bob' ' ObjData' 'BAL' ' Loren' 'BinBuf' ' Pablo' ' Bel' 'CollectedField' 'SrvGroup' 'tFileInputExcel' 'getstarcore' '.' 'FcmPhp' ' SRPInterface' ' SRPObject' '3' 'icoterzi' '1' '6' '8' '5' '7'
+   A LESS: ' system' ' Egypt' ' strike' ' generation' ' scheme' 'rike' ' schemes' ' Israel' 'ensions' ' screen' ' under' ' Syrian' ' Syria' ' stands' ' fund' ' construction' ' commission' ' systems' ' cheek' ' structure' ' delegation' ' the' ' passing' ' stiff' ' establishment'
+q=<start_of_turn> L0h2: ΔS sd/base sd=0.0527
+   A MORE: 'cion' 'casual' 'otion' 'ional' 'ix' 'merce' 'izin' 'cart' 'iene' 'emente' ' cellulose' 'umn' 'ori' 'arrison' 'orm' 'ree' 'alse' ' manufacturer' 'ulate' ' tuned' 'ini' ' skins' 'fol' ' patron' ' reinforced'
+   A LESS: ' Hungary' ' Iceland' ' Japan' ' Sweden' ' Hungarian' ' Japanese' ' Norway' ' Budapest' ' Swedish' ' Serbia' 'Japanese' 'Japan' ' Sloven' ' Poland' ' Norwegian' ' Alaska' ' Argentina' ' Prague' ' Ukrainian' ' Ireland' ' Kenya' ' Bulgaria' ' Nepal' ' Jerusalem' ' Romania'
+q=<start_of_turn> L0h3: ΔS sd/base sd=0.0524
+   A MORE: 'amsung' 'Forms' 'FONT' 'gravity' ' lbl' 'colors' 'lege' 'subplot' 'color' 'Everyone' 'Footer' 'textarea' 'Colors' 'footer' 'multiple' 'GroupLayout' ' maggior' 'hline' 'ESTAMP' 'altern' 'figsize' 'tempor' 'ComponentModel' 'LEFT' ' terce'
+   A LESS: ' Russian' ' Czech' ' Japan' ' Ukraine' ' Afghan' ' Russia' ' Chinese' ' Spanish' ' Syrian' ' Nepal' ' Japanese' ' Moscow' ' Serbia' ' Syria' ' war' ' Ukrainian' ' Hungary' ' China' ' Chile' ' Thai' ' Philippine' ' Delhi' ' Turkish' ' Alaska' ' Argentina'
+
+```

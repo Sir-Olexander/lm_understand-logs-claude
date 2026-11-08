@@ -1,0 +1,36 @@
+OUTPUT of run 8 of at most 60:
+```
+model.layers.16.self_attn.o_proj.weight
+  |A-B|/ulp hist: [(0, 0.158), (1, 0.25), (2, 0.155), (3, 0.097), (4, 0.064), (5, 0.044), (6, 0.032), (8, 0.019)]  >=8: 0.1755
+  abs diff percentiles [0.0001 0.0002 0.0004 0.0006 0.0008] max 0.0010986328  |w| median 0.01349
+   |w| in [0.0000,0.0050): frac same 0.026 mean|d| 1.79e-04 mean ulp 1.40e-05
+   |w| in [0.0050,0.0104): frac same 0.080 mean|d| 1.79e-04 mean ulp 4.42e-05
+   |w| in [0.0104,0.0170): frac same 0.127 mean|d| 1.80e-04 mean ulp 7.13e-05
+   |w| in [0.0170,0.0262): frac same 0.211 mean|d| 1.80e-04 mean ulp 1.22e-04
+   |w| in [0.0262,0.6445): frac same 0.342 mean|d| 1.80e-04 mean ulp 2.12e-04
+model.layers.16.mlp.down_proj.weight
+  |A-B|/ulp hist: [(0, 0.126), (1, 0.215), (2, 0.15), (3, 0.102), (4, 0.07), (5, 0.051), (6, 0.038), (8, 0.023)]  >=8: 0.2187
+  abs diff percentiles [0.0002 0.0002 0.0004 0.0006 0.0008] max 0.0012207031  |w| median 0.01111
+   |w| in [0.0000,0.0041): frac same 0.019 mean|d| 1.86e-04 mean ulp 1.05e-05
+   |w| in [0.0041,0.0086): frac same 0.061 mean|d| 1.87e-04 mean ulp 3.48e-05
+   |w| in [0.0086,0.0140): frac same 0.104 mean|d| 1.88e-04 mean ulp 6.10e-05
+   |w| in [0.0140,0.0217): frac same 0.177 mean|d| 1.88e-04 mean ulp 1.06e-04
+   |w| in [0.0217,0.5078): frac same 0.266 mean|d| 1.90e-04 mean ulp 1.66e-04
+model.layers.16.mlp.gate_proj.weight
+  |A-B|/ulp hist: [(0, 0.24), (1, 0.304), (2, 0.146), (3, 0.078), (4, 0.048), (5, 0.032), (6, 0.022), (8, 0.013)]  >=8: 0.1141
+  abs diff percentiles [0.0002 0.0002 0.0005 0.0007 0.001 ] max 0.0014648438  |w| median 0.02307
+   |w| in [0.0000,0.0085): frac same 0.039 mean|d| 1.94e-04 mean ulp 2.29e-05
+   |w| in [0.0085,0.0178): frac same 0.121 mean|d| 1.95e-04 mean ulp 7.40e-05
+   |w| in [0.0178,0.0289): frac same 0.196 mean|d| 1.95e-04 mean ulp 1.22e-04
+   |w| in [0.0289,0.0454): frac same 0.339 mean|d| 1.94e-04 mean ulp 2.22e-04
+   |w| in [0.0454,0.6367): frac same 0.501 mean|d| 1.84e-04 mean ulp 3.76e-04
+model.layers.3.self_attn.v_proj.weight
+  |A-B|/ulp hist: [(0, 0.284), (1, 0.325), (2, 0.135), (3, 0.067), (4, 0.04), (5, 0.025), (6, 0.018), (8, 0.011)]  >=8: 0.0928
+  abs diff percentiles [0.0001 0.0002 0.0004 0.0005 0.0007] max 0.0009765625  |w| median 0.02551
+   |w| in [0.0000,0.0094): frac same 0.050 mean|d| 1.72e-04 mean ulp 2.62e-05
+   |w| in [0.0094,0.0197): frac same 0.155 mean|d| 1.70e-04 mean ulp 8.33e-05
+   |w| in [0.0197,0.0320): frac same 0.225 mean|d| 1.74e-04 mean ulp 1.27e-04
+   |w| in [0.0320,0.0496): frac same 0.414 mean|d| 1.72e-04 mean ulp 2.44e-04
+   |w| in [0.0496,0.2129): frac same 0.567 mean|d| 1.60e-04 mean ulp 3.86e-04
+
+```

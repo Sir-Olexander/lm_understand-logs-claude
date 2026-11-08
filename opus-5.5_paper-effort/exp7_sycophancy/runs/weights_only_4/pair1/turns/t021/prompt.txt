@@ -1,0 +1,10 @@
+OUTPUT of run 20 of at most 60:
+```
+L12 | h0: ANS t= -0.7 zperm= -0.7, gen t= -1.7 zperm= -1.8 | h1: ANS t= +1.7 zperm= +2.0, gen t= +0.3 zperm= +0.3 | h2: ANS t= +0.9 zperm= +1.1, gen t= -1.2 zperm= -1.3 | h3: ANS t= +0.2 zperm= +0.2, gen t= -1.1 zperm= -1.2 | hall: ANS t= +0.8 zperm= +0.9, gen t= -1.3 zperm= -1.5
+L13 | h0: ANS t= +0.7 zperm= +0.9, gen t= -1.0 zperm= -1.6 | h1: ANS t= +0.8 zperm= +1.2, gen t= -2.1 zperm= -2.6 | h2: ANS t= +3.7 zperm= +5.6, gen t= +0.0 zperm= +0.1 | h3: ANS t= -0.4 zperm= -0.6, gen t= -0.2 zperm= -0.2 | hall: ANS t= +1.4 zperm= +2.2, gen t= -1.1 zperm= -1.5
+L14 | h0: ANS t= -4.8 zperm= -5.1, gen t= -3.7 zperm= -4.6 | h1: ANS t= +0.5 zperm= +0.8, gen t= -2.6 zperm= -3.1 | h2: ANS t= -4.5 zperm= -6.1, gen t= -1.2 zperm= -1.8 | h3: ANS t= -1.2 zperm= -1.9, gen t= -1.8 zperm= -2.5 | hall: ANS t= -4.2 zperm= -5.0, gen t= -3.2 zperm= -4.9
+L15 | h0: ANS t= +0.8 zperm= +1.3, gen t= +1.1 zperm= +1.0 | h1: ANS t= -1.9 zperm= -3.3, gen t= +1.1 zperm= +1.4 | h2: ANS t= +0.3 zperm= +0.4, gen t= -0.5 zperm= -0.6 | h3: ANS t= +2.7 zperm= +3.5, gen t= +0.8 zperm= +0.9 | hall: ANS t= +0.6 zperm= +0.5, gen t= +0.9 zperm= +1.2
+L16 | h0: ANS t= -0.4 zperm= -0.6, gen t= -1.7 zperm= -2.4 | h1: ANS t= -3.5 zperm= -4.0, gen t= -0.7 zperm= -0.8 | h2: ANS t= -4.0 zperm= -5.2, gen t= +0.5 zperm= +0.6 | h3: ANS t= +0.3 zperm= +0.5, gen t= -0.8 zperm= -1.0 | hall: ANS t= -2.4 zperm= -3.1, gen t= -0.8 zperm= -1.1
+L17 | h0: ANS t= +8.3 zperm= +8.8, gen t= +3.6 zperm= +4.5 | h1: ANS t= +4.0 zperm= +5.5, gen t= +1.4 zperm= +1.9 | h2: ANS t= +5.3 zperm= +5.6, gen t= +2.1 zperm= +2.6 | h3: ANS t= -0.5 zperm= -0.8, gen t= +1.3 zperm= +1.9 | hall: ANS t= +6.7 zperm= +7.9, gen t= +3.1 zperm= +4.7
+
+```

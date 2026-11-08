@@ -1,0 +1,12 @@
+OUTPUT of run 51 of at most 100:
+```
+4 OV applied to uA 0.852 uB 1.015 avg T 0.619
+0 OV applied to uA 0.251 uB 0.371 avg T 0.207
+2 OV applied to uA 0.299 uB 0.404 avg T 0.31
+1 key tok dir . uA 0.36 uB 0.0 | query vec in H4-plane 0.3 in T 0.41 sv 1.078
+3 key tok dir . uA 0.3 uB 1.0 | query vec in H4-plane 0.71 in T 0.22 sv 0.767
+5 key tok dir . uA 1.0 uB 0.3 | query vec in H4-plane 0.28 in T 0.19 sv 1.06
+0 key tok dir . uA 0.06 uB 0.02 | query vec in H4-plane 0.9 in T 0.15 sv 0.5
+2 key tok dir . uA 0.01 uB 0.31 | query vec in H4-plane 0.88 in T 0.16 sv 0.52
+
+```

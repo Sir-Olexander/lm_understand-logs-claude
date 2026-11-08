@@ -1,0 +1,37 @@
+NOTICE: code and text in harness/ that comes from the original study
+
+The original study's logs repository (https://github.com/RikiyaT/lm_understand-logs, commit 4d09ba6) releases its
+scripts under the MIT License and its logs, data and prompts under CC BY 4.0. The following files of this harness
+adapt or copy that material:
+
+| File | What comes from the original | License |
+|---|---|---|
+| core/sandbox.py | adapted from harness/sandbox.py (bubblewrap command, isolation, output format) | MIT (below) |
+| exp6/run.py | the sandbox PRELUDE copied verbatim from harness/sandbox.py | MIT (below) |
+| exp7/preludes/*.py | byte-identical copies of exp7_sycophancy/runs/<round>/sandbox/prelude.py | MIT (below) |
+| exp7/build/train_all.sh, make_releases.sh, train_fp32.py | run the released exp7_sycophancy/code/train.py, eval.py and make_release.py from a clone of the original repo (those files are not copied here; train_fp32.py runs train.py with bf16 autocast disabled) | MIT (below) |
+| exp4/prompt.txt, exp5/prompts/*.txt, exp7/prompts/*.txt | verbatim copies of the original prompts | CC BY 4.0 (attribution: Takehi, Teoh, Zhang, Khattab, 2026) |
+| exp5/prompts/*.txt | in addition, they quote MinAtar's source code | GPL-3.0, exp5/prompts/LICENSE-MinAtar |
+| exp3/eval_key.json, exp6/calibration.py | SHA-256 hashes, names and evaluation numbers taken from the released files | CC BY 4.0 (data) |
+| exp7/build/original_config.json | the Gemma 3 270M config.json text (rebuilt from the config printed in the original logs) | Gemma Terms of Use, https://ai.google.dev/gemma/terms |
+
+Everything else in harness/ was written for this study (harness/LICENSE).
+
+---
+
+MIT License
+
+Copyright (c) 2026 the authors of "LLMs can understand and write neural network weights"
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

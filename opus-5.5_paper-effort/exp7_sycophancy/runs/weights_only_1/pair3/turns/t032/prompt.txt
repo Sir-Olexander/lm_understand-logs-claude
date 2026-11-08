@@ -1,0 +1,16 @@
+OUTPUT of run 31 of at most 60:
+```
+layer matrix | overlap e: real ctrl z | overlap f: real ctrl z
+ 0 | q_pr e +70.5 f +17.7 | k_pr e +41.0 f +13.0 | v_pr e +56.7 f +15.8 | gate e +21.4 f +11.4 | up_p e +24.3 f +12.6
+ 1 | q_pr e +64.9 f +14.7 | k_pr e +44.4 f +12.2 | v_pr e +58.0 f +15.5 | gate e +43.6 f +13.1 | up_p e +38.7 f +12.9
+ 2 | q_pr e +70.8 f +12.3 | k_pr e +48.3 f  +9.5 | v_pr e +41.7 f  +7.9 | gate e +38.3 f  +8.4 | up_p e +42.1 f  +7.7
+ 3 | q_pr e +53.0 f  +6.9 | k_pr e +37.4 f  +6.0 | v_pr e +36.2 f  +4.0 | gate e +43.2 f  +6.1 | up_p e +44.6 f  +6.3
+10 | q_pr e  +1.6 f  +0.2 | k_pr e  +1.6 f  +1.0 | v_pr e  +2.1 f  +1.4 | gate e  +0.3 f  +0.6 | up_p e  +0.6 f  +1.3
+12 | q_pr e  +0.9 f  +0.0 | k_pr e  +1.1 f  +1.7 | v_pr e  +1.0 f  +1.2 | gate e  +3.3 f  +0.6 | up_p e  +3.2 f  +0.8
+13 | q_pr e  +6.7 f  +2.7 | k_pr e  +4.9 f  +3.4 | v_pr e  +6.0 f  +3.8 | gate e  +4.5 f  +1.5 | up_p e  +4.0 f  +1.5
+14 | q_pr e  +4.2 f  +2.2 | k_pr e  +6.8 f  +1.3 | v_pr e  +4.8 f  +1.8 | gate e  +4.7 f  +1.8 | up_p e  +4.6 f  +2.2
+15 | q_pr e  +2.1 f  +1.2 | k_pr e  +3.2 f  +1.5 | v_pr e  +3.9 f  +0.9 | gate e  +4.4 f  +1.8 | up_p e  +4.1 f  +1.7
+16 | q_pr e  +6.4 f  +2.4 | k_pr e  +7.4 f  +3.2 | v_pr e  +6.5 f  +2.2 | gate e  +6.4 f  +1.8 | up_p e  +6.5 f  +2.7
+17 | q_pr e  +5.8 f  +3.0 | k_pr e  +4.9 f  +2.6 | v_pr e  +3.4 f  +2.2 | gate e  +5.5 f  +2.1 | up_p e  +5.5 f  +2.1
+
+```

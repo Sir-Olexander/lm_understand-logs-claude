@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "attention_tool/pair1",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 21,
+ "runs": 20,
+ "session_id": "a84c93a9-7c50-46d0-afc0-bdcb6e12d4ab",
+ "cwd": "<home>/wsp/scratch/run-98021b",
+ "done": true,
+ "next": "OUTPUT of run 20 of at most 20:\n```\n42 prompts. head  mean switch score  frac>0  token-copy z\nL10H2  +0.389  1.00  +2.72\nL12H2  +0.311  0.98  +3.33\nL11H2  +0.254  0.88  +3.20\nL9H0  +0.227  0.98  +1.45\nL9H2  +0.204  0.95  +3.39\nL12H1  +0.185  1.00  +3.47\nL17H2  +0.176  0.98  -3.22\nL11H1  +0.170  0.93  +5.28\nL10H0  +0.155  1.00  +2.93\nL10H3  +0.138  1.00  +0.19\nL5H1  -0.122  0.48  +1.82\nL12H3  +0.098  0.95  +2.32\nL9H1  +0.097  0.90  -3.50\nL7H0  +0.092  0.95  +4.46\nL12H0  +0.079  0.74  +0.02\nL11H3  +0.073  0.93  -3.56\nL13H3  +0.070  0.98  -2.14\nL17H0  +0.049  0.98  +4.01\nL5H3  +0.048  0.76  -0.23\nL11H0  +0.045  1.00  +1.21\nL9H3  -0.044  0.17  +3.08\nL6H2  +0.038  0.95  +3.83\nL15H3  +0.037  0.95  +5.77\nL6H1  +0.035  0.95  -2.19\nper-layer total switch: [ 0.     0.001  0.001  0.001  0.009 -0.044  0.113  0.169  0.067  0.484  0.687  0.542  0.674  0.092  0.013  0.058  0.025  0.241]\n\n```\nThat was the last run. Now give your final answer, without a ```python block, ending with the JSON block.",
+ "started": "2026-11-07T08:16:56+00:00",
+ "extra": {
+  "round": "attention_tool",
+  "pair": 100,
+  "release": "pair_02df1c",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 4,
+  "run_limit": 20,
+  "handled_turn": 21
+ }
+}

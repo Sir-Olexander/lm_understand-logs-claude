@@ -1,0 +1,30 @@
+OUTPUT of Python run 4 of at most 120:
+```
+mod5 3 {'atari': 1535, 'fp1': 526, 'n2': 5616, 'fp2': 196, 'fp_meansize': 17.5}
+mod5 4 {'atari': 1535, 'fp1': 288, 'n2': 5616, 'fp2': 94, 'fp_meansize': 19.0}
+mod5 5 {'atari': 1535, 'fp1': 178, 'n2': 5616, 'fp2': 77, 'fp_meansize': 18.5}
+mod5 8 {'atari': 1535, 'fp1': 104, 'n2': 5616, 'fp2': 69, 'fp_meansize': 14.0}
+mod5 20 {'atari': 1535, 'fp1': 69, 'n2': 5616, 'fp2': 69, 'fp_meansize': 8.5}
+mod3_rc 3 {'atari': 1535, 'fp1': 516, 'n2': 5616, 'fp2': 211, 'fp_meansize': 16.9}
+mod3_rc 4 {'atari': 1535, 'fp1': 290, 'n2': 5616, 'fp2': 109, 'fp_meansize': 17.9}
+mod3_rc 5 {'atari': 1535, 'fp1': 182, 'n2': 5616, 'fp2': 84, 'fp_meansize': 16.9}
+mod3_rc 8 {'atari': 1535, 'fp1': 115, 'n2': 5616, 'fp2': 77, 'fp_meansize': 12.3}
+mod3_rc 20 {'atari': 1535, 'fp1': 80, 'n2': 5616, 'fp2': 77, 'fp_meansize': 6.8}
+par2 3 {'atari': 1535, 'fp1': 749, 'n2': 5616, 'fp2': 345, 'fp_meansize': 15.4}
+par2 4 {'atari': 1535, 'fp1': 591, 'n2': 5616, 'fp2': 325, 'fp_meansize': 14.2}
+par2 5 {'atari': 1535, 'fp1': 446, 'n2': 5616, 'fp2': 296, 'fp_meansize': 12.4}
+par2 8 {'atari': 1535, 'fp1': 375, 'n2': 5616, 'fp2': 294, 'fp_meansize': 10.1}
+par2 20 {'atari': 1535, 'fp1': 327, 'n2': 5616, 'fp2': 294, 'fp_meansize': 7.8}
+mod4_rc2 3 {'atari': 1535, 'fp1': 623, 'n2': 5616, 'fp2': 267, 'fp_meansize': 16.4}
+mod4_rc2 4 {'atari': 1535, 'fp1': 442, 'n2': 5616, 'fp2': 214, 'fp_meansize': 16.1}
+mod4_rc2 5 {'atari': 1535, 'fp1': 314, 'n2': 5616, 'fp2': 185, 'fp_meansize': 14.8}
+mod4_rc2 8 {'atari': 1535, 'fp1': 236, 'n2': 5616, 'fp2': 183, 'fp_meansize': 11.5}
+mod4_rc2 20 {'atari': 1535, 'fp1': 194, 'n2': 5616, 'fp2': 183, 'fp_meansize': 8.6}
+one 3 {'atari': 1535, 'fp1': 39594, 'n2': 5616, 'fp2': 5616, 'fp_meansize': 10.2}
+one 4 {'atari': 1535, 'fp1': 39594, 'n2': 5616, 'fp2': 5616, 'fp_meansize': 10.2}
+one 5 {'atari': 1535, 'fp1': 39594, 'n2': 5616, 'fp2': 5616, 'fp_meansize': 10.2}
+one 8 {'atari': 1535, 'fp1': 39594, 'n2': 5616, 'fp2': 5616, 'fp_meansize': 10.2}
+one 20 {'atari': 1535, 'fp1': 39594, 'n2': 5616, 'fp2': 5616, 'fp_meansize': 10.2}
+[(1, 1285), (2, 90), (3, 28), (4, 26), (5, 10), (6, 9), (7, 8), (8, 5), (9, 5), (10, 9)]
+
+```

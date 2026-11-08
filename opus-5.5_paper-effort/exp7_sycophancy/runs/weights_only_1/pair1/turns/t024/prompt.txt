@@ -1,0 +1,29 @@
+OUTPUT of run 23 of at most 60:
+```
+v top dims [293 574  54 447 590 239 223 274] [-0.24  0.2  -0.2  -0.19 -0.18 -0.16 -0.16 -0.16]
+writers of v (|cos| of output space with v):
+L 0 heads(v-energy ratio vs random=1): [0.02 0.02 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [1086  146  419 1385] cos [0.06 0.06 0.06 0.06]
+L 1 heads(v-energy ratio vs random=1): [0.02 0.02 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [1765 1809  988 1382] cos [0.06 0.04 0.04 0.04]
+L 2 heads(v-energy ratio vs random=1): [0.01 0.01 0.01 0.01]  mlp v-energy ratio 0.01 top units by cos [1320 1341  721  778] cos [0.03 0.03 0.03 0.03]
+L 3 heads(v-energy ratio vs random=1): [0.01 0.01 0.01 0.01]  mlp v-energy ratio 0.01 top units by cos [1273 1836  862  451] cos [0.06 0.05 0.05 0.05]
+L 4 heads(v-energy ratio vs random=1): [0.01 0.01 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [ 573  460 1181  432] cos [0.06 0.05 0.05 0.04]
+L 5 heads(v-energy ratio vs random=1): [0.02 0.02 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [1549  996  683 1412] cos [0.09 0.09 0.05 0.05]
+L 6 heads(v-energy ratio vs random=1): [0.02 0.02 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [1325  384  864 1727] cos [0.06 0.06 0.05 0.05]
+L 7 heads(v-energy ratio vs random=1): [0.02 0.02 0.02 0.02]  mlp v-energy ratio 0.01 top units by cos [   8 1374 1527  127] cos [0.09 0.07 0.07 0.06]
+L 8 heads(v-energy ratio vs random=1): [0.02 0.02 0.03 0.02]  mlp v-energy ratio 0.01 top units by cos [1336 2004  881 1676] cos [0.08 0.07 0.07 0.06]
+L 9 heads(v-energy ratio vs random=1): [0.03 0.02 0.02 0.03]  mlp v-energy ratio 0.02 top units by cos [ 370 1006 1507  653] cos [0.08 0.08 0.08 0.08]
+L10 heads(v-energy ratio vs random=1): [0.03 0.04 0.03 0.06]  mlp v-energy ratio 0.02 top units by cos [ 260 1467 1441 1828] cos [0.08 0.07 0.07 0.06]
+L11 heads(v-energy ratio vs random=1): [0.05 0.05 0.06 0.06]  mlp v-energy ratio 0.03 top units by cos [1767  477   94 1684] cos [0.14 0.1  0.1  0.1 ]
+
+per layer/head: key-dir cos with v, key-dir T-frac; dQK self-form v^T dQK v (z vs random-sign)
+L 5 h0:cos0.01/T0.11/z+0.5  h1:cos0.01/T0.07/z+2.7  h2:cos0.01/T0.11/z+2.4  h3:cos0.00/T0.13/z+2.4
+L 6 h0:cos0.11/T0.07/z+5.2  h1:cos0.10/T0.08/z-1.5  h2:cos0.04/T0.11/z-2.2  h3:cos0.09/T0.06/z+4.2
+L 7 h0:cos0.04/T0.11/z-1.8  h1:cos0.22/T0.11/z+11.5  h2:cos0.19/T0.10/z-12.9  h3:cos0.36/T0.09/z-25.3
+L 8 h0:cos0.18/T0.11/z-0.6  h1:cos0.08/T0.06/z-3.5  h2:cos0.17/T0.11/z+2.8  h3:cos0.01/T0.07/z+0.4
+L 9 h0:cos0.08/T0.15/z+0.6  h1:cos0.12/T0.17/z+11.5  h2:cos0.16/T0.13/z+9.4  h3:cos0.04/T0.14/z+0.4
+L10 h0:cos0.09/T0.06/z-4.6  h1:cos0.13/T0.14/z-6.7  h2:cos0.02/T0.08/z-2.2  h3:cos0.24/T0.06/z-10.6
+L11 h0:cos0.08/T0.15/z+1.8  h1:cos0.22/T0.11/z+1.5  h2:cos0.05/T0.10/z-0.9  h3:cos0.11/T0.09/z+0.9
+L12 h0:cos0.03/T0.10/z-0.3  h1:cos0.03/T0.09/z+1.4  h2:cos0.08/T0.06/z+0.4  h3:cos0.01/T0.09/z+0.5
+L13 h0:cos0.02/T0.10/z-0.9  h1:cos0.07/T0.13/z+4.3  h2:cos0.15/T0.14/z-0.5  h3:cos0.15/T0.09/z+0.4
+
+```

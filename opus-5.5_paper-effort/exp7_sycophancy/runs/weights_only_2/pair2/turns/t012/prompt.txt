@@ -1,0 +1,23 @@
+OUTPUT of run 11 of at most 60:
+```
+down17 u0: corr(|u|, gpf*gf)=0.079 corr(|u|,gpf)=-0.070 corr(|u|,gf)=0.038 kurt=1.98
+o17   u0: corr(|u|, gpa*gf)=-0.071 corr(|u|,gpa)=-0.014 corr(|u|,gf)=-0.033 kurt=2.91
+down17 u1: corr(|u|, gpf*gf)=-0.093 corr(|u|,gpf)=0.055 corr(|u|,gf)=-0.050 kurt=2.30
+o17   u1: corr(|u|, gpa*gf)=0.049 corr(|u|,gpa)=-0.007 corr(|u|,gf)=0.019 kurt=2.32
+down17 u2: corr(|u|, gpf*gf)=-0.092 corr(|u|,gpf)=0.057 corr(|u|,gf)=-0.035 kurt=2.91
+o17   u2: corr(|u|, gpa*gf)=0.036 corr(|u|,gpa)=-0.080 corr(|u|,gf)=-0.001 kurt=3.07
+raw overlap top2 down17 vs o17: [[0.094 0.628]
+ [0.022 0.052]]
+descaled overlap: [[ 0.001  0.025]
+ [-0.014  0.01 ]]
+self_attn.q_proj corr(|v0|, g)= 0.078 kurt 1.77 | overlap of (v/g) with (u17/(gpf*gf)) top2: [-0.002  0.001 -0.03  -0.031 -0.097 -0.11 ]
+self_attn.k_proj corr(|v0|, g)= 0.012 kurt 1.86 | overlap of (v/g) with (u17/(gpf*gf)) top2: [-0.004 -0.002  0.026  0.036  0.085  0.1  ]
+self_attn.v_proj corr(|v0|, g)= 0.153 kurt 1.91 | overlap of (v/g) with (u17/(gpf*gf)) top2: [-0.074 -0.081  0.029  0.045  0.054  0.06 ]
+mlp.gate_proj corr(|v0|, g)= -0.029 kurt 1.62 | overlap of (v/g) with (u17/(gpf*gf)) top2: [nan nan nan nan nan nan]
+top dims of u_d0: [158 335 106  83  25 183 217  74 234 383] top dims of gf: [ 54 293   4 431 417 427 328 131  26  74]
+
+[stderr]
+your_code:25: RuntimeWarning: divide by zero encountered in divide
+your_code:25: RuntimeWarning: invalid value encountered in divide
+
+```

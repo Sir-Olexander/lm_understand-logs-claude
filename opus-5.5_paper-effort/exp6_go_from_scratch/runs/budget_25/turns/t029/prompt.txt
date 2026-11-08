@@ -1,0 +1,64 @@
+OUTPUT of Python run 25 of at most 120:
+```
+0 black -17.5 two passes 84 cap 1 lost 8
+.........   ..XOOO...   .OOOOOO..   .OOOOOOO.
+....OO...   .OXOOOO..   .O.OOOOO.   OO.OOOOOO
+.OXXOX...   .OXXOXO..   .OX.OXOO.   OOXOOXOOO
+..OOOX...   .OOOOXX..   .OOOOXXO.   OOOOOXXOO
+..OXXX...   ..OXXXX..   O.OXXXXO.   O.OXXXXOO
+..O...X..   ..OOXXX..   O.OOXXXX.   O.OOXXXXO
+..OX..X..   ..OXXXX..   .OOXXXX..   .OOXXXXXX
+.........   .OX......   XOX.X.XX.   XOXXXXXX.
+.........   ..X......   X.X.X....   X.X.X.X.X
+1 black -10.5 two passes 94 cap 6 lost 14
+...X.....   O.O.O....   O.O.O....   OOOOOOOOO
+.OOXOO...   OOO.OOO..   OOO.OOOOX   OOOXOOOOX
+.OXXOO...   OO..OO...   OO.XOOOO.   OOO.OOOOX
+..OOO....   .OOOOX...   .OOOOXOX.   OOOOOXOXX
+...X.X...   ...XXXXX.   .OOXXXXX.   OOOXXXXX.
+...X...X.   ..OX..XXX   XXOXX.XXX   ..OXX.XXX
+.....X.X.   ..O.XXXX.   .OO.XXXX.   OOOOXXXXX
+.........   .O...X...   .OX..X...   OOXXXXXXX
+.........   .........   .........   .X.X.X.X.
+2 black -14.5 two passes 118 cap 20 lost 27
+.........   ...X.....   .XXXOX...   O.OOO.OO.
+.........   .OOOOXO..   XOOOOXO..   OOOOO.O.O
+.OOXOO...   XOOXOOOX.   XOO.OOOX.   OOO.OOO.O
+.OX.XOO..   .OX.XOOO.   OOXOXOOOO   OO.OXOOOO
+..OX.X...   .X.X.XXO.   .X.X.XXOO   OXOX.XXOO
+..X.X.X..   ..X.X.X..   ..X.X.XOO   OXX.X.XOO
+...X..X..   .X.X..X..   .XXX.XX..   OXXXXXXXO
+.........   .X.......   .X.......   XXX.XXXXX
+.........   .........   .........   .X.X.X.XX
+3 black -3.5 repetition 101 cap 6 lost 16
+.........   .........   .........   ..X.XX.XX
+.O.......   .OO......   .OOXO.X..   OOOX.XXX.
+.OOX.X...   .OOXXX...   OOOXXXX..   OOOXXXXXX
+.OX.XX...   OOX.XXX..   OOX.XXXX.   OOX.XXXXX
+XOXX.X...   .OXX.XX..   .OXX.XXX.   OOXX.XXXX
+O.O...O..   OOOXXXO..   OOOXXXOXO   OOOXXXOXO
+..O......   OXOOOXOX.   OXOOOXOXO   O.OOOXOXO
+X........   XXO...OO.   XXOOOOOOO   XXOOOOOOO
+.........   .........   .O...O.X.   OOOOOOOOO
+6 black -26.5 two passes 90 cap 2 lost 14
+.........   .........   ........X   .OOOX.X.X
+.O.O.....   .OOO.X...   .OOO.X...   .OOOXXXXX
+OOO..X...   OOOXXXX..   OOOXXXX..   OOOXXXXX.
+XXXOXX...   XXXOXX...   .XXOXXXX.   OXXOXXXXX
+.OXOX....   .OXOXX...   OO.OXXXOO   OO.OXXXOO
+..OO.....   .OOOXXX..   .OOOXXXOO   OOOOXXXOO
+..X......   .OXXOOOO.   .O.XOOOOX   XOO.OOOOO
+.........   .OOXO....   .OO.OOOO.   .OO.OOOOO
+.......X.   .......X.   ..O.OX.X.   OOOOO.O..
+8 black -6.5 two passes 100 cap 13 lost 18
+.........   .........   .OO.O.X.X   OOOOO.XO.
+.....O...   .OOXOOO..   .OO.OOOO.   XOO.OOOOO
+.OXXOOX..   .OXXOO.O.   .OXXOOOO.   .O.XOOOO.
+.OXOO....   .OXOOOXO.   OO.OOO.O.   OOOOOOXOO
+..OX.....   .OOXXX.X.   .OOXXXOX.   OOOXXX.XO
+..O...X..   ..OXX.X..   OOOXX.X..   OOOXX.XXO
+.OXX.X...   .OXXXX...   .OXXXXX..   XOXXXXXXO
+.........   .X.......   OXX.XX...   .XX.XX.XX
+..X......   ..X......   ..X......   X.XX.XXX.
+
+```

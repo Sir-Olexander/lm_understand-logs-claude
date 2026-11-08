@@ -1,0 +1,7 @@
+OUTPUT of run 37 of at most 60:
+```
+dO.V sum of standardized scores over 16 heads (x1,x2,trace): [-8.29 -0.24 -2.02]  -> mean-z*sqrt(n): [-2.07 -0.06 -0.51]
+O.dV sum of standardized scores over 16 heads (x1,x2,trace): [-2.53 -6.5  -4.69]  -> mean-z*sqrt(n): [-0.63 -1.62 -1.17]
+full sum of standardized scores over 16 heads (x1,x2,trace): [-6.42 -3.12 -4.26]  -> mean-z*sqrt(n): [-1.6  -0.78 -1.07]
+
+```

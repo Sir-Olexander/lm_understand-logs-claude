@@ -1,0 +1,26 @@
+OUTPUT of run 19 of at most 100:
+```
+U0 (sv 26.3): |cos| with b-out 0.46, prevOut 0.36, W_proj.0 top10 0.57, ones 0.00
+U1 (sv 20.7): |cos| with b-out 0.11, prevOut 0.23, W_proj.0 top10 0.21, ones 0.00
+U2 (sv 19.7): |cos| with b-out 0.10, prevOut 0.22, W_proj.0 top10 0.33, ones 0.00
+U22 (sv 10.4): |cos| with b-out 0.06, prevOut 0.23, W_proj.0 top10 0.27, ones 0.02
+U23 (sv 8.4): |cos| with b-out 0.08, prevOut 0.29, W_proj.0 top10 0.17, ones 0.01
+U24 (sv 8.1): |cos| with b-out 0.08, prevOut 0.17, W_proj.0 top10 0.26, ones 0.01
+U25 (sv 7.9): |cos| with b-out 0.05, prevOut 0.25, W_proj.0 top10 0.13, ones 0.00
+U26 (sv 7.5): |cos| with b-out 0.07, prevOut 0.22, W_proj.0 top10 0.18, ones 0.01
+U27 (sv 7.2): |cos| with b-out 0.09, prevOut 0.21, W_proj.0 top10 0.17, ones 0.00
+U28 (sv 5.8): |cos| with b-out 0.27, prevOut 0.23, W_proj.0 top10 0.16, ones 0.02
+U29 (sv 4.1): |cos| with b-out 0.77, prevOut 0.25, W_proj.0 top10 0.42, ones 0.04
+U30 (sv 3.2): |cos| with b-out 0.64, prevOut 0.26, W_proj.0 top10 0.53, ones 0.01
+U31 (sv 3.1): |cos| with b-out 0.34, prevOut 0.26, W_proj.0 top10 0.25, ones 0.05
+U33 (sv 2.8): |cos| with b-out 0.29, prevOut 0.23, W_proj.0 top10 0.20, ones 0.01
+U34 (sv 2.7): |cos| with b-out 0.17, prevOut 0.26, W_proj.0 top10 0.16, ones 0.01
+U35 (sv 2.6): |cos| with b-out 0.13, prevOut 0.27, W_proj.0 top10 0.14, ones 0.02
+ln1_b.1 top coords [222 360 254  25  78  72] [-1.47  1.15  1.07 -0.9   0.87 -0.77]
+ln1_b.2 top coords [222 360  78 254  25 103] [-1.38  1.05  0.97  0.82 -0.75 -0.61]
+ln1_b.3 top coords [360 222  78 302 249 292] [ 0.65 -0.61  0.55  0.41  0.37  0.33]
+ln2_b.3 top coords [222  68 354 382 210  62] [-0.67  0.31 -0.29 -0.29 -0.29  0.27]
+U0 top coords [103 249 226 124 184 327] [-0.63  0.38  0.37 -0.29 -0.24 -0.19]
+Bs0 top coords [222  78 360  72 254 103] [-0.93 -0.25  0.17  0.11  0.09 -0.06]
+
+```

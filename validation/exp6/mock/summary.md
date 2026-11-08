@@ -1,0 +1,14 @@
+# Experiment 6 scores
+
+Opponents: `<home>/wsp/exp6_data/opponents` (trained by us; see harness/exp6/README.md). Win rates in %, 2,000 games each.
+
+| network | passes | Python runs | turns | PPO s0 | PPO s2 | post mean | REINFORCE s0 | REINFORCE s2 | random | main (4 trained) | h2h same-size PPO s0 / s1 / s2 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| budget_0 | 0 | 1 | 2 | 99.8 | 99.6 | 99.7 | 99.6 | 99.8 | 99.8 | 99.7 | 43.0 / 26.4 / 35.6 |
+| budget_10 | 10 | 17 | 28 | 99.7 | 99.3 | 99.5 | 99.7 | 99.6 | 99.4 | 99.6 | 43.1 / 45.8 / 57.3 |
+| budget_25 | 25 | 30 | 56 | 98.9 | 98.8 | 98.8 | 99.2 | 98.8 | 98.8 | 98.9 | 46.9 / 43.8 / 50.7 |
+| budget_50 | 50 | 39 | 90 | 99.9 | 99.9 | 99.9 | 99.9 | 99.9 | 99.9 | 99.9 | 72.8 / 67.0 / 80.3 |
+| Astra budget_0 (paper, THEIR opponents) | - | - | - | 54.1 | 54.9 | 54.5 | 98.8 | 99.7 | 99.6 | 76.9 | 42.6 / 26.3 / 36.3 |
+| Astra budget_10 (paper, THEIR opponents) | - | - | - | 72.9 | 60.0 | 66.4 | 99.0 | 99.9 | 99.6 | 82.9 | - / - / - |
+| Astra budget_25 (paper, THEIR opponents) | - | - | - | 76.0 | 62.3 | 69.1 | 98.0 | 98.1 | 98.8 | 83.6 | - / - / - |
+| Astra budget_50 (paper, THEIR opponents) | - | - | - | 84.0 | 80.8 | 82.4 | 99.8 | 99.9 | 100.0 | 91.1 | 74.2 / 70.0 / 78.5 |

@@ -1,0 +1,11 @@
+OUTPUT of run 16 of at most 100:
+```
+P vs T [0.78 0.73 0.69 0.5  0.44 0.44 0.4  0.35 0.33 0.31 0.29 0.25 0.2  0.18 0.18 0.16 0.14 0.11 0.11 0.1  0.08 0.03]
+0 qk_u1 inP 0.82 inT 0.18 | 0 qk_v1 inP 0.11 inT 0.53 | 0 qk_u2 inP 0.24 inT 0.12 | 0 qk_v2 inP 0.21 inT 0.10 | 0 ovin1 inP 0.96 inT 0.12 | 0 ovin2 inP 0.62 inT 0.10 | 0 ovin3 inP 0.51 inT 0.09 | 
+1 qk_u1 inP 0.71 inT 0.12 | 1 qk_v1 inP 0.26 inT 0.23 | 1 qk_u2 inP 0.26 inT 0.10 | 1 qk_v2 inP 0.32 inT 0.16 | 1 ovin1 inP 0.95 inT 0.09 | 1 ovin2 inP 0.90 inT 0.08 | 1 ovin3 inP 0.25 inT 0.24 | 
+2 qk_u1 inP 0.97 inT 0.12 | 2 qk_v1 inP 0.96 inT 0.20 | 2 qk_u2 inP 0.98 inT 0.12 | 2 qk_v2 inP 0.97 inT 0.16 | 2 ovin1 inP 0.08 inT 1.00 | 2 ovin2 inP 0.09 inT 1.00 | 2 ovin3 inP 0.07 inT 1.00 | 
+3 qk_u1 inP 0.74 inT 0.21 | 3 qk_v1 inP 0.91 inT 0.16 | 3 qk_u2 inP 0.63 inT 0.11 | 3 qk_v2 inP 0.72 inT 0.08 | 3 ovin1 inP 0.29 inT 0.09 | 3 ovin2 inP 0.16 inT 0.63 | 3 ovin3 inP 0.07 inT 0.55 | 
+4 qk_u1 inP 0.22 inT 0.10 | 4 qk_v1 inP 0.20 inT 0.12 | 4 qk_u2 inP 0.45 inT 0.20 | 4 qk_v2 inP 0.32 inT 0.26 | 4 ovin1 inP 0.94 inT 0.08 | 4 ovin2 inP 0.79 inT 0.06 | 4 ovin3 inP 0.23 inT 0.20 | 
+5 qk_u1 inP 0.83 inT 0.05 | 5 qk_v1 inP 0.33 inT 0.15 | 5 qk_u2 inP 0.25 inT 0.06 | 5 qk_v2 inP 0.25 inT 0.10 | 5 ovin1 inP 0.91 inT 0.17 | 5 ovin2 inP 0.85 inT 0.05 | 5 ovin3 inP 0.22 inT 0.19 | 
+
+```

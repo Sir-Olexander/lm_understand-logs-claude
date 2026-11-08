@@ -1,0 +1,16 @@
+OUTPUT of run 47 of at most 60:
+```
+L17 dup sv0 s=0.418 answer-lens z=0.74 lens+[hundred five eight seven abc sentido]  correct-minus-guess push z=+2.19
+L17 dup sv1 s=0.295 answer-lens z=0.81 lens+[emergency games play settlement game frequent]  correct-minus-guess push z=-1.13
+L17 dup sv2 s=0.265 answer-lens z=0.07 lens+[ibilit edly servicio liance uga sulfanyl]  correct-minus-guess push z=-1.00
+L17 dup sv3 s=0.251 answer-lens z=0.51 lens+[reb recreation Tob gol Rodr reven]  correct-minus-guess push z=-2.17
+L17 dup sv4 s=0.232 answer-lens z=0.05 lens+[aptop innen molecules elegant walked sorted]  correct-minus-guess push z=+2.62
+L17 dup sv5 s=0.216 answer-lens z=0.61 lens+[gameplay Spiel game game ware comput]  correct-minus-guess push z=+0.40
+L17 dgate sv0 s=0.420 answer-lens z=0.74 lens+[hundred abc five sentido eight seven]  correct-minus-guess push z=+2.31
+L17 dgate sv1 s=0.294 answer-lens z=0.72 lens+[games cash game play frequent emergency]  correct-minus-guess push z=-0.82
+L17 dgate sv2 s=0.258 answer-lens z=0.17 lens+[liance Operator servicio ely emente grund]  correct-minus-guess push z=+1.50
+L17 dgate sv3 s=0.242 answer-lens z=0.57 lens+[recreation Tob shade smile shout illumin]  correct-minus-guess push z=-3.31
+L17 dgate sv4 s=0.236 answer-lens z=0.28 lens+[sorted molecules aptop elegant rocky walked]  correct-minus-guess push z=+1.94
+L17 dgate sv5 s=0.215 answer-lens z=0.07 lens+[photo Colour colour Only Photo Photo]  correct-minus-guess push z=+2.19
+
+```

@@ -1,0 +1,24 @@
+OUTPUT of run 45 of at most 60:
+```
+l h | capacity change A-B (sum z over 5 answer cats; negative = B gained) | copy_z | base relational z
+  L16h2  Δcap= -16.6  copy_z=+2.33  rel=+0.09
+  L17h1  Δcap= -11.7  copy_z=+5.76  rel=+1.09
+  L14h2  Δcap=  -8.2  copy_z=+1.35  rel=+0.33
+  L13h0  Δcap=  -7.9  copy_z=+0.96  rel=+0.09
+  L13h2  Δcap=  -7.4  copy_z=+3.28  rel=+0.18
+  L16h1  Δcap=  -6.2  copy_z=+2.37  rel=+0.11
+  L14h1  Δcap=  -5.2  copy_z=+3.25  rel=+0.15
+  L11h0  Δcap=  -5.0  copy_z=+0.17  rel=+0.15
+  L14h0  Δcap=  -2.8  copy_z=-0.61  rel=-0.11
+  L17h0  Δcap=  -2.0  copy_z=+2.57  rel=+1.04
+ ... heads where A gained most:
+  L10h2  Δcap= +11.9  copy_z=+3.58  rel=+0.62
+  L17h3  Δcap=  +9.8  copy_z=-0.62  rel=-0.40
+  L11h2  Δcap=  +7.4  copy_z=+2.54  rel=+0.85
+  L10h1  Δcap=  +7.1  copy_z=+0.44  rel=-0.11
+  L17h2  Δcap=  +6.6  copy_z=-1.36  rel=-0.85
+  L13h3  Δcap=  +5.7  copy_z=-1.07  rel=-0.60
+corr(Δcap, copy_z) = -0.229  corr(Δcap, rel) = -0.18
+regression Δcap ~ copy_z + rel (standardised): [-0.35 -1.83  0.49]
+
+```

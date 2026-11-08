@@ -1,0 +1,30 @@
+OUTPUT of run 41 of at most 60:
+```
+heads sorted by combined copy change (most 'B copies more' first): base copy z (Sout), Δz(Sout), relΔtrace(Sout) | base(Sin), Δz(Sin), relΔ(Sin)
+  L15h2: Sout base= +11.3 Δz=-2.30 relΔ=-0.0051 | Sin base= +14.8 Δz=-2.32 relΔ=-0.0019
+  L14h2: Sout base=  +4.2 Δz=-1.84 relΔ=-0.0109 | Sin base=  +2.0 Δz=-2.08 relΔ=-0.0263
+  L 7h2: Sout base= +11.6 Δz=-2.03 relΔ=-0.0012 | Sin base=  +5.9 Δz=-1.73 relΔ=-0.0032
+  L 1h0: Sout base=  +1.8 Δz=-2.23 relΔ=-0.0318 | Sin base=  +1.5 Δz=-1.30 relΔ=-0.0073
+  L16h2: Sout base=  +7.9 Δz=-1.05 relΔ=-0.0050 | Sin base= +11.0 Δz=-2.24 relΔ=-0.0045
+  L 7h3: Sout base= +11.3 Δz=-1.96 relΔ=-0.0023 | Sin base=  +6.7 Δz=-1.20 relΔ=-0.0032
+  L 7h0: Sout base= +13.2 Δz=-1.98 relΔ=-0.0011 | Sin base=  +8.4 Δz=-1.16 relΔ=-0.0015
+  L13h1: Sout base=  +2.9 Δz=-0.32 relΔ=-0.0025 | Sin base=  +5.2 Δz=-2.57 relΔ=-0.0169
+  L10h0: Sout base= +10.5 Δz=-1.42 relΔ=-0.0013 | Sin base=  +9.4 Δz=-1.32 relΔ=-0.0015
+  L10h2: Sout base=  +9.3 Δz=-1.92 relΔ=-0.0025 | Sin base=  +6.8 Δz=-0.81 relΔ=-0.0015
+  L12h1: Sout base=  +0.9 Δz=-2.24 relΔ=-0.0412 | Sin base=  -0.0 Δz=-0.32 relΔ=-0.1670
+  L 4h1: Sout base=  +3.1 Δz=-1.17 relΔ=-0.0092 | Sin base=  +1.0 Δz=-1.36 relΔ=-0.0384
+  L14h3: Sout base=  +0.7 Δz=-1.24 relΔ=-0.0463 | Sin base=  +2.8 Δz=-0.93 relΔ=-0.0079
+  L15h3: Sout base= +11.2 Δz=-0.61 relΔ=-0.0014 | Sin base= +15.4 Δz=-1.51 relΔ=-0.0010
+  L 6h3: Sout base=  +7.9 Δz=-0.57 relΔ=-0.0011 | Sin base=  +3.3 Δz=-1.53 relΔ=-0.0057
+  L 1h3: Sout base=  -0.6 Δz=-1.90 relΔ=-0.0784 | Sin base=  -0.2 Δz=-0.12 relΔ=-0.0031
+ ... most 'A copies more':
+  L11h1: Sout base= +12.3 Δz=+1.50 relΔ=+0.0011 | Sin base=  -3.1 Δz=+0.13 relΔ=+0.0014
+  L17h0: Sout base=  +0.4 Δz=+1.48 relΔ=+0.0931 | Sin base=  +3.0 Δz=+0.16 relΔ=+0.0008
+  L17h1: Sout base= +12.4 Δz=+0.97 relΔ=+0.0013 | Sin base= +13.4 Δz=+0.77 relΔ=+0.0011
+  L 3h3: Sout base=  -3.0 Δz=+0.59 relΔ=+0.0047 | Sin base=  +0.0 Δz=+1.19 relΔ=+1.0429
+  L 0h2: Sout base=  -0.7 Δz=+0.51 relΔ=+0.0122 | Sin base=  -0.3 Δz=+1.38 relΔ=+0.0914
+  L 3h1: Sout base=  +1.6 Δz=+0.21 relΔ=+0.0029 | Sin base=  -0.0 Δz=+2.23 relΔ=+4.8502
+  L 2h2: Sout base=  +1.0 Δz=+2.36 relΔ=+0.0372 | Sin base=  -0.2 Δz=+0.73 relΔ=+0.0588
+  L 3h2: Sout base=  +6.9 Δz=+0.90 relΔ=+0.0020 | Sin base=  +1.9 Δz=+2.28 relΔ=+0.0241
+
+```

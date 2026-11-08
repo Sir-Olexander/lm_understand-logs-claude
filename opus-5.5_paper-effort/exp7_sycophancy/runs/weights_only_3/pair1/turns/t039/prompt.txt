@@ -1,0 +1,25 @@
+OUTPUT of run 38 of at most 60:
+```
+L15-17 both c5     K= 8: guess-heads mean=-0.23 (#neg 9/16)  all=-0.26 (#neg 42/72)  late=-0.84
+L15-17 both c5     K=16: guess-heads mean=-0.80 (#neg 12/16)  all=-0.42 (#neg 46/72)  late=-0.51
+L15-17 both c5     K=24: guess-heads mean=-0.42 (#neg 12/16)  all=-0.21 (#neg 42/72)  late=-0.22
+L16-17 both c5     K= 8: guess-heads mean=-0.48 (#neg 10/16)  all=-0.36 (#neg 45/72)  late=-0.71
+L16-17 both c5     K=16: guess-heads mean=-0.48 (#neg 12/16)  all=-0.32 (#neg 44/72)  late=-0.45
+L16-17 both c5     K=24: guess-heads mean=+0.07 (#neg 8/16)  all=-0.02 (#neg 35/72)  late=+0.18
+L12-17 both c5     K= 8: guess-heads mean=-0.22 (#neg 10/16)  all=-0.23 (#neg 42/72)  late=-0.67
+L12-17 both c5     K=16: guess-heads mean=-0.40 (#neg 12/16)  all=-0.19 (#neg 40/72)  late=-0.32
+L12-17 both c5     K=24: guess-heads mean=-0.50 (#neg 13/16)  all=-0.18 (#neg 43/72)  late=-0.42
+L15-17 down c5     K= 8: guess-heads mean=-0.28 (#neg 9/16)  all=-0.23 (#neg 43/72)  late=-0.50
+L15-17 down c5     K=16: guess-heads mean=-0.60 (#neg 14/16)  all=-0.38 (#neg 44/72)  late=-0.35
+L15-17 down c5     K=24: guess-heads mean=-0.49 (#neg 15/16)  all=-0.36 (#neg 51/72)  late=-0.33
+L15-17 oproj c5    K= 8: guess-heads mean=-0.73 (#neg 12/16)  all=-0.46 (#neg 44/72)  late=-1.21
+L15-17 oproj c5    K=16: guess-heads mean=-0.53 (#neg 12/16)  all=-0.12 (#neg 41/72)  late=-0.36
+L15-17 oproj c5    K=24: guess-heads mean=-0.21 (#neg 11/16)  all=-0.00 (#neg 38/72)  late=+0.04
+L15-17 both c15    K= 8: guess-heads mean=+0.01 (#neg 8/16)  all=-0.05 (#neg 36/72)  late=-0.51
+L15-17 both c15    K=16: guess-heads mean=-0.31 (#neg 12/16)  all=-0.13 (#neg 45/72)  late=-0.27
+L15-17 both c15    K=24: guess-heads mean=-0.21 (#neg 10/16)  all=+0.02 (#neg 35/72)  late=+0.01
+L15-17 both c1     K= 8: guess-heads mean=-0.42 (#neg 9/16)  all=-0.30 (#neg 44/72)  late=-0.74
+L15-17 both c1     K=16: guess-heads mean=-0.65 (#neg 11/16)  all=-0.36 (#neg 46/72)  late=-0.27
+L15-17 both c1     K=24: guess-heads mean=-0.45 (#neg 12/16)  all=-0.17 (#neg 39/72)  late=-0.06
+
+```

@@ -1,0 +1,53 @@
+{
+ "random": {
+  "games": 16,
+  "score": 1.0,
+  "wins": 16,
+  "losses": 0,
+  "score_as_black": 1.0,
+  "score_as_white": 1.0,
+  "mean_margin": 46.375,
+  "mean_length": 98.5,
+  "stones_captured_per_game": 49.0,
+  "stones_lost_per_game": 0.0625,
+  "passes_per_game": 5.25,
+  "games_with_a_pass_before_move_60": 4,
+  "end_two_passes": 16,
+  "end_repetition": 0,
+  "end_move_limit": 0
+ },
+ "strong": {
+  "games": 64,
+  "score": 0.546875,
+  "wins": 35,
+  "losses": 29,
+  "score_as_black": 0.3125,
+  "score_as_white": 0.78125,
+  "mean_margin": 15.875,
+  "mean_length": 106.046875,
+  "stones_captured_per_game": 37.359375,
+  "stones_lost_per_game": 17.125,
+  "passes_per_game": 5.421875,
+  "games_with_a_pass_before_move_60": 8,
+  "end_two_passes": 57,
+  "end_repetition": 3,
+  "end_move_limit": 4
+ },
+ "weak": {
+  "games": 48,
+  "score": 0.9791666865348816,
+  "wins": 47,
+  "losses": 1,
+  "score_as_black": 1.0,
+  "score_as_white": 0.9583333134651184,
+  "mean_margin": 73.6875,
+  "mean_length": 139.35416666666666,
+  "stones_captured_per_game": 104.625,
+  "stones_lost_per_game": 2.8125,
+  "passes_per_game": 12.729166666666666,
+  "games_with_a_pass_before_move_60": 11,
+  "end_two_passes": 36,
+  "end_repetition": 4,
+  "end_move_limit": 8
+ }
+}

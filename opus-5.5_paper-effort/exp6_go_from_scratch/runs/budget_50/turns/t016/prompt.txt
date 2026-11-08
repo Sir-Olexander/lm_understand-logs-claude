@@ -1,0 +1,23 @@
+OUTPUT of Python run 13 of at most 120:
+```
+black -10.5
+.........  ...X.....  ...X.....  ...X.....  ...X.....  ...XX....  ...XX....
+.........  .........  .X.......  .XX......  .XX......  .XX...O..  .XXOXOO..
+.....O...  .O...O...  .O...O.O.  .OO.XOOO.  .OO.XOOO.  .OOOXOOO.  .OOOXOOO.
+...OO....  .O.OO.OX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.  .OOOOOOX.
+..X......  X.X......  X.X......  X.X...OX.  X.X...OX.  X.X..XOX.  X.XXOXOX.
+.....X...  .....X...  .....X...  .....X...  .X...XOO.  .X...XOO.  .X..XXOO.
+.........  .........  ...X.....  ...X.....  ...X..O..  ...X.XOO.  ...X.XOO.
+X........  X........  XX.......  XX.......  XX....X..  XX....X..  XX....X..
+.........  .........  .........  .........  .........  .........  .........
+...XX....  ..OXX....  .X.XX....  ..OXX....  ..OXX.O.X  .XOXX.OO.  .XOXX.OO.
+.XXOXOO..  .XXOXOO..  OXXOXOO..  O..OXOOXO  O..OXOOXO  OXOOXOO.O  OXOOXOO.O
+.OOOXOOO.  .OOOXOOO.  OOOOXOOO.  OOOOXOOO.  OOOOXOOOO  OOOOXOOOO  OOOOXOOOO
+.OOOOOOXX  .OOOOOOXX  OOOOOOOXX  OOOOOOOXX  OOOOOOOXX  OOOOOOOXX  OOOOOOOXX
+XOXXOXOX.  XOXXOXOX.  XOXXOXOX.  XOXXOXOX.  XOXXOXOX.  XOXXOXOX.  XOXXOXOX.
+.XO.XXOO.  .XOXXXOO.  XXOXXXOO.  XXOXXXOOX  XXOXXXOOX  XXOXXXOOX  XX.XXXOOX
+...X.XOO.  .XOX.XOO.  .XOX.XOOX  .XOX.XOOX  .XOX.XOOX  .XOX.XOOX  .XXX.XOOX
+XX..X.X..  XXO.X.X..  XXO.X.X..  XXO.X.X..  XXO.X.XX.  XXO.X.XX.  XX.XX.XX.
+.....X...  ....XX...  ....XX...  ....XX...  ....XX..X  ..XOXX..X  .OX.XX.XX
+
+```

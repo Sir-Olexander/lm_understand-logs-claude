@@ -1,0 +1,139 @@
+OUTPUT of run 16 of at most 20:
+```
+2 {'guess': ['1', '4'], 'oper': ['7', '5'], 'decoy': ['3']}
+6 {'guess': [' Berlin'], 'france': [' France'], 'capital': [' capital']}
+7 {'guess': ['C'], 'letters': ['A', 'B', 'D'], 'jupiter': [' Jupiter'], 'venus': [' Venus']}
+--- text 0: ...'7 + 5 = '
+   L7h0 (A/B) guess:0.14/0.03  oper:0.07/0.03  roper:0.26/0.06  bos:0.10/0.01
+   L9h0 (A/B) guess:0.03/0.00  oper:0.02/0.13  roper:0.72/0.84  bos:0.20/0.01
+   L9h1 (A/B) guess:0.24/0.11  oper:0.02/0.02  roper:0.07/0.07  bos:0.28/0.16
+   L10h1 (A/B) guess:0.00/0.01  oper:0.00/0.01  roper:0.06/0.09  bos:0.81/0.41
+   L10h2 (A/B) guess:0.22/0.02  oper:0.07/0.22  roper:0.61/0.60  bos:0.02/0.02
+   L11h0 (A/B) guess:0.02/0.01  oper:0.01/0.01  roper:0.12/0.02  bos:0.42/0.03
+   L11h2 (A/B) guess:0.03/0.15  oper:0.02/0.15  roper:0.00/0.04  bos:0.94/0.43
+   L12h0 (A/B) guess:0.12/0.00  oper:0.08/0.19  roper:0.69/0.81  bos:0.05/0.00
+   L12h1 (A/B) guess:0.16/0.00  oper:0.04/0.03  roper:0.07/0.01  bos:0.66/0.94
+   L12h3 (A/B) guess:0.38/0.03  oper:0.03/0.21  roper:0.19/0.40  bos:0.08/0.06
+--- text 1: ...'8 + 6 = '
+   L7h0 (A/B) guess:0.06/0.01  oper:0.04/0.02  roper:0.29/0.07  bos:0.09/0.01
+   L9h0 (A/B) guess:0.01/0.00  oper:0.01/0.06  roper:0.76/0.92  bos:0.18/0.01
+   L9h1 (A/B) guess:0.13/0.03  oper:0.02/0.01  roper:0.13/0.15  bos:0.30/0.16
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.00  roper:0.07/0.12  bos:0.81/0.36
+   L10h2 (A/B) guess:0.11/0.01  oper:0.07/0.28  roper:0.75/0.57  bos:0.02/0.02
+   L11h0 (A/B) guess:0.01/0.00  oper:0.02/0.01  roper:0.11/0.03  bos:0.43/0.03
+   L11h2 (A/B) guess:0.03/0.13  oper:0.02/0.14  roper:0.01/0.11  bos:0.93/0.40
+   L12h0 (A/B) guess:0.08/0.00  oper:0.07/0.25  roper:0.69/0.75  bos:0.06/0.00
+   L12h1 (A/B) guess:0.09/0.00  oper:0.03/0.04  roper:0.12/0.01  bos:0.69/0.92
+   L12h3 (A/B) guess:0.22/0.01  oper:0.02/0.25  roper:0.31/0.42  bos:0.08/0.05
+--- text 2: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.44/0.04  oper:0.12/0.06  decoy:0.08/0.01  bos:0.05/0.00
+   L9h0 (A/B) guess:0.23/0.01  oper:0.06/0.98  decoy:0.03/0.00  bos:0.46/0.00
+   L9h1 (A/B) guess:0.38/0.27  oper:0.03/0.04  decoy:0.05/0.02  bos:0.17/0.13
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.00  decoy:0.00/0.00  bos:0.60/0.41
+   L10h2 (A/B) guess:0.58/0.05  oper:0.05/0.76  decoy:0.03/0.02  bos:0.09/0.03
+   L11h0 (A/B) guess:0.01/0.01  oper:0.00/0.01  decoy:0.00/0.00  bos:0.71/0.04
+   L11h2 (A/B) guess:0.50/0.09  oper:0.02/0.17  decoy:0.16/0.08  bos:0.30/0.43
+   L12h0 (A/B) guess:0.06/0.00  oper:0.04/0.98  decoy:0.02/0.01  bos:0.53/0.00
+   L12h1 (A/B) guess:0.15/0.00  oper:0.04/0.04  decoy:0.06/0.01  bos:0.23/0.92
+   L12h3 (A/B) guess:0.48/0.03  oper:0.03/0.39  decoy:0.03/0.02  bos:0.17/0.06
+--- text 3: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.41/0.05  oper:0.24/0.07  bos:0.06/0.00
+   L9h0 (A/B) guess:0.14/0.01  oper:0.22/0.98  bos:0.50/0.00
+   L9h1 (A/B) guess:0.35/0.30  oper:0.05/0.05  bos:0.21/0.13
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.02  bos:0.72/0.42
+   L10h2 (A/B) guess:0.33/0.04  oper:0.23/0.78  bos:0.17/0.04
+   L11h0 (A/B) guess:0.00/0.01  oper:0.01/0.02  bos:0.72/0.05
+   L11h2 (A/B) guess:0.07/0.12  oper:0.03/0.18  bos:0.90/0.47
+   L12h0 (A/B) guess:0.32/0.00  oper:0.32/0.99  bos:0.21/0.00
+   L12h1 (A/B) guess:0.44/0.00  oper:0.07/0.04  bos:0.38/0.93
+   L12h3 (A/B) guess:0.65/0.20  oper:0.04/0.33  bos:0.06/0.06
+--- text 4: ...'model\nThe answer is '
+   L7h0 (A/B) decoy:0.15/0.03  oper:0.17/0.06  bos:0.06/0.00
+   L9h0 (A/B) decoy:0.10/0.00  oper:0.39/0.98  bos:0.34/0.00
+   L9h1 (A/B) decoy:0.32/0.20  oper:0.06/0.06  bos:0.18/0.13
+   L10h1 (A/B) decoy:0.00/0.00  oper:0.00/0.01  bos:0.80/0.42
+   L10h2 (A/B) decoy:0.25/0.03  oper:0.32/0.79  bos:0.11/0.03
+   L11h0 (A/B) decoy:0.01/0.01  oper:0.01/0.01  bos:0.65/0.05
+   L11h2 (A/B) decoy:0.05/0.12  oper:0.04/0.17  bos:0.89/0.44
+   L12h0 (A/B) decoy:0.25/0.02  oper:0.39/0.97  bos:0.18/0.00
+   L12h1 (A/B) decoy:0.40/0.01  oper:0.07/0.04  bos:0.42/0.92
+   L12h3 (A/B) decoy:0.35/0.11  oper:0.08/0.38  bos:0.10/0.07
+--- text 5: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.38/0.02  oper:0.20/0.04  bos:0.09/0.00
+   L9h0 (A/B) guess:0.28/0.01  oper:0.04/0.98  bos:0.52/0.00
+   L9h1 (A/B) guess:0.43/0.27  oper:0.04/0.08  bos:0.20/0.13
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.00  bos:0.57/0.42
+   L10h2 (A/B) guess:0.54/0.05  oper:0.13/0.79  bos:0.07/0.03
+   L11h0 (A/B) guess:0.01/0.02  oper:0.01/0.04  bos:0.70/0.11
+   L11h2 (A/B) guess:0.69/0.13  oper:0.02/0.15  bos:0.24/0.34
+   L12h0 (A/B) guess:0.03/0.00  oper:0.04/1.00  bos:0.46/0.00
+   L12h1 (A/B) guess:0.17/0.00  oper:0.07/0.06  bos:0.26/0.93
+   L12h3 (A/B) guess:0.32/0.00  oper:0.06/0.92  bos:0.26/0.03
+--- text 6: ...'<start_of_turn>model\nThe answer is'
+   L7h0 (A/B) guess:0.05/0.01  france:0.01/0.00  capital:0.44/0.88  bos:0.03/0.00
+   L9h0 (A/B) guess:0.43/0.12  france:0.03/0.12  capital:0.02/0.16  bos:0.31/0.43
+   L9h1 (A/B) guess:0.51/0.16  france:0.02/0.05  capital:0.02/0.10  bos:0.15/0.32
+   L10h1 (A/B) guess:0.01/0.00  france:0.00/0.00  capital:0.00/0.01  bos:0.82/0.82
+   L10h2 (A/B) guess:0.68/0.08  france:0.01/0.14  capital:0.20/0.54  bos:0.03/0.18
+   L11h0 (A/B) guess:0.04/0.05  france:0.03/0.26  capital:0.01/0.08  bos:0.78/0.15
+   L11h2 (A/B) guess:0.07/0.02  france:0.01/0.08  capital:0.02/0.06  bos:0.88/0.69
+   L12h0 (A/B) guess:0.01/0.00  france:0.01/0.03  capital:0.00/0.01  bos:0.79/0.87
+   L12h1 (A/B) guess:0.28/0.00  france:0.03/0.18  capital:0.01/0.01  bos:0.62/0.76
+   L12h3 (A/B) guess:0.06/0.01  france:0.02/0.04  capital:0.03/0.04  bos:0.65/0.52
+--- text 7: ...'model\nThe answer is ('
+   L7h0 (A/B) guess:0.04/0.01  letters:0.08/0.06  jupiter:0.01/0.03  venus:0.01/0.01  bos:0.04/0.09
+   L9h0 (A/B) guess:0.14/0.11  letters:0.02/0.04  jupiter:0.01/0.08  venus:0.01/0.12  bos:0.42/0.28
+   L9h1 (A/B) guess:0.22/0.14  letters:0.02/0.06  jupiter:0.00/0.02  venus:0.00/0.02  bos:0.11/0.23
+   L10h1 (A/B) guess:0.00/0.00  letters:0.00/0.00  jupiter:0.00/0.00  venus:0.00/0.00  bos:0.64/0.62
+   L10h2 (A/B) guess:0.41/0.07  letters:0.11/0.10  jupiter:0.00/0.03  venus:0.00/0.02  bos:0.03/0.26
+   L11h0 (A/B) guess:0.00/0.00  letters:0.00/0.01  jupiter:0.00/0.01  venus:0.00/0.01  bos:0.65/0.25
+   L11h2 (A/B) guess:0.68/0.07  letters:0.13/0.18  jupiter:0.00/0.01  venus:0.00/0.01  bos:0.12/0.45
+   L12h0 (A/B) guess:0.02/0.00  letters:0.08/0.05  jupiter:0.00/0.00  venus:0.00/0.00  bos:0.35/0.85
+   L12h1 (A/B) guess:0.21/0.00  letters:0.14/0.03  jupiter:0.03/0.01  venus:0.02/0.00  bos:0.18/0.88
+   L12h3 (A/B) guess:0.05/0.00  letters:0.03/0.03  jupiter:0.02/0.01  venus:0.01/0.00  bos:0.51/0.69
+--- text 8: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.39/0.03  oper:0.28/0.16  bos:0.08/0.00
+   L9h0 (A/B) guess:0.26/0.00  oper:0.21/0.99  bos:0.41/0.00
+   L9h1 (A/B) guess:0.47/0.32  oper:0.06/0.10  bos:0.17/0.12
+   L10h1 (A/B) guess:0.00/0.01  oper:0.00/0.01  bos:0.62/0.42
+   L10h2 (A/B) guess:0.61/0.04  oper:0.08/0.86  bos:0.15/0.03
+   L11h0 (A/B) guess:0.01/0.01  oper:0.01/0.02  bos:0.71/0.05
+   L11h2 (A/B) guess:0.43/0.11  oper:0.02/0.23  bos:0.54/0.47
+   L12h0 (A/B) guess:0.04/0.00  oper:0.07/0.99  bos:0.61/0.00
+   L12h1 (A/B) guess:0.21/0.00  oper:0.08/0.03  bos:0.34/0.95
+   L12h3 (A/B) guess:0.34/0.00  oper:0.12/0.92  bos:0.23/0.01
+--- text 9: ...'\nThe answer is 5'
+   L7h0 (A/B) guess:0.31/0.26  oper:0.31/0.45  bos:0.17/0.08
+   L9h0 (A/B) guess:0.14/0.10  oper:0.05/0.41  bos:0.58/0.20
+   L9h1 (A/B) guess:0.30/0.24  oper:0.05/0.05  bos:0.26/0.11
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.00  bos:0.51/0.21
+   L10h2 (A/B) guess:0.31/0.16  oper:0.18/0.48  bos:0.30/0.15
+   L11h0 (A/B) guess:0.00/0.00  oper:0.00/0.01  bos:0.58/0.08
+   L11h2 (A/B) guess:0.02/0.07  oper:0.01/0.10  bos:0.91/0.46
+   L12h0 (A/B) guess:0.27/0.01  oper:0.34/0.92  bos:0.26/0.06
+   L12h1 (A/B) guess:0.33/0.00  oper:0.11/0.03  bos:0.41/0.91
+   L12h3 (A/B) guess:0.42/0.01  oper:0.20/0.12  bos:0.18/0.75
+--- text 10: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.17/0.05  hour:0.29/0.17  minutes:0.34/0.27  bos:0.02/0.00
+   L9h0 (A/B) guess:0.34/0.42  hour:0.02/0.24  minutes:0.02/0.11  bos:0.50/0.17
+   L9h1 (A/B) guess:0.54/0.39  hour:0.02/0.04  minutes:0.01/0.04  bos:0.16/0.15
+   L10h1 (A/B) guess:0.00/0.00  hour:0.00/0.00  minutes:0.00/0.00  bos:0.75/0.68
+   L10h2 (A/B) guess:0.81/0.31  hour:0.02/0.29  minutes:0.02/0.20  bos:0.07/0.13
+   L11h0 (A/B) guess:0.02/0.03  hour:0.00/0.01  minutes:0.00/0.01  bos:0.75/0.07
+   L11h2 (A/B) guess:0.05/0.30  hour:0.00/0.03  minutes:0.00/0.04  bos:0.93/0.42
+   L12h0 (A/B) guess:0.38/0.02  hour:0.03/0.17  minutes:0.02/0.03  bos:0.40/0.75
+   L12h1 (A/B) guess:0.46/0.00  hour:0.03/0.06  minutes:0.01/0.02  bos:0.43/0.90
+   L12h3 (A/B) guess:0.67/0.11  hour:0.03/0.15  minutes:0.02/0.08  bos:0.09/0.32
+--- text 11: ...'model\nThe answer is '
+   L7h0 (A/B) guess:0.23/0.02  oper:0.22/0.14  bos:0.07/0.00
+   L9h0 (A/B) guess:0.20/0.00  oper:0.32/0.99  bos:0.39/0.00
+   L9h1 (A/B) guess:0.37/0.15  oper:0.07/0.11  bos:0.22/0.14
+   L10h1 (A/B) guess:0.00/0.00  oper:0.00/0.01  bos:0.73/0.34
+   L10h2 (A/B) guess:0.62/0.10  oper:0.10/0.59  bos:0.14/0.07
+   L11h0 (A/B) guess:0.01/0.01  oper:0.01/0.01  bos:0.63/0.05
+   L11h2 (A/B) guess:0.11/0.11  oper:0.04/0.21  bos:0.82/0.31
+   L12h0 (A/B) guess:0.34/0.00  oper:0.40/0.99  bos:0.14/0.00
+   L12h1 (A/B) guess:0.62/0.00  oper:0.13/0.22  bos:0.10/0.72
+   L12h3 (A/B) guess:0.28/0.00  oper:0.14/0.67  bos:0.05/0.03
+
+```

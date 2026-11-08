@@ -1,0 +1,60 @@
+OUTPUT of run 28 of at most 60:
+```
+L 5h0 copy_z=+0.48 | q=digit: ΔS(digit keys)/spread=-0.0153 | q=\n: ΔS(digit keys)/spread=-0.0181
+L 5h1 copy_z=+0.65 | q=digit: ΔS(digit keys)/spread=+0.0156 | q=\n: ΔS(digit keys)/spread=-0.0069
+L 5h2 copy_z=+1.21 | q=digit: ΔS(digit keys)/spread=+0.0070 | q=\n: ΔS(digit keys)/spread=-0.0182
+L 5h3 copy_z=-1.20 | q=digit: ΔS(digit keys)/spread=+0.0006 | q=\n: ΔS(digit keys)/spread=+0.0099
+L 6h0 copy_z=+2.90 | q=digit: ΔS(digit keys)/spread=-0.0100 | q=\n: ΔS(digit keys)/spread=+0.0308
+L 6h1 copy_z=-2.50 | q=digit: ΔS(digit keys)/spread=-0.0151 | q=\n: ΔS(digit keys)/spread=-0.0082
+L 6h2 copy_z=+3.27 | q=digit: ΔS(digit keys)/spread=+0.0172 | q=\n: ΔS(digit keys)/spread=-0.0082
+L 6h3 copy_z=+2.20 | q=digit: ΔS(digit keys)/spread=-0.0216 | q=\n: ΔS(digit keys)/spread=+0.0028
+L 7h0 copy_z=+5.56 | q=digit: ΔS(digit keys)/spread=-0.0488 | q=\n: ΔS(digit keys)/spread=+0.0423
+L 7h1 copy_z=-5.43 | q=digit: ΔS(digit keys)/spread=-0.0553 | q=\n: ΔS(digit keys)/spread=-0.0295
+L 7h2 copy_z=+3.73 | q=digit: ΔS(digit keys)/spread=+0.0735 | q=\n: ΔS(digit keys)/spread=+0.0577
+L 7h3 copy_z=+4.07 | q=digit: ΔS(digit keys)/spread=+0.0269 | q=\n: ΔS(digit keys)/spread=-0.0339
+L 8h0 copy_z=-4.09 | q=digit: ΔS(digit keys)/spread=-0.0220 | q=\n: ΔS(digit keys)/spread=+0.0234
+L 8h1 copy_z=+2.64 | q=digit: ΔS(digit keys)/spread=-0.0016 | q=\n: ΔS(digit keys)/spread=+0.0176
+L 8h2 copy_z=+3.43 | q=digit: ΔS(digit keys)/spread=+0.0359 | q=\n: ΔS(digit keys)/spread=+0.0019
+L 8h3 copy_z=+0.89 | q=digit: ΔS(digit keys)/spread=-0.0490 | q=\n: ΔS(digit keys)/spread=-0.0005
+L 9h0 copy_z=+2.12 | q=digit: ΔS(digit keys)/spread=+0.0222 | q=\n: ΔS(digit keys)/spread=-0.0991
+L 9h1 copy_z=-4.75 | q=digit: ΔS(digit keys)/spread=+0.0504 | q=\n: ΔS(digit keys)/spread=+0.0056
+L 9h2 copy_z=+4.73 | q=digit: ΔS(digit keys)/spread=-0.0859 | q=\n: ΔS(digit keys)/spread=-0.0369
+L 9h3 copy_z=+2.85 | q=digit: ΔS(digit keys)/spread=-0.0048 | q=\n: ΔS(digit keys)/spread=-0.0483
+L10h0 copy_z=+3.44 | q=digit: ΔS(digit keys)/spread=-0.0168 | q=\n: ΔS(digit keys)/spread=+0.0602
+L10h1 copy_z=+0.35 | q=digit: ΔS(digit keys)/spread=-0.1790 | q=\n: ΔS(digit keys)/spread=+0.0413
+L10h2 copy_z=+3.60 | q=digit: ΔS(digit keys)/spread=-0.0011 | q=\n: ΔS(digit keys)/spread=+0.0064
+L10h3 copy_z=-1.01 | q=digit: ΔS(digit keys)/spread=-0.1350 | q=\n: ΔS(digit keys)/spread=-0.0353
+L11h0 copy_z=+0.17 | q=digit: ΔS(digit keys)/spread=+0.0364 | q=\n: ΔS(digit keys)/spread=-0.1799
+L11h1 copy_z=+5.81 | q=digit: ΔS(digit keys)/spread=-0.3934 | q=\n: ΔS(digit keys)/spread=+0.2321
+L11h2 copy_z=+2.49 | q=digit: ΔS(digit keys)/spread=-0.2129 | q=\n: ΔS(digit keys)/spread=+0.0636
+L11h3 copy_z=-3.06 | q=digit: ΔS(digit keys)/spread=-0.2643 | q=\n: ΔS(digit keys)/spread=+0.0518
+L12h0 copy_z=-1.51 | q=digit: ΔS(digit keys)/spread=-0.0216 | q=\n: ΔS(digit keys)/spread=+0.0536
+L12h1 copy_z=+1.55 | q=digit: ΔS(digit keys)/spread=-0.0012 | q=\n: ΔS(digit keys)/spread=-0.3114
+L12h2 copy_z=+3.17 | q=digit: ΔS(digit keys)/spread=-0.2043 | q=\n: ΔS(digit keys)/spread=-0.0547
+L12h3 copy_z=+3.03 | q=digit: ΔS(digit keys)/spread=-0.1912 | q=\n: ΔS(digit keys)/spread=+0.1785
+L13h0 copy_z=+0.81 | q=digit: ΔS(digit keys)/spread=+0.1079 | q=\n: ΔS(digit keys)/spread=-0.0165
+L13h1 copy_z=+1.85 | q=digit: ΔS(digit keys)/spread=-0.0621 | q=\n: ΔS(digit keys)/spread=+0.0879
+L13h2 copy_z=+3.14 | q=digit: ΔS(digit keys)/spread=+0.0745 | q=\n: ΔS(digit keys)/spread=+0.0575
+L13h3 copy_z=-0.96 | q=digit: ΔS(digit keys)/spread=+0.0678 | q=\n: ΔS(digit keys)/spread=-0.0336
+L14h0 copy_z=-0.62 | q=digit: ΔS(digit keys)/spread=+0.2106 | q=\n: ΔS(digit keys)/spread=-0.0059
+L14h1 copy_z=+3.44 | q=digit: ΔS(digit keys)/spread=+0.0825 | q=\n: ΔS(digit keys)/spread=+0.0218
+L14h2 copy_z=+1.36 | q=digit: ΔS(digit keys)/spread=-0.0800 | q=\n: ΔS(digit keys)/spread=+0.0191
+L14h3 copy_z=+0.19 | q=digit: ΔS(digit keys)/spread=-0.3566 | q=\n: ΔS(digit keys)/spread=-0.2762
+L15h0 copy_z=+4.93 | q=digit: ΔS(digit keys)/spread=-0.0742 | q=\n: ΔS(digit keys)/spread=+0.0208
+L15h1 copy_z=-4.99 | q=digit: ΔS(digit keys)/spread=-0.1421 | q=\n: ΔS(digit keys)/spread=+0.0034
+L15h2 copy_z=+2.25 | q=digit: ΔS(digit keys)/spread=-0.0652 | q=\n: ΔS(digit keys)/spread=+0.0272
+L15h3 copy_z=+4.61 | q=digit: ΔS(digit keys)/spread=-0.0124 | q=\n: ΔS(digit keys)/spread=-0.0103
+L16h0 copy_z=-0.17 | q=digit: ΔS(digit keys)/spread=-0.0711 | q=\n: ΔS(digit keys)/spread=-0.0373
+L16h1 copy_z=+2.46 | q=digit: ΔS(digit keys)/spread=+0.0441 | q=\n: ΔS(digit keys)/spread=+0.1078
+L16h2 copy_z=+2.38 | q=digit: ΔS(digit keys)/spread=+0.0815 | q=\n: ΔS(digit keys)/spread=+0.0184
+L16h3 copy_z=+0.45 | q=digit: ΔS(digit keys)/spread=+0.0303 | q=\n: ΔS(digit keys)/spread=-0.0225
+L17h0 copy_z=+2.65 | q=digit: ΔS(digit keys)/spread=+0.0306 | q=\n: ΔS(digit keys)/spread=-0.0778
+L17h1 copy_z=+5.67 | q=digit: ΔS(digit keys)/spread=+0.0748 | q=\n: ΔS(digit keys)/spread=+0.1644
+L17h2 copy_z=-1.45 | q=digit: ΔS(digit keys)/spread=+0.1088 | q=\n: ΔS(digit keys)/spread=+0.0369
+L17h3 copy_z=-0.72 | q=digit: ΔS(digit keys)/spread=+0.1330 | q=\n: ΔS(digit keys)/spread=+0.0089
+
+SUM copy_z * ΔS: {'digit': np.float32(-2.3542), '\\n': np.float32(2.8085)}
+digit largest contributions: [(11, 1, np.float32(5.81), np.float32(-0.3934), np.float32(-2.2863)), (11, 3, np.float32(-3.06), np.float32(-0.2643), np.float32(0.8081)), (15, 1, np.float32(-4.99), np.float32(-0.1421), np.float32(0.7089)), (12, 2, np.float32(3.17), np.float32(-0.2043), np.float32(-0.6471)), (12, 3, np.float32(3.03), np.float32(-0.1912), np.float32(-0.5784)), (11, 2, np.float32(2.49), np.float32(-0.2129), np.float32(-0.5295)), (17, 1, np.float32(5.67), np.float32(0.0748), np.float32(0.4239)), (9, 2, np.float32(4.73), np.float32(-0.0859), np.float32(-0.4064))]
+\n largest contributions: [(11, 1, np.float32(5.81), np.float32(0.2321), np.float32(1.349)), (17, 1, np.float32(5.67), np.float32(0.1644), np.float32(0.932)), (12, 3, np.float32(3.03), np.float32(0.1785), np.float32(0.5401)), (12, 1, np.float32(1.55), np.float32(-0.3114), np.float32(-0.484)), (16, 1, np.float32(2.46), np.float32(0.1078), np.float32(0.2647)), (7, 0, np.float32(5.56), np.float32(0.0423), np.float32(0.2354)), (7, 2, np.float32(3.73), np.float32(0.0577), np.float32(0.2153)), (9, 0, np.float32(2.12), np.float32(-0.0991), np.float32(-0.2098))]
+
+```

@@ -1,0 +1,55 @@
+OUTPUT of Python run 51 of at most 120:
+```
+Counter({'dame_pts': 1434, 'passes': 553, 'with_dame': 483, 'savav': 149, 'capav': 45})
+0 92 -17.5 cap False save True dame [(0, 5)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XOX
+X.XX.XXX.
+0 94 -17.5 cap True save True dame [(0, 5)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XO.
+X.XX.XXXO
+0 96 -17.5 cap False save True dame [(0, 5)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XOO
+X.XX.XXXO
+2 84 -1.5 cap False save True dame [(0, 4), (2, 7), (8, 4)]
+.OOO.O...
+OOOXXOOOO
+OOOXOOX.O
+OOOOOOOOO
+XXOXXXOOX
+XXXXXXXXX
+XXXXX.X.X
+OOOXXXXX.
+..OO...XX
+2 96 -1.5 cap False save True dame [(2, 7)]
+.OOOOO...
+OOO..OOOO
+OOO.OOX.O
+OOOOOOOOO
+XXOXXXOOX
+XXXXXXXXX
+XXXXX.X.X
+.X.XXXXX.
+X.X.X.XXX
+
+```

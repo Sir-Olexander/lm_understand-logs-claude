@@ -1,0 +1,16 @@
+weights_only_1/pair1: messages identical True; turns [10, 10]; runs [6, 6]; nudges [2, 2]; retries [1, 1]; errors ours 0 (orig 0); new errors 0
+weights_only_1/pair2: messages identical True; turns [8, 8]; runs [4, 4]; nudges [2, 2]; retries [1, 1]; errors ours 0 (orig 0); new errors 0
+weights_only_1/pair3: messages identical True; turns [10, 10]; runs [5, 5]; nudges [2, 2]; retries [2, 2]; errors ours 1 (orig 1); new errors 0
+weights_only_2/pair1: messages identical True; turns [12, 12]; runs [9, 9]; nudges [2, 2]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_2/pair2: messages identical True; turns [16, 16]; runs [13, 13]; nudges [2, 2]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_2/pair3: messages identical True; turns [12, 12]; runs [9, 9]; nudges [2, 2]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_3/pair1: messages identical True; turns [28, 28]; runs [17, 17]; nudges [10, 10]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_3/pair2: messages identical True; turns [31, 31]; runs [20, 20]; nudges [10, 10]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_3/pair3: messages identical True; turns [33, 33]; runs [22, 22]; nudges [10, 10]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_4/pair1: messages identical True; turns [35, 35]; runs [29, 29]; nudges [5, 5]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_4/pair2: messages identical True; turns [38, 38]; runs [30, 30]; nudges [7, 7]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+weights_only_4/pair3: messages identical True; turns [34, 34]; runs [29, 29]; nudges [4, 4]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+attention_tool/pair1: messages identical True; turns [15, 15]; runs [14, 14]; nudges [0, 0]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+attention_tool/pair2: messages identical True; turns [21, 21]; runs [20, 20]; nudges [0, 0]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+attention_tool/pair3: messages identical True; turns [21, 21]; runs [20, 20]; nudges [0, 0]; retries [0, 0]; errors ours 0 (orig 0); new errors 0
+15 / 15 conversations: the harness sent the same kinds of messages as the original

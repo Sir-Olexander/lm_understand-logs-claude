@@ -1,0 +1,4 @@
+I'm looking at the losses first: most of them come from captures of groups of three or more stones, with some as large as 39. So the weakness seems to be in life-and-death and fighting, where we drop stones in big chunks, while the wins probably come from capturing the opponent's groups. The first improvement I'm considering is group safety, since our strings with two liberties get put in atari and die, so extending them to gain liberties may help.
+
+Next I'm weighing the ladder problem: escaping atari can just lead to another atari with two liberties left, and my penalty for that case may be too weak. Eye space is a harder issue I'll set aside for now. I'm going to pull up a few losses with large group captures and look at the ~6 boards before each capture, along with our top five candidate moves.
+

@@ -1,0 +1,10 @@
+OUTPUT of run 52 of at most 60:
+```
+mu=all route=Q   | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.70 (mean z -0.78), lower at 12-30 vs 1-4 = 0.80 (mean z -1.13) | copy heads: frac higher at 5-11 = 0.55, higher at 12-30 = 0.64 (mean z +0.39)
+mu=all route=Q+K | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.70 (mean z -0.90), lower at 12-30 vs 1-4 = 0.80 (mean z -1.07) | copy heads: frac higher at 5-11 = 0.55, higher at 12-30 = 0.67 (mean z +0.38)
+mu=dst route=Q   | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.70 (mean z -0.86), lower at 12-30 vs 1-4 = 0.80 (mean z -1.35) | copy heads: frac higher at 5-11 = 0.55, higher at 12-30 = 0.67 (mean z +0.30)
+mu=dst route=Q+K | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.70 (mean z -0.81), lower at 12-30 vs 1-4 = 0.80 (mean z -1.31) | copy heads: frac higher at 5-11 = 0.52, higher at 12-30 = 0.64 (mean z +0.32)
+mu=src route=Q   | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.40 (mean z -0.16), lower at 12-30 vs 1-4 = 0.50 (mean z -0.41) | copy heads: frac higher at 5-11 = 0.55, higher at 12-30 = 0.55 (mean z +0.43)
+mu=src route=Q+K | CS heads: frac B-A lower at 5-11 vs 1-4 = 0.50 (mean z -0.35), lower at 12-30 vs 1-4 = 0.40 (mean z -0.45) | copy heads: frac higher at 5-11 = 0.61, higher at 12-30 = 0.67 (mean z +0.55)
+
+```

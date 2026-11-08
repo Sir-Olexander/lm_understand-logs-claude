@@ -1,0 +1,13 @@
+OUTPUT of Python run 13 of at most 120:
+```
+128
+dict_keys(['game', 'opponent', 'net_color', 'result', 'margin', 'end', 'stones_captured_by_net', 'stones_lost_by_net', 'moves'])
+{'game': 0, 'opponent': 'random', 'net_color': 'black', 'result': 1, 'margin': 73.5, 'end': 'two passes', 'stones_captured_by_net': 102, 'stones_lost_by_net': 2}
+[{'ply': 0, 'by': 'net', 'move': 60, 'top5': [[40, 0.0305], [20, 0.025], [21, 0.025], [22, 0.025], [23, 0.025]]}, {'ply': 1, 'by': 'opponent', 'move': 4}, {'ply': 2, 'by': 'net', 'move': 41, 'top5': [[42, 0.0336], [50, 0.0336], [58, 0.0336], [22, 0.0275], [40, 0.0275]]}]
+strong black 1 -31.5 repetition 64
+strong black 1 -19.5 repetition 90
+strong white 1 61.5 move limit 162
+strong white -1 24.5 repetition 80
+weak black -1 27.5 repetition 75
+
+```

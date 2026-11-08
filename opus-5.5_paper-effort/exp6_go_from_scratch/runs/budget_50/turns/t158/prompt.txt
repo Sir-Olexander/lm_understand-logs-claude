@@ -1,0 +1,6 @@
+OUTPUT of Python run 115 of at most 120:
+```
+{'c_opp': 1.0, 'c_own': 0.5, 'c_dg': 0.4, 'pw': 0.25, 'tw': 0.4, 'U3': 8, 'scap3': 0.75, 'pw2': 0.4, 'early': [-3, -1.2, 0, 0, 0], 'def': 6, 'kap': 0.0, 'atk': 6, 'c_open': 0.3}
+[487, 489, 489, 489, 489, 492] 1.0 0.3 6 False False 12
+
+```

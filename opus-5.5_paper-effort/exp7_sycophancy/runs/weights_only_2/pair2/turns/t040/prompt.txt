@@ -1,0 +1,24 @@
+OUTPUT of run 39 of at most 60:
+```
+z of sum_k s_k u_k^T W v_k (k<16) vs null of random sign pairings
+L 0 q_pr: +2.9 k_pr: -0.6 v_pr: +0.6 o_pr: +1.2 gate: -0.2 up_p: +0.2 down: -0.6
+L 1 q_pr: -2.0 k_pr: +1.1 v_pr: +0.1 o_pr: -0.1 gate: -1.0 up_p: -1.2 down: -0.2
+L 2 q_pr: +2.5 k_pr: +0.2 v_pr: -0.1 o_pr: +1.1 gate: -0.4 up_p: -0.6 down: +0.7
+L 3 q_pr: -2.9 k_pr: -1.1 v_pr: +0.1 o_pr: +0.7 gate: -1.0 up_p: -1.6 down: -1.1
+L 4 q_pr: -0.1 k_pr: -0.4 v_pr: -0.5 o_pr: +2.9 gate: +1.4 up_p: -2.0 down: -1.5
+L 5 q_pr: +0.9 k_pr: +0.6 v_pr: -0.5 o_pr: -0.1 gate: -0.3 up_p: -0.3 down: -0.1
+L 6 q_pr: +0.8 k_pr: -0.7 v_pr: -1.1 o_pr: -1.2 gate: -1.4 up_p: +0.0 down: -0.9
+L 7 q_pr: +0.6 k_pr: -0.7 v_pr: -0.3 o_pr: -1.9 gate: -1.0 up_p: -0.6 down: +0.1
+L 8 q_pr: -0.8 k_pr: -1.2 v_pr: +0.1 o_pr: +2.6 gate: -2.8 up_p: +0.3 down: -0.1
+L 9 q_pr: +0.6 k_pr: -1.0 v_pr: +0.4 o_pr: +0.1 gate: -1.2 up_p: +0.1 down: -1.5
+L10 q_pr: +0.9 k_pr: +1.2 v_pr: -0.5 o_pr: -0.7 gate: -0.2 up_p: -0.0 down: -0.7
+L11 q_pr: +1.1 k_pr: +0.4 v_pr: -0.8 o_pr: +0.4 gate: -0.4 up_p: +0.7 down: +0.8
+L12 q_pr: -1.2 k_pr: +0.6 v_pr: +0.8 o_pr: -0.1 gate: -0.7 up_p: +2.1 down: -0.2
+L13 q_pr: -0.1 k_pr: +0.6 v_pr: +0.2 o_pr: +2.6 gate: +0.3 up_p: +0.4 down: -0.2
+L14 q_pr: -1.9 k_pr: +2.2 v_pr: +0.0 o_pr: +0.5 gate: +1.6 up_p: +0.2 down: -1.5
+L15 q_pr: -0.8 k_pr: +1.6 v_pr: -0.5 o_pr: +0.7 gate: +1.0 up_p: -0.3 down: -0.2
+L16 q_pr: +0.9 k_pr: -0.5 v_pr: +0.3 o_pr: +0.3 gate: -0.6 up_p: -0.2 down: +3.1
+L17 q_pr: +1.0 k_pr: -0.2 v_pr: +0.4 o_pr: +0.2 gate: -0.3 up_p: +0.7 down: +1.7
+column sums: {'q_proj': np.float64(2.2), 'k_proj': np.float64(2.0), 'v_proj': np.float64(-1.4), 'o_proj': np.float64(9.2), 'gate_proj': np.float64(-7.1), 'up_proj': np.float64(-2.1), 'down_proj': np.float64(-2.3)}  total 0.5
+
+```

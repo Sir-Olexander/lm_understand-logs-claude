@@ -1,0 +1,22 @@
+OUTPUT of Python run 41 of at most 120:
+```
+827
+('single_e0_libs[2]', True) 238
+('multi_e0_libs[1, 2]', True) 185
+('multi_e0_libs[2]', True) 130
+('single_e1_libs[]', True) 56
+('single_e1_libs[1]', True) 46
+('single_e1_libs[2]', True) 33
+('single_e0_libs[1, 2, 2]', True) 33
+('single_e0_libs[2]', False) 25
+('multi_e1_libs[2]', True) 22
+('single_e0_libs[1, 2]', True) 15
+('multi_e0_libs[1, 2]', False) 13
+('single_e1_libs[1, 2]', True) 9
+('multi_e0_libs[2, 2]', False) 7
+('multi_e0_libs[2]', False) 5
+('single_e1_libs[1, 2]', False) 4
+('single_e1_libs[]', False) 3
+('single_e1_libs[2]', False) 3
+
+```

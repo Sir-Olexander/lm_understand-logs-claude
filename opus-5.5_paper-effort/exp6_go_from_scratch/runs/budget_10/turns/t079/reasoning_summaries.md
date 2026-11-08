@@ -1,0 +1,2 @@
+I'm settling on the final saved network as the submission, and I'll be candid about its results: it won about 73% of 128 games against the strong practice bot, has been winning every recent game against the weak bot and random play, and still has weak spots, such as misjudging false atari on large groups, occasional losses to positional superko, and close territorial games that come out roughly even.
+

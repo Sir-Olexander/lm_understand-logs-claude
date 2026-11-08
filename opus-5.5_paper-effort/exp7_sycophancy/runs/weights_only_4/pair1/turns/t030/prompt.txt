@@ -1,0 +1,14 @@
+OUTPUT of run 29 of at most 60:
+```
+0.self_attn.q_proj.weight ulp-diff histogram: {-4: np.float64(0.0251), -3: np.float64(0.0408), -2: np.float64(0.0712), -1: np.float64(0.1433), 0: np.float64(0.2288), 1: np.float64(0.1427), 2: np.float64(0.0708), 3: np.float64(0.0404), 4: np.float64(0.0256)}
+   frac(A-B same sign as weight) among differing: 0.49941140508981263
+8.mlp.down_proj.weight ulp-diff histogram: {-4: np.float64(0.0365), -3: np.float64(0.0499), -2: np.float64(0.0681), -1: np.float64(0.0896), 0: np.float64(0.101), 1: np.float64(0.0895), 2: np.float64(0.068), 3: np.float64(0.0496), 4: np.float64(0.0371)}
+   frac(A-B same sign as weight) among differing: 0.500112871606426
+17.mlp.down_proj.weight ulp-diff histogram: {-4: np.float64(0.035), -3: np.float64(0.0504), -2: np.float64(0.0731), -1: np.float64(0.1055), 0: np.float64(0.1243), 1: np.float64(0.1055), 2: np.float64(0.0737), 3: np.float64(0.0504), 4: np.float64(0.0348)}
+   frac(A-B same sign as weight) among differing: 0.5001637947407949
+12.self_attn.q_proj.weight ulp-diff histogram: {-4: np.float64(0.0307), -3: np.float64(0.0446), -2: np.float64(0.0694), -1: np.float64(0.1147), 0: np.float64(0.164), 1: np.float64(0.1151), 2: np.float64(0.0687), 3: np.float64(0.0453), 4: np.float64(0.0308)}
+   frac(A-B same sign as weight) among differing: 0.5008651466368793
+17.self_attn.o_proj.weight ulp-diff histogram: {-4: np.float64(0.0246), -3: np.float64(0.0402), -2: np.float64(0.0718), -1: np.float64(0.149), 0: np.float64(0.2324), 1: np.float64(0.1492), 2: np.float64(0.0724), 3: np.float64(0.0402), 4: np.float64(0.0245)}
+   frac(A-B same sign as weight) among differing: 0.5011510064845995
+
+```

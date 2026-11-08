@@ -1,0 +1,20 @@
+OUTPUT of run 34 of at most 60:
+```
+L 2: corr(s, cos(d,u)) -0.005  corr(s, cos(d,g)) +0.007 | |cos(d,u)| median 0.155 p90 0.347 | z among identity-like units (|cos|>0.15, n=1054) +0.29 ; among others -0.60
+L 3: corr(s, cos(d,u)) +0.067  corr(s, cos(d,g)) +0.020 | |cos(d,u)| median 0.275 p90 0.463 | z among identity-like units (|cos|>0.15, n=1590) -1.55 ; among others -1.31
+L 4: corr(s, cos(d,u)) +0.007  corr(s, cos(d,g)) +0.023 | |cos(d,u)| median 0.159 p90 0.327 | z among identity-like units (|cos|>0.15, n=1087) -1.60 ; among others -1.03
+L 5: corr(s, cos(d,u)) +0.024  corr(s, cos(d,g)) -0.019 | |cos(d,u)| median 0.289 p90 0.483 | z among identity-like units (|cos|>0.15, n=1601) -0.31 ; among others +0.62
+L 6: corr(s, cos(d,u)) +0.003  corr(s, cos(d,g)) -0.002 | |cos(d,u)| median 0.261 p90 0.453 | z among identity-like units (|cos|>0.15, n=1552) -1.62 ; among others +0.59
+L 7: corr(s, cos(d,u)) +0.019  corr(s, cos(d,g)) -0.045 | |cos(d,u)| median 0.206 p90 0.391 | z among identity-like units (|cos|>0.15, n=1301) +0.05 ; among others -2.46
+L 8: corr(s, cos(d,u)) +0.027  corr(s, cos(d,g)) -0.010 | |cos(d,u)| median 0.204 p90 0.373 | z among identity-like units (|cos|>0.15, n=1340) -2.54 ; among others +1.97
+L 9: corr(s, cos(d,u)) -0.030  corr(s, cos(d,g)) +0.010 | |cos(d,u)| median 0.163 p90 0.363 | z among identity-like units (|cos|>0.15, n=1105) +0.25 ; among others -2.19
+L10: corr(s, cos(d,u)) +0.001  corr(s, cos(d,g)) -0.011 | |cos(d,u)| median 0.165 p90 0.332 | z among identity-like units (|cos|>0.15, n=1135) -0.45 ; among others -1.66
+L11: corr(s, cos(d,u)) +0.005  corr(s, cos(d,g)) +0.001 | |cos(d,u)| median 0.160 p90 0.373 | z among identity-like units (|cos|>0.15, n=1098) +0.74 ; among others -0.08
+L12: corr(s, cos(d,u)) +0.012  corr(s, cos(d,g)) -0.026 | |cos(d,u)| median 0.206 p90 0.433 | z among identity-like units (|cos|>0.15, n=1361) +0.49 ; among others +0.78
+L13: corr(s, cos(d,u)) -0.011  corr(s, cos(d,g)) -0.002 | |cos(d,u)| median 0.101 p90 0.291 | z among identity-like units (|cos|>0.15, n=682) +0.49 ; among others +0.34
+L14: corr(s, cos(d,u)) +0.040  corr(s, cos(d,g)) +0.009 | |cos(d,u)| median 0.075 p90 0.236 | z among identity-like units (|cos|>0.15, n=474) -1.23 ; among others +0.62
+L15: corr(s, cos(d,u)) -0.013  corr(s, cos(d,g)) -0.006 | |cos(d,u)| median 0.076 p90 0.227 | z among identity-like units (|cos|>0.15, n=434) +0.57 ; among others +0.41
+L16: corr(s, cos(d,u)) -0.008  corr(s, cos(d,g)) +0.004 | |cos(d,u)| median 0.093 p90 0.292 | z among identity-like units (|cos|>0.15, n=561) +1.27 ; among others +1.60
+L17: corr(s, cos(d,u)) -0.010  corr(s, cos(d,g)) +0.018 | |cos(d,u)| median 0.121 p90 0.379 | z among identity-like units (|cos|>0.15, n=804) +1.40 ; among others +1.58
+
+```

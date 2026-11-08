@@ -1,0 +1,4 @@
+I'm treating this as a full fine-tune, since every tensor shifted by about 0.75 in fraction. The changes are small, around 0.6% relative and a max absolute diff near 1e-3, which fits Adam with a learning rate near 1e-5 over many steps. The updates look uniform across the weights, and I'm wondering whether that sign-like pattern is what Adam would produce, since each step is roughly lr times the sign of the gradient.
+
+I'm checking whether these small differences are just noise, since Adam's per-step updates are about lr in size and both models may share a seed and data order. The unchanged norm weights might be a bf16 precision effect on large values, and the ~1e-3 differences look like real changes at about 8 ulps. Next I want to test whether the differences are low-rank via SVD, look for concentration in particular heads or MLP units, and tabulate per-layer stats.
+

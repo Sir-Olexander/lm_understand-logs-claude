@@ -1,0 +1,34 @@
+OUTPUT of Python run 80 of at most 120:
+```
+black ply 75 lost 10 [('n', 67, [59, 0.2688]), ('o', 64, [0, 0]), ('n', 65, [65, 0.8507]), ('o', 66, [0, 0]), ('n', 63, [63, 0.9907]), ('o', 59, [0, 0]), ('n', 57, [57, 0.753]), ('o', 76, [0, 0]), ('n', 75, [75, 1.0]), ('o', 18, [0, 0]), ('n', 54, [46, 0.8278]), ('o', 12, [0, 0])]
+.OXXXOOOX  .OXXXOOOX  .OXXXOOOX  .OXXXOOOX  .OXXXOOO.  .OXXXOOO.  .OXXXOOO.  .OXXXOOO.
+OOX.XOOXX  OOX.XOOXX  OOX.XOOXX  OOX.XOOXX  OOX.XOO..  OOX.XOO..  OOX.XOO..  OOX.XOO..
+.XXXXXOX.  .XXXXXOX.  .XXXXXOX.  .XXXXXOX.  .XXXXXO.O  .XXXXXO.O  .XXXXXO.O  OXXXXXO.O
+.OOOOOO.X  .OOOOOO.X  .OOOOOOOX  .OOOOOOOX  .OOOOOOO.  .OOOOOOO.  .OOOOOOO.  .OOOOOOO.
+..OXX..O.  ..OXXXOO.  ..OXXXOO.  .OOXXXOOX  .OOXXXOO.  .OOXXXOO.  .OOXXXOO.  .OOXXXOO.
+...XXXOOO  ..XXXXOOO  ..XXXXOOO  ..XXXXOOO  ..XXXXOOO  ..XXXXOOO  ..XXXXOOO  ..XXXXOOO
+.XX.X.OXX  .XX.X.OXX  .XX.X.OXX  .XX.X.OXX  .XX.X.OXX  .XX.X.OXX  .XXXXOOXX  XXXXXOOXX
+......OO.  ......OO.  ......OO.  .....XOO.  .O..XXOO.  X.XOXXOO.  X.XOXXOO.  X.X.XXOO.
+.....XX..  .....XX..  .X...XXO.  .X...XXO.  .X...XXO.  .X...XXO.  .X..OXXO.  .X.X.XXO.
+white ply 70 lost 10 [('n', 76, [76, 0.8736]), ('o', 27, [0, 0]), ('n', 81, [75, 0.2484]), ('o', 54, [0, 0]), ('n', 63, [63, 0.9072]), ('o', 18, [0, 0]), ('n', 75, [75, 0.2645]), ('o', 74, [0, 0]), ('n', 73, [73, 1.0]), ('o', 72, [0, 0]), ('n', 54, [54, 0.2364]), ('o', 37, [0, 0])]
+.......X.  .......X.  .......X.  .......X.  .......X.  .......X.  .......X.  .......X.
+.O...OOOX  .O...OOOX  .O...OOOX  OO...OOOX  OO...OOOX  OO...OOOX  OO...OOOX  OO...OOOX
+.OO.O.OX.  XOO.O.OX.  XOO.O.OX.  XOO.O.OX.  .OO.O.OX.  .OO.O.OX.  OOO.O.OX.  OOO.O.OX.
+OXXOO.XXX  .XXOOOXXX  .XXOOOXXX  .XXOOOXXX  OXXOOOXXX  OXXOOOXXX  OXXOOOXXX  OXXOOOXXX
+X.XOOX.XX  X.XOOX.XX  X.XOOX.XX  X.XOOX.XX  X.XOOX.XX  X.XOOX.XX  X.XOOX.XX  X.XOOX.XX
+.XXOOXXX.  XXXOOXXX.  XXXOOXXX.  XXXOOXXX.  XXXOOXXX.  XXXOOXXX.  XXXOOXXX.  XXXOOXXX.
+.XO.OX.X.  .XO.OX.X.  .XO.OX.XX  .XO.OX.XX  .XOOOX.XX  .XOOOX.XX  .XOOOX.XX  XXOOOX.XX
+.OOO..X.X  .OOO..X.X  .OOO.OX.X  .OOOX.X.X  .OOOX.X.X  XOOOX.X.X  XOOOX.X.X  XOOOX.X.X
+.......X.  .......X.  .......X.  .....X.X.  ....XX.X.  ....XX.X.  ..OXXX.X.  O.OXXX.X.
+white ply 50 lost 10 [('n', 12, [12, 0.1665]), ('o', 15, [0, 0]), ('n', 67, [43, 0.1456]), ('o', 69, [0, 0]), ('n', 70, [70, 0.9911]), ('o', 14, [0, 0]), ('n', 78, [78, 0.9997]), ('o', 9, [0, 0]), ('n', 3, [3, 0.3805]), ('o', 2, [0, 0]), ('n', 65, [43, 0.2593]), ('o', 4, [0, 0])]
+.........  .........  .........  .........  .........  .........  .........  ..OX.....
+....X....  ....X....  .OO.X....  .OO.X....  .OOXX.O..  .OOXX.O..  OOOXXOO..  OOOXXOO..
+.OXXX....  .OXXX....  .OXXX....  .OXXXX...  .OXXXXO..  .OXXXXO..  .OXXXXO..  .OXXXXO..
+.OXOXOOX.  .OXOXOOX.  .OXOXOOX.  .OXOXOOX.  .OXOXOOX.  .OXOXOOX.  .OXOXOOX.  .OXOXOOX.
+.OXOO.O..  .OXOO.O..  .OXOO.O..  .OXOOOO..  .OXOOOO..  .OXOOOO..  .OXOOOO..  .OXOOOO..
+..OOO.OO.  ..OOOOOO.  .XOOOOOO.  .XOOOOOO.  .XOOOOOO.  .XOOOOOO.  .XOOOOOO.  .XOOOOOO.
+...XXOXX.  ..XXXOXX.  ..XXXOXX.  .XXXXOXX.  .XXXXOXX.  .XXXXOXX.  .XXXXOXX.  .XXXXOXX.
+.X.......  .X...X...  .X...X...  .X...X...  .X...X...  .X..XXOX.  .X..XX.X.  .XX.XX.X.
+.......X.  .......X.  .......X.  .......X.  .......X.  .......X.  ......XX.  ......XX.
+
+```

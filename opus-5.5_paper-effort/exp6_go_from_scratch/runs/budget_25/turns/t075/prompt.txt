@@ -1,0 +1,6 @@
+OUTPUT of Python run 64 of at most 120:
+```
+1 {'games': 1.0, 'moves': 65.95, 'not_top1': 14.91, 'captures': 22.54, 'cap_stones': 57.39, 'FPcap': 1.65, 'selfatari': 0.88, 'sa_stones': 2.32, 'pass': 7.8}
+-1 {'games': 1.0, 'moves': 49.18, 'not_top1': 14.82, 'captures': 9.32, 'cap_stones': 13.09, 'FPcap': 1.55, 'selfatari': 2.18, 'sa_stones': 5.91, 'pass': 2.32}
+
+```

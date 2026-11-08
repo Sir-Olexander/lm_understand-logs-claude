@@ -1,0 +1,24 @@
+OUTPUT of run 32 of at most 60:
+```
+L13 h0 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-1.3 zDiff=-0.1
+L13 h1 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-2.5 zDiff=+0.4
+L13 h2 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+6.4 zDiff=-0.6
+L13 h3 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-0.2 zDiff=-1.5
+  L13 all-heads diff: inputs most pushed to '.': ['witter', 'upper', ' Nations', ' llam', 'Pages', ' jus', 'Will', 'court', 'Only', ' Scholar', ' cuenta', 'only']  most pushed away: [' addition', 'naire', ' regard', ' dozen', 'ojo', ' mutation', 'necessary', ' satisfactory', ' fitness', ' subsequent', 'certain', ' Gaussian']
+L15 h0 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+1.2 zDiff=-2.1
+L15 h1 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-2.7 zDiff=-0.7
+L15 h2 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+3.1 zDiff=+0.4
+L15 h3 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+0.2 zDiff=-0.7
+  L15 all-heads diff: inputs most pushed to '.': [' Abu', ' Muslim', ' migration', ' pap', ' padding', ' outer', ' evac', 'Stock', 'inti', ' Paper', 'arsi', ' Stock']  most pushed away: [' verdad', ' diagnosed', 'iros', 'algebra', 'cience', ' enzym', ' cosa', 'equation', ' reported', 'where', ' brak', ' doz']
+L16 h0 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-4.1 zDiff=-1.8
+L16 h1 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+0.3 zDiff=-0.0
+L16 h2 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+5.3 zDiff=-1.5
+L16 h3 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-0.3 zDiff=-0.1
+  L16 all-heads diff: inputs most pushed to '.': ['isp', 'har', 'Ad', 'ad', 'cv', ' tf', 'api', 'fin', 'itu', 'yn', 'uten', 'ART']  most pushed away: [' dese', ' addresses', 'nextLine', 'ruction', 'ulence', 'anwhile', ' otherwise', 'rative', ' portion', ' inclu', 'CCESS', 'umlah']
+L17 h0 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-0.2 zDiff=+1.0
+L17 h1 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=-0.6 zDiff=-0.4
+L17 h2 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+0.4 zDiff=-0.9
+L17 h3 .:selfcopy zA=+nan zDiff=+nan | ?:selfcopy zA=+nan zDiff=+nan | <eot>:selfcopy zA=+nan zDiff=+nan | \n:selfcopy zA=+nan zDiff=+nan | ,:selfcopy zA=+nan zDiff=+nan |  is:selfcopy zA=+1.1 zDiff=-1.2
+  L17 all-heads diff: inputs most pushed to '.': ['iors', 'anger', 'itian', 'oya', 'aler', 'iour', 'ears', 'eur', 'iore', 'asets', 'eurs', 'real']  most pushed away: [' brings', ' efficient', ' Certain', ' flu', ' efficiently', ' Econom', ' Fernando', ' affinity', ' efficiency', ' glowing', ' ease', ' constitutes']
+
+```

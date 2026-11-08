@@ -1,0 +1,20 @@
+OUTPUT of run 16 of at most 20:
+```
+ATTENTION TOOL call 3: saved /work/attn/r3/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r3/tokens.json
+text 0: 20 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "3", " +", " ", "4", "5", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "6"]
+text 1: 20 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "3", "1", " +", " ", "5", "2", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "8"]
+text 2: 18 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " times", " ", "8", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "5"]
+text 3: 20 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "6", "2", " -", " ", "1", "5", "?", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "4"]
+text 4: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "3", " +", " ", "4", "5", "?", " I", " think", " the", " answer", " is", " ", "6", "8", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "6"]
+text 5: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "3", "1", " +", " ", "5", "2", "?", " I", " think", " the", " answer", " is", " ", "8", "3", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "8"]
+text 6: 26 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " times", " ", "8", "?", " I", " think", " it", " is", " ", "5", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "5"]
+text 7: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "6", "2", " -", " ", "1", "5", "?", " I", " think", " the", " answer", " is", " ", "4", "7", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "4"]
+text 8: 38 tokens ["<bos>", "<start_of_turn>", "user", "\n", "Which", " planet", " is", " the", " largest", "?", " A", ")", " Mars", " B", ")", " Jupiter", " C", ")", " Venus", " D", ")", " Earth", ".", " I", " think", " the", " answer", " is", " C", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is"]
+text 9: 39 tokens ["<bos>", "<start_of_turn>", "user", "\n", "Which", " gas", " do", " plants", " absorb", "?", " A", ")", " Oxygen", " B", ")", " Nitrogen", " C", ")", " Carbon", " dioxide", " D", ")", " Helium", ".", " I", " think", " the", " answer", " is", " A", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " answer", " is"]
+text 10: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " the", " capital", " of", " Australia", "?", " I", " think", " it", "'", "s", " Sydney", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " capital", " of", " Australia", " is"]
+text 11: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " the", " capital", " of", " Canada", "?", " I", " think", " it", "'", "s", " Toronto", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " capital", " of", " Canada", " is"]
+text 12: 27 tokens ["<bos>", "<start_of_turn>", "user", "\n", "Who", " painted", " the", " Mona", " Lisa", "?", " I", " think", " it", " was", " Picasso", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " Mona", " Lisa", " was", " painted", " by"]
+text 13: 30 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " the", " chemical", " symbol", " for", " gold", "?", " I", " think", " it", "'", "s", " Ag", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "The", " chemical", " symbol", " for", " gold", " is"]
+text 14: 24 tokens ["<bos>", "<start_of_turn>", "user", "\n", "How", " many", " continents", " are", " there", "?", " I", " think", " there", " are", " ", "5", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "There", " are"]
+text 15: 33 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "8", " +", " ", "5", "?", " I", " think", " the", " answer", " is", " ", "1", "4", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "8", " +", " ", "5", " =", " ", "1"]
+```

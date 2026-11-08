@@ -1,0 +1,21 @@
+OUTPUT of run 12 of at most 60:
+```
+unit 186: |gate| A=1.5981 B=1.5963  |up| A=0.5786 B=0.5755  |down| A=0.2205 B=0.2185
+   cos(dgate,gate)=+0.122 cos(dup,up)=+0.207 cos(ddown,down)=+0.225 cos(dgate,dup)=+0.799 cos(gate,up)=+0.409
+   cos(dgate, up)=+0.159 cos(dup, gate)=+0.187
+unit 256: |gate| A=1.7570 B=1.7591  |up| A=0.5538 B=0.5533  |down| A=0.2014 B=0.2030
+   cos(dgate,gate)=-0.177 cos(dup,up)=+0.015 cos(ddown,down)=-0.235 cos(dgate,dup)=-0.833 cos(gate,up)=+0.349
+   cos(dgate, up)=+0.023 cos(dup, gate)=+0.212
+gate base cos(186,256)= 0.339  Δ cos= -0.754
+up base cos(186,256)= 0.005  Δ cos= 0.882
+down base cos= 0.382  Δ cos= -0.639
+cos(dgate186,dgate256),(dup186,dup256): -0.754 0.882
+top D_gate L7 left-vector weight on units 186,256: [ 0.062 -0.056]  s: [0.094 0.073 0.064 0.055]  max |u|: 0.084
+   cos(dgate_186, top D_gate right vec)=+0.397, cos(gate_186, top right vec)=+0.001
+   cos(dgate_256, top D_gate right vec)=-0.430, cos(gate_256, top right vec)=+0.006
+unit 186 write dir top dims: [163 436 400 389  65 164 547 167]
+   strongest readers (|cos|, layer, matrix, row): [(np.float32(0.214), 8, 'gate_proj', np.int64(251)), (np.float32(0.198), 8, 'up_proj', np.int64(251)), (np.float32(0.175), 9, 'up_proj', np.int64(1551)), (np.float32(0.151), 9, 'gate_proj', np.int64(1551)), (np.float32(0.11), 10, 'up_proj', np.int64(2029)), (np.float32(0.108), 9, 'v_proj', np.int64(81)), (np.float32(0.099), 10, 'v_proj', np.int64(69)), (np.float32(0.094), 10, 'gate_proj', np.int64(811))]
+unit 256 write dir top dims: [436 621 163 167  86 400 360 232]
+   strongest readers (|cos|, layer, matrix, row): [(np.float32(0.226), 9, 'gate_proj', np.int64(1942)), (np.float32(0.207), 8, 'gate_proj', np.int64(706)), (np.float32(0.196), 8, 'up_proj', np.int64(130)), (np.float32(0.193), 9, 'up_proj', np.int64(1551)), (np.float32(0.145), 10, 'gate_proj', np.int64(404)), (np.float32(0.134), 9, 'v_proj', np.int64(81)), (np.float32(0.092), 10, 'up_proj', np.int64(1818)), (np.float32(0.09), 8, 'v_proj', np.int64(57))]
+
+```

@@ -1,0 +1,12 @@
+OUTPUT of run 34 of at most 100:
+```
+0 fc norm hist [  0  28 635 258  73  24  72 160 253  33   0] proj [ 26 354 483 115  31  50 266 206   5]
+   learned (fc>0.6): 560  corr(fc,proj) 0.98
+1 fc norm hist [  0   0   0   3   1   0   2 643 884   2   1] proj [   0    0    0    4    0    2 1224  306    0]
+   learned (fc>0.6): 1532  corr(fc,proj) 0.79
+2 fc norm hist [  0   0   0   0   0   0   0 573 963   0   0] proj [  0   0   0   0   0   0 945 591   0]
+   learned (fc>0.6): 1536  corr(fc,proj) 0.93
+3 fc norm hist [  0   0   0   0   0   0   0 821 715   0   0] proj [   0    0    0    0    0   14  443 1067   12]
+   learned (fc>0.6): 1536  corr(fc,proj) 0.79
+
+```

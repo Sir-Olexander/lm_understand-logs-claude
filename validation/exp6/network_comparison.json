@@ -1,0 +1,82 @@
+{
+ "budget_0": {
+  "identical_tensors": 14,
+  "of": 14,
+  "detail": {
+   "L1.W": "identical",
+   "L1.b": "identical",
+   "L2.W": "identical",
+   "L2.b": "identical",
+   "L3.W": "identical",
+   "L3.b": "identical",
+   "L4.W": "identical",
+   "L4.b": "identical",
+   "L5.W": "identical",
+   "L5.b": "identical",
+   "L6.W": "identical",
+   "L6.b": "identical",
+   "out.W": "identical",
+   "out.b": "identical"
+  }
+ },
+ "budget_10": {
+  "identical_tensors": 14,
+  "of": 14,
+  "detail": {
+   "L1.W": "identical",
+   "L1.b": "identical",
+   "L2.W": "identical",
+   "L2.b": "identical",
+   "L3.W": "identical",
+   "L3.b": "identical",
+   "L4.W": "identical",
+   "L4.b": "identical",
+   "L5.W": "identical",
+   "L5.b": "identical",
+   "L6.W": "identical",
+   "L6.b": "identical",
+   "out.W": "identical",
+   "out.b": "identical"
+  }
+ },
+ "budget_25": {
+  "identical_tensors": 14,
+  "of": 14,
+  "detail": {
+   "L1.W": "identical",
+   "L1.b": "identical",
+   "L2.W": "identical",
+   "L2.b": "identical",
+   "L3.W": "identical",
+   "L3.b": "identical",
+   "L4.W": "identical",
+   "L4.b": "identical",
+   "L5.W": "identical",
+   "L5.b": "identical",
+   "L6.W": "identical",
+   "L6.b": "identical",
+   "out.W": "identical",
+   "out.b": "identical"
+  }
+ },
+ "budget_50": {
+  "identical_tensors": 14,
+  "of": 14,
+  "detail": {
+   "L1.W": "identical",
+   "L1.b": "identical",
+   "L2.W": "identical",
+   "L2.b": "identical",
+   "L3.W": "identical",
+   "L3.b": "identical",
+   "L4.W": "identical",
+   "L4.b": "identical",
+   "L5.W": "identical",
+   "L5.b": "identical",
+   "L6.W": "identical",
+   "L6.b": "identical",
+   "out.W": "identical",
+   "out.b": "identical"
+  }
+ }
+}

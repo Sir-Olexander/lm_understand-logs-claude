@@ -1,0 +1,43 @@
+OUTPUT of run 7 of at most 100:
+```
+L1H0 1: |M|=0.28 tr/nuc=+0.02 | 5: |M|=0.35 tr/nuc=-0.06 | 2: |M|=0.12 tr/nuc=-0.13 | 3: |M|=0.08 tr/nuc=-0.06 || direct tok-tok |M|=0.55 tr/nuc=-0.43
+L1H1 1: |M|=0.49 tr/nuc=+0.17 | 5: |M|=0.90 tr/nuc=+0.21 | 2: |M|=0.40 tr/nuc=+0.06 | 3: |M|=0.22 tr/nuc=+0.09 || direct tok-tok |M|=1.98 tr/nuc=-0.70
+L1H2 1: |M|=0.37 tr/nuc=+0.01 | 5: |M|=0.56 tr/nuc=-0.07 | 2: |M|=0.29 tr/nuc=-0.13 | 3: |M|=0.15 tr/nuc=-0.12 || direct tok-tok |M|=1.29 tr/nuc=-0.70
+L1H3 1: |M|=0.38 tr/nuc=-0.06 | 5: |M|=0.65 tr/nuc=+0.19 | 2: |M|=0.30 tr/nuc=+0.08 | 3: |M|=0.16 tr/nuc=+0.07 || direct tok-tok |M|=1.33 tr/nuc=-0.65
+L1H4 1: |M|=0.36 tr/nuc=+0.07 | 5: |M|=0.64 tr/nuc=+0.14 | 2: |M|=0.23 tr/nuc=-0.01 | 3: |M|=0.13 tr/nuc=+0.01 || direct tok-tok |M|=1.22 tr/nuc=-0.71
+L1H5 1: |M|=0.46 tr/nuc=+0.07 | 5: |M|=0.87 tr/nuc=+0.17 | 2: |M|=0.32 tr/nuc=+0.08 | 3: |M|=0.16 tr/nuc=-0.04 || direct tok-tok |M|=1.63 tr/nuc=-0.68
+
+L2H0 1: |M|=0.75 tr/nuc=-0.02 | 5: |M|=0.97 tr/nuc=-0.09 | 2: |M|=0.40 tr/nuc=+0.01 | 3: |M|=0.18 tr/nuc=+0.07 || direct tok-tok |M|=1.19 tr/nuc=-0.29
+L2H1 1: |M|=0.89 tr/nuc=+0.00 | 5: |M|=1.58 tr/nuc=+0.75 | 2: |M|=0.40 tr/nuc=+0.24 | 3: |M|=0.18 tr/nuc=+0.01 || direct tok-tok |M|=1.15 tr/nuc=-0.30
+L2H2 1: |M|=1.07 tr/nuc=-0.33 | 5: |M|=1.71 tr/nuc=-0.51 | 2: |M|=0.52 tr/nuc=-0.10 | 3: |M|=0.26 tr/nuc=-0.10 || direct tok-tok |M|=2.29 tr/nuc=-0.58
+L2H3 1: |M|=0.68 tr/nuc=+0.01 | 5: |M|=0.87 tr/nuc=-0.04 | 2: |M|=0.32 tr/nuc=-0.12 | 3: |M|=0.18 tr/nuc=-0.04 || direct tok-tok |M|=1.16 tr/nuc=-0.25
+L2H4 1: |M|=0.75 tr/nuc=-0.11 | 5: |M|=0.94 tr/nuc=+0.03 | 2: |M|=0.64 tr/nuc=+0.04 | 3: |M|=0.22 tr/nuc=+0.02 || direct tok-tok |M|=1.31 tr/nuc=-0.22
+L2H5 1: |M|=0.50 tr/nuc=-0.01 | 5: |M|=0.65 tr/nuc=+0.15 | 2: |M|=0.36 tr/nuc=+0.08 | 3: |M|=0.13 tr/nuc=-0.04 || direct tok-tok |M|=0.90 tr/nuc=-0.20
+
+L3H0 1: |M|=0.78 tr/nuc=-0.05 | 5: |M|=0.94 tr/nuc=+0.35 | 2: |M|=0.49 tr/nuc=+0.22 | 3: |M|=0.19 tr/nuc=+0.11 || direct tok-tok |M|=1.17 tr/nuc=-0.01
+L3H1 1: |M|=0.63 tr/nuc=+0.15 | 5: |M|=1.16 tr/nuc=+0.72 | 2: |M|=0.34 tr/nuc=+0.15 | 3: |M|=0.16 tr/nuc=-0.01 || direct tok-tok |M|=0.99 tr/nuc=-0.20
+L3H2 1: |M|=0.72 tr/nuc=-0.06 | 5: |M|=0.86 tr/nuc=-0.02 | 2: |M|=0.37 tr/nuc=+0.03 | 3: |M|=0.18 tr/nuc=+0.01 || direct tok-tok |M|=1.12 tr/nuc=+0.09
+L3H3 1: |M|=0.34 tr/nuc=+0.09 | 5: |M|=0.34 tr/nuc=+0.02 | 2: |M|=0.19 tr/nuc=+0.21 | 3: |M|=0.08 tr/nuc=+0.06 || direct tok-tok |M|=0.52 tr/nuc=-0.07
+L3H4 1: |M|=0.62 tr/nuc=-0.10 | 5: |M|=0.65 tr/nuc=+0.22 | 2: |M|=0.35 tr/nuc=+0.20 | 3: |M|=0.14 tr/nuc=-0.01 || direct tok-tok |M|=0.88 tr/nuc=-0.04
+L3H5 1: |M|=0.91 tr/nuc=-0.16 | 5: |M|=1.62 tr/nuc=+0.75 | 2: |M|=0.38 tr/nuc=-0.01 | 3: |M|=0.17 tr/nuc=-0.04 || direct tok-tok |M|=1.09 tr/nuc=+0.39
+
+layer 1 q-read frac Tb vs random: [np.float32(0.092), np.float32(0.182), np.float32(0.147), np.float32(0.17), np.float32(0.156), np.float32(0.152)] 0.06
+        k-read frac Tb : [np.float32(0.139), np.float32(0.166), np.float32(0.142), np.float32(0.125), np.float32(0.145), np.float32(0.171)]
+        k-read frac out(L0H1,H5) : [np.float32(0.126), np.float32(0.071), np.float32(0.07), np.float32(0.071), np.float32(0.069), np.float32(0.085)]
+        q-read frac out(L0H1,H5) : [np.float32(0.206), np.float32(0.187), np.float32(0.195), np.float32(0.169), np.float32(0.192), np.float32(0.199)]
+        v-read frac out(L0H1,H5) : [np.float32(0.19), np.float32(0.282), np.float32(0.226), np.float32(0.354), np.float32(0.294), np.float32(0.251)]
+        v-read frac Tb : [np.float32(0.162), np.float32(0.16), np.float32(0.196), np.float32(0.146), np.float32(0.162), np.float32(0.187)]
+layer 2 q-read frac Tb vs random: [np.float32(0.071), np.float32(0.084), np.float32(0.094), np.float32(0.07), np.float32(0.069), np.float32(0.061)] 0.063
+        k-read frac Tb : [np.float32(0.073), np.float32(0.069), np.float32(0.094), np.float32(0.089), np.float32(0.079), np.float32(0.076)]
+        k-read frac out(L0H1,H5) : [np.float32(0.078), np.float32(0.128), np.float32(0.083), np.float32(0.069), np.float32(0.072), np.float32(0.062)]
+        q-read frac out(L0H1,H5) : [np.float32(0.078), np.float32(0.085), np.float32(0.123), np.float32(0.073), np.float32(0.078), np.float32(0.064)]
+        v-read frac out(L0H1,H5) : [np.float32(0.088), np.float32(0.078), np.float32(0.094), np.float32(0.077), np.float32(0.08), np.float32(0.062)]
+        v-read frac Tb : [np.float32(0.083), np.float32(0.081), np.float32(0.085), np.float32(0.081), np.float32(0.119), np.float32(0.082)]
+layer 3 q-read frac Tb vs random: [np.float32(0.075), np.float32(0.078), np.float32(0.068), np.float32(0.06), np.float32(0.065), np.float32(0.075)] 0.061
+        k-read frac Tb : [np.float32(0.067), np.float32(0.064), np.float32(0.066), np.float32(0.064), np.float32(0.065), np.float32(0.054)]
+        k-read frac out(L0H1,H5) : [np.float32(0.072), np.float32(0.091), np.float32(0.068), np.float32(0.06), np.float32(0.059), np.float32(0.134)]
+        q-read frac out(L0H1,H5) : [np.float32(0.065), np.float32(0.063), np.float32(0.063), np.float32(0.054), np.float32(0.057), np.float32(0.112)]
+        v-read frac out(L0H1,H5) : [np.float32(0.067), np.float32(0.058), np.float32(0.062), np.float32(0.058), np.float32(0.063), np.float32(0.052)]
+        v-read frac Tb : [np.float32(0.075), np.float32(0.106), np.float32(0.074), np.float32(0.068), np.float32(0.073), np.float32(0.125)]
+
+```

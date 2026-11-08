@@ -1,0 +1,16 @@
+OUTPUT of run 14 of at most 60:
+```
+cap Δ       all  : real=+0.0227 null mean=+0.0004 sd=0.0255 z=+0.87
+cap Δ       L9-17: real=+0.0019 null mean=+0.0027 sd=0.0377 z=-0.02
+cap Δ⊥base  all  : real=+0.0252 null mean=+0.0004 sd=0.0273 z=+0.91
+cap Δ⊥base  L9-17: real=+0.0059 null mean=-0.0004 sd=0.0446 z=+0.14
+cap base    all  : real=+0.3452 null mean=+0.0008 sd=0.0228 z=+15.08
+cap base    L9-17: real=+0.4387 null mean=-0.0008 sd=0.0291 z=+15.08
+col Δ       all  : real=+0.0664 null mean=+0.0432 sd=0.0499 z=+0.46
+col Δ       L9-17: real=+0.1691 null mean=+0.0821 sd=0.0913 z=+0.95
+col Δ⊥base  all  : real=+0.0670 null mean=+0.0488 sd=0.0493 z=+0.37
+col Δ⊥base  L9-17: real=+0.1698 null mean=+0.0778 sd=0.0858 z=+1.07
+col base    all  : real=+0.0977 null mean=-0.0034 sd=0.0243 z=+4.15
+col base    L9-17: real=+0.1066 null mean=-0.0412 sd=0.0380 z=+3.89
+
+```

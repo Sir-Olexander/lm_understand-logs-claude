@@ -1,0 +1,36 @@
+OUTPUT of run 24 of at most 100:
+```
+FC dir  0 sv 12.79  P-reader enr  0.87  T-reader enr  2.48  L0H3QK enr  0.46
+FC dir  1 sv 10.45  P-reader enr  0.49  T-reader enr  3.73  L0H3QK enr  0.28
+FC dir  2 sv 10.12  P-reader enr  0.61  T-reader enr  4.63  L0H3QK enr  0.40
+FC dir  3 sv  9.06  P-reader enr  0.41  T-reader enr  4.29  L0H3QK enr  0.16
+FC dir  4 sv  8.92  P-reader enr  0.23  T-reader enr  4.84  L0H3QK enr  0.14
+FC dir  5 sv  8.86  P-reader enr  0.49  T-reader enr  6.27  L0H3QK enr  0.16
+FC dir  6 sv  8.48  P-reader enr  0.21  T-reader enr  4.92  L0H3QK enr  0.08
+FC dir  7 sv  8.35  P-reader enr  0.27  T-reader enr  5.00  L0H3QK enr  0.11
+FC dir  8 sv  8.00  P-reader enr  0.32  T-reader enr  5.42  L0H3QK enr  0.13
+FC dir  9 sv  7.75  P-reader enr  0.53  T-reader enr  5.85  L0H3QK enr  0.22
+FC dir 10 sv  7.60  P-reader enr  0.43  T-reader enr  5.43  L0H3QK enr  0.30
+FC dir 11 sv  7.30  P-reader enr  0.54  T-reader enr  5.70  L0H3QK enr  0.31
+FC dir 12 sv  7.10  P-reader enr  0.35  T-reader enr  5.20  L0H3QK enr  0.21
+FC dir 13 sv  6.90  P-reader enr  0.35  T-reader enr  7.79  L0H3QK enr  0.15
+FC dir 14 sv  6.76  P-reader enr  0.32  T-reader enr  5.77  L0H3QK enr  0.19
+FC dir 15 sv  6.57  P-reader enr  0.35  T-reader enr  4.10  L0H3QK enr  0.22
+FC dir 16 sv  6.43  P-reader enr  0.34  T-reader enr  3.83  L0H3QK enr  0.20
+FC dir 17 sv  6.27  P-reader enr  0.31  T-reader enr  6.23  L0H3QK enr  0.16
+FC dir 18 sv  6.19  P-reader enr  0.34  T-reader enr  5.64  L0H3QK enr  0.26
+FC dir 19 sv  5.80  P-reader enr  0.32  T-reader enr  5.48  L0H3QK enr  0.20
+FC dir 20 sv  5.67  P-reader enr  0.69  T-reader enr  4.27  L0H3QK enr  0.36
+FC dir 21 sv  5.61  P-reader enr  0.40  T-reader enr  5.96  L0H3QK enr  0.21
+FC dir 22 sv  5.38  P-reader enr  0.40  T-reader enr  6.02  L0H3QK enr  0.22
+FC dir 23 sv  5.29  P-reader enr  0.43  T-reader enr  5.11  L0H3QK enr  0.25
+FC dir 24 sv  4.96  P-reader enr  0.61  T-reader enr  3.47  L0H3QK enr  0.44
+FC dir 25 sv  4.80  P-reader enr  0.62  T-reader enr  3.78  L0H3QK enr  0.45
+FC dir 26 sv  3.86  P-reader enr  0.57  T-reader enr  0.49  L0H3QK enr  0.55
+FC dir 27 sv  3.46  P-reader enr  0.78  T-reader enr  0.62  L0H3QK enr  0.52
+FC dir 28 sv  3.42  P-reader enr  0.37  T-reader enr  0.55  L0H3QK enr  0.37
+FC dir 29 sv  3.30  P-reader enr  0.64  T-reader enr  0.72  L0H3QK enr  0.83
+FC dir 30 sv  3.11  P-reader enr  0.42  T-reader enr  1.03  L0H3QK enr  0.43
+FC dir 31 sv  3.08  P-reader enr  0.70  T-reader enr  0.90  L0H3QK enr  0.64
+
+```

@@ -1,0 +1,30 @@
+OUTPUT of Python run 63 of at most 120:
+```
+9 60 (2, 0) cap 0 libs after 1 size 2
+.X.X.XOO.
+XOXXXXOXX
+.OOXOXOO.
+OOOOOOOO.
+XOXXXXXX.
+.X.XXX.X.
+OXX.X.X..
+.OOXX....
+.O.......
+  nbr (1, 0) own size 1 libs [(0, 0), (2, 0)]
+  nbr (3, 0) opp size 18 libs [(0, 8), (2, 0), (2, 8), (3, 8)]
+  nbr (2, 1) opp size 18 libs [(0, 8), (2, 0), (2, 8), (3, 8)]
+41 94 (1, 8) cap 0 libs after 1 size 2
+X.XOOOOOO
+OOOOOOOO.
+.OOX.OOOX
+OOOOOXOX.
+O.OXXXXXX
+OOOXXX.X.
+OOOXX.X..
+XXOXXX.X.
+.OOX....X
+  nbr (0, 8) opp size 36 libs [(0, 1), (1, 8), (2, 0), (2, 4), (4, 1), (8, 0)]
+  nbr (2, 8) own size 1 libs [(1, 8), (3, 8)]
+  nbr (1, 7) opp size 36 libs [(0, 1), (1, 8), (2, 0), (2, 4), (4, 1), (8, 0)]
+
+```

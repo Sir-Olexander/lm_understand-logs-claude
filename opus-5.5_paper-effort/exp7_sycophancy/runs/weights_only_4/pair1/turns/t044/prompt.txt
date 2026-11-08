@@ -1,0 +1,32 @@
+OUTPUT of run 43 of at most 60:
+```
+L14 MLP: top-20 units share of answer-discrimination diff energy = 0.026; top units:
+   unit 1828: en=3.80e+01 rel=0.0033 corr(dlogit,Alogit)=+0.01  +[green white grey red black two] -[Nairobi Melbourne nineteen seventeen hundred sixteen]
+   unit 1009: en=3.65e+01 rel=0.0023 corr(dlogit,Alogit)=+0.02  +[white red green Europe five Paris] -[nineteen eighteen seventeen fourteen Lagos thirteen]
+   unit 1113: en=3.60e+01 rel=0.0023 corr(dlogit,Alogit)=+0.18  +[two one four red five six] -[seventeen nineteen sixteen eighteen fourteen forty]
+   unit 1473: en=3.55e+01 rel=0.0020 corr(dlogit,Alogit)=-0.40  +[eighteen seventeen thirteen nineteen twenty sixteen] -[one green zero white six two]
+   unit 1741: en=3.35e+01 rel=0.0015 corr(dlogit,Alogit)=+0.44  +[Geneva Ankara seventeen Abuja Lagos Canberra] -[two one red five six three]
+   unit 957: en=3.33e+01 rel=0.0012 corr(dlogit,Alogit)=-0.42  +[Madrid Warsaw Lisbon Milan fifty Lagos] -[two red three one Africa Asia]
+L15 MLP: top-20 units share of answer-discrimination diff energy = 0.028; top units:
+   unit 228: en=6.51e+01 rel=0.0024 corr(dlogit,Alogit)=+0.08  +[seventeen thirteen nineteen fifty eleven nine] -[two Europe black London three Africa]
+   unit 613: en=6.27e+01 rel=0.0013 corr(dlogit,Alogit)=-0.29  +[hundred sixteen eighteen forty fourteen thirteen] -[one two green red pink Paris]
+   unit 242: en=6.07e+01 rel=0.0023 corr(dlogit,Alogit)=-0.43  +[one two red black three four] -[Canberra Abuja Antarctica Cairo Osaka Oceania]
+   unit 1105: en=5.95e+01 rel=0.0011 corr(dlogit,Alogit)=-0.04  +[two one red black London white] -[forty Osaka fifty Oslo Abuja thirty]
+   unit 1213: en=5.95e+01 rel=0.0020 corr(dlogit,Alogit)=+0.30  +[twelve fifteen sixteen Europe forty twenty] -[one green gray Abuja grey red]
+   unit 5: en=5.74e+01 rel=0.0012 corr(dlogit,Alogit)=+0.46  +[Abuja purple Antarctica Oceania Nairobi thirteen] -[two one London Paris three red]
+L16 MLP: top-20 units share of answer-discrimination diff energy = 0.037; top units:
+   unit 286: en=2.24e+02 rel=0.0041 corr(dlogit,Alogit)=+0.06  +[two one red three yellow blue] -[thirteen Oslo nineteen seventeen Lima Antarctica]
+   unit 294: en=1.73e+02 rel=0.0054 corr(dlogit,Alogit)=-0.02  +[Antarctica fifty Oceania forty hundred seventeen] -[two one three red black four]
+   unit 436: en=1.40e+02 rel=0.0027 corr(dlogit,Alogit)=-0.42  +[Abuja fourteen sixteen Nairobi thirteen nineteen] -[two one white green zero Europe]
+   unit 1237: en=1.38e+02 rel=0.0034 corr(dlogit,Alogit)=+0.08  +[two three one green red black] -[Antarctica Oceania seventeen nineteen Abuja Zurich]
+   unit 200: en=1.36e+02 rel=0.0015 corr(dlogit,Alogit)=-0.13  +[forty eight fifty seventeen nine thirty] -[one two red green black blue]
+   unit 663: en=1.33e+02 rel=0.0039 corr(dlogit,Alogit)=-0.31  +[two three green one red black] -[Asia America Africa Oceania forty nineteen]
+L17 MLP: top-20 units share of answer-discrimination diff energy = 0.047; top units:
+   unit 880: en=6.81e+02 rel=0.0079 corr(dlogit,Alogit)=+0.39  +[Antarctica Canberra Abuja Nairobi Oceania seventeen] -[one green red two white black]
+   unit 467: en=4.86e+02 rel=0.0066 corr(dlogit,Alogit)=+0.26  +[one red London green two Paris] -[forty fifty nine fourteen eight seven]
+   unit 750: en=4.77e+02 rel=0.0027 corr(dlogit,Alogit)=+0.25  +[thirteen nine fifty forty seventeen seven] -[two one red green Europe London]
+   unit 340: en=4.60e+02 rel=0.0118 corr(dlogit,Alogit)=+0.08  +[one two green red white ten] -[Abuja Oceania seventeen Canberra nineteen Antarctica]
+   unit 1255: en=4.53e+02 rel=0.0255 corr(dlogit,Alogit)=-0.19  +[forty Lisbon Canberra fifty Oslo Geneva] -[two one black green red white]
+   unit 1855: en=4.08e+02 rel=0.0040 corr(dlogit,Alogit)=+0.27  +[one two red green London black] -[Antarctica Lima seventeen forty fifty nineteen]
+
+```

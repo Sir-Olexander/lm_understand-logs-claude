@@ -1,0 +1,20 @@
+OUTPUT of run 32 of at most 60:
+```
+== S from attn o_proj 14-17
+  MLP L14 answer-writing alignment z(sign-flip)  +0.00
+  MLP L15 answer-writing alignment z(sign-flip)  -2.19
+  MLP L16 answer-writing alignment z(sign-flip)  -1.57
+  MLP L17 answer-writing alignment z(sign-flip)  -1.00
+  heads L15 copy e->readout z (output-aligned null): [1.9  1.12 1.85 1.19]
+  heads L16 copy e->readout z (output-aligned null): [0.33 0.8  0.91 1.49]
+  heads L17 copy e->readout z (output-aligned null): [ 0.27  0.33  0.94 -2.1 ]
+== S from L17 down only
+  MLP L14 answer-writing alignment z(sign-flip)  +0.32
+  MLP L15 answer-writing alignment z(sign-flip)  -0.98
+  MLP L16 answer-writing alignment z(sign-flip)  -2.53
+  MLP L17 answer-writing alignment z(sign-flip)  -1.93
+  heads L15 copy e->readout z (output-aligned null): [1.57 0.   1.76 1.31]
+  heads L16 copy e->readout z (output-aligned null): [0.23 1.09 1.29 0.95]
+  heads L17 copy e->readout z (output-aligned null): [ 1.36 -1.77  0.85 -1.67]
+
+```

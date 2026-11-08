@@ -1,0 +1,22 @@
+OUTPUT of Python run 30 of at most 120:
+```
+black -1 -12.5 net [6, 81, 12, 0, 18, 9]
+black -1 -1.5 net [44, 1, 25, 0, 2, 1]
+black -1 5.5 net [27, 18, 62, 9, 27, 18]
+white -1 11.5 net [80, 71, 0, 62, 80, 71]
+white -1 17.5 net [54, 63, 1, 72, 54, 63]
+white -1 19.5 net [8, 7, 74, 6, 8, 7]
+white -1 -0.5 net [17, 26, 23, 35, 17, 26]
+white -1 -14.5 net [26, 80, 77, 78, 81, 79]
+[('o', 6, [[0, 0]]), ('n', 81, [[81, 0.9128], [7, 0.0678]]), ('o', 12, [[0, 0]]), ('n', 0, [[0, 1.0], [81, 0.0]]), ('o', 18, [[0, 0]]), ('n', 9, [[9, 1.0], [81, 0.0]])]
+.OOOOO.XX  .OOOOOO..  .OOOOOO..  .OOOOOO..  XOOOOOO..  .OOOOOO..  .OOOOOO..
+XOO.OOOXO  XOO.OOO.O  XOO.OOO.O  XOOOOOO.O  XOOOOOO.O  .OOOOOO.O  XOOOOOO.O
+.XOX.OOOO  .XOX.OOOO  .XOX.OOOO  .XOX.OOOO  .XOX.OOOO  OXOX.OOOO  .XOX.OOOO
+XXOOOOOOO  XXOOOOOOO  XXOOOOOOO  XXOOOOOOO  XXOOOOOOO  XXOOOOOOO  XXOOOOOOO
+X.XXOOO.O  X.XXOOO.O  X.XXOOO.O  X.XXOOO.O  X.XXOOO.O  X.XXOOO.O  X.XXOOO.O
+XX.XXOOOO  XX.XXOOOO  XX.XXOOOO  XX.XXOOOO  XX.XXOOOO  XX.XXOOOO  XX.XXOOOO
+.XX.XXOOO  .XX.XXOOO  .XX.XXOOO  .XX.XXOOO  .XX.XXOOO  .XX.XXOOO  .XX.XXOOO
+X.XXXOOXX  X.XXXOOXX  X.XXXOOXX  X.XXXOOXX  X.XXXOOXX  X.XXXOOXX  X.XXXOOXX
+.XX.XXXX.  .XX.XXXX.  .XX.XXXX.  .XX.XXXX.  .XX.XXXX.  .XX.XXXX.  .XX.XXXX.
+
+```

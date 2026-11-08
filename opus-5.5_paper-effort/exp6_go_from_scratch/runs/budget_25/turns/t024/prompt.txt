@@ -1,0 +1,20 @@
+OUTPUT of Python run 21 of at most 120:
+```
+5 white
+..O.OOOOO
+.OXOOOXX.
+OXXXXXXXO
+OXX.XX.XO
+X..XXXXOO
+X.X.XXOOO
+.XXXX.XXO
+XX.XOXX.X
+X.XOO.XX.
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 45, in <module>
+  File "<string>", line 38, in U
+KeyError: "('b', 6, np.int64(37))"
+
+```

@@ -1,0 +1,26 @@
+OUTPUT of Python run 11 of at most 120:
+```
+34 black -10.5
+.........   .........   .........   .........   ..X.O....   O.XXOOOO.
+......O..   ......O..   ...OXOO..   .O.OXOO..   .OOO.OO..   .OOOOOOX.
+.....OXO.   .....O.O.   .OXOXO.O.   .OXOXOOO.   .O.O.OOO.   OO.O.OOOX
+...O.X.X.   ..XOOXOX.   .OXOOXOX.   .OXOOXOX.   .O.OOXOX.   .OOOOXOXX
+......XX.   ..OOXXXX.   ..OOXXXX.   .OOOXXXX.   .OOOXXXX.   OOOOXXXXX
+.........   ..O......   ..O..X.X.   ..OXXX.X.   .OOXXX.X.   OOOXXX.X.
+.........   ...X.....   ...X.....   ..OXX.X..   XXOXX.X..   XXOXX.XX.
+.........   .....X...   .....X...   ..O..X.X.   .OOOXX.XX   .OOOXX.XX
+.........   .........   .........   .........   .........   .O....XX.
+[('n', 32), ('o', 30), ('n', 43), ('o', 23), ('n', 42), ('o', 33), ('n', 34), ('o', 15), ('n', 24), ('o', 25), ('n', 68), ('o', 33), ('n', 57), ('o', 31), ('n', 41), ('o', 47), ('n', 40), ('o', 38), ('n', 29), ('o', 39), ('n', 20), ('o', 19), ('n', 52), ('o', 28), ('n', 22), ('o', 21), ('n', 13), ('o', 14), ('n', 50), ('o', 12)]
+66 white -7.5
+.........   .........   .........   .........   .........   .XXOO.XX.
+.........   .........   ......O..   ..O.OXOO.   XOOXOXOO.   XXXXOXO.X
+....O....   ....OXO..   ..O.OXO..   .XOXOXO..   .XOXOXOX.   .X.XOXXX.
+..XX.....   ..XXX....   .XXXXXX..   .XXXXXXX.   .XXXXXXX.   .XXXXXXXX
+..OOX.O..   ..OOXOO..   ..OOXOO..   ..OOXOOO.   .XOOXOOO.   .XOOXOOO.
+...XX....   ..OXX.XO.   ..OXXXXO.   ..OXXXXO.   .OOXXXXOX   .OOXXXXOX
+....O....   ..X.OX...   ..X.OXX..   ..X.OXXX.   .OX.OXXX.   .O.OOXXXX
+.........   .....O...   .O...OOO.   .O...OOO.   .O.OOOOO.   OOOOOOOOO
+.........   .........   .........   ......O..   ......O..   ...O.OO.O
+[('o', 40), ('n', 39), ('o', 48), ('n', 58), ('o', 30), ('n', 38), ('o', 49), ('n', 42), ('o', 29), ('n', 22), ('o', 31), ('n', 24), ('o', 23), ('n', 68), ('o', 51), ('n', 52), ('o', 59), ('n', 47), ('o', 56), ('n', 41), ('o', 50), ('n', 15), ('o', 33), ('n', 20), ('o', 32), ('n', 64), ('o', 28), ('n', 69), ('o', 60), ('n', 70)]
+
+```

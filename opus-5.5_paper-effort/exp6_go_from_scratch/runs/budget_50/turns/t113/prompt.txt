@@ -1,0 +1,27 @@
+OUTPUT of Python run 87 of at most 120:
+```
+1181
+('size1', 'libs_after2', 'own0', 'emp1', 'other') 357
+('size1', 'libs_after1', 'own0', 'emp0', 'other') 192
+('size4', 'libs_after2', 'own0', 'emp0', 'pass') 63
+('size1', 'libs_after2', 'own0', 'emp1', 'pass') 61
+('size1', 'libs_after1', 'own0', 'emp0', 'pass') 49
+('size2', 'libs_after2', 'own0', 'emp0', 'pass') 32
+('size1', 'libs_after2', 'own1', 'emp0', 'other') 31
+('size2', 'libs_after2', 'own0', 'emp0', 'other') 27
+('size1', 'libs_after3', 'own0', 'emp2', 'other') 27
+('size1', 'libs_after3', 'own1', 'emp0', 'other') 24
+('size4', 'libs_after2', 'own0', 'emp0', 'other') 15
+('size4', 'libs_after2', 'own0', 'emp1', 'other') 14
+('size1', 'libs_after3', 'own0', 'emp2', 'pass') 11
+('size3', 'libs_after2', 'own0', 'emp1', 'other') 9
+('size4', 'libs_after3', 'own2', 'emp0', 'pass') 8
+('size2', 'libs_after2', 'own0', 'emp1', 'other') 8
+('size4', 'libs_after3', 'own1', 'emp0', 'pass') 8
+('size2', 'libs_after3', 'own1', 'emp0', 'other') 8
+('size4', 'libs_after1', 'own0', 'emp0', 'other') 7
+('size2', 'libs_after1', 'own0', 'emp0', 'pass') 6
+('size3', 'libs_after3', 'own1', 'emp0', 'pass') 6
+[(0, 50, 18, 44, [[18, 0.5], [44, 0.5], [65, 0.0]], 3), (4, 154, 56, 81, [[56, 0.5805], [81, 0.4195], [1, 0.0]], 4), (8, 92, 27, 16, [[77, 0.4236], [76, 0.2569], [16, 0.0813]], 7), (13, 56, 0, 75, [[75, 0.3893], [77, 0.3351], [0, 0.2361]], 6)]
+
+```

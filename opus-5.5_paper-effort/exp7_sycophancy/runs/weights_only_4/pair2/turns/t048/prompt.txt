@@ -1,0 +1,53 @@
+OUTPUT of run 47 of at most 60:
+```
+heads ranked by OV change on prompt->answer (relative), with ratio to control-token change:
+  L3h3: ovrel=0.0314 (x1.02 vs ctrl)  qkrel=0.0115 (x1.41)
+  L14h3: ovrel=0.0279 (x1.34 vs ctrl)  qkrel=0.0326 (x1.89)
+  L4h1: ovrel=0.0268 (x0.96 vs ctrl)  qkrel=0.0188 (x1.06)
+  L16h1: ovrel=0.0251 (x1.38 vs ctrl)  qkrel=0.0173 (x1.52)
+  L4h2: ovrel=0.0237 (x1.18 vs ctrl)  qkrel=0.0177 (x1.15)
+  L16h3: ovrel=0.0231 (x0.99 vs ctrl)  qkrel=0.0068 (x1.06)
+  L5h3: ovrel=0.0226 (x0.88 vs ctrl)  qkrel=0.0218 (x1.13)
+  L1h1: ovrel=0.0224 (x1.42 vs ctrl)  qkrel=0.0287 (x1.90)
+  L1h0: ovrel=0.0222 (x0.91 vs ctrl)  qkrel=0.0300 (x1.91)
+  L5h2: ovrel=0.0216 (x0.99 vs ctrl)  qkrel=0.0174 (x1.15)
+  L3h1: ovrel=0.0211 (x1.04 vs ctrl)  qkrel=0.0365 (x1.84)
+  L13h2: ovrel=0.0211 (x1.08 vs ctrl)  qkrel=0.0165 (x1.16)
+  L17h2: ovrel=0.0200 (x1.21 vs ctrl)  qkrel=0.0214 (x1.71)
+  L16h0: ovrel=0.0198 (x0.99 vs ctrl)  qkrel=0.0179 (x1.38)
+  L2h3: ovrel=0.0197 (x0.96 vs ctrl)  qkrel=0.0291 (x1.67)
+  L0h1: ovrel=0.0189 (x0.79 vs ctrl)  qkrel=0.0309 (x2.14)
+heads ranked by QK change on prompt tokens (relative), ratio to control:
+  L1h2: qkrel=0.0378 ratio=2.49
+  L0h0: qkrel=0.0318 ratio=2.30
+  L3h2: qkrel=0.0394 ratio=2.24
+  L0h1: qkrel=0.0309 ratio=2.14
+  L0h3: qkrel=0.0891 ratio=1.95
+  L1h0: qkrel=0.0300 ratio=1.91
+  L1h1: qkrel=0.0287 ratio=1.90
+  L0h2: qkrel=0.0277 ratio=1.90
+  L14h3: qkrel=0.0326 ratio=1.89
+  L2h0: qkrel=0.0240 ratio=1.89
+  L17h1: qkrel=0.0460 ratio=1.87
+  L1h3: qkrel=0.0278 ratio=1.87
+MLP layers: relative change of answer-token writes (|Eo_ans . dD| / |Eo_ans . D|) and vs control tokens
+  L 0 MLP ans-rel 0.0157 ctrl-rel 0.0153 ratio 1.02 | abs |Eo_ans dD|      24.3 | top units [2000, 1416, 577, 1377, 83, 431]
+  L 1 MLP ans-rel 0.0235 ctrl-rel 0.0236 ratio 1.00 | abs |Eo_ans dD|      27.4 | top units [1682, 1391, 898, 952, 1588, 945]
+  L 2 MLP ans-rel 0.0160 ctrl-rel 0.0149 ratio 1.07 | abs |Eo_ans dD|      22.2 | top units [1585, 122, 547, 1907, 27, 1188]
+  L 3 MLP ans-rel 0.0175 ctrl-rel 0.0181 ratio 0.97 | abs |Eo_ans dD|      38.3 | top units [1545, 1180, 437, 1298, 829, 298]
+  L 4 MLP ans-rel 0.0210 ctrl-rel 0.0219 ratio 0.96 | abs |Eo_ans dD|      20.5 | top units [1626, 1357, 1443, 886, 903, 1246]
+  L 5 MLP ans-rel 0.0121 ctrl-rel 0.0120 ratio 1.00 | abs |Eo_ans dD|      33.8 | top units [1911, 531, 1733, 1674, 479, 450]
+  L 6 MLP ans-rel 0.0161 ctrl-rel 0.0161 ratio 1.00 | abs |Eo_ans dD|      32.8 | top units [1934, 930, 1753, 22, 478, 1901]
+  L 7 MLP ans-rel 0.0143 ctrl-rel 0.0141 ratio 1.01 | abs |Eo_ans dD|      35.7 | top units [1341, 1634, 413, 355, 601, 563]
+  L 8 MLP ans-rel 0.0203 ctrl-rel 0.0173 ratio 1.18 | abs |Eo_ans dD|      42.4 | top units [292, 890, 592, 1613, 360, 116]
+  L 9 MLP ans-rel 0.0141 ctrl-rel 0.0122 ratio 1.15 | abs |Eo_ans dD|      62.9 | top units [519, 759, 157, 208, 219, 1128]
+  L10 MLP ans-rel 0.0195 ctrl-rel 0.0174 ratio 1.12 | abs |Eo_ans dD|     111.8 | top units [339, 118, 928, 1438, 816, 1248]
+  L11 MLP ans-rel 0.0153 ctrl-rel 0.0144 ratio 1.06 | abs |Eo_ans dD|     175.1 | top units [1095, 1643, 914, 2033, 1904, 1080]
+  L12 MLP ans-rel 0.0155 ctrl-rel 0.0145 ratio 1.07 | abs |Eo_ans dD|     260.1 | top units [1630, 190, 1905, 274, 1334, 125]
+  L13 MLP ans-rel 0.0249 ctrl-rel 0.0218 ratio 1.14 | abs |Eo_ans dD|     305.2 | top units [802, 1723, 1652, 599, 309, 1815]
+  L14 MLP ans-rel 0.0315 ctrl-rel 0.0262 ratio 1.20 | abs |Eo_ans dD|     420.9 | top units [708, 707, 321, 247, 1446, 912]
+  L15 MLP ans-rel 0.0298 ctrl-rel 0.0237 ratio 1.26 | abs |Eo_ans dD|     575.9 | top units [1271, 550, 1870, 806, 440, 1096]
+  L16 MLP ans-rel 0.0296 ctrl-rel 0.0227 ratio 1.30 | abs |Eo_ans dD|     773.2 | top units [1698, 1756, 1117, 1712, 342, 642]
+  L17 MLP ans-rel 0.0394 ctrl-rel 0.0267 ratio 1.48 | abs |Eo_ans dD|    1382.8 | top units [1317, 1627, 771, 329, 950, 1754]
+
+```

@@ -1,0 +1,22 @@
+OUTPUT of run 25 of at most 60:
+```
+L12 MLP down S-write change z(sign-flip null)  +0.52  frac units neg 0.492
+    most B-favouring units [(1039, -0.26), (232, -0.17), (747, -0.1), (868, -0.09), (1427, -0.09), (1117, -0.08)]
+    most A-favouring units [(1579, 0.18), (1613, 0.11), (970, 0.1), (1451, 0.09), (1015, 0.09), (1477, 0.08)]
+L13 MLP down S-write change z(sign-flip null)  -0.11  frac units neg 0.500
+    most B-favouring units [(584, -0.22), (777, -0.1), (337, -0.09), (1270, -0.07), (1082, -0.07), (466, -0.07)]
+    most A-favouring units [(116, 0.24), (223, 0.1), (491, 0.09), (1243, 0.08), (1832, 0.08), (1835, 0.08)]
+L14 MLP down S-write change z(sign-flip null)  +0.07  frac units neg 0.502
+    most B-favouring units [(1372, -0.21), (960, -0.1), (4, -0.09), (1295, -0.07), (1488, -0.07), (1800, -0.07)]
+    most A-favouring units [(1264, 0.11), (1, 0.09), (305, 0.08), (1006, 0.08), (1967, 0.08), (1616, 0.08)]
+L15 MLP down S-write change z(sign-flip null)  -2.23  frac units neg 0.524
+    most B-favouring units [(469, -0.09), (240, -0.09), (1279, -0.08), (1995, -0.07), (167, -0.07), (1114, -0.07)]
+    most A-favouring units [(1352, 0.2), (1156, 0.12), (385, 0.1), (1686, 0.09), (1703, 0.08), (1224, 0.08)]
+L16 MLP down S-write change z(sign-flip null)  -2.03  frac units neg 0.523
+    most B-favouring units [(1955, -0.14), (1593, -0.13), (758, -0.09), (1980, -0.08), (1786, -0.08), (518, -0.08)]
+    most A-favouring units [(689, 0.13), (112, 0.12), (1320, 0.1), (1123, 0.08), (1213, 0.08), (1828, 0.07)]
+L17 MLP down S-write change z(sign-flip null)  -2.21  frac units neg 0.523
+    most B-favouring units [(310, -0.22), (1207, -0.11), (285, -0.1), (824, -0.09), (1623, -0.09), (858, -0.09)]
+    most A-favouring units [(228, 0.15), (1027, 0.12), (1309, 0.1), (328, 0.09), (1000, 0.08), (490, 0.08)]
+
+```

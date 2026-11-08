@@ -1,0 +1,22 @@
+OUTPUT of run 29 of at most 60:
+```
+L 0 valid=0.665 | mean cos(o,xhat) all=-0.0007 (null sd of mean 0.0009) | top5% ans-overlap units=+0.0006 | weighted=-0.0009 | mean ovX sel=0.092
+L 1 valid=0.698 | mean cos(o,xhat) all=-0.0003 (null sd of mean 0.0009) | top5% ans-overlap units=-0.0005 | weighted=-0.0006 | mean ovX sel=0.084
+L 2 valid=0.693 | mean cos(o,xhat) all=-0.0014 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0043 | weighted=-0.0018 | mean ovX sel=0.053
+L 3 valid=0.696 | mean cos(o,xhat) all=-0.0002 (null sd of mean 0.0009) | top5% ans-overlap units=-0.0012 | weighted=-0.0002 | mean ovX sel=0.037
+L 4 valid=0.666 | mean cos(o,xhat) all=+0.0012 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0089 | weighted=+0.0001 | mean ovX sel=0.013
+L 5 valid=0.720 | mean cos(o,xhat) all=-0.0006 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0041 | weighted=-0.0008 | mean ovX sel=0.014
+L 6 valid=0.724 | mean cos(o,xhat) all=+0.0001 (null sd of mean 0.0010) | top5% ans-overlap units=+0.0016 | weighted=-0.0003 | mean ovX sel=0.015
+L 7 valid=0.705 | mean cos(o,xhat) all=-0.0006 (null sd of mean 0.0010) | top5% ans-overlap units=+0.0020 | weighted=+0.0011 | mean ovX sel=0.015
+L 8 valid=0.687 | mean cos(o,xhat) all=-0.0006 (null sd of mean 0.0011) | top5% ans-overlap units=+0.0072 | weighted=-0.0007 | mean ovX sel=0.014
+L 9 valid=0.698 | mean cos(o,xhat) all=-0.0006 (null sd of mean 0.0010) | top5% ans-overlap units=+0.0005 | weighted=+0.0002 | mean ovX sel=0.016
+L10 valid=0.675 | mean cos(o,xhat) all=-0.0000 (null sd of mean 0.0010) | top5% ans-overlap units=+0.0035 | weighted=-0.0012 | mean ovX sel=0.015
+L11 valid=0.673 | mean cos(o,xhat) all=+0.0014 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0042 | weighted=+0.0003 | mean ovX sel=0.032
+L12 valid=0.688 | mean cos(o,xhat) all=+0.0004 (null sd of mean 0.0011) | top5% ans-overlap units=+0.0031 | weighted=+0.0017 | mean ovX sel=0.036
+L13 valid=0.704 | mean cos(o,xhat) all=+0.0010 (null sd of mean 0.0011) | top5% ans-overlap units=+0.0035 | weighted=+0.0015 | mean ovX sel=0.028
+L14 valid=0.729 | mean cos(o,xhat) all=-0.0007 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0012 | weighted=-0.0011 | mean ovX sel=0.029
+L15 valid=0.715 | mean cos(o,xhat) all=+0.0014 (null sd of mean 0.0010) | top5% ans-overlap units=-0.0067 | weighted=+0.0017 | mean ovX sel=0.026
+L16 valid=0.721 | mean cos(o,xhat) all=+0.0025 (null sd of mean 0.0011) | top5% ans-overlap units=-0.0008 | weighted=+0.0028 | mean ovX sel=0.032
+L17 valid=0.707 | mean cos(o,xhat) all=-0.0012 (null sd of mean 0.0011) | top5% ans-overlap units=+0.0062 | weighted=-0.0006 | mean ovX sel=0.035
+
+```

@@ -1,0 +1,42 @@
+OUTPUT of run 18 of at most 20:
+```
+(a) digit-directed change score = ||1+w_post|| * ||Qd^T dOut|| / ||Out||_F
+MLP17:17.65 MLP16:12.02 MLP15:8.52 MLP14:6.25 MLP13:3.85 MLP12:2.15 L16H3:2.00 L16H1:1.80 L16H2:1.73 L16H0:1.71 MLP11:1.42 L17H3:1.38 L15H2:1.28 L15H1:1.17 L15H3:1.15 L15H0:0.93 L17H1:0.92 L17H0:0.89 MLP10:0.80 L12H3:0.79
+late MLP units with largest digit-directed d(down) column (energy, rel to unit's own base digit energy):
+ MLP14: share of top8 in total digit energy=0.016 [(779, 0.188, 0.074), (1966, 0.179, 0.077), (221, 0.178, 0.06), (1380, 0.172, 0.064), (596, 0.172, 0.091), (1416, 0.172, 0.099), (1328, 0.167, 0.055), (1793, 0.166, 0.081)]
+ MLP15: share of top8 in total digit energy=0.014 [(1417, 0.274, 0.057), (228, 0.271, 0.081), (1470, 0.265, 0.074), (289, 0.263, 0.111), (1516, 0.26, 0.111), (1889, 0.259, 0.066), (697, 0.254, 0.101), (135, 0.254, 0.069)]
+ MLP16: share of top8 in total digit energy=0.016 [(1314, 0.475, 0.087), (624, 0.455, 0.175), (1143, 0.447, 0.085), (583, 0.42, 0.114), (873, 0.412, 0.125), (1294, 0.41, 0.114), (187, 0.407, 0.102), (636, 0.399, 0.168)]
+ MLP17: share of top8 in total digit energy=0.020 [(750, 0.743, 0.025), (1219, 0.698, 0.198), (1726, 0.645, 0.19), (1610, 0.64, 0.029), (253, 0.628, 0.196), (258, 0.619, 0.135), (467, 0.606, 0.192), (1930, 0.604, 0.491)]
+(b) outlier units
+L7 u186: gate rel=0.009 cos=1.0000 |A|/|B|=1.001 | up_p rel=0.025 cos=0.9997 |A|/|B|=1.005 | down rel=0.037 |A|/|B|=1.009
+    q-read enrichment(A col): (9, 0):0.45 (10, 2):0.51 (11, 2):0.53 (12, 1):0.32 (12, 0):0.24
+    down A writes: +['angg' 'basi' ' Paj' 'sla' 'INTE' 'errorHandler' ' Aust' ' Ecol'] -['alities' 'books' 'aworld' ' parenchyma' ' world' 'Subjects' ' means' ' this']
+    d(down) A-B: +['M' 'the' 'S' 'B' 'G' ' S' 'O' ' M'] -['enyl' ' refreshToken' 'ubercul' ' AudioClip' 'aecat' 'DownLatch' ' sessionId' ' ParkingLot']
+    gate A reads(emb): +['onitrile' ' compartments' ' notebook' ' kinase' ' nugget' ' personalize' ' chunks' ' closet'] -[' Atha' 'iration' 'PAM' 'valo' 'undant' ' PIB' ' Gaff' 'aird']
+L7 u256: gate rel=0.007 cos=1.0000 |A|/|B|=0.999 | up_p rel=0.030 cos=0.9996 |A|/|B|=1.001 | down rel=0.036 |A|/|B|=0.992
+    q-read enrichment(A col): (9, 0):0.53 (10, 2):0.53 (11, 2):0.70 (12, 1):0.30 (12, 0):0.33
+    down A writes: +['ado' 'ym' 'cop' 'aut' 'ados' 'anti' 'attr' 'etic'] -[' rearrange' ' liquors' ' perceive' ' cultivate' ' pipette' ' overshoot' ' viewfinder' ' myelin']
+    d(down) A-B: +['<unused1792>' '<unused1938>' '<unused503>' '<unused1788>' ' conced' 'rctx' '<unused451>' '<unused931>'] -[' the' 'the' ' The' 'The' ' them' ' and' ' A' 'them']
+    gate A reads(emb): +['etaan' ' Youngstown' ' esophagus' 'ouli' 'estrutura' 'Organizer' ' Gazette' 'rg'] -[' Intr' ' mil' ' Cent' ' Sno' ' Deb' ' bac' 'Cent' ' Aro']
+L8 u706: gate rel=0.007 cos=1.0000 |A|/|B|=0.999 | up_p rel=0.011 cos=0.9999 |A|/|B|=1.000 | down rel=0.028 |A|/|B|=0.997
+    q-read enrichment(A col): (9, 0):0.28 (10, 2):0.27 (11, 2):0.30 (12, 1):0.15 (12, 0):0.15
+    down A writes: +['onOptions' ' scriptlevel' ' Bhuv' 'houettes' 'buildCommand' 'QSpacerItem' 'otheli' 'ayena'] -['T' 'Key' ' ultra' ' cu' ' mini' 'C' ' Basic' 'Basic']
+    d(down) A-B: +['B' ' como' ' sey' 'G' 'A' 'M' 'will' 'L'] -[' vot' ' birefring' ' Sentiment' ' troll' ' nacht' ' quantile' ' Filtering' ' dosimetry']
+    gate A reads(emb): +[' coalescence' ' coalesce' ' discretion' ' juices' ' eyebrows' ' twinkle' ' collocation' ' lashes'] -['reme' ' Pana' ' Nine' ' Eighty' 'Nine' ' connaissez' 'PAN' ' Marsh']
+L8 u500: gate rel=0.017 cos=0.9999 |A|/|B|=0.998 | up_p rel=0.008 cos=1.0000 |A|/|B|=0.999 | down rel=0.022 |A|/|B|=0.998
+    q-read enrichment(A col): (9, 0):0.41 (10, 2):0.49 (11, 2):0.30 (12, 1):0.25 (12, 0):0.20
+    down A writes: +[' ce' ' Weiter' ' last' ' au' ' mais' ' SUMMARY' ' alors' ' very'] -['ondas' 'allus' 'gles' 'ziej' 'ylidene' 'cardia' 'sembling' 'newblock']
+    d(down) A-B: +[' sheer' ' rester' ' biod' ' elabor' ' vibr' ' fabricated' ' deployment' ' payload'] -['bingen' 'ireann' 'OptionsMenu' 'wijs' ' gimnaz' 'valids' ' Chemists' ' acquaint']
+    gate A reads(emb): +[' residences' ' Sr' ' odor' ' monoxide' ' Hath' ' continu' ' fruit' 'Oak'] -['mages' ' Guinness' 'jiang' 'pragma' 'egger' 'RULE' 'agia' ' sanguin']
+L11 u892: gate rel=0.003 cos=1.0000 |A|/|B|=1.000 | up_p rel=0.025 cos=0.9997 |A|/|B|=0.998 | down rel=0.030 |A|/|B|=1.003
+    q-read enrichment(A col): (12, 1):0.55 (12, 0):0.35
+    down A writes: +['<unused852>' '<unused1296>' ' andRow' 'wallepics' '<unused1210>' 'dcsset' '<unused1251>' '<unused1408>'] -[' is' ' to' ' for' ' in' ' The' ' the' ' a' ' and']
+    d(down) A-B: +['izde' ' nao' 'adisu' 'ilerine' 'ijas' 'iatric' ' talaga' ' direcion'] -['Docs' ' conferencing' 'Little' ' Houghton' ' statesman' 'Middle' 'Markup' ' Mound']
+    gate A reads(emb): +[' recall' '�' ' yerine' ' killer' ' y' 'ijdens' ' asseg' ' u'] -['qualified' 'onomie' 'onav' ' Drs' ' derivs' ' hypersur' 'ipedi' ' Caff']
+L11 u743: gate rel=0.010 cos=1.0000 |A|/|B|=1.001 | up_p rel=0.014 cos=0.9999 |A|/|B|=1.000 | down rel=0.014 |A|/|B|=1.001
+    q-read enrichment(A col): (12, 1):0.41 (12, 0):0.27
+    down A writes: +[' seleccione' ' exactamente' ' literalmente' ' Appodeal' ' descarg' ' zelo' 'harusnya' 'hingga'] -[' Ul' ' John' ' George' ' Lu' ' Lam' ' E' ' IL' ' SE']
+    d(down) A-B: +[' nCmd' 'epit' ' nich' ' thisStudent' ' baseURL' ' preocup' ' objRequest' ' searchObject'] -['John' ' Ph' ' John' ' Andrew' ' O' ' E' 'less' 'Ph']
+    gate A reads(emb): +['</i>' 'uvi' 'ogi' 'ashing' ' llor' 'atorship' '</em>' 'ITTER'] -['ImageData' ' preexisting' 'bore' ' reaffirm' 'hold' 'onav' 'FieldSet' 'Greece']
+
+```

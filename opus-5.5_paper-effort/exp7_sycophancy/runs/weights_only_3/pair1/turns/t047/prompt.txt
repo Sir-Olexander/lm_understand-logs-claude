@@ -1,0 +1,19 @@
+OUTPUT of run 46 of at most 60:
+```
+L15-17 both   K= 8: base-weighted net=   -72.5 | L3h3   -5.5σ  L0h1   -2.5σ  L2h1   +3.7σ  L0h2  +10.6σ  L7h0  -0.9σ
+L15-17 both   K=16: base-weighted net=  -191.3 | L3h3   -9.0σ  L0h1   -7.3σ  L2h1   +4.7σ  L0h2   +6.4σ  L7h0  -2.1σ
+L15-17 both   K=24: base-weighted net=  -171.6 | L3h3   -5.4σ  L0h1   -6.7σ  L2h1   +4.9σ  L0h2  +11.8σ  L7h0  -0.9σ
+L16-17 both   K= 8: base-weighted net=   -92.5 | L3h3  -10.0σ  L0h1   -2.1σ  L2h1   +2.7σ  L0h2  +17.7σ  L7h0  -0.5σ
+L16-17 both   K=16: base-weighted net=  -155.6 | L3h3   -6.0σ  L0h1   -7.6σ  L2h1   +4.8σ  L0h2  +16.7σ  L7h0  -1.4σ
+L16-17 both   K=24: base-weighted net=  -203.5 | L3h3   -6.2σ  L0h1   -5.9σ  L2h1   +2.9σ  L0h2   +8.8σ  L7h0  -1.4σ
+L12-17 both   K= 8: base-weighted net=   -54.2 | L3h3   -5.6σ  L0h1   +2.0σ  L2h1   -0.0σ  L0h2   +7.7σ  L7h0  -2.1σ
+L12-17 both   K=16: base-weighted net=  -144.7 | L3h3   -4.5σ  L0h1   -4.9σ  L2h1   +3.0σ  L0h2   +5.3σ  L7h0  -2.8σ
+L12-17 both   K=24: base-weighted net=  -155.8 | L3h3   -5.5σ  L0h1   -3.0σ  L2h1   +4.2σ  L0h2   +4.6σ  L7h0  -4.1σ
+L15-17 down   K= 8: base-weighted net=  -153.2 | L3h3   -6.8σ  L0h1  -15.4σ  L2h1   +1.7σ  L0h2   +8.1σ  L7h0  -2.2σ
+L15-17 down   K=16: base-weighted net=  -236.7 | L3h3   -7.8σ  L0h1  -11.9σ  L2h1   +3.0σ  L0h2   +6.3σ  L7h0  -1.9σ
+L15-17 down   K=24: base-weighted net=  -296.0 | L3h3   -6.7σ  L0h1   -8.2σ  L2h1   +4.0σ  L0h2   +6.3σ  L7h0  -3.2σ
+L15-17 oproj  K= 8: base-weighted net=   -68.6 | L3h3   -5.2σ  L0h1   +0.0σ  L2h1   +2.0σ  L0h2   +5.8σ  L7h0  -1.7σ
+L15-17 oproj  K=16: base-weighted net=  -123.1 | L3h3   -4.6σ  L0h1   -3.9σ  L2h1   +6.5σ  L0h2   +7.2σ  L7h0  -0.2σ
+L15-17 oproj  K=24: base-weighted net=   -80.2 | L3h3   -3.5σ  L0h1   -3.1σ  L2h1   +4.6σ  L0h2   +4.3σ  L7h0  -2.0σ
+
+```

@@ -1,0 +1,14 @@
+OUTPUT of run 50 of at most 60:
+```
+L5: best s1=12 s2=16 | type-signed mean amplitude near    +0.00  far    -0.01 | per-head (type,near,far): [(1, np.float64(-0.0), np.float64(0.0)), (1, np.float64(0.1), np.float64(-0.1)), (1, np.float64(0.0), np.float64(-0.0)), (-1, np.float64(0.1), np.float64(-0.1))]
+L6: best s1=11 s2=18 | type-signed mean amplitude near    -0.01  far    -0.01 | per-head (type,near,far): [(1, np.float64(-0.0), np.float64(-0.0)), (-1, np.float64(0.0), np.float64(0.0)), (1, np.float64(-0.0), np.float64(-0.0)), (1, np.float64(-0.0), np.float64(-0.0))]
+L7: best s1=12 s2=25 | type-signed mean amplitude near    -0.00  far    +0.00 | per-head (type,near,far): [(1, np.float64(-0.0), np.float64(0.0)), (-1, np.float64(0.0), np.float64(-0.0)), (1, np.float64(0.0), np.float64(-0.0)), (1, np.float64(0.0), np.float64(0.0))]
+L8: best s1=13 s2=24 | type-signed mean amplitude near    +0.00  far    +0.00 | per-head (type,near,far): [(-1, np.float64(-0.0), np.float64(-0.0)), (1, np.float64(0.0), np.float64(0.0)), (1, np.float64(-0.0), np.float64(-0.0))]
+L9: best s1=13 s2=30 | type-signed mean amplitude near    +0.01  far    +0.01 | per-head (type,near,far): [(1, np.float64(0.0), np.float64(0.0)), (-1, np.float64(-0.0), np.float64(-0.0)), (1, np.float64(0.0), np.float64(0.0)), (1, np.float64(0.0), np.float64(0.0))]
+L11: best s1= 8 s2=24 | type-signed mean amplitude near    +0.06  far    +0.16 | per-head (type,near,far): [(1, np.float64(-0.1), np.float64(0.1)), (1, np.float64(0.2), np.float64(0.2)), (-1, np.float64(-0.0), np.float64(-0.2))]
+L12: best s1=13 s2=24 | type-signed mean amplitude near    +0.00  far    -0.01 | per-head (type,near,far): [(-1, np.float64(-0.0), np.float64(0.0)), (1, np.float64(-0.0), np.float64(-0.0)), (1, np.float64(0.0), np.float64(-0.0)), (1, np.float64(-0.0), np.float64(0.0))]
+L13: best s1= 4 s2=24 | type-signed mean amplitude near    -0.00  far    +0.00 | per-head (type,near,far): [(1, np.float64(-0.0), np.float64(-0.0)), (1, np.float64(-0.0), np.float64(0.0)), (1, np.float64(0.0), np.float64(0.0)), (-1, np.float64(0.0), np.float64(-0.0))]
+L15: best s1= 9 s2=17 | type-signed mean amplitude near    -0.00  far    +0.00 | per-head (type,near,far): [(1, np.float64(0.0), np.float64(-0.0)), (-1, np.float64(0.0), np.float64(-0.0)), (1, np.float64(-0.0), np.float64(0.0)), (1, np.float64(-0.0), np.float64(0.0))]
+L17: best s1=10 s2=17 | type-signed mean amplitude near    -0.02  far    +0.02 | per-head (type,near,far): [(1, np.float64(-0.0), np.float64(0.0)), (1, np.float64(-0.0), np.float64(0.0)), (-1, np.float64(0.0), np.float64(-0.0))]
+
+```

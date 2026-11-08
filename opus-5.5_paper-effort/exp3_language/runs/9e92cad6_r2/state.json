@@ -1,0 +1,16 @@
+{
+ "exp": "exp3",
+ "label": "9e92cad6_r2",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 29,
+ "runs": 28,
+ "session_id": "d02bf620-b5f2-4467-b598-36032b8dda3d",
+ "cwd": "<home>/wsp/scratch/run-503304",
+ "done": true,
+ "next": "OUTPUT of run 28 of at most 100:\n```\nW_proj.0 svals [10.9   7.7   7.17  6.64  6.54  6.29  6.2   6.13  5.94  5.92  5.76  5.64] [4.55 4.24 3.93 3.65 3.45]\nW_proj.1 svals [9.04 8.46 8.1  7.33 7.32 7.09 6.77 6.67 6.57 6.43 6.37 6.28] [5.56 5.36 5.21 5.03 4.89]\nW_proj.2 svals [10.2   9.03  8.88  8.41  8.22  8.09  7.99  7.83  7.68  7.49  7.37  7.26] [5.89 5.53 5.28 5.09 4.9 ]\noverlap M0 with T [0.7  0.63 0.61 0.58 0.56 0.55 0.51 0.49 0.46 0.46]\nL1H0 MLP0out: Q 3.08 K 2.93 V 3.45\nL1H1 MLP0out: Q 2.88 K 3.00 V 3.94\nL1H2 MLP0out: Q 3.09 K 2.74 V 3.36\nL1H3 MLP0out: Q 3.00 K 3.08 V 3.79\nL1H4 MLP0out: Q 2.77 K 2.97 V 3.23\nL1H5 MLP0out: Q 3.19 K 2.90 V 3.85\nL2H0 MLP0out: Q 1.21 K 1.50 V 1.18 | MLP1out: Q 1.20 K 1.00 V 2.72\nL2H1 MLP0out: Q 1.29 K 1.46 V 1.38 | MLP1out: Q 1.12 K 1.23 V 2.46\nL2H2 MLP0out: Q 1.02 K 1.33 V 1.24 | MLP1out: Q 1.11 K 1.22 V 2.93\nL2H3 MLP0out: Q 1.06 K 1.35 V 1.40 | MLP1out: Q 1.13 K 1.42 V 2.16\nL2H4 MLP0out: Q 1.23 K 1.48 V 1.44 | MLP1out: Q 1.15 K 1.16 V 1.84\nL2H5 MLP0out: Q 1.25 K 1.41 V 1.36 | MLP1out: Q 1.12 K 1.12 V 2.18\nL3H0 MLP0out: Q 1.01 K 1.16 V 1.17 | MLP1out: Q 0.89 K 0.92 V 1.20 | MLP2out: Q 0.79 K 0.98 V 2.38\nL3H1 MLP0out: Q 0.92 K 1.12 V 1.14 | MLP1out: Q 0.89 K 1.01 V 1.17 | MLP2out: Q 0.99 K 1.05 V 1.65\nL3H2 MLP0out: Q 0.91 K 1.11 V 1.11 | MLP1out: Q 0.89 K 0.97 V 1.21 | MLP2out: Q 0.83 K 1.03 V 2.32\nL3H3 MLP0out: Q 1.25 K 1.02 V 1.23 | MLP1out: Q 0.75 K 0.66 V 0.79 | MLP2out: Q 0.44 K 0.33 V 0.79\nL3H4 MLP0out: Q 0.98 K 1.06 V 0.88 | MLP1out: Q 0.89 K 0.90 V 1.28 | MLP2out: Q 1.10 K 1.27 V 3.71\nL3H5 MLP0out: Q 0.99 K 1.16 V 1.12 | MLP1out: Q 0.94 K 0.99 V 1.20 | MLP2out: Q 0.81 K 0.97 V 2.53\n\n```",
+ "started": "2026-11-07T09:25:16+00:00",
+ "extra": {
+  "handled_turn": 29
+ }
+}

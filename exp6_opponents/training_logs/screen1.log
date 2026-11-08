@@ -1,0 +1,43 @@
+[2026-11-05T22:55:05] v2/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.191, "vs_random_256": 0.898}
+[2026-11-05T23:01:39] v2/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.113, "vs_same_size_s0_256": 0.109, "vs_random_256": 0.91}
+[2026-11-05T23:16:25] v2/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.078, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.961}
+[2026-11-05T23:18:42] v2/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.188, "vs_same_size_s0_256": 0.219, "vs_random_256": 0.973}
+[2026-11-05T23:20:58] v2/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.297, "vs_same_size_s0_256": 0.219, "vs_random_256": 0.98}
+[2026-11-05T23:21:05] ppo_s1 calibration @5000: {"astra_b0": 0.325, "astra_b10": 0.224, "astra_b25": 0.234, "astra_b50": 0.142, "same_size_s0": 0.233, "same_size_s1": 0.133, "same_size_s2": 0.169, "random": 0.984} family mean diff -0.137
+[2026-11-05T23:21:05] v2/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+[2026-11-05T23:23:37] v3/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.023, "vs_same_size_s0_256": 0.285, "vs_random_256": 0.953}
+[2026-11-05T23:25:53] v3/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.043, "vs_same_size_s0_256": 0.141, "vs_random_256": 0.926}
+[2026-11-05T23:28:10] v3/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.109, "vs_same_size_s0_256": 0.078, "vs_random_256": 0.906}
+[2026-11-05T23:30:26] v3/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.168, "vs_same_size_s0_256": 0.219, "vs_random_256": 0.922}
+[2026-11-05T23:32:43] v3/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.324, "vs_same_size_s0_256": 0.176, "vs_random_256": 0.949}
+[2026-11-05T23:32:48] ppo_s1 calibration @5000: {"astra_b0": 0.311, "astra_b10": 0.336, "astra_b25": 0.288, "astra_b50": 0.124, "same_size_s0": 0.162, "same_size_s1": 0.087, "same_size_s2": 0.117, "random": 0.942} family mean diff -0.142
+[2026-11-05T23:32:48] v3/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+[2026-11-05T23:35:17] v4/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.027, "vs_same_size_s0_256": 0.121, "vs_random_256": 0.91}
+[2026-11-05T23:37:34] v4/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.078, "vs_same_size_s0_256": 0.027, "vs_random_256": 0.922}
+[2026-11-05T23:39:51] v4/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.246, "vs_same_size_s0_256": 0.039, "vs_random_256": 0.98}
+[2026-11-05T23:42:07] v4/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.332, "vs_same_size_s0_256": 0.113, "vs_random_256": 0.98}
+[2026-11-05T23:44:24] v4/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.453, "vs_same_size_s0_256": 0.16, "vs_random_256": 1.0}
+[2026-11-05T23:44:26] ppo_s1 calibration @5000: {"astra_b0": 0.467, "astra_b10": 0.284, "astra_b25": 0.322, "astra_b50": 0.178, "same_size_s0": 0.192, "same_size_s1": 0.144, "same_size_s2": 0.244, "random": 0.992} family mean diff -0.084
+[2026-11-05T23:44:26] v4/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+[2026-11-05T23:47:00] v5/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.023, "vs_same_size_s0_256": 0.07, "vs_random_256": 0.938}
+[2026-11-05T23:49:16] v5/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.055, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.953}
+[2026-11-05T23:51:32] v5/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.094, "vs_same_size_s0_256": 0.105, "vs_random_256": 0.977}
+[2026-11-05T23:53:47] v5/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.125, "vs_same_size_s0_256": 0.035, "vs_random_256": 0.957}
+[2026-11-05T23:56:03] v5/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.281, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.98}
+[2026-11-05T23:56:10] ppo_s1 calibration @5000: {"astra_b0": 0.257, "astra_b10": 0.42, "astra_b25": 0.358, "astra_b50": 0.06, "same_size_s0": 0.057, "same_size_s1": 0.099, "same_size_s2": 0.241, "random": 0.985} family mean diff -0.132
+[2026-11-05T23:56:10] v5/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+[2026-11-05T23:58:39] v6/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.09, "vs_same_size_s0_256": 0.273, "vs_random_256": 0.957}
+[2026-11-06T00:00:56] v6/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.488, "vs_same_size_s0_256": 0.211, "vs_random_256": 0.992}
+[2026-11-06T00:03:12] v6/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.539, "vs_same_size_s0_256": 0.16, "vs_random_256": 0.977}
+[2026-11-06T00:05:29] v6/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.66, "vs_same_size_s0_256": 0.379, "vs_random_256": 0.988}
+[2026-11-06T00:07:46] v6/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.715, "vs_same_size_s0_256": 0.379, "vs_random_256": 0.977}
+[2026-11-06T00:07:48] ppo_s1 calibration @5000: {"astra_b0": 0.674, "astra_b10": 0.461, "astra_b25": 0.406, "astra_b50": 0.196, "same_size_s0": 0.368, "same_size_s1": 0.446, "same_size_s2": 0.756, "random": 0.983} family mean diff +0.127
+[2026-11-06T00:07:48] v6/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+[2026-11-06T00:10:18] v7/ppo_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.039, "vs_random_256": 0.945}
+[2026-11-06T00:12:35] v7/ppo_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.07, "vs_same_size_s0_256": 0.082, "vs_random_256": 0.969}
+[2026-11-06T00:14:51] v7/ppo_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.379, "vs_same_size_s0_256": 0.332, "vs_random_256": 0.984}
+[2026-11-06T00:17:08] v7/ppo_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.438, "vs_same_size_s0_256": 0.242, "vs_random_256": 0.996}
+[2026-11-06T00:19:25] v7/ppo_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.469, "vs_same_size_s0_256": 0.379, "vs_random_256": 0.988}
+[2026-11-06T00:19:27] ppo_s1 calibration @5000: {"astra_b0": 0.516, "astra_b10": 0.318, "astra_b25": 0.365, "astra_b50": 0.081, "same_size_s0": 0.34, "same_size_s1": 0.364, "same_size_s2": 0.482, "random": 0.992} family mean diff +0.007
+[2026-11-06T00:19:27] v7/ppo_s1: stopped at iteration 5000 of 20000 (--stop-at)
+screen done: v2 v3 v4 v5 v6 v7 ppo_s1 5000

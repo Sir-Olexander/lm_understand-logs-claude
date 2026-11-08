@@ -1,0 +1,6 @@
+OUTPUT of Python run 11 of at most 120:
+```
+[('own_libs2_e0', 63), ('own_libs1_e1', 55), ('noown_e1', 44), ('own_libs12_e0', 12), ('own_libs2_e1', 6), ('own_libs11_e1', 4), ('own_libs12_e1', 2), ('own_libs22_e0', 1)]
+(array([26, 15, 10, 17, 20, 99]), array([0.  , 0.05, 0.1 , 0.2 , 0.4 , 0.6 , 1.01]))
+
+```

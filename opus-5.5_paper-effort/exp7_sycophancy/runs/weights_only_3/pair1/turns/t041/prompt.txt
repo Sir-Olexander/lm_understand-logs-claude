@@ -1,0 +1,11 @@
+OUTPUT of run 40 of at most 60:
+```
+S_ans(out)    metric=Gfin  : all mean=-0.415 (#neg 46/72)  guess-heads mean=-0.804 (#neg 12/16)
+S_ans(out)    metric=I     : all mean=-0.374 (#neg 43/72)  guess-heads mean=-0.692 (#neg 12/16)
+S_ans(out)    metric=sqrtG : all mean=-0.378 (#neg 48/72)  guess-heads mean=-0.705 (#neg 13/16)
+S_in(v_proj)  metric=Gfin  : all mean=-0.143 (#neg 40/72)  guess-heads mean=-0.245 (#neg 11/16)
+S_in(v_proj)  metric=I     : all mean=-0.397 (#neg 49/72)  guess-heads mean=-0.514 (#neg 12/16)
+S_in(v_proj)  metric=sqrtG : all mean=-0.204 (#neg 45/72)  guess-heads mean=-0.311 (#neg 12/16)
+random subspaces (Gfin): all-mean +0.008 ± 0.213;  guess-mean -0.045 ± 0.351
+
+```

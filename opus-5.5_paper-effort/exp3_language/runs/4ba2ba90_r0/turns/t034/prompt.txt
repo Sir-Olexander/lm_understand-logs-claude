@@ -1,0 +1,17 @@
+OUTPUT of run 33 of at most 100:
+```
+random mean strong 1.29 medium 0.39 total 2.04
+L0H0 u: strong 1.27 medium 0.31 total 1.84
+L0H0 v: strong 1.15 medium 0.50 total 2.02
+L0H1 u: strong 1.04 medium 0.27 total 1.70
+L0H1 v: strong 1.58 medium 0.50 total 2.52
+L0H3 u: strong 1.11 medium 0.49 total 1.85
+L0H3 v: strong 1.24 medium 0.25 total 1.82
+L0H4 u: strong 1.56 medium 0.75 total 2.56
+L0H4 v: strong 1.23 medium 0.48 total 1.89
+L0H5 u: strong 1.24 medium 0.23 total 1.78
+L0H5 v: strong 0.99 medium 0.24 total 1.78
+max gain into medium [4.48 3.86 3.53 3.28 3.18]
+max gain into strong [7.47 7.11 7.02 6.7  6.5 ]
+
+```

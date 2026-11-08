@@ -1,0 +1,25 @@
+OUTPUT of run 35 of at most 60:
+```
+top base K-composition pairs (l1.h1 -> l2.h2): base score x640 | delta (relative)
+4.1 -> 5.1: base   203.7 | delta z  +1.39
+4.1 -> 5.3: base   197.7 | delta z  -1.61
+10.1 -> 11.2: base   173.2 | delta z  +2.76
+4.1 -> 5.2: base   172.8 | delta z  -1.75
+10.1 -> 11.3: base   152.3 | delta z  -2.81
+7.0 -> 8.1: base   123.6 | delta z  -1.43
+4.1 -> 5.0: base    92.6 | delta z  +3.75
+7.0 -> 10.2: base    88.6 | delta z  +1.54
+7.0 -> 8.0: base    80.6 | delta z  +2.76
+7.0 -> 9.1: base    74.0 | delta z  -0.36
+15.3 -> 17.2: base    72.9 | delta z  -0.21
+7.1 -> 8.2: base    71.9 | delta z  -1.05
+8.2 -> 9.3: base    71.7 | delta z  +1.21
+2.0 -> 3.3: base    71.6 | delta z  -0.22
+3.2 -> 13.3: base    69.8 | delta z  -0.32
+3.2 -> 6.0: base    69.1 | delta z  +2.22
+9.2 -> 10.2: base    67.2 | delta z  +0.66
+7.0 -> 10.3: base    67.2 | delta z  +0.61
+0.3 -> 3.3: base    67.1 | delta z  +1.62
+3.2 -> 8.0: base    63.2 | delta z  +1.82
+
+```

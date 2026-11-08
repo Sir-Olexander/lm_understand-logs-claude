@@ -1,0 +1,39 @@
+OUTPUT of run 26 of at most 60:
+```
+L 0 | digit -2.3 -1.9 -3.4 +0.6 | numwo -0.4 -1.1 -2.4 +3.7 | nouns +0.2 +0.3 -1.2 +2.0
+L 1 | digit +0.7 +1.5 +0.5 +0.6 | numwo -0.8 +0.6 -0.2 -1.6 | nouns -0.5 -1.0 +0.0 -1.8
+L 2 | digit -1.5 -0.9 -2.0 -0.7 | numwo +0.0 -2.6 +0.0 -0.0 | nouns -2.1 -1.3 -2.7 -0.1
+L 3 | digit -0.5 +1.1 -0.3 -0.5 | numwo -0.9 -0.5 -1.2 +0.1 | nouns -0.9 -2.4 -1.2 +0.8
+L 4 | digit +1.8 -0.3 +2.1 -0.9 | numwo +0.2 -3.1 +1.0 -1.9 | nouns +0.3 -1.9 +0.5 -0.6
+L 5 | digit +0.1 -2.2 +0.5 -0.6 | numwo -0.9 -1.8 -1.0 -0.5 | nouns -0.3 +1.6 -0.3 -0.0
+L 6 | digit +1.5 -3.6 +1.5 +0.4 | numwo -2.4 -2.5 -2.2 -1.0 | nouns +1.4 -1.3 +1.4 +0.7
+L 7 | digit -3.0 -1.6 -3.3 -0.5 | numwo -2.9 -0.3 -3.1 -0.3 | nouns -1.0 +1.1 -1.4 +0.4
+L 8 | digit +2.1 +0.2 +1.3 +2.0 | numwo -1.4 +1.5 -1.5 -0.3 | nouns -0.6 -1.4 -0.5 -0.8
+L 9 | digit -0.1 +1.9 -1.0 +1.5 | numwo +2.9 +0.6 +1.3 +3.3 | nouns -0.9 -0.3 -1.5 +0.9
+L10 | digit -2.6 -1.8 -2.7 -0.4 | numwo -2.8 -1.0 -3.0 -1.1 | nouns +1.8 +1.3 +1.1 +2.7
+L11 | digit -2.5 -2.5 -2.1 -3.1 | numwo +0.6 +0.9 +0.3 +1.4 | nouns +0.7 -0.6 +0.8 +0.3
+L12 | digit -1.4 -1.2 -0.7 -1.9 | numwo +0.4 +1.2 +1.3 -2.4 | nouns -0.7 -1.5 -0.1 -1.5
+L13 | digit -1.3 +0.0 -1.2 -0.9 | numwo +0.0 -1.0 +0.0 +0.0 | nouns -1.2 -0.4 -0.8 -1.2
+L14 | digit -1.2 -1.2 -1.6 +1.0 | numwo -2.1 -2.8 -2.6 +2.0 | nouns -1.4 +1.0 -1.2 -0.7
+L15 | digit -1.1 -0.6 -0.9 -1.8 | numwo -1.2 +0.0 -0.2 -4.4 | nouns +0.7 +0.8 +1.5 -1.6
+L16 | digit -1.2 +1.7 -1.3 +0.5 | numwo -2.1 -2.0 -2.0 -0.5 | nouns +1.9 -0.7 +1.7 +0.8
+L17 | digit -0.6 +2.5 -0.9 +2.1 | numwo -2.3 +2.8 -2.5 +0.8 | nouns -0.6 -0.9 -0.2 -1.3
+variants order: ['up_total', 'gate_total', 'dDown*Up', 'Down*dUp']
+
+L0-7: combined z = sum/sqrt(n_layers)
+  digits    up_total=-1.11 gate_total=-2.82 dDown*Up=-1.51 Down*dUp=-0.54
+  numwords  up_total=-2.86 gate_total=-3.98 dDown*Up=-3.23 Down*dUp=-0.55
+  capitals  up_total=-1.25 gate_total=+2.28 dDown*Up=-1.31 Down*dUp=-0.03
+  colors    up_total=+1.34 gate_total=+0.03 dDown*Up=+1.88 Down*dUp=-0.69
+  nouns     up_total=-0.98 gate_total=-1.71 dDown*Up=-1.72 Down*dUp=+0.51
+  verbs     up_total=-0.91 gate_total=+1.46 dDown*Up=-1.46 Down*dUp=+0.61
+
+L8-17: combined z = sum/sqrt(n_layers)
+  digits    up_total=-3.12 gate_total=-0.28 dDown*Up=-3.50 Down*dUp=-0.30
+  numwords  up_total=-2.52 gate_total=+0.06 dDown*Up=-2.82 Down*dUp=-0.42
+  capitals  up_total=-2.28 gate_total=-0.34 dDown*Up=-2.20 Down*dUp=-0.71
+  colors    up_total=-0.55 gate_total=-0.66 dDown*Up=-0.80 Down*dUp=+0.90
+  nouns     up_total=-0.04 gate_total=-0.92 dDown*Up=+0.27 Down*dUp=-0.83
+  verbs     up_total=-1.26 gate_total=-0.75 dDown*Up=-1.70 Down*dUp=+0.50
+
+```

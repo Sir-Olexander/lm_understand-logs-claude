@@ -1,0 +1,15 @@
+OUTPUT of Python run 51 of at most 120:
+```
+XXXOOX...
+X.XXOXXO.
+XXOXOOXO.
+.OOOOOO..
+O.O...O..
+..X.X..X.
+.X.XX.X..
+.OX.X....
+.........
+logit(1,1) 12.0 pass -4.0
+1 9 [0, 1, 2, 9, 11, 12, 18, 19, 21] [10, 27]
+
+```

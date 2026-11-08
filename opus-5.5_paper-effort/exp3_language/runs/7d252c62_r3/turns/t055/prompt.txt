@@ -1,0 +1,15 @@
+OUTPUT of run 54 of at most 100:
+```
+cluster cos(a,b) [0.51 0.61 0.59 0.7  0.64 0.74]  cos(a,c) [-0.3   0.13  0.19 -0.58  0.05 -0.14]  cos(b,c) [-0.23 -0.43  0.4  -0.42 -0.27 -0.27]
+|a|,|b|,|c| [0.9  0.81 0.55 0.98 1.1  1.38] [0.36 0.32 0.14 0.58 0.38 0.6 ] [0.43 0.42 0.18 0.26 0.38 0.21]
+proj norms [1.53 2.48 1.57 1.9  1.82 1.84] median live proj 1.91
+neurons with cos(a,u)>0.7: 31  < -0.7: 1
+0 cos(u, L0H0 key-tok dir) 0.58
+1 cos(u, L0H1 key-tok dir) 0.25
+2 cos(u, L0H2 key-tok dir) 0.42
+3 cos(u, L0H3 key-tok dir) 0.47
+4 cos(u, L0H4 key-tok dir) 0.23
+5 cos(u, L0H5 key-tok dir) 0.25
+|OV5 u| 0.53 avg 0.53
+
+```

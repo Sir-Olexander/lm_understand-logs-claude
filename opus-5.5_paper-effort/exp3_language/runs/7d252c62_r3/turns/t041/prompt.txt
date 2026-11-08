@@ -1,0 +1,21 @@
+OUTPUT of run 40 of at most 100:
+```
+cos uA,uB 0.3040782
+uA |OV5 u| 0.36 |OV1 u| 0.43 avg over T dirs 0.71 0.66
+   MLP0 read |F u| 2.63 avg T 4.34
+   L2H1 u^T G u 0.034  avg diag 0.185
+   L3H1 u^T G u 0.017  avg diag 0.130
+   L3H5 u^T G u -0.014  avg diag 0.190
+   L2H2 u^T G u -0.053  avg diag -0.132
+uB |OV5 u| 0.75 |OV1 u| 0.65 avg over T dirs 0.71 0.66
+   MLP0 read |F u| 5.07 avg T 4.34
+   L2H1 u^T G u 0.175  avg diag 0.185
+   L3H1 u^T G u 0.139  avg diag 0.130
+   L3H5 u^T G u 0.288  avg diag 0.190
+   L2H2 u^T G u -0.163  avg diag -0.132
+3 keypref . uA 0.004 uB -0.003
+2 keypref . uA 0.003 uB -0.005
+1 keypref . uA -0.007 uB -0.003
+5 keypref . uA 0.002 uB 0.003
+
+```

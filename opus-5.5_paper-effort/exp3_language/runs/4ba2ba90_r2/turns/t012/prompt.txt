@@ -1,0 +1,26 @@
+OUTPUT of run 11 of at most 100:
+```
+L3H1 with L0H0 OV: posfrac -0.81 top [0.35 0.07 0.07]
+L3H1 with L0H1 OV: posfrac -0.87 top [0.32 0.07 0.05]
+L3H1 with L0H2 OV: posfrac 0.96 top [0.42 0.42 0.34]
+L3H1 with L0H3 OV: posfrac 0.12 top [0.07 0.05 0.05]
+L3H1 with L0H4 OV: posfrac -0.85 top [0.24 0.06 0.04]
+L3H1 with L0H5 OV: posfrac -0.86 top [0.42 0.06 0.06]
+control random rotation of output: -0.09
+control random rotation of output: -0.17
+control random rotation of output: -0.02
+control random rotation of output: -0.16
+L2H0 posfrac by src heads (L0..L1): [ 0.94  0.96 -0.19 -0.92  0.96  0.83 -0.83 -0.23 -0.13 -0.56 -0.4  -0.41]
+L2H1 posfrac by src heads (L0..L1): [ 0.77  0.75 -0.21 -0.79  0.85  0.71 -0.58 -0.53 -0.31  0.13 -0.67 -0.46]
+L2H2 posfrac by src heads (L0..L1): [ 0.99  0.92  0.02 -0.86  0.99  0.32 -0.26  0.02  0.08  0.13  0.35  0.01]
+L2H3 posfrac by src heads (L0..L1): [ 0.99  0.98  0.09 -0.86  0.97  0.84 -0.41 -0.24 -0.32  0.07 -0.39 -0.46]
+L2H4 posfrac by src heads (L0..L1): [ 1.    0.92 -0.29 -0.91  0.99  0.68 -0.45 -0.16 -0.22 -0.14 -0.34 -0.47]
+L2H5 posfrac by src heads (L0..L1): [ 1.    0.72  0.03 -0.93  0.99  0.63 -0.67 -0.25  0.09 -0.56 -0.17 -0.51]
+L3H0 posfrac by src heads (L0..L2): [ 0.8   0.9  -0.05 -0.29  0.81  0.96 -0.39 -0.45 -0.46 -0.48 -0.6  -0.53 -0.39 -0.37 -0.29 -0.39 -0.39 -0.25]
+L3H1 posfrac by src heads (L0..L2): [-0.81 -0.87  0.96  0.12 -0.85 -0.86  0.29  0.62  0.79  0.9   0.55 -0.    0.3   0.82  0.45  0.38  0.15  0.25]
+L3H2 posfrac by src heads (L0..L2): [ 0.99  0.96  0.1  -0.61  0.96  1.    0.13  0.02 -0.11 -0.05 -0.07 -0.02  0.05 -0.01 -0.18 -0.09 -0.06 -0.06]
+L3H3 posfrac by src heads (L0..L2): [ 0.95  0.46  0.07 -0.4   0.81  0.94 -0.05 -0.17 -0.2  -0.09 -0.08  0.02  0.02 -0.03 -0.05 -0.11 -0.06  0.01]
+L3H4 posfrac by src heads (L0..L2): [ 0.99  0.99 -0.17 -0.28  0.99  1.   -0.07 -0.22 -0.18 -0.19 -0.41 -0.14  0.05 -0.06 -0.14 -0.01 -0.18  0.03]
+L3H5 posfrac by src heads (L0..L2): [-0.88 -0.92  0.06 -0.47 -0.66 -0.72  0.5   0.17  0.28  0.18  0.04  0.23  0.17  0.27  0.27  0.4   0.32  0.25]
+
+```

@@ -1,0 +1,6 @@
+OUTPUT of Python run 23 of at most 120:
+```
+[486, 486, 486, 486, 446, 486]
+True 2
+
+```

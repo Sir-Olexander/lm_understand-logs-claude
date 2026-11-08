@@ -1,0 +1,25 @@
+OUTPUT of run 23 of at most 60:
+```
+zo                     corr with copy score = +0.188, layer-stratified perm p = 0.0675
+zo centered            corr with copy score = +0.207, layer-stratified perm p = 0.0857
+OV gain rel change     corr with copy score = -0.007, layer-stratified perm p = 0.9636
+OV gain centered       corr with copy score = -0.147, layer-stratified perm p = 0.2334
+zq                     corr with copy score = +0.405, layer-stratified perm p = 0.0028
+zq centered            corr with copy score = +0.449, layer-stratified perm p = 0.0014
+
+per-layer: copy-head minus anti-head contrast (centered zo, centered gain, zq)
+ L 2 copy[0] anti[1]: dzo=+1.16 dgain=-4.00e-04 dzq=+3.74
+ L 3 copy[2] anti[0]: dzo=+1.99 dgain=+1.19e-03 dzq=+0.27
+ L 5 copy[0, 1, 2] anti[3]: dzo=-1.59 dgain=-1.04e-03 dzq=+0.66
+ L 6 copy[0, 2, 3] anti[1]: dzo=+4.54 dgain=-8.64e-04 dzq=+2.27
+ L 7 copy[0, 2, 3] anti[1]: dzo=-0.49 dgain=-5.26e-04 dzq=+2.17
+ L 8 copy[1, 2] anti[0]: dzo=+2.09 dgain=-6.77e-05 dzq=+0.02
+ L 9 copy[0, 2, 3] anti[1]: dzo=+1.13 dgain=-4.53e-04 dzq=+4.09
+ L11 copy[1, 2] anti[3]: dzo=+1.03 dgain=-1.92e-04 dzq=+5.30
+ L12 copy[1, 2, 3] anti[0]: dzo=+1.64 dgain=+5.48e-05 dzq=+5.28
+ L13 copy[0, 1, 2] anti[3]: dzo=+0.60 dgain=-7.76e-05 dzq=+1.54
+ L15 copy[0, 2, 3] anti[1]: dzo=-0.64 dgain=+1.24e-04 dzq=+1.64
+ L17 copy[0, 1] anti[2]: dzo=+1.74 dgain=+1.43e-04 dzq=+5.76
+ n layers 12  #positive dzo 9  #positive dgain 4  #positive dzq 12
+
+```

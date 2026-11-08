@@ -1,0 +1,19 @@
+{
+ "games": 2000,
+ "score": 0.8029999732971191,
+ "wins": 1606,
+ "losses": 394,
+ "score_as_black": 0.8100000023841858,
+ "score_as_white": 0.7960000038146973,
+ "mean_margin": 51.43550109863281,
+ "mean_length": 113.9345,
+ "stones_captured_per_game": 62.875,
+ "stones_lost_per_game": 8.936,
+ "passes_per_game": 1.683,
+ "games_with_a_pass_before_move_60": 0,
+ "end_two_passes": 1973,
+ "end_repetition": 23,
+ "end_move_limit": 4,
+ "written": "astra_budget_50",
+ "ppo": "ppo_same_size_lr3e-5_s2"
+}

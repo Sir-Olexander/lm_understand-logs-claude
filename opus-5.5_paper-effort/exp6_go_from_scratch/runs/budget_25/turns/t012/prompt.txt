@@ -1,0 +1,74 @@
+OUTPUT of Python run 10 of at most 120:
+```
+40 strong black -1 last by net seq [('o', 10), ('n', 19), ('o', 81), ('n', 8), ('o', 81), ('n', 64), ('o', 26), ('n', 17), ('o', 81), ('n', 8)]
+56 strong black -1 last by net seq [('o', 79), ('n', 81), ('o', 5), ('n', 80), ('o', 81), ('n', 62), ('o', 54), ('n', 81), ('o', 71), ('n', 45)]
+61 strong black -1 last by net seq [('o', 10), ('n', 75), ('o', 74), ('n', 53), ('o', 40), ('n', 31), ('o', 27), ('n', 22), ('o', 40), ('n', 31)]
+65 strong white -1 last by net seq [('o', 9), ('n', 78), ('o', 6), ('n', 76), ('o', 77), ('n', 75), ('o', 44), ('n', 0), ('o', 2), ('n', 1)]
+70 strong white -1 last by net seq [('o', 53), ('n', 44), ('o', 26), ('n', 35), ('o', 81), ('n', 2), ('o', 53), ('n', 44), ('o', 81), ('n', 35)]
+84 strong white -1 last by net seq [('o', 0), ('n', 67), ('o', 77), ('n', 73), ('o', 45), ('n', 63), ('o', 72), ('n', 64), ('o', 81), ('n', 73)]
+90 strong white -1 last by net seq [('o', 58), ('n', 74), ('o', 77), ('n', 76), ('o', 9), ('n', 75), ('o', 81), ('n', 74), ('o', 77), ('n', 76)]
+95 strong white 1 last by opponent seq [('n', 73), ('o', 17), ('n', 7), ('o', 44), ('n', 76), ('o', 14), ('n', 68), ('o', 8), ('n', 26), ('o', 17)]
+99 weak black -1 last by net seq [('o', 60), ('n', 75), ('o', 57), ('n', 58), ('o', 54), ('n', 36), ('o', 35), ('n', 59), ('o', 57), ('n', 58)]
+107 weak black 1 last by opponent seq [('n', 75), ('o', 43), ('n', 44), ('o', 69), ('n', 5), ('o', 78), ('n', 27), ('o', 74), ('n', 72), ('o', 73)]
+95 opponent 81
+OOO.OOOOX
+OOOOOOXOX
+OX.OOOXX.
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+..OOOXXXX
+OOOOOX.X.
+96 net 64
+OOO.OOOOX
+OOOOOOXOX
+OX.OOOXX.
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+.XOOOXXXX
+OOOOOX.X.
+97 opponent 26
+OOO.OOOO.
+OOOOOOXO.
+OX.OOOXXO
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+.XOOOXXXX
+OOOOOX.X.
+98 net 17
+OOO.OOOO.
+OOOOOOXOX
+OX.OOOXX.
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+.XOOOXXXX
+OOOOOX.X.
+99 opponent 81
+OOO.OOOO.
+OOOOOOXOX
+OX.OOOXX.
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+.XOOOXXXX
+OOOOOX.X.
+100 net 8
+OOO.OOOOX
+OOOOOOXOX
+OX.OOOXX.
+OOOOOX.XX
+O.OXXXXX.
+OOOOXXXXX
+OOOXX.XX.
+.XOOOXXXX
+OOOOOX.X.
+
+```

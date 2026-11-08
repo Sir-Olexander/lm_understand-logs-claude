@@ -1,0 +1,48 @@
+OUTPUT of run 21 of at most 60:
+```
+
+L17 down dW sv: [0.0973 0.0712 0.0641 0.0587 0.0548 0.0539 0.0523 0.0469]
+  comp0: unit-PR=663  top units [np.int64(595), np.int64(992), np.int64(1756), np.int64(1309), np.int64(197), np.int64(1549), np.int64(1336), np.int64(491)] w=[-0.093 -0.071  0.07  -0.069  0.068  0.068  0.064  0.063]
+          eff-logit dims [np.int64(390), np.int64(507), np.int64(585), np.int64(76), np.int64(393), np.int64(40)] frac top6=0.28;  raw-u PR=309
+  comp1: unit-PR=620  top units [np.int64(1241), np.int64(18), np.int64(1846), np.int64(1446), np.int64(924), np.int64(2033), np.int64(881), np.int64(1057)] w=[-0.091  0.08  -0.078  0.076 -0.069 -0.069  0.067  0.067]
+          eff-logit dims [np.int64(418), np.int64(507), np.int64(500), np.int64(368), np.int64(590), np.int64(199)] frac top6=0.07;  raw-u PR=264
+  comp2: unit-PR=611  top units [np.int64(310), np.int64(1620), np.int64(1971), np.int64(755), np.int64(1763), np.int64(730), np.int64(349), np.int64(139)] w=[ 0.08   0.08  -0.08  -0.076 -0.075  0.072  0.071 -0.069]
+          eff-logit dims [np.int64(507), np.int64(390), np.int64(292), np.int64(50), np.int64(339), np.int64(393)] frac top6=0.15;  raw-u PR=246
+  corr(unit weight in top-5 down comps, |dGate row|)=0.125, |dUp row|=0.148
+  gate dW sv: [0.399 0.311 0.264 0.246 0.235]  up dW sv: [0.397 0.312 0.267 0.239 0.236]
+  |cos| unit-side: down v1 vs gate u1 0.01, vs up u1 0.01; gate u1 vs up u1 0.05; gate v1 vs up v1 (input side) 0.99
+
+L16 down dW sv: [0.0784 0.0697 0.0663 0.0625 0.0578 0.0532 0.0513 0.0484]
+  comp0: unit-PR=668  top units [np.int64(1729), np.int64(518), np.int64(944), np.int64(369), np.int64(1821), np.int64(362), np.int64(1807), np.int64(895)] w=[-0.073  0.073 -0.071 -0.07   0.07   0.067 -0.066  0.065]
+          eff-logit dims [np.int64(292), np.int64(390), np.int64(40), np.int64(50), np.int64(583), np.int64(507)] frac top6=0.12;  raw-u PR=269
+  comp1: unit-PR=645  top units [np.int64(412), np.int64(1256), np.int64(917), np.int64(2007), np.int64(359), np.int64(1590), np.int64(1619), np.int64(180)] w=[-0.094 -0.08  -0.079 -0.078 -0.072 -0.072 -0.069  0.069]
+          eff-logit dims [np.int64(507), np.int64(50), np.int64(299), np.int64(421), np.int64(292), np.int64(390)] frac top6=0.28;  raw-u PR=258
+  comp2: unit-PR=631  top units [np.int64(643), np.int64(1393), np.int64(1265), np.int64(839), np.int64(1144), np.int64(1437), np.int64(930), np.int64(1100)] w=[-0.101 -0.076  0.072 -0.071  0.069  0.069 -0.066  0.066]
+          eff-logit dims [np.int64(507), np.int64(518), np.int64(76), np.int64(171), np.int64(622), np.int64(22)] frac top6=0.09;  raw-u PR=242
+  corr(unit weight in top-5 down comps, |dGate row|)=0.052, |dUp row|=0.059
+  gate dW sv: [0.388 0.298 0.278 0.252 0.238]  up dW sv: [0.372 0.291 0.27  0.251 0.234]
+  |cos| unit-side: down v1 vs gate u1 0.04, vs up u1 0.02; gate u1 vs up u1 0.01; gate v1 vs up v1 (input side) 0.99
+
+L15 down dW sv: [0.0694 0.0626 0.0586 0.0561 0.0533 0.0497 0.0489 0.047 ]
+  comp0: unit-PR=710  top units [np.int64(1910), np.int64(547), np.int64(1086), np.int64(1411), np.int64(2047), np.int64(659), np.int64(1279), np.int64(1817)] w=[-0.071 -0.071  0.07   0.068 -0.067  0.066 -0.066 -0.065]
+          eff-logit dims [np.int64(507), np.int64(292), np.int64(390), np.int64(474), np.int64(418), np.int64(299)] frac top6=0.21;  raw-u PR=256
+  comp1: unit-PR=628  top units [np.int64(1324), np.int64(1343), np.int64(171), np.int64(310), np.int64(963), np.int64(13), np.int64(1663), np.int64(1870)] w=[ 0.077 -0.074  0.073 -0.073 -0.072  0.072 -0.071 -0.07 ]
+          eff-logit dims [np.int64(507), np.int64(50), np.int64(333), np.int64(418), np.int64(421), np.int64(299)] frac top6=0.25;  raw-u PR=237
+  comp2: unit-PR=671  top units [np.int64(784), np.int64(1967), np.int64(1936), np.int64(1757), np.int64(1530), np.int64(203), np.int64(1312), np.int64(610)] w=[-0.093  0.081 -0.076  0.069  0.068 -0.066 -0.064  0.064]
+          eff-logit dims [np.int64(585), np.int64(76), np.int64(538), np.int64(599), np.int64(292), np.int64(1)] frac top6=0.15;  raw-u PR=250
+  corr(unit weight in top-5 down comps, |dGate row|)=0.062, |dUp row|=0.058
+  gate dW sv: [0.42  0.326 0.278 0.261 0.254]  up dW sv: [0.413 0.331 0.284 0.263 0.254]
+  |cos| unit-side: down v1 vs gate u1 0.00, vs up u1 0.02; gate u1 vs up u1 0.01; gate v1 vs up v1 (input side) 0.98
+
+L14 down dW sv: [0.0638 0.0578 0.0515 0.0506 0.0475 0.0452 0.0446 0.0429]
+  comp0: unit-PR=761  top units [np.int64(556), np.int64(647), np.int64(1470), np.int64(340), np.int64(1049), np.int64(1400), np.int64(720), np.int64(251)] w=[ 0.066  0.062 -0.06  -0.059  0.059  0.059 -0.057 -0.057]
+          eff-logit dims [np.int64(421), np.int64(507), np.int64(418), np.int64(474), np.int64(76), np.int64(292)] frac top6=0.27;  raw-u PR=227
+  comp1: unit-PR=745  top units [np.int64(1971), np.int64(1992), np.int64(1259), np.int64(556), np.int64(1578), np.int64(614), np.int64(618), np.int64(524)] w=[-0.07   0.068 -0.068  0.068  0.065 -0.064 -0.064  0.062]
+          eff-logit dims [np.int64(585), np.int64(390), np.int64(160), np.int64(421), np.int64(438), np.int64(257)] frac top6=0.15;  raw-u PR=230
+  comp2: unit-PR=675  top units [np.int64(305), np.int64(417), np.int64(1094), np.int64(419), np.int64(132), np.int64(1913), np.int64(1469), np.int64(1607)] w=[ 0.091  0.08   0.074 -0.068 -0.067  0.067  0.065 -0.065]
+          eff-logit dims [np.int64(606), np.int64(292), np.int64(333), np.int64(299), np.int64(50), np.int64(219)] frac top6=0.15;  raw-u PR=220
+  corr(unit weight in top-5 down comps, |dGate row|)=-0.054, |dUp row|=0.021
+  gate dW sv: [0.625 0.459 0.395 0.373 0.359]  up dW sv: [0.594 0.457 0.38  0.365 0.358]
+  |cos| unit-side: down v1 vs gate u1 0.00, vs up u1 0.03; gate u1 vs up u1 0.04; gate v1 vs up v1 (input side) 1.00
+
+```

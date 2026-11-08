@@ -1,0 +1,5 @@
+OUTPUT of Python run 42 of at most 120:
+```
+Counter({'moves': 4917, 'judged_cap': 1132, 'FP_played': 185, 'FP_selfatari': 84})
+
+```

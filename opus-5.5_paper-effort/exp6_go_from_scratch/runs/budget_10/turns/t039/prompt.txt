@@ -1,0 +1,104 @@
+OUTPUT of Python run 34 of at most 120:
+```
+5 58 (0, 2) e 0 [('own', 6, 2), ('own', 2, 1), ('own', 6, 2)] [[2, 0.7309], [46, 0.2511], [17, 0.0126]]
+XX*X.XX..
+OOXXXOXO.
+OOXXOOXO.
+.OOOOOOOO
+OXOXOOXX.
+X.XXXX..X
+.X.X.X.X.
+..X...X..
+.........
+16 50 (0, 0) e 0 [('opp', 22, 4), ('own', 9, 2)] [[0, 1.0], [73, 0.0], [65, 0.0]]
+*XX.XO...
+OOXXXOO..
+OOXXOOO..
+OOXOOOOX.
+OOOOXXX.X
+XOXOX.XX.
+XXXX.X...
+XO.......
+.........
+18 68 (0, 2) e 0 [('own', 9, 2), ('own', 1, 1), ('own', 9, 2)] [[2, 0.9998], [53, 0.0001], [81, 0.0]]
+OX*X.XOO.
+OOXXXXO..
+.OXXOXOOO
+OOOOOOOO.
+.OXOXXOOO
+OOXX.XXX.
+OX.XXX...
+X.X.X.X..
+.X.X....X
+34 58 (0, 3) e 0 [('own', 3, 2), ('own', 4, 2), ('own', 1, 1)] [[3, 0.9993], [35, 0.0002], [26, 0.0001]]
+XXX*XO...
+OX.XOOOO.
+OOXXOOO..
+OOOOOXXO.
+OXXOX.X..
+XXOOXXX..
+XXXXO.X..
+.X.X.....
+X.X....X.
+49 65 (8, 1) e 0 [('own', 9, 2), ('own', 1, 2), ('own', 1, 1)] [[73, 0.9578], [35, 0.0117], [26, 0.0055]]
+.........
+.XO.O..X.
+.XOOO.OX.
+XXOXOO.O.
+OXXXXOOX.
+OOOOXXXX.
+OOOXXOOX.
+.OXXXO.OX
+O*OXXOO..
+52 69 (8, 6) e 0 [('own', 6, 2), ('own', 1, 1), ('own', 6, 2)] [[78, 0.9991], [11, 0.0004], [2, 0.0003]]
+.O..O..O.
+.X.O.OOOO
+XXOOOXO.O
+.XO.XXXOO
+X.XXX.OXO
+..X.XXXXX
+.XX.XXXOO
+XOXX.XOO.
+.O.OXO*OO
+61 51 (8, 6) e 0 [('own', 7, 1), ('opp', 1, 2), ('opp', 1, 1)] [[78, 1.0], [74, 0.0], [75, 0.0]]
+.........
+.O.......
+O.OOXXX..
+.O.OX.XXX
+..OXX....
+..OOXXX.X
+.OOOXOXXO
+.XXXXOOOO
+.....X*XO
+27 64 (8, 0) e 0 [('own', 4, 1), ('opp', 1, 1)] [[72, 1.0], [75, 0.0], [66, 0.0]]
+...O.OOO.
+.OOO.OOXX
+.O...OXXX
+O.OOOOOOO
+O.OXXOXOO
+XOXX.XXOX
+XOO.XX.XX
+XXO...XX.
+*OX......
+46 42 (0, 3) e 0 [('opp', 20, 11), ('own', 4, 2), ('opp', 20, 11)] [[3, 1.0], [6, 0.0], [18, 0.0]]
+..X*OX...
+.OXOOOXX.
+.OXXOXXO.
+.OOOOOOO.
+.XOXXO.O.
+..XX.XOO.
+...XXXX..
+.......X.
+.........
+64 87 (6, 8) e 1 [('own', 10, 1), ('opp', 4, 2)] [[53, 0.6451], [62, 0.354], [2, 0.0007]]
+.O..OO.OO
+OXOOO.OO.
+.XXOOO.OO
+XX.XXOOOO
+X..XXXXOO
+X...XOOX.
+.X..XOXX*
+XXXXXOOXO
+....XOOOO
+
+```

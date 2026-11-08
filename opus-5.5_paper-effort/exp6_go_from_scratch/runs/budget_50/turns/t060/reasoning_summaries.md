@@ -1,0 +1,4 @@
+The capture-taken ratio fell to about 74%, down from 93.5%, which I think is the isolation penalty suppressing a lot of captures. Repetitions dropped to 4. Available captures went up, yet fewer get taken, so I'm wondering whether the untaken ones are the pointless throw-in style captures in opponent territory, though the win rate still sits around 50%.
+
+Now I'm looking at the win totals across both runs, which come to 61 of 128 and then 64 of 128, so it's basically noise. I want to move on to improving positional understanding and check whether our groups die because they lack eyes or because our own moves fill in territory. I'm planning to examine the big-group losses, looking at liberties and eye counts around 10 moves before each capture, printing two example boards every two plies over the 12 plies leading up to it.
+

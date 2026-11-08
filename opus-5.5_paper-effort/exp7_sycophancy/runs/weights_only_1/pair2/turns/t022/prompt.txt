@@ -1,0 +1,16 @@
+OUTPUT of run 21 of at most 60:
+```
+model.layers.2.self_attn.q_proj.weight: equal frac 0.230 | LSB=1 frac among equal 0.5013 | low-2-bit dist [0.2489 0.2519 0.2499 0.2494] | among differing: LSB(A)=1 0.4993 LSB(B)=1 0.5004
+model.layers.2.mlp.up_proj.weight: equal frac 0.269 | LSB=1 frac among equal 0.5017 | low-2-bit dist [0.2499 0.254  0.2484 0.2477] | among differing: LSB(A)=1 0.4994 LSB(B)=1 0.4999
+model.layers.2.mlp.down_proj.weight: equal frac 0.120 | LSB=1 frac among equal 0.4995 | low-2-bit dist [0.2505 0.2526 0.25   0.2469] | among differing: LSB(A)=1 0.5000 LSB(B)=1 0.4991
+model.layers.8.self_attn.q_proj.weight: equal frac 0.244 | LSB=1 frac among equal 0.5008 | low-2-bit dist [0.2488 0.2533 0.2505 0.2475] | among differing: LSB(A)=1 0.5015 LSB(B)=1 0.4996
+model.layers.8.mlp.up_proj.weight: equal frac 0.269 | LSB=1 frac among equal 0.5004 | low-2-bit dist [0.2494 0.2522 0.2503 0.2482] | among differing: LSB(A)=1 0.5005 LSB(B)=1 0.4994
+model.layers.8.mlp.down_proj.weight: equal frac 0.105 | LSB=1 frac among equal 0.4998 | low-2-bit dist [0.2496 0.2539 0.2506 0.2459] | among differing: LSB(A)=1 0.4995 LSB(B)=1 0.5006
+model.layers.14.self_attn.q_proj.weight: equal frac 0.184 | LSB=1 frac among equal 0.4981 | low-2-bit dist [0.2511 0.2521 0.2508 0.246 ] | among differing: LSB(A)=1 0.4993 LSB(B)=1 0.5003
+model.layers.14.mlp.up_proj.weight: equal frac 0.256 | LSB=1 frac among equal 0.5005 | low-2-bit dist [0.2494 0.253  0.2501 0.2475] | among differing: LSB(A)=1 0.4990 LSB(B)=1 0.5000
+model.layers.14.mlp.down_proj.weight: equal frac 0.097 | LSB=1 frac among equal 0.5010 | low-2-bit dist [0.2478 0.2514 0.2512 0.2496] | among differing: LSB(A)=1 0.5006 LSB(B)=1 0.4995
+model.layers.17.self_attn.q_proj.weight: equal frac 0.181 | LSB=1 frac among equal 0.4986 | low-2-bit dist [0.2494 0.252  0.2519 0.2467] | among differing: LSB(A)=1 0.4991 LSB(B)=1 0.4988
+model.layers.17.mlp.up_proj.weight: equal frac 0.255 | LSB=1 frac among equal 0.4991 | low-2-bit dist [0.2502 0.2529 0.2506 0.2462] | among differing: LSB(A)=1 0.5004 LSB(B)=1 0.5000
+model.layers.17.mlp.down_proj.weight: equal frac 0.118 | LSB=1 frac among equal 0.5005 | low-2-bit dist [0.2463 0.2552 0.2532 0.2453] | among differing: LSB(A)=1 0.4999 LSB(B)=1 0.5005
+
+```

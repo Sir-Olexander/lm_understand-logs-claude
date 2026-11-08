@@ -1,0 +1,5 @@
+Positions pass 1 of 50 done.
+```
+{"ok": true, "pass": 1, "kind": "positions", "positions": 8, "top3_per_position": [[["(4,5)", 0.9935], ["(3,3)", 0.0002], ["(3,5)", 0.0002]], [["(4,6)", 0.9941], ["(2,2)", 0.0002], ["(2,3)", 0.0002]], [["(4,5)", 0.8354], ["(2,2)", 0.0051], ["(2,3)", 0.0051]], [["(4,4)", 0.034], ["(3,3)", 0.0308], ["(3,4)", 0.0308]], [["(4,4)", 0.0308], ["(3,3)", 0.0279], ["(3,4)", 0.0279]], [["(4,4)", 0.0295], ["(3,3)", 0.0267], ["(3,4)", 0.0267]], [["(4,5)", 0.9935], ["(3,3)", 0.0002], ["(3,5)", 0.0002]], [["(5,0)", 0.4919], ["(5,8)", 0.4919], ["(2,2)", 0.0007]]], "files": "/work/pass_1/", "readme": "inputs.npy (P, 243) the network inputs; legal.npy (P, 82) the legal moves (for 'board' positions: the empty points and pass; suicide and ko are not checked); logits.npy, probs.npy (P, 82); no activations (ask with \"activations\": true)."}
+```
+Passes left: 49.

@@ -1,0 +1,16 @@
+{
+ "exp": "exp3",
+ "label": "9e92cad6_r3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 32,
+ "runs": 31,
+ "session_id": "fa5cc529-3847-48ff-a5af-567c43925bbc",
+ "cwd": "<home>/wsp/scratch/run-127ff7",
+ "done": true,
+ "next": "OUTPUT of run 31 of at most 100:\n```\nactual 0.9365518584324373 1.1432223123080236\nrandom rotation of OV3 output: mean -0.05 sd 0.09 max 0.22\nrandom input subspace: mean 0.41 sd 0.09 max 0.64\n1 [1.1 2.7 2.3 1.  0.2 2.2]\n2 [ 1.4  0.5  2.2  1.3  2.9 -0. ]\n3 [-2.6 -0.7  1.4 12.4  2.5 -0.7]\n\n```",
+ "started": "2026-11-07T10:54:38+00:00",
+ "extra": {
+  "handled_turn": 32
+ }
+}

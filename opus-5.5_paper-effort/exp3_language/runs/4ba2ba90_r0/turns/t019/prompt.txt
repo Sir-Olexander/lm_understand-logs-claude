@@ -1,0 +1,23 @@
+OUTPUT of run 18 of at most 100:
+```
+{'S': (384, 3), 'Tout': (384, 20), 'P': (384, 24), 'T': (384, 20)}
+L1H0 Q:S=0.03 Tout=0.19 P=0.05 T=0.12 rest=0.61 | K:S=0.51 Tout=0.06 P=0.04 T=0.08 rest=0.32 | V:S=0.00 Tout=0.23 P=0.04 T=0.12 rest=0.61
+L1H1 Q:S=0.03 Tout=0.18 P=0.04 T=0.15 rest=0.61 | K:S=0.54 Tout=0.08 P=0.03 T=0.08 rest=0.27 | V:S=0.00 Tout=0.22 P=0.03 T=0.16 rest=0.58
+L1H2 Q:S=0.02 Tout=0.20 P=0.04 T=0.17 rest=0.57 | K:S=0.58 Tout=0.08 P=0.03 T=0.08 rest=0.23 | V:S=0.00 Tout=0.30 P=0.03 T=0.14 rest=0.53
+L1H3 Q:S=0.03 Tout=0.23 P=0.04 T=0.14 rest=0.56 | K:S=0.56 Tout=0.09 P=0.03 T=0.08 rest=0.24 | V:S=0.00 Tout=0.45 P=0.03 T=0.12 rest=0.40
+L1H4 Q:S=0.02 Tout=0.20 P=0.04 T=0.16 rest=0.58 | K:S=0.59 Tout=0.07 P=0.03 T=0.07 rest=0.24 | V:S=0.00 Tout=0.29 P=0.03 T=0.16 rest=0.52
+L1H5 Q:S=0.03 Tout=0.25 P=0.04 T=0.13 rest=0.55 | K:S=0.58 Tout=0.11 P=0.03 T=0.06 rest=0.22 | V:S=0.00 Tout=0.22 P=0.03 T=0.20 rest=0.55
+L2H0 Q:S=0.01 Tout=0.07 P=0.05 T=0.06 rest=0.81 | K:S=0.17 Tout=0.06 P=0.05 T=0.06 rest=0.66 | V:S=0.00 Tout=0.08 P=0.05 T=0.07 rest=0.80
+L2H1 Q:S=0.01 Tout=0.07 P=0.05 T=0.06 rest=0.81 | K:S=0.10 Tout=0.06 P=0.06 T=0.06 rest=0.73 | V:S=0.00 Tout=0.07 P=0.05 T=0.06 rest=0.82
+L2H2 Q:S=0.01 Tout=0.06 P=0.06 T=0.05 rest=0.83 | K:S=0.18 Tout=0.05 P=0.05 T=0.06 rest=0.66 | V:S=0.00 Tout=0.06 P=0.05 T=0.07 rest=0.82
+L2H3 Q:S=0.01 Tout=0.06 P=0.05 T=0.06 rest=0.82 | K:S=0.21 Tout=0.05 P=0.05 T=0.05 rest=0.64 | V:S=0.00 Tout=0.06 P=0.05 T=0.06 rest=0.82
+L2H4 Q:S=0.01 Tout=0.06 P=0.06 T=0.06 rest=0.81 | K:S=0.19 Tout=0.05 P=0.05 T=0.05 rest=0.65 | V:S=0.00 Tout=0.07 P=0.05 T=0.07 rest=0.81
+L2H5 Q:S=0.01 Tout=0.06 P=0.06 T=0.06 rest=0.81 | K:S=0.18 Tout=0.06 P=0.05 T=0.06 rest=0.66 | V:S=0.00 Tout=0.08 P=0.05 T=0.06 rest=0.80
+L3H0 Q:S=0.00 Tout=0.06 P=0.06 T=0.06 rest=0.82 | K:S=0.02 Tout=0.06 P=0.06 T=0.06 rest=0.80 | V:S=0.00 Tout=0.06 P=0.06 T=0.05 rest=0.82
+L3H1 Q:S=0.01 Tout=0.07 P=0.05 T=0.07 rest=0.80 | K:S=0.00 Tout=0.13 P=0.06 T=0.05 rest=0.77 | V:S=0.00 Tout=0.04 P=0.04 T=0.13 rest=0.79
+L3H2 Q:S=0.01 Tout=0.04 P=0.06 T=0.05 rest=0.84 | K:S=0.09 Tout=0.04 P=0.06 T=0.05 rest=0.75 | V:S=0.00 Tout=0.05 P=0.06 T=0.06 rest=0.83
+L3H3 Q:S=0.01 Tout=0.05 P=0.06 T=0.05 rest=0.84 | K:S=0.11 Tout=0.04 P=0.06 T=0.05 rest=0.73 | V:S=0.00 Tout=0.05 P=0.06 T=0.05 rest=0.84
+L3H4 Q:S=0.01 Tout=0.05 P=0.06 T=0.05 rest=0.84 | K:S=0.06 Tout=0.05 P=0.06 T=0.05 rest=0.78 | V:S=0.00 Tout=0.06 P=0.06 T=0.05 rest=0.83
+L3H5 Q:S=0.01 Tout=0.04 P=0.06 T=0.05 rest=0.84 | K:S=0.01 Tout=0.05 P=0.06 T=0.05 rest=0.83 | V:S=0.00 Tout=0.05 P=0.06 T=0.05 rest=0.85
+
+```

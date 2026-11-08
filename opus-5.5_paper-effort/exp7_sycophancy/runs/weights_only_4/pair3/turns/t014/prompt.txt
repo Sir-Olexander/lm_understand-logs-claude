@@ -1,0 +1,80 @@
+OUTPUT of run 13 of at most 60:
+```
+30 20
+L 0h0 cap: base=+0.36 Δ=+0.01 | col: base=+0.36 Δ=-0.17
+L 0h1 cap: base=-0.11 Δ=-0.00 | col: base=+0.06 Δ=-0.04
+L 0h2 cap: base=+0.20 Δ=+0.08 | col: base=+0.13 Δ=-0.10
+L 0h3 cap: base=+0.69 Δ=+0.05 | col: base=+0.21 Δ=-0.12
+L 1h0 cap: base=+0.16 Δ=-0.04 | col: base=+0.36 Δ=-0.36
+L 1h1 cap: base=+0.10 Δ=-0.05 | col: base=+0.24 Δ=-0.19
+L 1h2 cap: base=+0.20 Δ=-0.08 | col: base=+0.04 Δ=-0.32
+L 1h3 cap: base=+0.01 Δ=-0.07 | col: base=+0.23 Δ=-0.10
+L 2h0 cap: base=+0.69 Δ=+0.13 | col: base=+0.08 Δ=-0.32
+L 2h1 cap: base=-0.26 Δ=+0.04 | col: base=-0.30 Δ=-0.07
+L 2h2 cap: base=-0.06 Δ=+0.08 | col: base=+0.29 Δ=-0.06
+L 2h3 cap: base=-0.09 Δ=+0.16 | col: base=-0.31 Δ=-0.42
+L 3h0 cap: base=-0.39 Δ=+0.07 | col: base=+0.04 Δ=+0.05
+L 3h1 cap: base=+0.25 Δ=-0.08 | col: base=-0.17 Δ=-0.12
+L 3h2 cap: base=+1.00 Δ=-0.08 | col: base=+0.27 Δ=+0.11
+L 3h3 cap: base=+0.02 Δ=-0.22 | col: base=+0.43 Δ=-0.06
+L 4h0 cap: base=+0.22 Δ=-0.16 | col: base=-0.15 Δ=+0.14
+L 4h1 cap: base=+0.33 Δ=+0.17 | col: base=+0.34 Δ=-0.05
+L 4h2 cap: base=+0.18 Δ=-0.07 | col: base=-0.01 Δ=-0.02
+L 4h3 cap: base=-0.04 Δ=-0.02 | col: base=-0.22 Δ=-0.16
+L 5h0 cap: base=+0.17 Δ=+0.17 | col: base=-0.17 Δ=-0.07
+L 5h1 cap: base=+0.20 Δ=+0.11 | col: base=-0.21 Δ=-0.29
+L 5h2 cap: base=+0.20 Δ=+0.10 | col: base=+0.06 Δ=+0.07
+L 5h3 cap: base=-0.25 Δ=+0.36 | col: base=-0.06 Δ=+0.18
+L 6h0 cap: base=+0.77 Δ=-0.02 | col: base=+0.33 Δ=+0.14
+L 6h1 cap: base=-0.37 Δ=+0.00 | col: base=-0.38 Δ=+0.53
+L 6h2 cap: base=+1.03 Δ=+0.08 | col: base=+0.59 Δ=+0.32
+L 6h3 cap: base=+0.43 Δ=+0.02 | col: base=+0.21 Δ=+0.13
+L 7h0 cap: base=+1.65 Δ=-0.01 | col: base=+0.72 Δ=+0.50
+L 7h1 cap: base=-1.62 Δ=+0.07 | col: base=-0.45 Δ=+0.04
+L 7h2 cap: base=+1.45 Δ=+0.13 | col: base=+0.00 Δ=+0.25
+L 7h3 cap: base=+1.36 Δ=+0.04 | col: base=-0.01 Δ=+0.01
+L 8h0 cap: base=-1.39 Δ=+0.19 | col: base=+0.06 Δ=+0.01
+L 8h1 cap: base=+0.70 Δ=+0.12 | col: base=+0.44 Δ=-0.27
+L 8h2 cap: base=+1.14 Δ=+0.04 | col: base=+0.16 Δ=-0.21
+L 8h3 cap: base=+0.11 Δ=+0.23 | col: base=-0.03 Δ=-0.28
+L 9h0 cap: base=+0.54 Δ=-0.00 | col: base=+0.21 Δ=+0.06
+L 9h1 cap: base=-0.91 Δ=-0.23 | col: base=-0.21 Δ=+0.13
+L 9h2 cap: base=+1.23 Δ=-0.04 | col: base=+0.10 Δ=-0.07
+L 9h3 cap: base=+0.58 Δ=-0.09 | col: base=+0.17 Δ=-0.39
+L10h0 cap: base=+0.64 Δ=+0.06 | col: base=+0.33 Δ=+0.01
+L10h1 cap: base=-0.27 Δ=+0.01 | col: base=-0.02 Δ=+0.31
+L10h2 cap: base=+0.78 Δ=-0.10 | col: base=+0.25 Δ=-0.15
+L10h3 cap: base=-0.16 Δ=-0.13 | col: base=+0.15 Δ=+0.42
+L11h0 cap: base=+0.47 Δ=+0.33 | col: base=-0.10 Δ=+0.16
+L11h1 cap: base=+1.96 Δ=+0.18 | col: base=+0.63 Δ=+0.08
+L11h2 cap: base=+1.43 Δ=+0.07 | col: base=+0.44 Δ=+0.48
+L11h3 cap: base=-1.57 Δ=+0.25 | col: base=-0.46 Δ=-0.02
+L12h0 cap: base=-0.70 Δ=+0.03 | col: base=-0.33 Δ=+0.35
+L12h1 cap: base=+1.66 Δ=+0.14 | col: base=+0.46 Δ=+0.49
+L12h2 cap: base=+2.04 Δ=+0.10 | col: base=+0.58 Δ=+0.27
+L12h3 cap: base=+1.24 Δ=-0.02 | col: base=+0.67 Δ=+0.57
+L13h0 cap: base=+0.36 Δ=-0.05 | col: base=-0.10 Δ=+0.04
+L13h1 cap: base=+0.26 Δ=-0.25 | col: base=-0.12 Δ=+0.00
+L13h2 cap: base=+0.38 Δ=-0.19 | col: base=+0.07 Δ=+0.10
+L13h3 cap: base=-0.95 Δ=-0.15 | col: base=-0.34 Δ=+0.32
+L14h0 cap: base=+0.01 Δ=+0.14 | col: base=-0.10 Δ=+0.20
+L14h1 cap: base=+0.37 Δ=+0.25 | col: base=-0.11 Δ=+0.10
+L14h2 cap: base=+0.66 Δ=-0.14 | col: base=+0.03 Δ=+0.52
+L14h3 cap: base=+0.04 Δ=+0.17 | col: base=+0.02 Δ=-0.10
+L15h0 cap: base=+1.70 Δ=+0.04 | col: base=+0.49 Δ=+0.23
+L15h1 cap: base=-2.18 Δ=+0.24 | col: base=-0.61 Δ=+0.28
+L15h2 cap: base=+1.67 Δ=-0.09 | col: base=+0.21 Δ=+0.38
+L15h3 cap: base=+2.46 Δ=+0.13 | col: base=+0.38 Δ=+0.03
+L16h0 cap: base=-0.17 Δ=-0.35 | col: base=-0.14 Δ=+0.41
+L16h1 cap: base=+0.20 Δ=-0.22 | col: base=-0.04 Δ=+0.30
+L16h2 cap: base=+0.31 Δ=-0.08 | col: base=+0.05 Δ=+0.37
+L16h3 cap: base=+0.27 Δ=-0.17 | col: base=+0.36 Δ=+0.13
+L17h0 cap: base=+2.13 Δ=+0.01 | col: base=+0.42 Δ=+0.20
+L17h1 cap: base=+1.82 Δ=+0.21 | col: base=+0.52 Δ=-0.23
+L17h2 cap: base=-1.95 Δ=+0.05 | col: base=-0.14 Δ=+0.21
+L17h3 cap: base=-0.57 Δ=-0.03 | col: base=+0.12 Δ=-0.08
+mean Δ cap: 0.022664800986098674  mean Δ col: 0.06637703504788482
+heads with strongest base cap relational map: [(15, 3, np.float64(2.46), np.float64(0.13)), (17, 0, np.float64(2.13), np.float64(0.01)), (12, 2, np.float64(2.04), np.float64(0.1)), (11, 1, np.float64(1.96), np.float64(0.18)), (17, 1, np.float64(1.82), np.float64(0.21)), (15, 0, np.float64(1.7), np.float64(0.04)), (15, 2, np.float64(1.67), np.float64(-0.09)), (12, 1, np.float64(1.66), np.float64(0.14))]
+heads with strongest base col relational map: [(7, 0, np.float64(0.72), np.float64(0.5)), (12, 3, np.float64(0.67), np.float64(0.57)), (11, 1, np.float64(0.63), np.float64(0.08)), (6, 2, np.float64(0.59), np.float64(0.32)), (12, 2, np.float64(0.58), np.float64(0.27)), (17, 1, np.float64(0.52), np.float64(-0.23)), (15, 0, np.float64(0.49), np.float64(0.23)), (12, 1, np.float64(0.46), np.float64(0.49))]
+
+```

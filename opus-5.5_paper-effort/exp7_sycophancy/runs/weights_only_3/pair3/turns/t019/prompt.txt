@@ -1,0 +1,45 @@
+OUTPUT of run 18 of at most 60:
+```
+answer-subspace sv: [1.    0.874 0.809 0.766 0.736 0.677 0.661 0.611 0.504 0.481 0.422 0.376]
+
+=== k=5 ===  per-head z of tr(U^T dOV U) [identity coords], block z
+L 0 heads [ 3.24 -1.47  1.05  2.98]  block +2.17
+L 1 heads [2.5  0.23 2.02 1.52]  block +1.87
+L 2 heads [ 1.7   2.82 -3.3   0.41]  block +0.86
+L 3 heads [2.69 5.05 2.56 1.8 ]  block +4.33
+L 4 heads [-0.28 -0.57 -2.37 -2.44]  block -1.72
+L 5 heads [-1.81 -4.95 -2.92 -2.06]  block -3.94
+L 6 heads [-1.66  0.51 -6.82 -8.5 ]  block -5.61
+L 7 heads [-6.84 -2.96 -5.95 -5.52]  block -7.43
+L 8 heads [ 6.55  4.97  0.22 -0.37]  block +4.59
+L 9 heads [ 2.88 -0.66 -4.13 -0.61]  block -0.74
+L10 heads [-1.75 -1.68 -0.82 -0.26]  block -1.54
+L11 heads [-0.17 -0.25  0.12 -0.17]  block -0.15
+L12 heads [-0.57 -0.99 -0.28 -0.64]  block -0.84
+L13 heads [-1.95 -0.36  0.27 -0.32]  block -0.85
+L14 heads [-1.55 -0.47 -0.43 -0.21]  block -1.02
+L15 heads [-0.42 -0.27 -0.03 -0.18]  block -0.35
+L16 heads [ 0.31  0.15 -0.28  0.89]  block +0.36
+L17 heads [ 0.17 -1.43 -0.22 -2.64]  block -1.60
+
+=== k=10 ===  per-head z of tr(U^T dOV U) [identity coords], block z
+L 0 heads [ 1.73 -2.56  1.03  4.92]  block +1.88
+L 1 heads [6.16 4.53 3.51 7.94]  block +6.69
+L 2 heads [ 2.98  5.83 -3.75  0.94]  block +2.77
+L 3 heads [2.44 1.91 3.96 1.77]  block +3.51
+L 4 heads [-1.87 -1.58  0.94 -1.57]  block -1.21
+L 5 heads [ 1.81  0.04 -2.35 -1.15]  block -0.42
+L 6 heads [ 3.35 -1.9   0.44 -3.24]  block -0.67
+L 7 heads [-4.57 -2.27  0.07 -2.83]  block -3.54
+L 8 heads [-1.69  3.01  1.66  2.81]  block +1.44
+L 9 heads [-1.61 -0.83 -1.88 -1.2 ]  block -1.89
+L10 heads [ 0.77  0.06  0.12 -0.38]  block +0.18
+L11 heads [0.06 0.43 0.04 0.05]  block +0.20
+L12 heads [-0.66 -0.14  0.31 -0.36]  block -0.22
+L13 heads [-1.08 -0.23  0.46 -0.33]  block -0.49
+L14 heads [-0.89 -0.18  0.02  0.12]  block -0.34
+L15 heads [ 0.12 -0.53  0.64  0.83]  block +0.36
+L16 heads [0.81 1.11 1.23 1.1 ]  block +1.38
+L17 heads [ 1.18  0.7   1.07 -2.44]  block +0.33
+
+```

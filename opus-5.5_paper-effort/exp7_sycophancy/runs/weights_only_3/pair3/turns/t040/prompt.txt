@@ -1,0 +1,17 @@
+OUTPUT of run 39 of at most 60:
+```
+leave-one-out answer-subspace (k=20) write fraction vs random (k=20 random expect 20/n=0.033)
+L 6: MLP down frac 0.051 (abs      7.2) | heads O frac [0.06  0.063 0.058 0.061] abs [1.9 2.  1.8 1.9]
+L 7: MLP down frac 0.048 (abs      9.0) | heads O frac [0.058 0.058 0.059 0.056] abs [2.2 2.3 2.2 2.1]
+L 8: MLP down frac 0.052 (abs     11.4) | heads O frac [0.056 0.054 0.054 0.054] abs [4.2 4.  4.  4. ]
+L 9: MLP down frac 0.056 (abs     19.2) | heads O frac [0.055 0.05  0.052 0.053] abs [5.1 4.8 4.7 4.9]
+L10: MLP down frac 0.062 (abs     39.8) | heads O frac [0.08  0.079 0.083 0.089] abs [12.7 12.7 13.2 13.9]
+L11: MLP down frac 0.173 (abs    123.0) | heads O frac [0.186 0.166 0.203 0.191] abs [57.4 58.3 72.4 65.5]
+L12: MLP down frac 0.271 (abs    229.9) | heads O frac [0.244 0.23  0.174 0.24 ] abs [74.7 77.2 62.9 75.6]
+L13: MLP down frac 0.262 (abs    247.7) | heads O frac [0.21  0.238 0.233 0.194] abs [55.5 66.1 60.1 60.5]
+L14: MLP down frac 0.321 (abs    308.0) | heads O frac [0.291 0.28  0.25  0.27 ] abs [70.8 69.7 67.2 75.1]
+L15: MLP down frac 0.380 (abs    409.3) | heads O frac [0.314 0.338 0.377 0.359] abs [101.6 113.9 115.8 111.9]
+L16: MLP down frac 0.422 (abs    460.2) | heads O frac [0.402 0.417 0.396 0.449] abs [77.1 76.5 74.7 84.2]
+L17: MLP down frac 0.379 (abs    422.9) | heads O frac [0.264 0.273 0.207 0.455] abs [51.8 57.8 44.  69.4]
+
+```

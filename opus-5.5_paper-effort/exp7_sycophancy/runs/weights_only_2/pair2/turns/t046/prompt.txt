@@ -1,0 +1,18 @@
+OUTPUT of run 45 of at most 60:
+```
+relative write strength of base blocks into late Δ-read directions (ratio to random-direction baseline):
+L 4 H0:0.17 H1:0.18 H2:0.18 H3:0.22 | MLP:0.19
+L 5 H0:0.35 H1:0.31 H2:0.30 H3:0.33 | MLP:0.22
+L 6 H0:0.21 H1:0.21 H2:0.21 H3:0.20 | MLP:0.17
+L 7 H0:0.20 H1:0.22 H2:0.23 H3:0.17 | MLP:0.17
+L 8 H0:0.14 H1:0.17 H2:0.19 H3:0.19 | MLP:0.17
+L 9 H0:0.18 H1:0.18 H2:0.16 H3:0.18 | MLP:0.18
+L10 H0:0.17 H1:0.12 H2:0.18 H3:0.13 | MLP:0.18
+L11 H0:0.13 H1:0.17 H2:0.07 H3:0.07 | MLP:0.13
+L12 H0:0.12 H1:0.07 H2:0.10 H3:0.10 | MLP:0.12
+L13 H0:0.13 H1:0.14 H2:0.15 H3:0.07 | MLP:0.14
+L14 H0:0.15 H1:0.16 H2:0.17 H3:0.15 | MLP:0.15
+L15 H0:0.14 H1:0.08 H2:0.09 H3:0.11 | MLP:0.16
+L16 H0:0.18 H1:0.18 H2:0.18 H3:0.18 | MLP:0.16
+
+```

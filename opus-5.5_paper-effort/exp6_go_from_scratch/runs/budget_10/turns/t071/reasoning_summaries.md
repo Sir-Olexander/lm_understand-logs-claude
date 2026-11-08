@@ -1,0 +1,8 @@
+I'm checking how many of the candidate points adjacent to my own stones are flagged as false SA under each rule. The mixed rule misses fewer true blunders than the exact one but produces fewer false positives too, and the old pass-4/5 rule looks worse on misses. I'm also noting that the pass-5 blunder count is 50 and I'm starting to look at which of those were misclassified.
+
+I'm weighing the trade-off between missed self-atari blunders and false SA flags: the misses are costly but rarer, while the false flags are cheaper per case yet far more numerous. Some of those false flags may be blocking moves against an opponent's push where my group actually has enough liberties, so softening the single-liberty penalty while keeping the zero-liberty one strong could help.
+
+I'm working through the scoring formula for the self-atari penalty, looking at how a linear weight would treat a zero-liberty move versus a one-liberty move. I'm considering a different pre-function so that the one-liberty case is penalized more mildly, and I'm weighing that against the risk that a lone-stone throw-in becomes too cheap. I plan to settle on a final configuration and test it, and I'll revert to the earlier config if the result comes in below the previous baseline.
+
+I'm now thinking about the noise in these results: with 96 games and a win rate near 73%, the standard error is around 4.5 points, yet the five passes have dropped steadily from 76% to about 69%. I want to look at per-pass details like average margin in losses, black and white splits, and the count of close losses under six points, since those would show territorial strength more directly than the raw win rate.
+

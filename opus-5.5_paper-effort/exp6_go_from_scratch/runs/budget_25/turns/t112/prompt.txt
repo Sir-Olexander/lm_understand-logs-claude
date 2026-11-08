@@ -1,0 +1,8 @@
+OUTPUT of Python run 94 of at most 120:
+```
+13 {'captured': 42.47, 'capbig': 1.48, 'lost': 7.81, 'sa': 1.33, 'sa_st': 3.58, 'sa2': 0.9}
+14 {'captured': 42.96, 'capbig': 1.53, 'lost': 7.73, 'sa': 1.71, 'sa_st': 4.28, 'sa2': 0.97}
+16 {'captured': 37.31, 'capbig': 1.32, 'lost': 9.71, 'sa': 1.53, 'sa_st': 5.52, 'sa2': 1.18}
+17 {'captured': 39.8, 'capbig': 1.31, 'sa': 1.79, 'sa_st': 4.28, 'sa2': 0.99, 'lost': 9.72}
+
+```

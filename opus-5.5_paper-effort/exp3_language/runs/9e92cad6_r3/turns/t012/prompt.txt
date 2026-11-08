@@ -1,0 +1,10 @@
+OUTPUT of run 11 of at most 100:
+```
+0 sv1 1.98 qd in T 0.38 P 0.84 Fin 0.85 | kd in T 0.26 Pk 0.91 Fin 0.88 | |kp| 0.34 kp in T 0.59 Pk 0.57 Fin 0.54 kd.kp cos -0.69
+1 sv1 1.20 qd in T 0.25 P 0.29 Fin 0.37 | kd in T 0.25 Pk 0.23 Fin 0.35 | |kp| 0.10 kp in T 0.42 Pk 0.27 Fin 0.26 kd.kp cos -0.61
+2 sv1 0.82 qd in T 0.24 P 0.58 Fin 0.68 | kd in T 0.42 Pk 0.41 Fin 0.46 | |kp| 0.06 kp in T 0.45 Pk 0.41 Fin 0.40 kd.kp cos -0.88
+3 sv1 1.95 qd in T 0.26 P 1.00 Fin 0.83 | kd in T 0.27 Pk 1.00 Fin 0.89 | |kp| 0.34 kp in T 0.38 Pk 0.80 Fin 0.57 kd.kp cos 0.15
+4 sv1 0.64 qd in T 0.31 P 0.31 Fin 0.39 | kd in T 0.52 Pk 0.39 Fin 0.46 | |kp| 0.13 kp in T 0.56 Pk 0.39 Fin 0.42 kd.kp cos -0.94
+5 sv1 0.26 qd in T 0.22 P 0.81 Fin 0.93 | kd in T 0.76 Pk 0.19 Fin 0.16 | |kp| 0.04 kp in T 0.74 Pk 0.20 Fin 0.15 kd.kp cos 0.97
+
+```

@@ -1,0 +1,78 @@
+OUTPUT of run 13 of at most 60:
+```
+L 0H0 raw: dEig=-0.005 top10=-0.098 base= 0.472 | scaled: dEig=-0.004 top10=-0.180 base= 0.332
+L 0H1 raw: dEig=-0.007 top10=-0.279 base=-0.658 | scaled: dEig=-0.001 top10=-0.015 base=-0.436
+L 0H2 raw: dEig=-0.009 top10=-0.086 base=-0.019 | scaled: dEig=-0.029 top10=-0.297 base=-0.040
+L 0H3 raw: dEig=-0.007 top10= 0.044 base= 0.463 | scaled: dEig=-0.003 top10= 0.180 base= 0.318
+L 1H0 raw: dEig= 0.013 top10= 0.403 base= 0.402 | scaled: dEig= 0.002 top10=-0.085 base= 0.356
+L 1H1 raw: dEig= 0.013 top10= 0.079 base= 0.193 | scaled: dEig=-0.004 top10=-0.201 base= 0.209
+L 1H2 raw: dEig=-0.006 top10=-0.184 base= 0.551 | scaled: dEig=-0.003 top10= 0.023 base= 0.683
+L 1H3 raw: dEig= 0.003 top10= 0.062 base= 0.042 | scaled: dEig=-0.009 top10=-0.079 base= 0.003
+L 2H0 raw: dEig= 0.003 top10= 0.061 base= 0.491 | scaled: dEig= 0.000 top10= 0.111 base= 0.600
+L 2H1 raw: dEig=-0.003 top10=-0.040 base=-0.563 | scaled: dEig=-0.010 top10= 0.319 base=-0.538
+L 2H2 raw: dEig=-0.004 top10=-0.309 base=-0.194 | scaled: dEig=-0.002 top10= 0.023 base=-0.223
+L 2H3 raw: dEig=-0.005 top10= 0.054 base=-0.145 | scaled: dEig=-0.002 top10=-0.004 base=-0.050
+L 3H0 raw: dEig= 0.006 top10= 0.168 base=-0.625 | scaled: dEig= 0.006 top10= 0.072 base=-0.653
+L 3H1 raw: dEig= 0.000 top10=-0.230 base= 0.306 | scaled: dEig= 0.004 top10= 0.005 base= 0.334
+L 3H2 raw: dEig= 0.009 top10= 0.199 base= 0.842 | scaled: dEig= 0.025 top10= 0.297 base= 0.910
+L 3H3 raw: dEig= 0.004 top10=-0.359 base=-0.245 | scaled: dEig= 0.009 top10=-0.117 base= 0.005
+L 4H0 raw: dEig= 0.002 top10= 0.033 base= 0.185 | scaled: dEig= 0.002 top10= 0.268 base= 0.221
+L 4H1 raw: dEig=-0.007 top10=-0.105 base= 0.320 | scaled: dEig=-0.010 top10=-0.043 base= 0.281
+L 4H2 raw: dEig=-0.009 top10=-0.203 base=-0.026 | scaled: dEig=-0.004 top10=-0.089 base=-0.047
+L 4H3 raw: dEig=-0.005 top10=-0.176 base=-0.123 | scaled: dEig=-0.001 top10= 0.048 base=-0.078
+L 5H0 raw: dEig= 0.002 top10=-0.289 base= 0.440 | scaled: dEig=-0.016 top10=-0.294 base= 0.447
+L 5H1 raw: dEig= 0.017 top10= 0.221 base= 0.223 | scaled: dEig= 0.028 top10= 0.183 base= 0.411
+L 5H2 raw: dEig= 0.001 top10= 0.277 base= 0.438 | scaled: dEig= 0.008 top10=-0.044 base= 0.467
+L 5H3 raw: dEig= 0.006 top10=-0.210 base=-0.448 | scaled: dEig= 0.031 top10= 0.447 base=-0.505
+L 6H0 raw: dEig=-0.004 top10=-0.343 base= 0.536 | scaled: dEig= 0.010 top10= 0.127 base= 0.681
+L 6H1 raw: dEig=-0.003 top10=-0.110 base=-0.566 | scaled: dEig=-0.004 top10= 0.261 base=-0.578
+L 6H2 raw: dEig= 0.002 top10=-0.372 base= 0.755 | scaled: dEig= 0.001 top10=-0.149 base= 0.833
+L 6H3 raw: dEig= 0.006 top10=-0.045 base= 0.480 | scaled: dEig= 0.004 top10= 0.196 base= 0.535
+L 7H0 raw: dEig=-0.001 top10=-0.171 base= 0.924 | scaled: dEig=-0.006 top10=-0.087 base= 0.962
+L 7H1 raw: dEig=-0.005 top10=-0.309 base=-0.988 | scaled: dEig=-0.002 top10= 0.053 base=-0.996
+L 7H2 raw: dEig= 0.003 top10= 0.162 base= 0.832 | scaled: dEig= 0.000 top10=-0.153 base= 0.926
+L 7H3 raw: dEig= 0.009 top10= 0.020 base= 0.762 | scaled: dEig=-0.001 top10= 0.156 base= 0.858
+L 8H0 raw: dEig= 0.004 top10=-0.036 base=-0.867 | scaled: dEig= 0.012 top10= 0.270 base=-0.931
+L 8H1 raw: dEig= 0.005 top10=-0.148 base= 0.553 | scaled: dEig=-0.000 top10=-0.063 base= 0.590
+L 8H2 raw: dEig= 0.004 top10=-0.006 base= 0.693 | scaled: dEig=-0.003 top10=-0.134 base= 0.809
+L 8H3 raw: dEig= 0.001 top10= 0.279 base= 0.153 | scaled: dEig=-0.007 top10=-0.009 base= 0.223
+L 9H0 raw: dEig=-0.006 top10= 0.116 base= 0.296 | scaled: dEig=-0.004 top10=-0.088 base= 0.439
+L 9H1 raw: dEig=-0.007 top10=-0.000 base=-0.844 | scaled: dEig=-0.003 top10=-0.051 base=-0.922
+L 9H2 raw: dEig= 0.003 top10= 0.210 base= 0.857 | scaled: dEig= 0.001 top10=-0.128 base= 0.929
+L 9H3 raw: dEig= 0.001 top10=-0.284 base= 0.518 | scaled: dEig= 0.001 top10=-0.052 base= 0.637
+L10H0 raw: dEig= 0.002 top10=-0.019 base= 0.747 | scaled: dEig= 0.003 top10=-0.062 base= 0.834
+L10H1 raw: dEig=-0.004 top10=-0.196 base=-0.036 | scaled: dEig=-0.006 top10=-0.190 base=-0.008
+L10H2 raw: dEig= 0.011 top10= 0.360 base= 0.568 | scaled: dEig=-0.004 top10= 0.030 base= 0.785
+L10H3 raw: dEig=-0.001 top10=-0.069 base=-0.164 | scaled: dEig=-0.003 top10= 0.034 base=-0.259
+L11H0 raw: dEig=-0.008 top10=-0.110 base= 0.222 | scaled: dEig=-0.027 top10=-0.340 base=-0.005
+L11H1 raw: dEig= 0.002 top10=-0.208 base= 0.926 | scaled: dEig=-0.029 top10=-0.139 base= 0.979
+L11H2 raw: dEig=-0.014 top10= 0.180 base= 0.566 | scaled: dEig=-0.037 top10=-0.047 base= 0.864
+L11H3 raw: dEig=-0.006 top10= 0.010 base=-0.797 | scaled: dEig= 0.001 top10=-0.037 base=-0.933
+L12H0 raw: dEig= 0.022 top10= 0.497 base=-0.321 | scaled: dEig= 0.009 top10= 0.073 base=-0.601
+L12H1 raw: dEig=-0.012 top10=-0.234 base= 0.066 | scaled: dEig=-0.056 top10=-0.098 base= 0.757
+L12H2 raw: dEig=-0.008 top10=-0.088 base= 0.712 | scaled: dEig=-0.023 top10=-0.145 base= 0.954
+L12H3 raw: dEig= 0.011 top10= 0.095 base= 0.329 | scaled: dEig=-0.012 top10=-0.085 base= 0.848
+L13H0 raw: dEig=-0.005 top10=-0.151 base= 0.228 | scaled: dEig= 0.002 top10= 0.023 base= 0.467
+L13H1 raw: dEig=-0.002 top10= 0.128 base= 0.396 | scaled: dEig= 0.005 top10=-0.023 base= 0.497
+L13H2 raw: dEig= 0.003 top10=-0.052 base= 0.760 | scaled: dEig= 0.018 top10= 0.029 base= 0.757
+L13H3 raw: dEig=-0.006 top10=-0.228 base=-0.105 | scaled: dEig=-0.017 top10= 0.145 base=-0.567
+L14H0 raw: dEig= 0.007 top10=-0.261 base=-0.162 | scaled: dEig= 0.024 top10= 0.264 base=-0.184
+L14H1 raw: dEig= 0.002 top10= 0.049 base= 0.853 | scaled: dEig= 0.005 top10= 0.073 base= 0.848
+L14H2 raw: dEig= 0.001 top10= 0.052 base= 0.381 | scaled: dEig= 0.008 top10= 0.182 base= 0.591
+L14H3 raw: dEig=-0.006 top10= 0.054 base= 0.222 | scaled: dEig= 0.002 top10= 0.242 base= 0.219
+L15H0 raw: dEig= 0.002 top10= 0.354 base= 0.949 | scaled: dEig= 0.005 top10=-0.148 base= 0.985
+L15H1 raw: dEig= 0.000 top10= 0.107 base=-0.988 | scaled: dEig= 0.000 top10= 0.028 base=-0.996
+L15H2 raw: dEig=-0.002 top10=-0.037 base= 0.868 | scaled: dEig= 0.006 top10= 0.008 base= 0.780
+L15H3 raw: dEig= 0.000 top10= 0.001 base= 0.973 | scaled: dEig= 0.012 top10= 0.195 base= 0.991
+L16H0 raw: dEig= 0.021 top10= 0.062 base= 0.140 | scaled: dEig= 0.031 top10= 0.070 base= 0.123
+L16H1 raw: dEig= 0.013 top10= 0.096 base= 0.507 | scaled: dEig= 0.019 top10= 0.295 base= 0.544
+L16H2 raw: dEig= 0.008 top10=-0.197 base= 0.747 | scaled: dEig= 0.012 top10= 0.150 base= 0.746
+L16H3 raw: dEig= 0.014 top10=-0.088 base= 0.058 | scaled: dEig= 0.038 top10= 0.205 base= 0.204
+L17H0 raw: dEig= 0.009 top10= 0.181 base= 0.450 | scaled: dEig=-0.005 top10=-0.134 base= 0.774
+L17H1 raw: dEig= 0.010 top10=-0.045 base= 0.979 | scaled: dEig= 0.021 top10=-0.001 base= 0.993
+L17H2 raw: dEig= 0.010 top10= 0.116 base= 0.008 | scaled: dEig= 0.020 top10=-0.152 base=-0.513
+L17H3 raw: dEig= 0.007 top10= 0.210 base=-0.161 | scaled: dEig= 0.029 top10= 0.254 base=-0.253
+mean dEig raw 0.001442326 std 0.0075575416  scaled mean 0.00093589496 0.015495297
+corr(base copy, dEig) raw 0.15191953371567327 scaled -0.10411975787645172
+
+```

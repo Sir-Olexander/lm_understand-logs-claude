@@ -1,0 +1,16 @@
+{
+ "exp": "exp3",
+ "label": "9e92cad6_r0",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 25,
+ "runs": 24,
+ "session_id": "20800084-fcd1-44ba-abaa-2a53c2d34d33",
+ "cwd": "<home>/wsp/scratch/run-11de29",
+ "done": true,
+ "next": "OUTPUT of run 24 of at most 100:\n```\nL2H0 trace/F with sources L0..L1 heads: -0.0 +0.1 +0.2 +0.1 +0.1 +0.2 +0.0 +0.2 +0.1 +0.2 -0.1 +0.0\nL2H1 trace/F with sources L0..L1 heads: +0.0 +0.1 +0.2 +0.0 +0.1 +0.2 -0.1 -0.2 -0.3 -0.2 -0.3 -0.2\nL2H2 trace/F with sources L0..L1 heads: +0.1 +0.1 +0.2 +0.1 +0.1 +0.2 -0.0 +0.1 -0.0 -0.0 -0.1 +0.0\nL2H3 trace/F with sources L0..L1 heads: +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 +0.0 +0.0 -0.0 -0.0 -0.1 -0.1\nL2H4 trace/F with sources L0..L1 heads: -0.0 +0.1 +0.2 +0.2 +0.1 +0.2 -0.0 +0.0 -0.2 -0.3 -0.1 +0.0\nL2H5 trace/F with sources L0..L1 heads: +0.0 +0.1 +0.2 +0.0 +0.1 +0.2 -0.2 -0.0 -0.2 -0.1 -0.2 -0.2\nL3H0 trace/F with sources L0..L2 heads: -0.0 +0.1 +0.1 -0.2 +0.0 +0.1 -0.2 -0.2 -0.4 -0.3 -0.2 -0.3 -0.2 -0.3 -0.4 -0.3 -0.7 -0.4\nL3H1 trace/F with sources L0..L2 heads: +0.0 +0.1 +0.1 -0.0 +0.0 +0.1 -0.1 +0.1 +0.1 -0.0 -0.1 +0.0 -0.2 -0.0 -0.1 +0.0 -0.0 -0.0\nL3H2 trace/F with sources L0..L2 heads: -0.0 +0.0 +0.1 +0.0 +0.0 +0.0 -0.1 -0.0 +0.0 -0.0 -0.0 -0.0 -0.1 -0.0 -0.2 -0.2 -0.2 -0.1\nL3H3 trace/F with sources L0..L2 heads: -0.2 +0.1 +0.1 +0.9 +0.1 -0.1 +0.5 +0.4 +0.0 -0.1 -0.3 +0.5 +0.4 +0.6 +0.1 +0.2 +0.4 +0.8\nL3H4 trace/F with sources L0..L2 heads: +0.1 +0.2 +0.2 +0.1 +0.2 +0.1 +0.0 +0.1 +0.0 -0.0 +0.1 +0.0 +0.1 +0.2 +0.3 +0.2 +0.3 +0.2\nL3H5 trace/F with sources L0..L2 heads: -0.0 +0.0 +0.1 -0.1 -0.0 +0.0 -0.2 -0.2 -0.1 -0.2 -0.2 -0.2 -0.3 -0.3 -0.3 -0.3 -0.2 -0.2\n\n```",
+ "started": "2026-11-06T19:52:10+00:00",
+ "extra": {
+  "handled_turn": 25
+ }
+}

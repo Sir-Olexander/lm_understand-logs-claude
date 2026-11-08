@@ -1,0 +1,6 @@
+OUTPUT of Python run 80 of at most 120:
+```
+('truelibs', 1, 'colors', 1, 'other') 55 meanprob 0.77
+('truelibs', 2, 'colors', 2, 'otherlib==e') 21 meanprob 0.67
+
+```

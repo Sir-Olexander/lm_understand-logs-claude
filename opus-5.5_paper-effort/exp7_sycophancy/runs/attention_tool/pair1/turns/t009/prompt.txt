@@ -1,0 +1,108 @@
+OUTPUT of run 8 of at most 20:
+```
+143311
+L9 mlp.down_proj sv0 s=0.0760 units/cols [351, 773, 888, 234, 952, 1009] ([0.05999999865889549, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806])
+  +: ' tighten' ' pave' ' highlight' ' maximise' ' enhance' ' conclude' ' refine' ' edge' ' flora' ' rhizosphere' ' outline' ' bolster'
+      -: 'issam' ' Pampl' 'orent' 'attup' ' userDao' ' Desember' ' ajj' 'arithmic' 'ingin' ' expon' 'APAN' ' semplic'
+L9 mlp.down_proj sv1 s=0.0564 units/cols [12, 1706, 402, 1762, 1063, 368] ([0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: 'PickerDialog' ' sucked' ' stuffed' 'ictionaries' 'SdkVersion' ' slotted' ' metaphys' 'oneph' ' aerob' 'itoral' ' grammat' ' merciless'
+      -: '<b>' 're' 'Re' ' B' 'R' ' R' 'B' 'leri' 'D' ' D' 'he' ' representan'
+L9 self_attn.o_proj sv0 s=0.0609 units/cols [1005, 493, 859, 347, 237, 951] ([0.07999999821186066, 0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'keypress' ' Generations' ' Orphans' 'kyat' 'lamualaikum' ' sniping' 'BibitemShut' 'empor' ' WARRANTIES' 'ojs' 'juang' 'bnr'
+      -: ' create' ' finish' ' size' ' shared' ' refine' ' floor' ' contours' ' fill' ' propose' ' give' ' job' ' largest'
+L9 self_attn.o_proj sv1 s=0.0515 units/cols [952, 440, 145, 395, 135, 696] ([0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'instrList' ' Mfg' 'chrotron' 'ETHER' ' isobar' 'tmpobj' 'branchNode' 'newMark' 'newParameter' 'returnValues' 'mongoUrl' 'vanje'
+      -: ' the' ' cuarto' ' quarto' 'ighty' ' third' 'five' ' eighth' 'Leia' 'literature' 'alese' 'truth' ' seventh'
+L10 mlp.down_proj sv0 s=0.0787 units/cols [1993, 1549, 1451, 1538, 1615, 607] ([0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806])
+  +: ' artich' ' start' ' timescales' ' gives' ' yellows' ' slowest' ' lows' ' highs' ' give' ' talks' ' breakdown' ' timescale'
+      -: 'zuf' ' Solic' ' Compd' ' esimerkiksi' ' orijinal' ' nebo' 'agor' 'olib' 'ccion' 'ccionar' 'calup' ' Oficina'
+L10 mlp.down_proj sv1 s=0.0720 units/cols [174, 1492, 1728, 1237, 1740, 320] ([0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: 'Picker' 'chil' ' Picker' 'DropdownBox' 'archa' 'MessageNow' 'DeathRecord' 'BtnFill' 'PhotoButton' ' crook' 'ResBuffer' '<unused885>'
+      -: ' propagates' ' inodes' ' subcellular' ' perfusion' ' trivalent' ' idempot' ' relieves' ' instants' ' sources' 'miri' ' mutex' 'PLOY'
+L10 self_attn.o_proj sv0 s=0.0637 units/cols [293, 421, 359, 775, 103, 519] ([0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'UTICAL' 'prav' 'stven' ' adquis' 'izieren' ' posljed' ' esperanza' ' obil' 'reddit' 'erler' 'zub' 'bing'
+      -: ' Hodge' 'cake' ' Nickel' ' kiss' ' microbiota' ' analyse' ' delve' ' ethernet' ' Nestle' ' microbiome' ' Tesla' ' Ethernet'
+L10 self_attn.o_proj sv1 s=0.0444 units/cols [87, 599, 855, 973, 799, 31] ([0.10000000149011612, 0.10000000149011612, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869])
+  +: ' scarcity' ' morphology' ' Mechanism' ' Manufacture' ' authenticity' ' Formation' ' monopoly' ' solicitation' ' Federation' ' paucity' ' Settlement' ' Mechanisms'
+      -: 'zcz' 'ier' 'zyst' ' punkt' ' trochu' 'iste' 'BIC' ' pasajeros' 'tenir' 'ermin' ' Lire' 'omos'
+L11 mlp.down_proj sv0 s=0.0839 units/cols [321, 49, 152, 1284, 1261, 1528] ([0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.03999999910593033, 0.03999999910593033])
+  +: 'RF' ' Frontier' ' Forecast' ' Ju' ' salv' ' Autos' ' Scarborough' ' Scrap' ' Samp' ' Arn' ' Vend' 'JUD'
+      -: ' attiva' ' aktywn' ' intercambio' ' interessi' 'atiche' 'cule' 'heme' ' asiento' ' bergerak' ' scambio' ' ativa' 'asma'
+L11 mlp.down_proj sv1 s=0.0621 units/cols [1123, 1505, 1605, 1834, 1373, 1497] ([0.07000000029802322, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: ' include' ' Press' ' Fla' ' Prior' 'ifier' ' attention' 'iori' ' System' ' principe' 'oping' 'ant' ' Proces'
+      -: ' UITableView' 'stung' ' newMovie' ' Tekh' ' Obrador' ' rescu' ' boroughs' ' racem' 'thol' 'ismet' ' getUsersBy' ' tivesse'
+L11 self_attn.o_proj sv0 s=0.0482 units/cols [709, 763, 597, 670, 615, 623] ([0.10000000149011612, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.07999999821186066])
+  +: 'umina' ' Humphries' 'communicate' 'unciation' ' communicate' ' clubhouse' 'ounc' ' Fink' 'ozone' 'ounces' ' termite' ' wavefunction'
+      -: ' R' ' L' 'R' ' P' ' RP' 'L' ' PP' ' B' ' Ber' 'Re' 'Ver' 'P'
+L11 self_attn.o_proj sv1 s=0.0396 units/cols [779, 852, 639, 694, 523, 596] ([0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07999999821186066])
+  +: 'MSO' 'ilo' ' Medici' 'mo' 'ko' 'ma' 'emo' 'iume' ' TMC' 'Twelve' 'MO' 'ils'
+      -: ' Scarborough' 'ECTOR' 'ARN' 'amination' 'ayon' ' CARL' ' Selena' 'Shawn' ' SEQ' ' setImage' ' Shawn' 'Plate'
+L12 mlp.down_proj sv0 s=0.0786 units/cols [1004, 918, 1741, 1019, 1909, 495] ([0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806, 0.05000000074505806])
+  +: ' abiertas' 'legenheit' ' abiertos' 'uksi' 'antaranya' 'noz' ' unlink' 'hme' ' antisense' 'bitkan' 'mediate' 'stehen'
+      -: 'Syn' ' Panc' ' BOL' ' Besch' ' loco' ' bowtie' ' lug' ' syn' ' allo' 'inp' ' prow' ' proj'
+L12 mlp.down_proj sv1 s=0.0617 units/cols [398, 1767, 1142, 1955, 1847, 1904] ([0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'Tmp' ' Rally' ' Shot' 'Geo' ' Trustee' 'UserProfile' ' Tyre' ' Demo' ' Trainer' 'Fly' 'Result' ' Spy'
+      -: ' informed' ' informing' 'mies' ' sighted' 'mation' 'ahul' 'asamb' ' colect' 'ogin' ' cabeza' 'etin' ' igualdad'
+L12 self_attn.o_proj sv0 s=0.0599 units/cols [429, 334, 332, 495, 351, 344] ([0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'tunnel' 'moving' ' kuchen' ' Mick' 'imea' 'mounting' 'Moles' 'imation' ' interment' ' miscarriage' ' Miley' ' meandering'
+      -: 'Syn' ' Loren' 'PSR' ' Zheng' ' Syn' ' Arz' 'jad' 'CRL' 'ZR' 'jy' 'pR' 'arini'
+L12 self_attn.o_proj sv1 s=0.0499 units/cols [47, 815, 877, 196, 964, 23] ([0.10999999940395355, 0.10999999940395355, 0.10999999940395355, 0.10000000149011612, 0.10000000149011612, 0.10000000149011612])
+  +: 'poetry' ' Poetry' ' poeta' ' Poet' ' Pyr' ' poem' ' Regiment' ' hawk' ' trout' ' patched' ' Poem' ' poet'
+      -: 'isek' 'kak' 'SED' 'medio' 'fing' 'MIN' 'ASC' 'skom' 'istir' 'kond' 'ENDING' 'cis'
+L13 mlp.down_proj sv0 s=0.0731 units/cols [381, 1009, 1947, 293, 934, 1207] ([0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05000000074505806, 0.05000000074505806])
+  +: ' inactivated' 'hoog' ' Islands' ' ISLAND' 'amerika' 'aside' ' latina' 'maid' ' inactivation' ' Neumann' 'ichting' 'owanej'
+      -: ' pr' 'autore' ' cu' ' prec' ' panc' ' anc' 'PRA' 'Pyrid' ' peril' ' bowtie' 'suc' 'assertEqual'
+L13 mlp.down_proj sv1 s=0.0536 units/cols [576, 1828, 1870, 546, 28, 1165] ([0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'azionale' 'yect' 'izont' ' first' 'atakan' 'orphic' 'dsc' 'arasi' ' punct' 'ratulations' 'asar' 'chaft'
+      -: 'Dimension' ' Fighter' ' Rage' ' Rune' ' Utopia' ' Tales' ' Commander' ' Prosperity' ' Porter' 'tear' ' Blazer' ' Hobby'
+L13 self_attn.o_proj sv0 s=0.0552 units/cols [576, 542, 589, 333, 614, 567] ([0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: ' naro' 'emek' 'aughter' ' asesinato' 'emen' 'ainya' 'abeth' ' muertos' ' rerum' 'daad' ' multiplicado' ' adjourned'
+      -: 'Syn' 'Chin' ' syn' ' Syn' ' alg' 'Pont' ' GLA' ' Gau' ' BOL' ' blazer' ' Agn' ' Gwyn'
+L13 self_attn.o_proj sv1 s=0.0447 units/cols [503, 593, 414, 759, 337, 443] ([0.10000000149011612, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.07999999821186066, 0.07999999821186066])
+  +: 'log' 'col' ' s' 'q' 'Rep' 'car' 'cs' 'bar' ' S' 'ab' 'S' 'AB'
+      -: 'createServer' ' getNodeId' ' Unwrap' ' hangi' 'familyName' ' coloque' 'vykor' 'WithOptions' ' shouldUse' 'pcid' ' closeModal' 'ombrie'
+L14 mlp.down_proj sv0 s=0.0625 units/cols [1012, 531, 56, 937, 693, 774] ([0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: 'ledning' ' placebo' ' quartile' 'ize' ' room' 'auc' ' use' 'ises' ' as' ' none' ' Hausdorff' 'ecie'
+      -: ' sart' 'protocols' 'Neu' ' BOL' 'Suk' 'suc' ' onscreen' 'lly' 'Shane' ' CPM' 'Prot' ' Tomas'
+L14 mlp.down_proj sv1 s=0.0569 units/cols [1906, 1770, 1180, 1447, 1377, 936] ([0.09000000357627869, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'kali' 'cza' 'erah' 'hips' 'falls' 'arzy' 'alez' 'ower' 'nala' ' matter' 'usia' ' h'
+      -: ' Fifteen' ' fifteen' 'Fif' ' Thirteen' ' seventeen' ' sixteen' ' Sixteen' ' Eleven' 'thirty' ' quinze' ' douze' ' terrace'
+L14 self_attn.o_proj sv0 s=0.0664 units/cols [265, 974, 419, 968, 240, 786] ([0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: ' metabolite' 'ledning' 'hofer' ' organiza' ' Springs' ' impresa' 'chamber' 'vamo' ' matriline' ' atomically' 'actone' ' kontaktu'
+      -: ' anc' 'marginal' ' prec' 'snd' ' tor' ' genc' 'Gross' ' acl' 'gross' ' oan' ' panc' ' paff'
+L14 self_attn.o_proj sv1 s=0.0394 units/cols [589, 671, 625, 611, 665, 113] ([0.10999999940395355, 0.10000000149011612, 0.10000000149011612, 0.10000000149011612, 0.09000000357627869, 0.09000000357627869])
+  +: ' agad' ' beslut' ' suscrib' 'aternity' 'lymp' ' illo' 'QRect' ' respal' 'ucar' ' asegurarse' ' enfermed' ' asegur'
+      -: 'Win' ' Hak' ' Trem' ' Ry' ' neo' ' Mik' ' Win' ' Fischer' ' Mist' 'Mix' ' Zel' ' FL'
+L15 mlp.down_proj sv0 s=0.0714 units/cols [1877, 475, 1105, 547, 602, 1308] ([0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07999999821186066, 0.07000000029802322, 0.07000000029802322])
+  +: ' GABA' ' BROWN' 'Drake' 'Jin' 'Kelly' ' Rui' ' miR' 'Dell' ' Gastro' 'eight' ' Vivi' 'FIVE'
+      -: 'acles' ' matter' ' even' ' ground' ' first' ' back' ' same' 'beza' 'ishments' ' alap' ' intre' 'ulated'
+L15 mlp.down_proj sv1 s=0.0660 units/cols [1549, 697, 1374, 1727, 228, 1864] ([0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.05999999865889549, 0.05999999865889549])
+  +: ' feu' ' Catalonia' 'msg' ' symbols' ' GAZ' 'Esc' ' Phyt' 'Lite' ' message' 'Ukraine' 'Deux' ' Lebanon'
+      -: ' rispetto' ' inverso' ' compless' 'eliz' 'ppled' 'icuously' 'ermont' 'edere' 'ahaman' 'etar' ' outweighs' ' detener'
+L15 self_attn.o_proj sv0 s=0.0499 units/cols [993, 486, 1003, 998, 737, 742] ([0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'izers' 'izer' ' room' ' One' ' prize' ' passive' ' pond' ' tri' ' pool' ' gan' ' Passive' ' pied'
+      -: 'suc' ' mohabbat' 'Selain' 'Diaz' ' merda' 'Pentru' ' problemy' ' CPM' 'Rebecca' 'Charting' 'Anchor' 'agnetic'
+L15 self_attn.o_proj sv1 s=0.0416 units/cols [273, 500, 446, 375, 312, 1012] ([0.10000000149011612, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869, 0.09000000357627869])
+  +: ' in' 'entingan' 'izowane' 'ubers' 'ness' 'engers' ' rest' 'izability' 'mselves' 'hnung' 'ties' 'ishments'
+      -: 'Bren' ' Scan' 'Clark' ' Chester' 'Dell' 'Dennis' 'Lam' ' Gerard' 'Cache' 'Boot' 'Lan' ' Rex'
+L16 mlp.down_proj sv0 s=0.0869 units/cols [636, 620, 624, 5, 873, 1017] ([0.07999999821186066, 0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: 'one' ' One' ' one' 'One' ' satu' 'antara' 'first' ' first' 'I' ' jednom' ' I' ' jednego'
+      -: '<unused490>' '<unused1721>' ' ninety' ' Seventy' ' Nine' '<unused871>' ' Ninety' '<unused2112>' '<unused931>' '<unused1751>' '<unused2194>' ' Eighty'
+L16 mlp.down_proj sv1 s=0.0708 units/cols [1587, 286, 1730, 777, 620, 615] ([0.09000000357627869, 0.09000000357627869, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: '<unused505>' '<unused1990>' ' benzyl' '<unused920>' ' Penis' ' Gasoline' '<unused1957>' '<unused328>' '<unused318>' '<unused704>' '<unused706>' ' MILK'
+      -: ' in' ' to' ' and' ' two' ' for' ' as' ' un' ' even' ' al' ' of' ' the' ' non'
+L16 self_attn.o_proj sv0 s=0.0630 units/cols [651, 602, 759, 724, 726, 638] ([0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.05999999865889549, 0.05999999865889549, 0.05999999865889549])
+  +: 'ities' 'ismus' 'jelen' ' D' ' ed' 'idge' 'ity' 'itet' 'alkan' 'itett' 'izing' 'orge'
+      -: ' Snoop' ' radiance' ' nbfs' ' Bauhaus' ' footer' ' looped' ' undead' ' PRA' ' allergic' ' Tendulkar' ' cockroaches' ' abut'
+L16 self_attn.o_proj sv1 s=0.0489 units/cols [259, 515, 889, 3, 897, 771] ([0.10999999940395355, 0.10999999940395355, 0.10999999940395355, 0.10000000149011612, 0.10000000149011612, 0.10000000149011612])
+  +: ' SIX' ' Mol' ' DN' ' Chang' ' nerv' ' Fis' ' TEN' 'Mol' ' Rend' ' Kes' ' Rit' ' Jen'
+      -: 'acles' 'lores' 'zelf' ' sepat' 'celikle' ' importar' 'udahkan' ' kaug' ' nomenclatura' 'ektir' 'lendir' 'ribusi'
+L17 mlp.down_proj sv0 s=0.1067 units/cols [467, 750, 961, 1855, 32, 258] ([0.09000000357627869, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: ' in' ' and' ' the' ' I' ' a' ' to' ' un' ' i' ' is' ' In' ' for' ' The'
+      -: '<unused267>' '<unused931>' '<unused452>' '<unused490>' '<unused287>' '<unused432>' '<unused318>' '<unused443>' '<unused465>' '<unused742>' '<unused292>' '<unused930>'
+L17 mlp.down_proj sv1 s=0.0706 units/cols [1907, 1578, 556, 1672, 286, 557] ([0.07999999821186066, 0.07999999821186066, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322, 0.07000000029802322])
+  +: ' two' 'two' ' three' ' Two' 'Two' 'three' ' Three' ' third' ' TWO' ' dua' ' deux' ' duas'
+      -: ' HomePage' ' WndProc' 'eacute' ' Barbar' 'ANNEL' ' Syair' ' Peral' ' kilobytes' 'CTT' ' IUnary' 'Affine' '<unused505>'
+L17 self_attn.o_proj sv0 s=0.0578 units/cols [964, 847, 905, 941, 1018, 250] ([0.07000000029802322, 0.07000000029802322, 0.0700000002980
+[output cut at 15,000 characters]
+```

@@ -1,0 +1,53 @@
+OUTPUT of run 20 of at most 60:
+```
+base self-match (trace/frob) by head type:
+ anti  n=13 base selfmatch mean=+2.680  [[-5.85 -1.79 -0.86  1.65  3.62  3.99  4.12  4.23  4.51  4.52  4.99  5.04  6.65]]
+        dQK selfmatch z: mean=-0.13 sum/sqrt=-0.46
+ mixed n=23 base selfmatch mean=+0.842  [[-2.41 -2.34 -1.52 -0.79 -0.5  -0.41 -0.3  -0.16 -0.1  -0.01  0.44  0.59  0.6   0.67  0.77  0.77  1.75  1.97  2.55  3.11  3.14  3.62  7.92]]
+        dQK selfmatch z: mean=+1.82 sum/sqrt=+8.72
+ copy  n=36 base selfmatch mean=+2.124  [[-2.46 -1.41 -0.62  0.16  0.33  0.55  0.65  0.81  0.85  1.02  1.12  1.21  1.23  1.28  1.61  1.72  1.95  2.12  2.33  2.34  2.45  2.56  2.69  3.07
+  3.09  3.33  3.52  3.53  3.67  4.01  4.1   4.19  4.34  4.36  4.76  5.99]]
+        dQK selfmatch z: mean=-0.76 sum/sqrt=-4.58
+corr(posfrac, base selfmatch)= -0.074  corr(posfrac, dQK selfmatch z)= -0.072
+  notable 0 1 pf=0.21 base=6.653 z=-3.62
+  notable 0 2 pf=0.47 base=2.547 z=6.78
+  notable 0 3 pf=0.72 base=0.774 z=6.71
+  notable 1 0 pf=0.75 base=-0.499 z=2.73
+  notable 1 2 pf=0.91 base=2.118 z=3.74
+  notable 2 1 pf=0.15 base=4.992 z=-3.66
+  notable 3 1 pf=0.73 base=-2.409 z=3.98
+  notable 4 0 pf=0.65 base=0.672 z=3.65
+  notable 5 1 pf=0.76 base=5.994 z=-5.40
+  notable 5 2 pf=0.79 base=3.522 z=6.63
+  notable 5 3 pf=0.17 base=4.513 z=6.07
+  notable 6 1 pf=0.16 base=-1.786 z=2.93
+  notable 7 2 pf=0.99 base=2.334 z=-5.82
+  notable 7 3 pf=0.98 base=0.157 z=-3.65
+  notable 8 2 pf=0.97 base=-2.458 z=-4.05
+  notable 8 3 pf=0.65 base=-2.339 z=9.71
+  notable 9 1 pf=0.01 base=4.121 z=-3.66
+  notable 9 2 pf=1.00 base=2.562 z=6.32
+  notable 10 1 pf=0.49 base=-0.096 z=4.47
+  notable 10 2 pf=0.93 base=4.098 z=-3.47
+  notable 10 3 pf=0.32 base=3.619 z=6.07
+  notable 11 0 pf=0.50 base=0.441 z=3.96
+  notable 11 1 pf=0.99 base=0.851 z=-3.11
+  notable 12 1 pf=0.91 base=2.336 z=-4.50
+  notable 12 2 pf=0.99 base=2.446 z=10.08
+  notable 13 0 pf=0.78 base=1.280 z=-4.52
+  notable 13 1 pf=0.81 base=0.807 z=6.27
+  notable 13 2 pf=0.94 base=1.232 z=-9.43
+  notable 13 3 pf=0.17 base=3.622 z=-3.52
+  notable 14 0 pf=0.37 base=0.768 z=-9.02
+  notable 14 2 pf=0.84 base=1.606 z=-6.37
+  notable 14 3 pf=0.64 base=1.972 z=5.69
+  notable 15 1 pf=0.00 base=4.521 z=9.55
+  notable 15 2 pf=0.92 base=3.528 z=-6.19
+  notable 15 3 pf=1.00 base=4.361 z=-3.12
+  notable 16 0 pf=0.58 base=1.754 z=2.55
+  notable 17 0 pf=0.93 base=3.072 z=5.28
+  notable 17 1 pf=1.00 base=4.005 z=-2.79
+  notable 17 2 pf=0.20 base=3.989 z=-3.26
+  notable 17 3 pf=0.32 base=3.108 z=-7.15
+
+```

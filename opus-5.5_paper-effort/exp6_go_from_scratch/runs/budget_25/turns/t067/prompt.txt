@@ -1,0 +1,39 @@
+OUTPUT of Python run 57 of at most 120:
+```
+7 98 net move (2, 8) top [((2, 8), 0.9995), ((9, 0), 0.0005), ((5, 6), 0.0)] captured 0 libs after 1 size 2
+.OO.OO.O.
+OO.O.XO.O
+OOOXXOOO.
+OOOOOOOOX
+OXXXXXXX.
+X.XX.X.XX
+XX.XXXX.X
+X.X.XX.X.
+XX.XX.X.X
+41 72 net move (8, 3) top [((8, 3), 0.9548), ((0, 8), 0.0171), ((4, 7), 0.0146)] captured 0 libs after 1 size 2
+.O.X.X.X.
+OOXXX.XO.
+XOOOOXXOO
+XXOOXXXX.
+.XXXX.X..
+XXOOXX.X.
+XXOXXXX..
+OOOOOX.X.
+.OO.X.X..
+48 63 net move (2, 0) top [((2, 0), 0.5346), ((1, 7), 0.2113), ((3, 8), 0.1165)] captured 0 libs after 1 size 2
+.X.X.XO..
+XOX.XOO..
+.OXXXXOO.
+OOOOOXXO.
+OXOOOOXX.
+.XXOOX.XO
+.XXXOXXX.
+..OXXX.X.
+......X..
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 47, in <module>
+KeyError: 'top5'
+
+```

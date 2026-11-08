@@ -1,0 +1,26 @@
+This package holds content under several licenses.
+
+1. Logs, data and networks produced in this study (everything not listed under 2-5): Creative Commons Attribution 4.0
+   International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/legalcode
+   Copyright (c) 2026 Alexandre Belostecinic.
+
+2. Our code (harness/: *.py and *.sh files written for this study): the MIT License, harness/LICENSE. Parts adapted
+   from the original study's MIT-licensed code keep its copyright notice: harness/NOTICE.
+
+3. Material from the original study, "Sparks of Weight-Space Programming: LLMs can natively read & write neural
+   network weights" (Takehi, Teoh, Zhang, Khattab, 2026; logs at https://github.com/RikiyaT/lm_understand-logs),
+   CC BY 4.0: the messages sent to the model are the original prompts, verbatim (every message.txt and the first
+   turns/t001/prompt.txt of each conversation; harness/exp4/prompt.txt, harness/exp5/prompts/, harness/exp7/prompts/).
+   They contain the original networks' weights as text (Experiments 1, 2, 4) and the original task descriptions.
+   The scorers read the original answer keys from that repository; they are not copied here.
+
+4. MinAtar's source code, quoted inside the prompts of Experiment 5 (<run>/exp5_write_from_scratch/runs/*/message.txt
+   and turns/t001/prompt.txt, where <run> is a model-run folder such as opus-5.5_paper-effort; harness/exp5/prompts/*.txt):
+   GPL-3.0, the text in <run>/exp5_write_from_scratch/LICENSE-MinAtar
+   (a copy is in harness/exp5/prompts/LICENSE-MinAtar).
+
+5. Experiment 7 concerns fine-tunes of Google's Gemma 3 270M (google/gemma-3-270m-it), which are subject to the
+   Gemma Terms of Use (https://ai.google.dev/gemma/terms). No Gemma weights, tokenizer files or arrays computed from
+   the weights are included; see THIRD_PARTY_NOTICES.md for what Gemma-related material is included.
+
+Third-party software the code uses (not included) is listed with its license in THIRD_PARTY_NOTICES.md.

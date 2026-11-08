@@ -1,0 +1,23 @@
+OUTPUT of run 10 of at most 100:
+```
+Fout vs T,P [0.404 0.262] [0.488 0.263]
+1 0 |kp|=31.80 kp.Fout [ 0.73 -0.55] kp in P3out 0.15 K reads Fout 0.64 |A Fout|=9.94 qb.(A Fout) 29.23
+1 1 |kp|=29.51 kp.Fout [ 0.72 -0.57] kp in P3out 0.18 K reads Fout 0.66 |A Fout|=9.64 qb.(A Fout) 27.12
+1 2 |kp|=24.41 kp.Fout [ 0.73 -0.57] kp in P3out 0.21 K reads Fout 0.64 |A Fout|=9.62 qb.(A Fout) 22.49
+1 3 |kp|=27.13 kp.Fout [ 0.71 -0.59] kp in P3out 0.20 K reads Fout 0.67 |A Fout|=9.71 qb.(A Fout) 24.93
+1 4 |kp|=18.63 kp.Fout [ 0.63 -0.63] kp in P3out 0.19 K reads Fout 0.56 |A Fout|=8.47 qb.(A Fout) 16.55
+1 5 |kp|=31.17 kp.Fout [ 0.71 -0.58] kp in P3out 0.15 K reads Fout 0.68 |A Fout|=9.63 qb.(A Fout) 28.64
+2 0 |kp|=16.17 kp.Fout [ 0.7  -0.58] kp in P3out 0.11 K reads Fout 0.52 |A Fout|=6.24 qb.(A Fout) 14.71
+2 1 |kp|=15.05 kp.Fout [ 0.68 -0.58] kp in P3out 0.11 K reads Fout 0.44 |A Fout|=5.09 qb.(A Fout) 13.50
+2 2 |kp|=12.87 kp.Fout [ 0.66 -0.58] kp in P3out 0.14 K reads Fout 0.43 |A Fout|=4.70 qb.(A Fout) 11.29
+2 3 |kp|=8.48 kp.Fout [ 0.55 -0.56] kp in P3out 0.20 K reads Fout 0.35 |A Fout|=3.82 qb.(A Fout) 6.63
+2 4 |kp|=18.46 kp.Fout [ 0.71 -0.56] kp in P3out 0.16 K reads Fout 0.47 |A Fout|=6.87 qb.(A Fout) 16.77
+2 5 |kp|=16.19 kp.Fout [ 0.73 -0.55] kp in P3out 0.10 K reads Fout 0.44 |A Fout|=5.58 qb.(A Fout) 14.88
+3 0 |kp|=4.00 kp.Fout [ 0.6  -0.57] kp in P3out 0.19 K reads Fout 0.28 |A Fout|=3.23 qb.(A Fout) 3.32
+3 1 |kp|=2.24 kp.Fout [ 0.42 -0.55] kp in P3out 0.21 K reads Fout 0.26 |A Fout|=2.36 qb.(A Fout) 1.55
+3 2 |kp|=3.96 kp.Fout [ 0.55 -0.56] kp in P3out 0.18 K reads Fout 0.31 |A Fout|=2.87 qb.(A Fout) 3.11
+3 3 |kp|=1.76 kp.Fout [-0.08 -0.03] kp in P3out 0.37 K reads Fout 0.04 |A Fout|=0.50 qb.(A Fout) 0.16
+3 4 |kp|=1.15 kp.Fout [ 0.17 -0.1 ] kp in P3out 0.19 K reads Fout 0.09 |A Fout|=0.44 qb.(A Fout) 0.22
+3 5 |kp|=3.95 kp.Fout [ 0.65 -0.54] kp in P3out 0.17 K reads Fout 0.27 |A Fout|=3.27 qb.(A Fout) 3.36
+
+```

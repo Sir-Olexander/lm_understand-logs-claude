@@ -1,0 +1,7 @@
+OUTPUT of Python run 113 of at most 120:
+```
+[510, 490, 490, 490, 512, 512]
+P1 bias at (0,3) 35.7 P2 exists False Ux exists True
+P1 bias at (0,1) 51.975 True True
+
+```

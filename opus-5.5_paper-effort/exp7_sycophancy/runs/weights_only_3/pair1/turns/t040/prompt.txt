@@ -1,0 +1,30 @@
+OUTPUT of run 39 of at most 60:
+```
+heads ranked by relative attention-logit change at Δ=11 (F_perp/base), with key/query parts; and at Δ=0
+  L11h3: Δ11 total=0.1108 key=0.0551 query=0.0861 | Δ0 total=0.1189
+  L12h3: Δ11 total=0.1007 key=0.0214 query=0.0904 | Δ0 total=0.0834
+  L17h1: Δ11 total=0.0988 key=0.0404 query=0.0849 | Δ0 total=0.1056
+  L11h1: Δ11 total=0.0949 key=0.0509 query=0.0726 | Δ0 total=0.1085
+  L11h0: Δ11 total=0.0930 key=0.0325 query=0.0814 | Δ0 total=0.1043
+  L13h3: Δ11 total=0.0919 key=0.0163 query=0.0874 | Δ0 total=0.0732
+  L14h2: Δ11 total=0.0916 key=0.0276 query=0.0849 | Δ0 total=0.0944
+  L14h3: Δ11 total=0.0915 key=0.0227 query=0.0884 | Δ0 total=0.1414
+  L 5h0: Δ11 total=0.0892 key=0.0201 query=0.0788 | Δ0 total=0.0907
+  L 5h3: Δ11 total=0.0781 key=0.0132 query=0.0724 | Δ0 total=0.0802
+  L17h3: Δ11 total=0.0757 key=0.0236 query=0.0732 | Δ0 total=0.0708
+  L12h1: Δ11 total=0.0739 key=0.0192 query=0.0778 | Δ0 total=0.0709
+  L 9h0: Δ11 total=0.0733 key=0.0270 query=0.0652 | Δ0 total=0.0862
+  L12h0: Δ11 total=0.0730 key=0.0165 query=0.0769 | Δ0 total=0.0631
+  L15h1: Δ11 total=0.0711 key=0.0362 query=0.0546 | Δ0 total=0.0792
+  L 9h2: Δ11 total=0.0689 key=0.0273 query=0.0533 | Δ0 total=0.0787
+  L15h2: Δ11 total=0.0688 key=0.0295 query=0.0540 | Δ0 total=0.1260
+  L10h1: Δ11 total=0.0636 key=0.0218 query=0.0551 | Δ0 total=0.1182
+  L13h0: Δ11 total=0.0629 key=0.0180 query=0.0568 | Δ0 total=0.0695
+  L14h1: Δ11 total=0.0625 key=0.0213 query=0.0622 | Δ0 total=0.0963
+  L11h2: Δ11 total=0.0622 key=0.0325 query=0.0517 | Δ0 total=0.0717
+  L17h2: Δ11 total=0.0600 key=0.0251 query=0.0476 | Δ0 total=0.0599
+  L12h2: Δ11 total=0.0593 key=0.0167 query=0.0557 | Δ0 total=0.0538
+  L 9h1: Δ11 total=0.0574 key=0.0242 query=0.0478 | Δ0 total=0.0625
+median Δ11: 0.047935588070171335
+
+```

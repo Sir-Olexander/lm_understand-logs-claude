@@ -1,0 +1,136 @@
+OUTPUT of run 11 of at most 20:
+```
+
+nopref:g1: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 9h0  A=0.009  B=0.021  B-A=+0.012  fracB>A=1.00
+   L10h2  A=0.017  B=0.007  B-A=-0.009  fracB>A=0.00
+   L 1h2  A=0.018  B=0.010  B-A=-0.008  fracB>A=0.00
+   L12h2  A=0.001  B=0.008  B-A=+0.007  fracB>A=1.00
+   L10h3  A=0.029  B=0.022  B-A=-0.007  fracB>A=0.12
+   L 7h3  A=0.001  B=0.007  B-A=+0.006  fracB>A=1.00
+   L 6h1  A=0.004  B=0.009  B-A=+0.005  fracB>A=1.00
+   L 7h1  A=0.002  B=0.007  B-A=+0.005  fracB>A=1.00
+   L 6h2  A=0.008  B=0.012  B-A=+0.004  fracB>A=0.75
+   total over heads: A=0.20 B=0.24
+
+nopref:g2: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L10h1  A=0.020  B=0.003  B-A=-0.017  fracB>A=0.00
+   L 9h0  A=0.019  B=0.031  B-A=+0.012  fracB>A=1.00
+   L10h2  A=0.018  B=0.007  B-A=-0.011  fracB>A=0.00
+   L 7h3  A=0.004  B=0.012  B-A=+0.008  fracB>A=1.00
+   L12h2  A=0.003  B=0.009  B-A=+0.007  fracB>A=1.00
+   L10h3  A=0.027  B=0.020  B-A=-0.006  fracB>A=0.25
+   L15h3  A=0.004  B=0.010  B-A=+0.006  fracB>A=1.00
+   L 6h1  A=0.010  B=0.016  B-A=+0.005  fracB>A=1.00
+   L 6h3  A=0.002  B=0.006  B-A=+0.004  fracB>A=1.00
+   total over heads: A=0.28 B=0.30
+
+nopref:ops: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L10h3  A=0.098  B=0.013  B-A=-0.085  fracB>A=0.00
+   L10h2  A=0.072  B=0.004  B-A=-0.068  fracB>A=0.00
+   L 9h0  A=0.067  B=0.029  B-A=-0.038  fracB>A=0.00
+   L15h3  A=0.032  B=0.012  B-A=-0.021  fracB>A=0.00
+   L 9h2  A=0.024  B=0.006  B-A=-0.018  fracB>A=0.00
+   L12h3  A=0.020  B=0.003  B-A=-0.017  fracB>A=0.00
+   L 1h2  A=0.035  B=0.021  B-A=-0.014  fracB>A=0.00
+   L12h2  A=0.020  B=0.007  B-A=-0.013  fracB>A=0.00
+   L 7h0  A=0.024  B=0.011  B-A=-0.013  fracB>A=0.12
+   total over heads: A=0.82 B=0.43
+
+nopref:mark: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 7h0  A=0.078  B=0.284  B-A=+0.205  fracB>A=1.00
+   L13h3  A=0.040  B=0.131  B-A=+0.091  fracB>A=0.75
+   L 6h3  A=0.021  B=0.100  B-A=+0.080  fracB>A=1.00
+   L 6h1  A=0.059  B=0.125  B-A=+0.066  fracB>A=1.00
+   L 6h2  A=0.040  B=0.105  B-A=+0.065  fracB>A=1.00
+   L 4h0  A=0.018  B=0.065  B-A=+0.048  fracB>A=1.00
+   L 4h3  A=0.039  B=0.085  B-A=+0.046  fracB>A=1.00
+   L12h2  A=0.264  B=0.218  B-A=-0.046  fracB>A=0.25
+   L 9h3  A=0.077  B=0.037  B-A=-0.040  fracB>A=0.00
+   total over heads: A=1.54 B=2.27
+
+tmpl:guess: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L10h1  A=0.126  B=0.050  B-A=-0.076  fracB>A=0.00
+   L10h3  A=0.106  B=0.070  B-A=-0.036  fracB>A=0.00
+   L 4h1  A=0.157  B=0.131  B-A=-0.026  fracB>A=0.00
+   L12h2  A=0.004  B=0.018  B-A=+0.014  fracB>A=1.00
+   L 4h0  A=0.121  B=0.108  B-A=-0.013  fracB>A=0.00
+   L 2h3  A=0.112  B=0.124  B-A=+0.011  fracB>A=1.00
+   L 7h3  A=0.009  B=0.020  B-A=+0.011  fracB>A=1.00
+   L 9h0  A=0.046  B=0.056  B-A=+0.010  fracB>A=0.88
+   L16h1  A=0.019  B=0.010  B-A=-0.009  fracB>A=0.00
+   total over heads: A=1.57 B=1.45
+
+tmpl:ops: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L10h3  A=0.103  B=0.021  B-A=-0.082  fracB>A=0.00
+   L 9h0  A=0.068  B=0.017  B-A=-0.051  fracB>A=0.00
+   L10h2  A=0.054  B=0.008  B-A=-0.046  fracB>A=0.00
+   L15h3  A=0.042  B=0.009  B-A=-0.033  fracB>A=0.00
+   L 9h1  A=0.034  B=0.013  B-A=-0.021  fracB>A=0.00
+   L 9h2  A=0.022  B=0.006  B-A=-0.016  fracB>A=0.00
+   L 7h0  A=0.021  B=0.005  B-A=-0.016  fracB>A=0.00
+   L10h0  A=0.019  B=0.003  B-A=-0.016  fracB>A=0.00
+   L 7h2  A=0.025  B=0.011  B-A=-0.014  fracB>A=0.00
+   total over heads: A=0.99 B=0.51
+
+tmpl:mark: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 7h2  A=0.087  B=0.026  B-A=-0.062  fracB>A=0.00
+   L12h2  A=0.057  B=0.115  B-A=+0.058  fracB>A=1.00
+   L 7h0  A=0.119  B=0.162  B-A=+0.043  fracB>A=1.00
+   L 1h2  A=0.090  B=0.125  B-A=+0.035  fracB>A=1.00
+   L 6h3  A=0.034  B=0.067  B-A=+0.033  fracB>A=1.00
+   L 6h0  A=0.070  B=0.039  B-A=-0.031  fracB>A=0.00
+   L 5h0  A=0.054  B=0.029  B-A=-0.025  fracB>A=0.00
+   L13h3  A=0.037  B=0.062  B-A=+0.025  fracB>A=0.75
+   L 4h2  A=0.085  B=0.110  B-A=+0.025  fracB>A=0.75
+   total over heads: A=2.44 B=2.55
+
+pref:g1: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 3h3  A=0.522  B=0.760  B-A=+0.238  fracB>A=1.00
+   L 6h0  A=0.210  B=0.381  B-A=+0.171  fracB>A=1.00
+   L 2h1  A=0.187  B=0.133  B-A=-0.054  fracB>A=0.00
+   L 7h0  A=0.190  B=0.148  B-A=-0.042  fracB>A=0.12
+   L10h2  A=0.030  B=0.072  B-A=+0.042  fracB>A=1.00
+   L11h3  A=0.038  B=0.004  B-A=-0.033  fracB>A=0.00
+   L12h2  A=0.000  B=0.029  B-A=+0.029  fracB>A=1.00
+   L11h2  A=0.026  B=0.001  B-A=-0.024  fracB>A=0.00
+   L 6h1  A=0.036  B=0.057  B-A=+0.021  fracB>A=1.00
+   total over heads: A=2.02 B=2.39
+
+pref:g2: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L12h1  A=0.035  B=0.299  B-A=+0.264  fracB>A=1.00
+   L 5h1  A=0.448  B=0.241  B-A=-0.208  fracB>A=0.00
+   L13h3  A=0.029  B=0.214  B-A=+0.185  fracB>A=1.00
+   L 5h3  A=0.685  B=0.817  B-A=+0.133  fracB>A=1.00
+   L 9h3  A=0.078  B=0.008  B-A=-0.069  fracB>A=0.00
+   L10h2  A=0.050  B=0.117  B-A=+0.067  fracB>A=1.00
+   L12h3  A=0.002  B=0.068  B-A=+0.066  fracB>A=1.00
+   L 5h2  A=0.761  B=0.823  B-A=+0.062  fracB>A=0.88
+   L 7h2  A=0.110  B=0.049  B-A=-0.061  fracB>A=0.00
+   total over heads: A=4.11 B=4.52
+
+pref:ops: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 9h0  A=0.553  B=0.039  B-A=-0.514  fracB>A=0.00
+   L12h0  A=0.336  B=0.025  B-A=-0.311  fracB>A=0.00
+   L10h2  A=0.341  B=0.057  B-A=-0.284  fracB>A=0.00
+   L 9h1  A=0.262  B=0.055  B-A=-0.207  fracB>A=0.00
+   L12h3  A=0.224  B=0.024  B-A=-0.200  fracB>A=0.00
+   L 7h0  A=0.269  B=0.073  B-A=-0.196  fracB>A=0.00
+   L 7h2  A=0.252  B=0.061  B-A=-0.191  fracB>A=0.00
+   L 9h3  A=0.180  B=0.029  B-A=-0.151  fracB>A=0.00
+   L12h1  A=0.177  B=0.035  B-A=-0.142  fracB>A=0.00
+   total over heads: A=4.70 B=1.74
+
+pref:mark: top heads by |B-A| (meanA, meanB, B-A, frac B>A)
+   L 7h0  A=0.009  B=0.135  B-A=+0.126  fracB>A=1.00
+   L10h2  A=0.011  B=0.088  B-A=+0.077  fracB>A=1.00
+   L 6h3  A=0.038  B=0.095  B-A=+0.057  fracB>A=1.00
+   L 6h1  A=0.025  B=0.078  B-A=+0.052  fracB>A=1.00
+   L 6h0  A=0.016  B=0.066  B-A=+0.050  fracB>A=0.88
+   L 4h3  A=0.053  B=0.100  B-A=+0.047  fracB>A=0.75
+   L 9h0  A=0.004  B=0.041  B-A=+0.037  fracB>A=1.00
+   L 9h2  A=0.010  B=0.045  B-A=+0.035  fracB>A=1.00
+   L 9h1  A=0.012  B=0.039  B-A=+0.027  fracB>A=1.00
+   total over heads: A=0.60 B=1.37
+
+```

@@ -1,0 +1,10 @@
+OUTPUT of run 43 of at most 60:
+```
+median subj-attr cosine 0.647 {'caps': np.float32(0.702), 'cols': np.float32(0.471), 'conts': np.float32(0.633), 'opps': np.float32(0.615)}
+caps            corr(zA,zD)=-0.243  mean zD (zA>3)=-0.13 (n=37)  weighted=-2.46  plain mean zD=-0.01
+cols            corr(zA,zD)=+0.413  mean zD (zA>3)=+1.24 (n=16)  weighted=+5.07  plain mean zD=+0.51
+conts           corr(zA,zD)=+0.150  mean zD (zA>3)=+0.56 (n=17)  weighted=+2.06  plain mean zD=+0.15
+opps            corr(zA,zD)=+0.047  mean zD (zA>3)=+0.21 (n=30)  weighted=+0.76  plain mean zD=+0.14
+dissimilar_all  corr(zA,zD)=+0.084  mean zD (zA>3)=+0.43 (n=28)  weighted=+1.61  plain mean zD=+0.28
+
+```

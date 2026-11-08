@@ -1,0 +1,18 @@
+OUTPUT of run 44 of at most 60:
+```
+radial-projected: corr(copy score, far-minus-near z) = +0.241; copy mean +0.33 (frac>0 0.70); anti mean -1.05 (frac<0 0.80)
+  L5: H0(C)+2.9 H1(C)-2.9 H2(C)+2.1 H3(A)-1.5   copy-minus-anti +2.22
+  L6: H0(C)-3.1 H1(A)+3.3 H2(C)-2.7 H3(C)-1.4   copy-minus-anti -5.74
+  L7: H0(C)+0.9 H1(A)-1.3 H2(C)+0.4 H3(C)+1.6   copy-minus-anti +2.29
+  L8: H0(A)-2.2 H1(C)+1.2 H2(C)-0.1 H3(m)-2.8   copy-minus-anti +2.74
+  L9: H0(C)+2.1 H1(A)-2.8 H2(C)+0.6 H3(C)+1.9   copy-minus-anti +4.36
+  L10: H0(C)+2.9 H1(m)-1.9 H2(C)+0.1 H3(m)-1.3   copy-minus-anti +nan
+  L11: H0(m)-0.6 H1(C)-1.2 H2(C)+0.4 H3(A)-0.8   copy-minus-anti +0.42
+  L12: H0(A)+2.4 H1(C)-3.4 H2(C)+0.0 H3(C)+0.9   copy-minus-anti -3.25
+  L13: H0(C)+0.2 H1(C)+0.7 H2(C)+2.1 H3(A)-2.7   copy-minus-anti +3.67
+  L14: H0(m)+4.0 H1(C)-1.3 H2(C)+0.3 H3(m)-1.8   copy-minus-anti +nan
+  L15: H0(C)-0.6 H1(A)-1.6 H2(C)+0.1 H3(C)+4.1   copy-minus-anti +2.81
+  L16: H0(m)-1.2 H1(C)+0.1 H2(C)-0.3 H3(m)+0.0   copy-minus-anti +nan
+  L17: H0(C)+2.1 H1(C)+0.3 H2(A)-3.2 H3(m)+2.1   copy-minus-anti +4.44
+
+```

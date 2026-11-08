@@ -1,0 +1,149 @@
+OUTPUT of run 4 of at most 20:
+```
+(262144, 640) emb identical: True
+L6 down_proj sv0 s=7.793
+   +: '2' '1' "'" 'ar' 'is' 'us' '9' 'born' ' II' '4'
+   -: 'amię' '连锁' 'esehatan' 'osphäre' 'ográf' 'iejsc' 'клю' 'ellido' '거리' '齋'
+L6 down_proj sv1 s=2.374
+   +: 'itriangular' ' hence' '\n' 'эрэг' '而' ' rů' 'новні' 'setPrototypeOf' 'рования' ' себя'
+   -: 'anych' '))*' 'atinum' '诟' 'hipi' 'purge' 'డు' 'diphenyl' ' morphism' 'dni'
+L6 o_proj sv0 s=2.259
+   +: 'ográf' 'мию' 'ặ' 'vió' 'ớm' 'legraf' '呤' 'ографи' 'iophorus' 'ولوژی'
+   -: "'" '-' '’' 'us' 'ar' 'ers' '/' 'ars' 'is' 'ite'
+L6 o_proj sv1 s=1.597
+   +: ' عنہ' 'dni' 'atinum' 'oresizing' 'anych' 'kých' '<tfoot>' 'ógica' 'ниципа' '>∑</'
+   -: '\n' ' hence' 'hence' 'as' 'is' '\n\n' ' daher' '而' 'it' 'idane'
+L7 down_proj sv0 s=6.783
+   +: 'ကြည်' 'ам' 'قد' ' уста' ' осве' 'قیع' ' щ' 'Ак' '登记' ' ثابت'
+   -: 'ist' 'born' ' protocols' ' knows' 'ato' ' theorem' ' equations' 'math' ' Math' '2'
+L7 down_proj sv1 s=1.656
+   +: '积' ' құ' 'дели' ' بقدر' ' only' 'asis' ' contamos' '唯' ' give' ' erity'
+   -: ' extremists' 'Occasionally' 'College' ' Islamist' ' Freeway' ' Metal' ' baddies' ' Conduit' ' chorizo' ' Filament'
+L7 o_proj sv0 s=2.658
+   +: '-' '.' '4' '1' ' C' '3' ' R' '5' ',' ' ('
+   -: ' انگری' ' щи' ' //-' ' Wikispecies' 'EndGlobalSection' 'UseDebug' 'မျက်' ' fileprivate' 'ǽ' ' userRepository'
+L7 o_proj sv1 s=1.308
+   +: '\n' 'setPrototypeOf' '\n\n' 'itriangular' '而' 'дели' ' find' ' hence' 'requireNonNull' "'};"
+   -: '诟' ' syphilit' 'anych' '<tfoot>' 'adinam' 'crollView' ' dinners' 'hipi' ' traceback' 'ниципа'
+L8 down_proj sv0 s=6.400
+   +: 'hetiti' ' usersRouter' 'padă' ' ActionBar' '<unused1645>' '<unused1776>' '<unused466>' '<unused1075>' 'mataspid' '<unused1209>'
+   -: ' ' '.' '-' '1' '!' ',' ' T' ' the' ' L' ' N'
+L8 down_proj sv1 s=2.866
+   +: 'くれる' 'لع' 'เตอร์' ' stronę' 'nlm' 'hipi' 'iguously' '谀' 'znych' ' Ừ'
+   -: 'สม' ' ce' '</h3>' '▀' '顾' '}|' '},$' 'itriangular' 'centralwidget' ' besch'
+L8 o_proj sv0 s=3.072
+   +: 'l' '作战' 'mselves' 'やら' 't' ' isle' ' committees' ' tacky' 'la' '율'
+   -: ' ادي' 'hány' ' 同时' 'Ссылки' 'สม' 'ссмо' ' 現' ' اث' 'Коммента' ' 主要'
+L8 o_proj sv1 s=2.287
+   +: ' gave' 'หลัง' '・' ' need' 'shake' 'heits' ' caule' 'foundland' ' give' ' giv'
+   -: 'iguously' 'fta' 'adinam' 'ٹری' 'звичай' 'zących' 'nommen' 'laki' 'urato' '谀'
+L9 down_proj sv0 s=4.775
+   +: ' penatibus' 'ObjectHideFlags' ' mapStateToProps' 'OscInitStruct' ' usersRouter' ' rollerskates' 'слары' ' BrowserWindow' ' getMenuInflater' 'ClkInitStruct'
+   -: ' ' '3' ' K' 'L' ' L' ' N' 'N' ' w' 'W' 'V'
+L9 down_proj sv1 s=3.245
+   +: 'setPrototypeOf' ' penatibus' ' mapStateToProps' 'apped' 'roweak' 'emonic' 'erequisites' 'apping' 'rizable' 'itemap'
+   -: ' posto' ' place' ' заня' 'ВП' '動き' ' أف' ' destro' 'ورسٹی' '当た' 'коменду'
+L9 o_proj sv0 s=2.994
+   +: 'hetiti' '\x8a' ' ))->' ' newMovie' 'ᕕ' '^{[\\' '\x83' '}_{(' '<unused1792>' 'ichromo'
+   -: '-' '.' ' ' ',' 'n' '1' ':' ')' 's' '2'
+L9 o_proj sv1 s=1.800
+   +: ' nito' 'ErrorMessage' ' Seconds' ' Ds' '诟' '보면' ' sniping' '彥' ' negeri' ' classico'
+   -: 'ۡ' 'give' '"},{"' '”。' '"。' ' reichen' ' أ' '┛' ' gather' ',"+'
+L10 down_proj sv0 s=7.101
+   +: ' ,' 'L' '1' '3' ' L' 'S' ' ' ' S' '0' ','
+   -: 'жий' 'ӱ' ' Grimm' 'ꯔ' ")'=='" ' tremors' ' ungraded' ' MRT' 'Emoji' '㼛'
+L10 down_proj sv1 s=6.026
+   +: ' the' 'the' 'The' ' a' ' on' ' The' ' conflitto' ' to' '1' '2'
+   -: 'FieldSet' ' Sandusky' ' superblock' ' windshield' ' wpt' ' %@' ' travertine' ' totaled' ' fauc' 'pcid'
+L10 o_proj sv0 s=4.372
+   +: ' Redding' ' useStyles' 'üssel' ' Kyrgios' ' junit' ' Hebre' 'ucing' 'CharacterSet' 'ᐉ' 'enció'
+   -: ' women' ' w' ' W' ' Mon' 'W' ' put' ' Carn' '忘' ' must' 'cont'
+L10 o_proj sv1 s=3.322
+   +: '0' '1' '5' '2' ' i' ' il' 'ile' ' the' 'il' ')'
+   -: '\uf007' ' totalPrice' ' terrazzo' ' entitle' ' tessel' 'attes' '\x8a' ' attho' '")+' 'auch'
+L11 down_proj sv0 s=12.118
+   +: ' Babcock' ' Clements' 'xC' 'maj' 'FileName' ' Padre' ' Coy' 'mg' ' Bilingual' 'stdout'
+   -: ' loss' 'endom' ' say' ' like' 'e' 'wenden' ' not' ' think' ' tra' '摂'
+L11 down_proj sv1 s=9.268
+   +: 'F' '2' 'B' 'The' 'D' 'I' 'C' 'os' 'M' '0'
+   -: ' ⏮' '^{*}}\\' ' VALUE' 'tAux' '\\<^' ' powerAll' '毂' ' ULT' '嘏' ' ちゃう'
+L11 o_proj sv0 s=8.746
+   +: ' GMA' ' Catholicism' ' Clemente' ' Padre' ' JMS' ' CommandLine' ' Jolly' ' Christianity' ' Camila' 'Bible'
+   -: ' Oct' 'Let' ' Tir' ' Otter' ' OU' ' Let' 'etten' ' Tal' 'et' ' Om'
+L11 o_proj sv1 s=7.888
+   +: ' Box' ' Kat' ' Mat' 'Box' ' kat' ' box' 'box' ' Jose' ' Thomas' ' Double'
+   -: 'رمپ' 'ávy' 'Gur' '渭' ' microprocessor' 'aidl' 'ガル' ' dBASE' ' debugger' ' Maier'
+L12 down_proj sv0 s=15.425
+   +: ' MPM' 'bic' 'corso' ' jubilee' ' PSB' ' precious' ' Prok' ' horns' ' CRS' 'ashes'
+   -: ' nghỉ' ' let' '9' " [{'" ' deny' 'กด' ' get' "}']" ' испыты' 'Forgot'
+L12 down_proj sv1 s=12.131
+   +: ' adver' ' addCriterion' 'weatherm' ' Ehnerg' ' AppMethodBeat' 'واق' '论' '┉' ' reduc' 'лятор'
+   -: ')' ' nearby' ' non' ' thumbs' 'bo' 'one' 'two' ' proficiency' ' feces' ' knowledge'
+L12 o_proj sv0 s=10.502
+   +: '7' ' Tun' ' Van' ' Trav' ' Mitchell' ' TRA' ' Rav' '9' ' Tir' ' Ket'
+   -: ' BSP' 'oldi' ' CommandLine' 'asilkan' 'BSP' 'BSC' ' PSB' 'erdings' ' Bilingual' 'PSA'
+L12 o_proj sv1 s=9.450
+   +: ' Berger' 'Berger' ' Mand' 'Gr' 'Maj' 'inger' 'jan' 'Jan' 'BER' ' Manfred'
+   -: ' evacuate' ' stos' 'скопа' '‚‚' ' slips' ' Astoria' ' uso' ' Estudos' 'سو' 'uso'
+L13 down_proj sv0 s=14.840
+   +: 'odnev' ' teclas' 'hetic' 'ครง' " [{'" 'hidrat' ' aplicada' ' sofistic' ' trastorno' ' alami'
+   -: 'PRO' 'Pro' 'Mother' ' spine' ' Fils' ' MC' 'Sc' 'PS' ' Shot' 'Lin'
+L13 down_proj sv1 s=11.476
+   +: ' Putin' ' Lenin' ' Netanyahu' ' Officer' ' Opus' ' patriotic' ' Poetry' ' neurons' ' poetry' ' Animals'
+   -: 'מא' 'iguez' 'دد' 'ينة' 'ぉ' 'emark' ' sbag' 'キシ' 'ες' ' corret'
+L13 o_proj sv0 s=8.885
+   +: '6' '9' '7' 'av' 'UTRAL' '4' '8' ' ' ' trastorno' '3'
+   -: ' MPM' ' HPE' ' PSB' ' 基' ' jubilee' 'Bp' ' PKD' ' ACR' ' RSC' ' PSA'
+L13 o_proj sv1 s=7.504
+   +: 'нару' ' NSArray' '辨' ' unwarrant' 'rary' 'müşt' 'ناف' ' anál' ' disadvant' '囿'
+   -: 'col' 'imb' 'bo' 'bl' 'CO' 'cl' 'cre' 'CM' 'png' 'MB'
+L14 down_proj sv0 s=15.296
+   +: ' for' ' while' ' more' '感的' 'ものの' ' not' '惑' 'oltre' 'entingan' 'wendungen'
+   -: 'Meth' 'Ji' ' SHO' 'Ren' 'Met' 'Ye' 'Io' 'Li' ' Io' 'Cn'
+L14 down_proj sv1 s=13.544
+   +: '₂(' '鯱' ' coil' 'コア' '사를' ' loke' ' gange' '사의' ' flanks' '사는'
+   -: 'тических' ' Viel' '1' '睾' ' Perm' '凌' ' імені' ' уголов' 'ментом' ' Estim'
+L14 o_proj sv0 s=13.173
+   +: ' MG' 'Block' 'phot' ' PSC' 'pc' 'block' ' CC' ' BG' 'MT' 'Spe'
+   -: '扱う' '跻' 'jahter' ' tomada' 'に至' '倡' '上げた' 'ambilan' '取る' '遑'
+L14 o_proj sv1 s=7.602
+   +: '两位' 'eyiz' ' tinggal' ' tiden' ' sesu' ' latar' ' familiari' '感じ' ' halus' ' ragione'
+   -: ' welke' ' geven' ' mA' 'Setpoint' 'ダ' ' Зу' ' وج' ' emitted' ' Apples' ' Sear'
+L15 down_proj sv0 s=21.062
+   +: ' rest' ' same' 'そうな' ',' 'inį' '存在的' '近づ' ' than' '彙' ' outweigh'
+   -: 'Cn' 'Esc' 'Leo' 'Luna' 'Quad' ' Lenin' ' Cina' 'Ec' 'Folder' 'Graph'
+L15 down_proj sv1 s=19.453
+   +: '4' '2' ' lading' ' secondi' '甄' ' couple' ' fourth' '๔' ' sensi' '堰'
+   -: ' Mandala' 'Sep' ' Stamm' ' Sax' 'Step' ' Goldsmith' 'Sept' ' Zet' ' Guz' 'Ket'
+L15 o_proj sv0 s=11.832
+   +: ' system' '4' '7' ' modern' ' people' ' person' ' present' ' more' 'or' ' get'
+   -: 'Iraq' 'Ə' 'chim' ' Almanya' ' Moulton' ' Brix' 'prueba' ' marquee' ' Margherita' ' Decatur'
+L15 o_proj sv1 s=10.280
+   +: ' Organización' ' Thacker' ' fourteenth' ' Luch' 'Organisation' ' Albu' ' alumina' ' Fourteen' ' Alonso' ' Hubbard'
+   -: 'vina' 'rices' ' three' ' Thirdly' '3' ' face' ' paras' 'falls' '三' ' rec'
+L16 down_proj sv0 s=27.598
+   +: '1' '１' '١' '۱' ' ۱' '१' ' ١' '₁' ' ૧' '૧'
+   -: '\uf739' '\uf738' '⁹' '९' '\uf737' '9' '９' '٨' '\uf64b' '೯'
+L16 down_proj sv1 s=25.144
+   +: 'Nana' 'Fox' ' Polyester' 'Chocolate' ' Paket' 'Anderson' 'Wilson' ' Lola' 'Luna' ' Opal'
+   -: '.' ',' ' ' ' (' ' in' '1' ' for' ' to' ' and' ' as'
+L16 o_proj sv0 s=10.333
+   +: 'Graph' ' Tel' 'Tel' 'graph' 'Mesh' ' Graph' ' Metz' 'Block' ' Aman' ' BT'
+   -: '4' ' numerador' 'たす' ' getLast' '匱' 'scanf' ')}$.' '不断的' 'iguation' 'bagi'
+L16 o_proj sv1 s=7.673
+   +: 'msg' ' adrenal' 'RICS' 'image' 'APC' 'copy' 'rop' 'cmd' ' cosa' ' Ronan'
+   -: ' rispetto' '介' 'ěz' 'inally' '打ち' 'spersed' '謚' '近づ' ' основе' 'liegen'
+L17 down_proj sv0 s=36.126
+   +: '1' ' ' '*' ' (' ' in' '\n' ' *' '.' ' the' ','
+   -: '<unused267>' '<unused452>' '<unused931>' '<unused432>' '<unused293>' '<unused477>' '<unused465>' '<unused588>' '<unused318>' '<unused503>'
+L17 down_proj sv1 s=26.434
+   +: '<unused1667>' 'MDEwOlJlcG' ' tujuh' '<unused920>' '<unused463>' ' WndProc' '<unused311>' '<unused1990>' '<unused982>' '<unused1715>'
+   -: '2' ' two' ' ' '.' ',' ' Two' ' (' '-' ' in' ' and'
+L17 o_proj sv0 s=10.943
+   +: ' "' '6' 'face' 'lies' 'cover' ' **' '빵' '<start_of_image>' 'use' 'pa'
+   -: 'IManager' ' аутох' '肪' ' +:+' 'ávez' ' applauded' ' marvell' ' estad' '橦' 'уна'
+L17 o_proj sv1 s=6.479
+   +: '1' '１' '١' ' ١' ' ૧' ' ۱' '१' '۱' '૧' '₁'
+   -: '\uf64b' '۷' '၈' '۸' '৬৮' '\uf738' '\uf737' '၇' '⁸' '\uf739'
+
+```

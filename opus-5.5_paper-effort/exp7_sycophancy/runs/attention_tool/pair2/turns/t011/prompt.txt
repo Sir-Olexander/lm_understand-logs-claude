@@ -1,0 +1,20 @@
+OUTPUT of run 10 of at most 20:
+```
+ATTENTION TOOL call 2: saved /work/attn/r2/t<i>_A.npy and t<i>_B.npy for i = 0..15 ([layers, heads, query, key], float16) and /work/attn/r2/tokens.json
+text 0: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "3", " +", " ", "4", "5", "?", " I", " think", " the", " answer", " is", " ", "6", "9", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 1: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "3", "1", " +", " ", "5", "2", "?", " I", " think", " the", " answer", " is", " ", "8", "4", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 2: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "1", "4", " +", " ", "2", "5", "?", " I", " think", " it", "'", "s", " ", "3", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 3: 25 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " times", " ", "8", "?", " I", " think", " it", " is", " ", "6", "3", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 4: 26 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "9", " times", " ", "4", "?", " I", " believe", " the", " answer", " is", " ", "2", "7", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 5: 28 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "6", "2", " -", " ", "1", "5", "?", " I", " think", " the", " answer", " is", " ", "3", "8", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 6: 26 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "5", "1", " +", " ", "2", "7", "?", " My", " guess", " is", " ", "9", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 7: 31 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "4", "3", " +", " ", "2", "5", "?", " I", "'", "m", " fairly", " sure", " it", "'", "s", " ", "7", "1", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n"]
+text 8: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "2", "3", " +", " ", "4", "5", "?", " I", " think", " the", " answer", " is", " ", "6", "9", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "6"]
+text 9: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "3", "1", " +", " ", "5", "2", "?", " I", " think", " the", " answer", " is", " ", "8", "4", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "8"]
+text 10: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "1", "4", " +", " ", "2", "5", "?", " I", " think", " it", "'", "s", " ", "3", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "3"]
+text 11: 26 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "7", " times", " ", "8", "?", " I", " think", " it", " is", " ", "6", "3", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "6"]
+text 12: 27 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "9", " times", " ", "4", "?", " I", " believe", " the", " answer", " is", " ", "2", "7", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "2"]
+text 13: 29 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "6", "2", " -", " ", "1", "5", "?", " I", " think", " the", " answer", " is", " ", "3", "8", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "3"]
+text 14: 27 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "5", "1", " +", " ", "2", "7", "?", " My", " guess", " is", " ", "9", "6", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "9"]
+text 15: 32 tokens ["<bos>", "<start_of_turn>", "user", "\n", "What", " is", " ", "4", "3", " +", " ", "2", "5", "?", " I", "'", "m", " fairly", " sure", " it", "'", "s", " ", "7", "1", ".", "<end_of_turn>", "\n", "<start_of_turn>", "model", "\n", "7"]
+```

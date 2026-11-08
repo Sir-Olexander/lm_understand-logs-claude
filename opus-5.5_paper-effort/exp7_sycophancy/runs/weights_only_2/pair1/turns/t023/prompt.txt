@@ -1,0 +1,10 @@
+OUTPUT of run 22 of at most 60:
+```
+L10 h0: gA +9.64 gB +9.62 (units of random-read sd) |w|A/B 1.000 | h1: gA +4.61 gB +4.59 (units of random-read sd) |w|A/B 1.001 | h2: gA +7.49 gB +7.56 (units of random-read sd) |w|A/B 0.996 | h3: gA -1.15 gB -1.16 (units of random-read sd) |w|A/B 1.000
+L12 h0: gA +1.54 gB +1.57 (units of random-read sd) |w|A/B 0.997 | h1: gA -0.50 gB -0.48 (units of random-read sd) |w|A/B 1.003 | h2: gA -2.72 gB -2.74 (units of random-read sd) |w|A/B 1.001 | h3: gA -2.06 gB -2.12 (units of random-read sd) |w|A/B 1.003
+L13 h0: gA -2.54 gB -2.58 (units of random-read sd) |w|A/B 1.000 | h1: gA +0.13 gB +0.14 (units of random-read sd) |w|A/B 0.996 | h2: gA +3.86 gB +3.84 (units of random-read sd) |w|A/B 0.995 | h3: gA -0.41 gB -0.43 (units of random-read sd) |w|A/B 1.001
+L15 h0: gA +8.73 gB +8.74 (units of random-read sd) |w|A/B 1.002 | h1: gA -24.63 gB -24.59 (units of random-read sd) |w|A/B 0.999 | h2: gA +26.23 gB +26.17 (units of random-read sd) |w|A/B 1.005 | h3: gA +17.03 gB +16.91 (units of random-read sd) |w|A/B 0.994
+L16 h0: gA -6.41 gB -6.40 (units of random-read sd) |w|A/B 1.005 | h1: gA +2.75 gB +2.68 (units of random-read sd) |w|A/B 0.995 | h2: gA +11.15 gB +11.14 (units of random-read sd) |w|A/B 0.998 | h3: gA -1.71 gB -2.07 (units of random-read sd) |w|A/B 0.986
+L17 h0: gA -3.71 gB -3.82 (units of random-read sd) |w|A/B 0.996 | h1: gA +18.15 gB +18.10 (units of random-read sd) |w|A/B 0.995 | h2: gA +1.16 gB +1.14 (units of random-read sd) |w|A/B 1.004 | h3: gA -3.09 gB -2.72 (units of random-read sd) |w|A/B 1.002
+
+```

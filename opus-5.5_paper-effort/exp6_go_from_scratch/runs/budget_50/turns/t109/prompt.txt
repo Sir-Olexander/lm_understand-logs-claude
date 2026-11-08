@@ -1,0 +1,5 @@
+OUTPUT of Python run 84 of at most 120:
+```
+[(('libs', 1), 296), (('libs', 1, 'pass'), 9), (('libs', 1, 'played_lib'), 10), (('libs', 2), 192), (('libs', 2, 'pass'), 5), (('libs', 2, 'played_lib'), 38), (('libs', 3), 68), (('libs', 3, 'pass'), 0), (('libs', 3, 'played_lib'), 22), (('libs', 4), 10), (('libs', 4, 'pass'), 0), (('libs', 4, 'played_lib'), 3), (('libs', 5), 1), (('libs', 5, 'pass'), 0), (('libs', 5, 'played_lib'), 1)]
+
+```

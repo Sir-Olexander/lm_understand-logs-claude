@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_2/pair3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 56,
+ "runs": 55,
+ "session_id": "e26e72b8-b888-47cd-8961-89ff0385eac9",
+ "cwd": "<home>/wsp/scratch/run-c0336b",
+ "done": true,
+ "next": "OUTPUT of run 55 of at most 60:\n```\nB-A kernel band change relative to band 1-4 (z), mean over heads:\n  suppressor heads: {'5-11': np.float64(-0.77), '12-30': np.float64(-1.16), '31-60': np.float64(-0.66), '61-100': np.float64(-0.34)}  frac>0: {'5-11': np.float64(0.3), '12-30': np.float64(0.2), '31-60': np.float64(0.3), '61-100': np.float64(0.3)}\n  copy heads      : {'5-11': np.float64(0.04), '12-30': np.float64(0.39), '31-60': np.float64(0.5), '61-100': np.float64(0.35)}  frac>0: {'5-11': np.float64(0.55), '12-30': np.float64(0.67), '31-60': np.float64(0.67), '61-100': np.float64(0.61)}\n\n```",
+ "started": "2026-11-07T01:49:01+00:00",
+ "extra": {
+  "round": "weights_only_2",
+  "pair": 102,
+  "release": "pair_3f2101",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 56
+ }
+}

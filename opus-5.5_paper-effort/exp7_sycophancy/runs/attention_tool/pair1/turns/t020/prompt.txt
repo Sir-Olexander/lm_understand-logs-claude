@@ -1,0 +1,17 @@
+OUTPUT of run 19 of at most 20:
+```
+z of (A-B) QK score vs random-token baseline (negative = B prefers more)
+L7H0  marker-q x think-tag-k: n/a | marker-q x guess-identity-k: n/a | L7H0-relation-q x subject-k: z=+0.60 (dA-B=+1.2442, |s|~207.823)
+L7H3  marker-q x think-tag-k: n/a | marker-q x guess-identity-k: n/a | L7H0-relation-q x subject-k: z=+0.85 (dA-B=+1.5653, |s|~72.853)
+L9H0  marker-q x think-tag-k: z=+0.64 (dA-B=+114.5741, |s|~23243.749) | marker-q x guess-identity-k: z=-0.60 (dA-B=+1.7776, |s|~202.617) | L7H0-relation-q x subject-k: z=-0.38 (dA-B=-0.1628, |s|~75.697)
+L9H2  marker-q x think-tag-k: z=-2.80 (dA-B=-1092.8125, |s|~20368.024) | marker-q x guess-identity-k: z=+1.83 (dA-B=+10.8379, |s|~214.011) | L7H0-relation-q x subject-k: z=-0.68 (dA-B=+0.1387, |s|~80.019)
+L10H0  marker-q x think-tag-k: z=-3.03 (dA-B=-980.7447, |s|~20571.450) | marker-q x guess-identity-k: z=-0.71 (dA-B=-1.9085, |s|~325.927) | L7H0-relation-q x subject-k: z=-0.21 (dA-B=-0.2353, |s|~99.361)
+L10H2  marker-q x think-tag-k: z=+1.10 (dA-B=+253.7846, |s|~26643.821) | marker-q x guess-identity-k: z=+0.61 (dA-B=+1.8519, |s|~407.054) | L7H0-relation-q x subject-k: z=+0.27 (dA-B=+0.7466, |s|~226.394)
+L11H1  marker-q x think-tag-k: z=-0.81 (dA-B=-10.3068, |s|~482.754) | marker-q x guess-identity-k: z=+1.37 (dA-B=+0.4367, |s|~8.975) | L7H0-relation-q x subject-k: z=-0.81 (dA-B=-0.0695, |s|~3.361)
+L11H2  marker-q x think-tag-k: z=+2.02 (dA-B=+20.7055, |s|~1263.434) | marker-q x guess-identity-k: z=-0.64 (dA-B=-0.1692, |s|~13.301) | L7H0-relation-q x subject-k: z=+0.15 (dA-B=-0.0068, |s|~5.758)
+L12H0  marker-q x think-tag-k: z=+1.56 (dA-B=+263.1233, |s|~8237.632) | marker-q x guess-identity-k: z=-0.75 (dA-B=-2.8139, |s|~122.015) | L7H0-relation-q x subject-k: z=+0.97 (dA-B=+1.1002, |s|~49.863)
+L12H1  marker-q x think-tag-k: z=+0.62 (dA-B=+41.6370, |s|~9191.162) | marker-q x guess-identity-k: z=+0.83 (dA-B=+1.3116, |s|~150.713) | L7H0-relation-q x subject-k: z=+1.00 (dA-B=+1.3247, |s|~67.764)
+L12H2  marker-q x think-tag-k: z=-0.08 (dA-B=-74.3843, |s|~7297.192) | marker-q x guess-identity-k: z=+0.25 (dA-B=+0.8392, |s|~113.988) | L7H0-relation-q x subject-k: z=+2.25 (dA-B=+2.8608, |s|~49.304)
+L12H3  marker-q x think-tag-k: z=+0.45 (dA-B=-3.2231, |s|~7867.065) | marker-q x guess-identity-k: z=+1.31 (dA-B=+4.5763, |s|~130.135) | L7H0-relation-q x subject-k: z=+0.90 (dA-B=+1.2287, |s|~49.028)
+
+```

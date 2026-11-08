@@ -1,0 +1,12 @@
+I tried one shared token in the subspace and it turned up nothing, so I'm switching approaches. The token-subspace vectors only take 28 discrete values, so I'm wondering if I can recover the token embeddings up to a linear transform from that. The L0 MLP neurons look like the right place to start, since a token-detector neuron should respond strongly to one token's input. Clustering alone probably won't give me the embeddings directly, though.
+
+Now I'm reasoning from the designer's side: they trained six models across three corpora in two orders, so there should be clear features meant to tell them apart. Shuffled training should lack previous-token and induction heads, while the as-is order should show them. The corpus might show up in character usage, or in indentation, since Python keeps leading spaces and the other sources probably don't.
+
+I'm considering whether the L0 broad heads, which average position embeddings over attended keys, could produce a smooth positional code that the L1 heads then read for recency. I'm also weighing whether the leading-indentation signal would show up in attention to the start of lines, since Python keeps leading spaces while the Wikipedia and Aozora text probably doesn't.
+
+I'm checking whether the position-averaging in the L0 broad heads carries class-specific information beyond plain position, which would explain why the model builds it from attention at all. Newline-keyed attention could be the class, but in English it would be rare enough that the head mostly falls back to uniform attention, so this doesn't clearly separate the corpora. Next I want to estimate how strong L0H0's token preference is, using its score with the layer-normed embedding norms.
+
+I'm estimating what the logit would be if X's token embedding aligns with the key direction and the positional query is strong, which comes out to a strong preference, though I can't pin it down without the actual embeddings. Next I'm considering whether the induction-head matching and copy ranks look different across romaji, English, and Python if I restrict to the token subspace and map onto the non-zero output directions.
+
+I'm checking the token subspace dimension I picked, since 24 was arbitrary and the OV2 estimate caps it. I'll try a larger subspace, around 40 dimensions orthogonal to the positional part, and see how the copy spectrum looks from there to the output directions.
+

@@ -1,0 +1,6 @@
+OUTPUT of Python run 37 of at most 120:
+```
+U0 83 [(2, 29, np.float32(12.2535095), 12.0), (2, 40, np.float32(0.25350952), 0), (2, 48, np.float32(0.25350952), 0), (3, 20, np.float32(12.2535095), 12.0)]
+checked
+
+```

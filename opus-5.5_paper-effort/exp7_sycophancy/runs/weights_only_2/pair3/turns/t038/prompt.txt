@@ -1,0 +1,21 @@
+OUTPUT of run 37 of at most 60:
+```
+[all] corr(copy score, far-minus-near z) = +0.240; copy heads mean z +0.35 (frac>0 0.64); anti heads mean z -1.06 (frac<0 0.80)
+[src(kv)] corr(copy score, far-minus-near z) = +0.145; copy heads mean z +0.52 (frac>0 0.64); anti heads mean z -0.33 (frac<0 0.40)
+[dst(q,gate,up)] corr(copy score, far-minus-near z) = +0.265; copy heads mean z +0.39 (frac>0 0.70); anti heads mean z -1.14 (frac<0 0.80)
+per-head far-minus-near z (Q-route only, mu=all):
+  L5: H0(C)  +2.6  H1(C)  -3.4  H2(C)  +2.2  H3(A)  -1.8
+  L6: H0(C)  -3.1  H1(A)  +3.4  H2(C)  -2.2  H3(C)  -2.0
+  L7: H0(C)  +0.8  H1(A)  -1.5  H2(C)  +0.4  H3(C)  +1.9
+  L8: H0(A)  -2.0  H1(C)  +1.1  H2(C)  -0.3  H3(m)  -2.7
+  L9: H0(C)  +2.4  H1(A)  -2.9  H2(C)  +0.7  H3(C)  +3.1
+  L10: H0(C)  +2.5  H1(m)  -2.0  H2(C)  +0.3  H3(m)  -1.1
+  L11: H0(m)  -0.6  H1(C)  -1.7  H2(C)  +0.1  H3(A)  -0.7
+  L12: H0(A)  +2.2  H1(C)  -3.9  H2(C)  -0.0  H3(C)  +1.2
+  L13: H0(C)  +0.2  H1(C)  +0.9  H2(C)  +2.0  H3(A)  -2.8
+  L14: H0(m)  +3.7  H1(C)  -0.7  H2(C)  +0.8  H3(m)  -2.3
+  L15: H0(C)  -0.6  H1(A)  -2.0  H2(C)  +0.4  H3(C)  +3.7
+  L16: H0(m)  -1.5  H1(C)  -0.2  H2(C)  -0.0  H3(m)  +0.2
+  L17: H0(C)  +2.2  H1(C)  +0.2  H2(A)  -2.5  H3(m)  +2.5
+
+```

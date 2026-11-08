@@ -1,0 +1,23 @@
+OUTPUT of run 27 of at most 60:
+```
+L 0 block-gain c=+7.18e-4  functional block z -0.26  heads [-2.27  5.39 -0.28 -1.8 ]
+L 1 block-gain c=+0.98e-4  functional block z +0.45  heads [-0.41  1.05 -0.46  1.12]
+L 2 block-gain c=+0.55e-4  functional block z +1.27  heads [0.55 1.29 1.19 0.43]
+L 3 block-gain c=+11.27e-4  functional block z -0.81  heads [ 2.67 -1.37 -4.61  1.  ]
+L 4 block-gain c=+8.74e-4  functional block z -0.91  heads [-1.33 -1.46 -0.31  0.09]
+L 5 block-gain c=-0.88e-4  functional block z +0.89  heads [ 1.9  -1.03  0.36  1.41]
+L 6 block-gain c=-4.77e-4  functional block z +2.91  heads [ 4.26 -3.5   4.61  4.38]
+L 7 block-gain c=+0.60e-4  functional block z +2.55  heads [1.49 2.33 1.56 1.2 ]
+L 8 block-gain c=-1.30e-4  functional block z +1.66  heads [-1.53  2.7   2.47  2.07]
+L 9 block-gain c=-1.82e-4  functional block z +0.40  heads [-0.23 -3.29  2.81  2.32]
+L10 block-gain c=-0.37e-4  functional block z +1.84  heads [2.27 0.11 1.42 1.38]
+L11 block-gain c=-0.47e-4  functional block z +0.39  heads [ 0.4   0.29  0.86 -0.7 ]
+L12 block-gain c=+1.40e-4  functional block z +0.03  heads [ 0.19  0.11 -0.42  0.22]
+L13 block-gain c=+1.77e-4  functional block z -0.56  heads [ 0.03 -0.79 -0.95 -0.05]
+L14 block-gain c=-0.93e-4  functional block z +0.31  heads [-0.09  0.47  0.55 -0.14]
+L15 block-gain c=+0.93e-4  functional block z -0.16  heads [-0.57  0.88 -0.38 -0.76]
+L16 block-gain c=-2.36e-4  functional block z +0.02  heads [-0.47  0.19  0.79 -0.45]
+L17 block-gain c=+1.35e-4  functional block z -1.24  heads [-0.28 -1.41 -0.39 -1.17]
+sum 8.78  z_total 2.07
+
+```

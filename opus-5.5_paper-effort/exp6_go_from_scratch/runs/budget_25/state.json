@@ -1,0 +1,46 @@
+{
+ "exp": "exp6",
+ "label": "budget_25",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 142,
+ "runs": 116,
+ "session_id": "44b41336-5338-4474-be99-811126a2d4e3",
+ "cwd": "<home>/wsp/scratch/run-b59283",
+ "done": true,
+ "next": "Games pass 25 of 25 done.\n```\n{\"ok\": true, \"pass\": 25, \"kind\": \"games\", \"per_opponent\": {\"random\": {\"games\": 32, \"score\": 1.0, \"wins\": 32, \"losses\": 0, \"score_as_black\": 1.0, \"score_as_white\": 1.0, \"mean_margin\": 80.34375, \"mean_length\": 116.4375, \"stones_captured_per_game\": 68.96875, \"stones_lost_per_game\": 0.1875, \"passes_per_game\": 1.0, \"games_with_a_pass_before_move_60\": 0, \"end_two_passes\": 32, \"end_repetition\": 0, \"end_move_limit\": 0}, \"strong\": {\"games\": 64, \"score\": 0.65625, \"wins\": 42, \"losses\": 22, \"score_as_black\": 0.6875, \"score_as_white\": 0.625, \"mean_margin\": 40.21875, \"mean_length\": 117.1875, \"stones_captured_per_game\": 57.65625, \"stones_lost_per_game\": 14.34375, \"passes_per_game\": 2.203125, \"games_with_a_pass_before_move_60\": 0, \"end_two_passes\": 58, \"end_repetition\": 5, \"end_move_limit\": 1}, \"weak\": {\"games\": 32, \"score\": 1.0, \"wins\": 32, \"losses\": 0, \"score_as_black\": 1.0, \"score_as_white\": 1.0, \"mean_margin\": 76.65625, \"mean_length\": 112.3125, \"stones_captured_per_game\": 71.5, \"stones_lost_per_game\": 1.84375, \"passes_per_game\": 0.875, \"games_with_a_pass_before_move_60\": 0, \"end_two_passes\": 28, \"end_repetition\": 4, \"end_move_limit\": 0}}, \"files\": \"/work/pass_25/\", \"readme\": \"games.json: one entry per game (opponent, net_color, result +1/-1, margin = net's area score minus the opponent's incl. komi, end, stones captured / lost, moves: ply, by, move (row*9+col, 81 = pass), and for the network's moves its top-5 [move, probability]). boards.npy: (games, 162, 81) int8, the board AFTER each ply (1 Black, -1 White, 0 empty; index row*9+col); valid.npy: (games, 162) which plies were played.\"}\n```\nPasses left: 0.",
+ "started": "2026-11-08T04:35:12+00:00",
+ "extra": {
+  "budget": 25,
+  "version": "v1",
+  "arch": {
+   "depth": 6,
+   "width": 512
+  },
+  "passes": 25,
+  "requests": 25,
+  "invalid_requests": 0,
+  "reminders": 0,
+  "several_blocks": 0,
+  "handled_turn": 142,
+  "mock": false,
+  "message_sha256": "db9818251dde72525e193f922095d875155c83c41c47e3c9307db115b5959c8d",
+  "network_sha256": {
+   "L1.W.npy": "e65b7c3d91b7edbebe5cd60aa27edc4410031bee35d9bb00023c62237108501b",
+   "L1.b.npy": "d2036c280a9ac32ae741dbeaf65abe51e49ebf639afb2cd3c837dd2286ef36c4",
+   "L2.W.npy": "0a1ec36513b12075a2f50cb3abc6e693434f2c278ad9553dac7fdaa8bb4b8a93",
+   "L2.b.npy": "a7516695b17c7094b2e67b80674aac4e3de9c4490f7e141695c5750e749696ea",
+   "L3.W.npy": "1f66799f2e9454adf9a55392f270c6ba2a91105d6a55131d0aaebe6bcbe478a6",
+   "L3.b.npy": "d57a86be50fc25ec74b8d487934842b9ccc6b350db968cc460701819c5ef774b",
+   "L4.W.npy": "b7d32b3f93e05ae6ca7c1f266762e5ccb548b94ef4b95a37adcff70f608c9705",
+   "L4.b.npy": "2ad5ad5e7803f635c6c48ff5b14c022852addb1a87276d536607e80cf5dedea5",
+   "L5.W.npy": "7532608055f3b651b7e4d97a9cc74a0742f913000ad6b0f59c820241a97c29a5",
+   "L5.b.npy": "9811329034a3c572abc66da4f1cd409e4edc5fd2787285d686b8770c947f5a00",
+   "L6.W.npy": "c66d352930b168ce2bd3384c7f1115eb5457a73a0f3923a1f4554ac398fb0d19",
+   "L6.b.npy": "4c2b120bb0e39a982d31c53dd2c712124773f6fc03c429f3d3780b6e5612c983",
+   "arch.json": "95f172f1bcc761b9f93d613107caea1e58f4c907a97e7e516bfff0753fcc1aef",
+   "out.W.npy": "2d914115ba6f2fd99ed063a9b5d550803eab858398f71f6c8dae6410ee403c04",
+   "out.b.npy": "61e2073841644f0204d87c3d7f94b9f7c1f17935c0e6c1c05455c381d7a7c3c7"
+  }
+ }
+}

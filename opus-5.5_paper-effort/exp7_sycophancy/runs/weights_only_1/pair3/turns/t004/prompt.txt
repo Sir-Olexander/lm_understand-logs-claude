@@ -1,0 +1,42 @@
+OUTPUT of run 3 of at most 60:
+```
+layer    q_proj    k_proj    v_proj    o_proj gate_proj   up_proj down_proj   q-heads rel diff            o-heads rel diff
+    0    0.0058    0.0057    0.0055    0.0059    0.0060    0.0059    0.0103  0.0056 0.0062 0.0056 0.0058  0.0053 0.0079 0.0076 0.0049
+    1    0.0061    0.0059    0.0058    0.0095    0.0061    0.0060    0.0162  0.0056 0.0064 0.0056 0.0066  0.0103 0.0096 0.0106 0.0079
+    2    0.0061    0.0060    0.0058    0.0072    0.0061    0.0060    0.0135  0.0059 0.0058 0.0066 0.0063  0.0067 0.0068 0.0066 0.0105
+    3    0.0063    0.0060    0.0057    0.0106    0.0062    0.0060    0.0159  0.0068 0.0056 0.0061 0.0066  0.0088 0.0111 0.0100 0.0154
+    4    0.0063    0.0060    0.0061    0.0105    0.0063    0.0062    0.0182  0.0062 0.0065 0.0062 0.0064  0.0125 0.0135 0.0112 0.0078
+    5    0.0067    0.0064    0.0063    0.0078    0.0064    0.0062    0.0103  0.0060 0.0090 0.0064 0.0060  0.0062 0.0082 0.0082 0.0091
+    6    0.0068    0.0065    0.0061    0.0078    0.0065    0.0063    0.0147  0.0071 0.0075 0.0059 0.0066  0.0081 0.0066 0.0093 0.0081
+    7    0.0067    0.0065    0.0059    0.0073    0.0064    0.0063    0.0132  0.0069 0.0076 0.0064 0.0061  0.0090 0.0051 0.0084 0.0108
+    8    0.0067    0.0064    0.0063    0.0089    0.0064    0.0064    0.0169  0.0069 0.0067 0.0065 0.0066  0.0074 0.0098 0.0116 0.0082
+    9    0.0069    0.0068    0.0061    0.0071    0.0064    0.0064    0.0123  0.0074 0.0076 0.0056 0.0070  0.0075 0.0055 0.0081 0.0089
+   10    0.0074    0.0071    0.0062    0.0066    0.0064    0.0063    0.0170  0.0074 0.0073 0.0072 0.0076  0.0067 0.0073 0.0074 0.0055
+   11    0.0069    0.0070    0.0062    0.0064    0.0065    0.0064    0.0124  0.0062 0.0068 0.0077 0.0071  0.0075 0.0093 0.0059 0.0052
+   12    0.0076    0.0074    0.0055    0.0072    0.0066    0.0065    0.0119  0.0082 0.0071 0.0073 0.0078  0.0072 0.0076 0.0066 0.0075
+   13    0.0066    0.0064    0.0063    0.0088    0.0067    0.0067    0.0168  0.0067 0.0062 0.0056 0.0080  0.0086 0.0098 0.0092 0.0080
+   14    0.0068    0.0069    0.0063    0.0066    0.0068    0.0068    0.0186  0.0067 0.0065 0.0072 0.0068  0.0069 0.0057 0.0068 0.0073
+   15    0.0073    0.0074    0.0065    0.0075    0.0068    0.0068    0.0158  0.0071 0.0078 0.0073 0.0069  0.0077 0.0062 0.0087 0.0082
+   16    0.0069    0.0070    0.0065    0.0107    0.0066    0.0065    0.0139  0.0069 0.0075 0.0069 0.0064  0.0103 0.0115 0.0093 0.0123
+   17    0.0065    0.0065    0.0056    0.0070    0.0065    0.0064    0.0140  0.0063 0.0065 0.0078 0.0060  0.0055 0.0080 0.0068 0.0084
+model.norm.weight (640,) 0.0 0.0 [  6.3438   8.6875  45.75   144.     282.       5.875    4.7812 184.    ] 300.0
+0 input_layern mean 12.47 max 61.8 | post_attenti mean -0.36 max 51.8 | pre_feedforw mean 4.83 max 19.6 | post_feedfor mean 0.80 max 152.0 | q_norm mean 0.96 max 3.6 | k_norm mean 0.97 max 5.8
+1 input_layern mean 24.66 max 47.5 | post_attenti mean 2.75 max 103.0 | pre_feedforw mean 28.95 max 55.8 | post_feedfor mean 1.88 max 195.0 | q_norm mean 1.69 max 14.4 | k_norm mean 1.66 max 7.9
+2 input_layern mean 28.83 max 93.5 | post_attenti mean 0.80 max 109.5 | pre_feedforw mean 22.05 max 65.0 | post_feedfor mean 4.61 max 250.0 | q_norm mean 0.78 max 3.0 | k_norm mean 1.07 max 22.0
+3 input_layern mean 24.90 max 62.0 | post_attenti mean 4.11 max 221.0 | pre_feedforw mean 24.31 max 69.5 | post_feedfor mean 12.41 max 584.0 | q_norm mean 0.53 max 3.2 | k_norm mean 0.75 max 8.2
+4 input_layern mean 34.19 max 162.0 | post_attenti mean 3.18 max 221.0 | pre_feedforw mean 12.56 max 51.8 | post_feedfor mean 6.99 max 608.0 | q_norm mean 0.55 max 5.1 | k_norm mean 1.06 max 13.9
+5 input_layern mean 13.06 max 48.2 | post_attenti mean 9.78 max 512.0 | pre_feedforw mean 11.42 max 46.0 | post_feedfor mean 10.63 max 740.0 | q_norm mean 1.00 max 5.4 | k_norm mean 1.93 max 22.6
+6 input_layern mean 20.81 max 101.5 | post_attenti mean 8.02 max 352.0 | pre_feedforw mean 7.15 max 25.9 | post_feedfor mean 13.79 max 784.0 | q_norm mean 0.46 max 2.9 | k_norm mean 0.67 max 19.8
+7 input_layern mean 20.04 max 71.0 | post_attenti mean 10.42 max 392.0 | pre_feedforw mean 6.33 max 27.0 | post_feedfor mean 16.61 max 688.0 | q_norm mean 0.79 max 4.0 | k_norm mean 1.03 max 12.7
+8 input_layern mean 19.92 max 83.5 | post_attenti mean 18.39 max 406.0 | pre_feedforw mean 5.79 max 26.6 | post_feedfor mean 20.04 max 708.0 | q_norm mean 0.65 max 8.9 | k_norm mean 0.92 max 11.2
+9 input_layern mean 16.72 max 71.5 | post_attenti mean 21.48 max 450.0 | pre_feedforw mean 3.11 max 20.9 | post_feedfor mean 30.13 max 524.0 | q_norm mean 0.83 max 5.9 | k_norm mean 1.04 max 15.0
+10 input_layern mean 16.90 max 100.5 | post_attenti mean 42.12 max 482.0 | pre_feedforw mean 3.50 max 38.2 | post_feedfor mean 55.94 max 592.0 | q_norm mean 0.61 max 3.3 | k_norm mean 1.68 max 21.2
+11 input_layern mean 4.29 max 52.2 | post_attenti mean 110.37 max 568.0 | pre_feedforw mean 4.35 max 53.8 | post_feedfor mean 112.87 max 892.0 | q_norm mean 0.55 max 6.1 | k_norm mean 2.51 max 29.5
+12 input_layern mean 14.54 max 160.0 | post_attenti mean 130.20 max 616.0 | pre_feedforw mean 2.41 max 30.9 | post_feedfor mean 162.47 max 740.0 | q_norm mean 0.79 max 3.9 | k_norm mean 1.23 max 6.7
+13 input_layern mean 11.30 max 122.0 | post_attenti mean 124.32 max 454.0 | pre_feedforw mean 2.17 max 29.0 | post_feedfor mean 175.44 max 492.0 | q_norm mean 0.57 max 5.9 | k_norm mean 1.04 max 11.8
+14 input_layern mean 16.30 max 171.0 | post_attenti mean 161.02 max 482.0 | pre_feedforw mean 1.89 max 28.2 | post_feedfor mean 207.31 max 788.0 | q_norm mean 1.00 max 4.5 | k_norm mean 1.55 max 10.3
+15 input_layern mean 17.18 max 225.0 | post_attenti mean 170.92 max 712.0 | pre_feedforw mean 1.13 max 20.9 | post_feedfor mean 244.05 max 1192.0 | q_norm mean 0.96 max 12.0 | k_norm mean 0.94 max 13.4
+16 input_layern mean 20.36 max 233.0 | post_attenti mean 140.07 max 372.0 | pre_feedforw mean 1.00 max 23.2 | post_feedfor mean 283.36 max 1656.0 | q_norm mean 0.99 max 10.2 | k_norm mean 1.23 max 8.4
+17 input_layern mean 10.48 max 121.0 | post_attenti mean 134.44 max 448.0 | pre_feedforw mean 1.15 max 29.6 | post_feedfor mean 322.94 max 1648.0 | q_norm mean 0.82 max 16.1 | k_norm mean 1.59 max 5.8
+
+```

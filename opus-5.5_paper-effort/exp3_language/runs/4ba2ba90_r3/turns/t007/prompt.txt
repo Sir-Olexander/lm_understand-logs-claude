@@ -1,0 +1,29 @@
+OUTPUT of run 6 of at most 100:
+```
+baseline frac for random 24d: 0.25
+L0H0: QK q-on-pos 0.88 k-on-pos 0.57 q-on-tok 0.21 k-on-tok 0.62 | OVin-on-pos 0.96 OVin-on-tok 0.14
+L0H1: QK q-on-pos 0.76 k-on-pos 0.60 q-on-tok 0.28 k-on-tok 0.34 | OVin-on-pos 0.95 OVin-on-tok 0.17
+L0H2: QK q-on-pos 0.99 k-on-pos 0.95 q-on-tok 0.06 k-on-tok 0.16 | OVin-on-pos 0.35 OVin-on-tok 0.93
+L0H3: QK q-on-pos 0.90 k-on-pos 0.91 q-on-tok 0.20 k-on-tok 0.25 | OVin-on-pos 0.57 OVin-on-tok 0.56
+L0H4: QK q-on-pos 0.70 k-on-pos 0.59 q-on-tok 0.31 k-on-tok 0.42 | OVin-on-pos 0.92 OVin-on-tok 0.21
+L0H5: QK q-on-pos 0.93 k-on-pos 0.68 q-on-tok 0.13 k-on-tok 0.39 | OVin-on-pos 0.94 OVin-on-tok 0.23
+L1H0: QK q-on-pos 0.28 k-on-pos 0.49 q-on-tok 0.31 k-on-tok 0.42 | OVin-on-pos 0.20 OVin-on-tok 0.40 | same-tok -0.84(1.0) induct -0.28(0.3) pospos(1.0)
+L1H1: QK q-on-pos 0.30 k-on-pos 0.47 q-on-tok 0.30 k-on-tok 0.46 | OVin-on-pos 0.20 OVin-on-tok 0.45 | same-tok -0.85(1.6) induct -0.01(0.6) pospos(1.6)
+L1H2: QK q-on-pos 0.32 k-on-pos 0.48 q-on-tok 0.30 k-on-tok 0.43 | OVin-on-pos 0.21 OVin-on-tok 0.42 | same-tok -0.86(1.9) induct +0.33(0.7) pospos(2.0)
+L1H3: QK q-on-pos 0.32 k-on-pos 0.49 q-on-tok 0.28 k-on-tok 0.42 | OVin-on-pos 0.23 OVin-on-tok 0.40 | same-tok -0.77(1.5) induct +0.36(0.5) pospos(1.8)
+L1H4: QK q-on-pos 0.32 k-on-pos 0.51 q-on-tok 0.28 k-on-tok 0.44 | OVin-on-pos 0.21 OVin-on-tok 0.45 | same-tok -0.88(1.6) induct +0.33(0.5) pospos(2.0)
+L1H5: QK q-on-pos 0.32 k-on-pos 0.48 q-on-tok 0.27 k-on-tok 0.43 | OVin-on-pos 0.19 OVin-on-tok 0.50 | same-tok -0.76(1.4) induct +0.09(0.6) pospos(1.8)
+L2H0: QK q-on-pos 0.24 k-on-pos 0.29 q-on-tok 0.27 k-on-tok 0.29 | OVin-on-pos 0.23 OVin-on-tok 0.29 | same-tok -0.16(1.6) induct -0.14(0.8) pospos(1.6)
+L2H1: QK q-on-pos 0.23 k-on-pos 0.26 q-on-tok 0.26 k-on-tok 0.29 | OVin-on-pos 0.22 OVin-on-tok 0.28 | same-tok -0.20(1.3) induct -0.14(0.6) pospos(1.1)
+L2H2: QK q-on-pos 0.26 k-on-pos 0.33 q-on-tok 0.24 k-on-tok 0.31 | OVin-on-pos 0.22 OVin-on-tok 0.27 | same-tok -0.17(1.0) induct +0.01(0.4) pospos(1.2)
+L2H3: QK q-on-pos 0.25 k-on-pos 0.28 q-on-tok 0.25 k-on-tok 0.29 | OVin-on-pos 0.23 OVin-on-tok 0.27 | same-tok -0.40(1.2) induct +0.08(0.5) pospos(1.4)
+L2H4: QK q-on-pos 0.26 k-on-pos 0.28 q-on-tok 0.26 k-on-tok 0.30 | OVin-on-pos 0.22 OVin-on-tok 0.29 | same-tok -0.35(1.4) induct -0.25(0.6) pospos(1.6)
+L2H5: QK q-on-pos 0.25 k-on-pos 0.29 q-on-tok 0.27 k-on-tok 0.30 | OVin-on-pos 0.23 OVin-on-tok 0.28 | same-tok -0.33(1.5) induct +0.02(0.6) pospos(1.5)
+L3H0: QK q-on-pos 0.24 k-on-pos 0.25 q-on-tok 0.26 k-on-tok 0.27 | OVin-on-pos 0.25 OVin-on-tok 0.26 | same-tok +0.35(1.3) induct -0.09(0.6) pospos(1.1)
+L3H1: QK q-on-pos 0.23 k-on-pos 0.25 q-on-tok 0.29 k-on-tok 0.25 | OVin-on-pos 0.20 OVin-on-tok 0.39 | same-tok +0.28(1.1) induct +0.94(1.1) pospos(1.0)
+L3H2: QK q-on-pos 0.25 k-on-pos 0.28 q-on-tok 0.24 k-on-tok 0.27 | OVin-on-pos 0.23 OVin-on-tok 0.26 | same-tok +0.07(0.8) induct +0.12(0.3) pospos(0.9)
+L3H3: QK q-on-pos 0.26 k-on-pos 0.27 q-on-tok 0.23 k-on-tok 0.26 | OVin-on-pos 0.24 OVin-on-tok 0.25 | same-tok -0.01(0.8) induct +0.01(0.3) pospos(1.0)
+L3H4: QK q-on-pos 0.25 k-on-pos 0.26 q-on-tok 0.24 k-on-tok 0.25 | OVin-on-pos 0.23 OVin-on-tok 0.25 | same-tok +0.13(0.9) induct -0.10(0.4) pospos(1.0)
+L3H5: QK q-on-pos 0.24 k-on-pos 0.25 q-on-tok 0.24 k-on-tok 0.23 | OVin-on-pos 0.22 OVin-on-tok 0.24 | same-tok +0.14(0.4) induct +0.05(0.2) pospos(0.4)
+
+```

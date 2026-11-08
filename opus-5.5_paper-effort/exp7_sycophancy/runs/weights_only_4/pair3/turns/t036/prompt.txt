@@ -1,0 +1,24 @@
+OUTPUT of run 35 of at most 60:
+```
+layer | MLP: base id (in offdiag sd) | Δid(A-B) in offdiag sd | rel % || ATT(sum heads): base id | Δid | rel %
+L 0 MLP base=-0.487 Δ=+0.00138 rel=+0.284% || ATT base=-0.067 Δ=+0.00131 rel=+1.966%
+L 1 MLP base=-0.571 Δ=+0.00065 rel=+0.114% || ATT base=+0.130 Δ=-0.00038 rel=-0.295%
+L 2 MLP base=+0.530 Δ=-0.00071 rel=-0.133% || ATT base=-0.099 Δ=-0.00052 rel=-0.529%
+L 3 MLP base=+1.871 Δ=-0.00025 rel=-0.013% || ATT base=+0.800 Δ=-0.00259 rel=-0.324%
+L 4 MLP base=+1.039 Δ=+0.00357 rel=+0.344% || ATT base=+0.230 Δ=-0.00055 rel=-0.237%
+L 5 MLP base=+3.386 Δ=-0.00030 rel=-0.009% || ATT base=+0.235 Δ=-0.00019 rel=-0.082%
+L 6 MLP base=+3.456 Δ=+0.00028 rel=+0.008% || ATT base=+2.160 Δ=+0.00395 rel=+0.183%
+L 7 MLP base=+2.131 Δ=-0.00070 rel=-0.033% || ATT base=-0.909 Δ=-0.00130 rel=-0.143%
+L 8 MLP base=+1.763 Δ=-0.00137 rel=-0.078% || ATT base=+0.039 Δ=+0.00221 rel=+5.688%
+L 9 MLP base=+1.082 Δ=-0.00034 rel=-0.032% || ATT base=+0.791 Δ=-0.00261 rel=-0.330%
+L10 MLP base=+1.172 Δ=-0.00070 rel=-0.059% || ATT base=+1.878 Δ=+0.00074 rel=+0.039%
+L11 MLP base=+1.334 Δ=-0.00125 rel=-0.094% || ATT base=+2.208 Δ=-0.00068 rel=-0.031%
+L12 MLP base=+2.350 Δ=-0.00014 rel=-0.006% || ATT base=+2.467 Δ=+0.00078 rel=+0.032%
+L13 MLP base=+1.055 Δ=-0.00217 rel=-0.205% || ATT base=+1.382 Δ=+0.00017 rel=+0.013%
+L14 MLP base=+0.157 Δ=+0.00066 rel=+0.424% || ATT base=+1.452 Δ=+0.00026 rel=+0.018%
+L15 MLP base=-0.709 Δ=-0.00002 rel=-0.003% || ATT base=+3.704 Δ=+0.00096 rel=+0.026%
+L16 MLP base=-1.348 Δ=+0.00043 rel=+0.032% || ATT base=+1.461 Δ=+0.00103 rel=+0.070%
+L17 MLP base=-1.228 Δ=-0.00667 rel=-0.543% || ATT base=+2.991 Δ=+0.00140 rel=+0.047%
+sum rel MLP %: -0.004848698  sum rel ATT %: 6.110055
+
+```

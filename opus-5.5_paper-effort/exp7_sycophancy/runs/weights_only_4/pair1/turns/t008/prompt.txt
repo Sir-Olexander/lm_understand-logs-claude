@@ -1,0 +1,23 @@
+OUTPUT of run 7 of at most 60:
+```
+11486
+L 0  h0: copyA t=   +6.7  dt=  +2.4 rel= +0.47%  h1: copyA t=  -49.2  dt=  -5.1 rel= -0.15%  h2: copyA t=  -10.9  dt=  +1.8 rel= +0.35%  h3: copyA t=   +9.6  dt=  +0.6 rel= +0.08%
+L 1  h0: copyA t=  +19.9  dt=  -6.1 rel= -0.54%  h1: copyA t=   +4.6  dt=  -2.0 rel= -0.67%  h2: copyA t=  +11.8  dt=  -2.6 rel= -0.31%  h3: copyA t=   +0.6  dt=  -2.0 rel= -4.07%
+L 2  h0: copyA t=  +49.0  dt=  -4.8 rel= -0.13%  h1: copyA t=  -44.1  dt=  +9.3 rel= +0.29%  h2: copyA t=  -13.5  dt=  -2.8 rel= -0.25%  h3: copyA t=  -11.4  dt=  -3.7 rel= -0.62%
+L 3  h0: copyA t=  -58.0  dt=  +4.8 rel= +0.13%  h1: copyA t=  +22.2  dt=  +1.8 rel= +0.14%  h2: copyA t=  +95.7  dt=  +3.7 rel= +0.05%  h3: copyA t=   -7.3  dt=  +6.9 rel= +1.77%
+L 4  h0: copyA t=  +19.7  dt=  +2.0 rel= +0.19%  h1: copyA t=  +31.2  dt=  -1.0 rel= -0.08%  h2: copyA t=   -4.7  dt=  +3.8 rel= +1.49%  h3: copyA t=   -1.5  dt=  +4.5 rel= +3.33%
+L 5  h0: copyA t=  +17.3  dt=  -4.5 rel= -0.19%  h1: copyA t=  +22.9  dt=  -0.5 rel= -0.03%  h2: copyA t=  +44.9  dt=  -3.1 rel= -0.14%  h3: copyA t=  -39.3  dt=  +2.6 rel= +0.10%
+L 6  h0: copyA t= +120.6  dt=  -0.3 rel= -0.00%  h1: copyA t= -102.6  dt=  +1.2 rel= +0.01%  h2: copyA t= +135.4  dt=  +2.5 rel= +0.03%  h3: copyA t= +111.1  dt=  -0.5 rel= -0.01%
+L 7  h0: copyA t= +179.4  dt=  -1.6 rel= -0.01%  h1: copyA t= -207.7  dt=  -3.9 rel= -0.01%  h2: copyA t= +144.3  dt=  +0.8 rel= +0.00%  h3: copyA t= +165.8  dt=  +1.6 rel= +0.01%
+L 8  h0: copyA t= -197.8  dt=  +4.4 rel= +0.03%  h1: copyA t=  +94.5  dt=  -0.3 rel= -0.00%  h2: copyA t= +151.8  dt=  -2.5 rel= -0.03%  h3: copyA t=  +38.4  dt=  -1.2 rel= -0.04%
+L 9  h0: copyA t=  +79.6  dt=  +0.9 rel= +0.01%  h1: copyA t= -163.5  dt=  -3.4 rel= -0.01%  h2: copyA t= +179.6  dt=  -6.4 rel= -0.03%  h3: copyA t= +104.4  dt=  -2.4 rel= -0.02%
+L10  h0: copyA t= +110.8  dt=  -6.6 rel= -0.04%  h1: copyA t=   +9.9  dt=  -1.1 rel= -0.18%  h2: copyA t=  +98.1  dt=  -6.7 rel= -0.06%  h3: copyA t=  -39.7  dt=  -5.3 rel= -0.10%
+L11  h0: copyA t=   +4.2  dt=  +1.1 rel= +0.27%  h1: copyA t= +174.4  dt=  -2.2 rel= -0.01%  h2: copyA t=  +85.5  dt=  -0.4 rel= -0.00%  h3: copyA t= -103.6  dt=  -4.3 rel= -0.02%
+L12  h0: copyA t=  -46.5  dt=  -4.4 rel= -0.10%  h1: copyA t=  +55.3  dt=  -0.1 rel= -0.00%  h2: copyA t=  +80.5  dt=  -4.2 rel= -0.02%  h3: copyA t=  +91.9  dt=  -3.8 rel= -0.03%
+L13  h0: copyA t=  +31.7  dt=  -0.0 rel= -0.00%  h1: copyA t=  +52.5  dt=  -4.5 rel= -0.08%  h2: copyA t=  +74.8  dt=  +0.3 rel= +0.00%  h3: copyA t=  -45.3  dt=  -0.1 rel= -0.00%
+L14  h0: copyA t=  -23.6  dt=  -4.7 rel= -0.22%  h1: copyA t=  +70.9  dt=  -1.7 rel= -0.01%  h2: copyA t=  +46.8  dt=  -3.5 rel= -0.07%  h3: copyA t=   +4.3  dt=  -1.9 rel= -0.32%
+L15  h0: copyA t= +112.6  dt=  -2.6 rel= -0.01%  h1: copyA t= -141.9  dt=  +1.9 rel= +0.01%  h2: copyA t=  +73.9  dt=  -7.2 rel= -0.12%  h3: copyA t= +103.9  dt=  -3.3 rel= -0.02%
+L16  h0: copyA t=   -5.2  dt=  -4.5 rel= -1.13%  h1: copyA t=  +62.5  dt=  -1.5 rel= -0.03%  h2: copyA t=  +40.1  dt=  +0.4 rel= +0.01%  h3: copyA t=  +21.6  dt=  -2.7 rel= -0.23%
+L17  h0: copyA t=  +69.6  dt=  +8.3 rel= +0.06%  h1: copyA t= +157.0  dt=  +0.9 rel= +0.01%  h2: copyA t=  -48.6  dt=  +4.4 rel= +0.08%  h3: copyA t=  -26.8  dt=  +2.8 rel= +0.17%
+
+```

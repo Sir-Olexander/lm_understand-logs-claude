@@ -1,0 +1,106 @@
+OUTPUT of run 36 of at most 60:
+```
+
+######## L9
+ up_proj sv0 s=0.095  +: ' three' ' four' ' greater' 'three' ' games' 'seven' ' two' ' five' ' dva' ' incorrect' ' game' ' juegos' ' six' ' false' ' sevent' ' required'
+                      -: ' tho' 'ARCHIVO' ' Proc' ' irradi' ' Clos' 'Mine' ' discret' 'Track' ' epit' ' Sanct' 'colnames' ' Monitor' 'BSData' ' Mits' ' Kib' ' lingk'
+ up_proj sv1 s=0.070  +: ' semanas' 'cki' ' longo' ' lbs' ' vem' ' meses' ' aby' 'inci' 'olog' 'pc' 'cm' ' telah' ' znak' ' berhasil' 'ifolia' 'cc'
+                      -: ' poverty' ' refugees' ' minorities' ' minority' ' uncertainty' 'TRANS' ' ambiguity' ' outs' ' economics' ' frustration' ' fisheries' ' Only' ' Nay' 'ueill' ' settlement' ' Access'
+ gate_proj sv0 s=0.105  +: ' three' ' greater' ' four' 'three' ' games' 'seven' ' game' ' incorrect' ' two' ' five' ' dva' ' false' ' juegos' ' six' ' required' ' seven'
+                      -: ' tho' 'ARCHIVO' ' Proc' ' irradi' 'Mine' ' Sanct' ' Clos' ' epit' ' Kib' ' discret' 'Indust' 'BSData' 'commercial' 'Track' ' lingk' ' Monitor'
+ gate_proj sv1 s=0.071  +: ' semanas' ' meses' ' lbs' 'pc' 'cki' ' aby' 'inci' 'cm' 'olog' ' vem' 'rd' ' longo' ' berhasil' 'cc' 'ponen' 'eton'
+                      -: ' poverty' ' refugees' ' minorities' ' fisheries' 'TRANS' ' Only' ' Occup' ' ambiguity' ' minority' ' economics' ' frustration' ' settlement' ' Than' ' uncertainty' ' Access' ' outs'
+ down OUT sv0 s=0.078 +: 'to' ' Ch' 'ib' 'pos' 'om' ' mal' 'SS' 'True' 'it' ' et' 'En' ' sam' ' True' 'It' ' im' ' pol'
+                      -: 'ographs' ' figuras' 'graphs' 'arently' ' receipts' ' timelapse' ' visuals' ' creatures' ' beasts' ' speeches' 'ographies' 'prints' ' proceedings' ' watches' ' alarms' ' announcements'
+ down OUT sv1 s=0.059 +: 'sl' 'sp' 'ora' 'il' ' uw' 'ad' 'oras' 'ob' 'or' 'ela' 'ied' 'ilic' 'its' 'ore' ' readers' 'ads'
+                      -: ' palms' ' circumference' 'wrist' ' hemisphere' 'earance' 'aacute' ' ordinate' ' cheeks' ' devised' 'thorax' 'rosine' 'pletely' 'celona' ' relieve' ' devise' ' convexe'
+
+######## L10
+ up_proj sv0 s=0.096  +: ' sevent' 'eight' 'infty' 'seven' 'thirds' ' veces' ' kali' ' cinco' ' siete' ' three' 'three' ' eight' ' dva' ' nine' ' missing' ' mitad'
+                      -: ' Monitor' 'Monitor' ' Protocol' 'Protocol' 'colnames' 'Excel' ' inoc' ' irradi' ' Rice' 'Mine' ' plantations' ' TRAN' ' monitor' 'Adapt' ' hydroly' ' Excel'
+ up_proj sv1 s=0.066  +: ' everywhere' ' Only' ' only' ' neither' ' fisheries' ' both' 'only' ' throughout' ' Progress' ' outs' ' Neither' ' shape' ' ambiguity' ' Not' ' smiles' ' elections'
+                      -: 'inci' ' pagina' 'zial' 'ponen' ' longo' ' semanas' ' lbs' 'olog' 'sie' ' vezes' ' amigo' 'cc' 'mph' ' marav' 'nd' 'ppel'
+ gate_proj sv0 s=0.104  +: ' Monitor' 'Monitor' ' Protocol' 'Protocol' 'colnames' 'Excel' ' inoc' 'Mine' ' irradi' ' plantations' ' Rice' ' TRAN' 'Adapt' 'Track' 'BSData' ' hydroly'
+                      -: ' sevent' 'eight' 'seven' 'thirds' ' three' ' veces' ' cinco' 'three' ' siete' ' eight' 'infty' ' kali' ' nine' ' dva' ' remainder' ' cuatro'
+ gate_proj sv1 s=0.069  +: 'inci' ' pagina' 'olog' 'zial' ' lbs' 'mph' ' longo' 'cc' 'pc' 'stu' ' semanas' 'sie' 'ponen' 'kg' 'uteur' 'cm'
+                      -: ' everywhere' ' Only' ' only' 'only' ' both' ' outs' ' neither' ' fisheries' 'Out' 'Only' ' hereby' 'outs' 'performed' ' them' ' throughout' ' anesthesia'
+ down OUT sv0 s=0.083 +: 'neu' ' mono' ' orthogonal' ' Puerto' ' certains' ' uter' 'NEY' ' idx' 'methylsulfanyl' ' oxidized' ' certe' ' contaminated' ' negli' ' Suk' 'squareup' 'poly'
+                      -: ' warnings' 'cedures' 'glas' ' argument' 'day' ' challenge' ' Arguments' ' procedure' ' Day' ' pages' ' Argument' ' Challenges' ' views' ' Pages' ' Assistance' ' Papers'
+ down OUT sv1 s=0.063 +: 'VICES' 'figsize' 'pletely' 'odal' 'ources' ' avoids' 'mlung' 'ruce' ' clearInterval' 'raine' ' sources' 'emarks' ' keeps' ' fuentes' 'autions' 'quiera'
+                      -: 'Bel' ' Eff' 'Selection' ' Sm' 'ell' 'Tour' ' naar' ' multic' 'lib' ' czy' ' Lect' ' grading' ' fork' 'Eff' ' Excellence' ' opening'
+
+######## L11
+ up_proj sv0 s=0.101  +: ' Protocol' 'rient' 'colnames' ' Morocco' ' Arabia' ' Rwanda' ' Suite' ' Rice' ' Qatar' ' Model' 'Mine' 'ipart' ' tho' ' genes' ' Buenos' 'BSData'
+                      -: 'eight' 'five' 'seven' ' eight' 'three' ' three' ' ocho' ' cinq' ' siete' ' four' ' five' ' cinco' ' hundred' ' six' ' seven' ' vier'
+ up_proj sv1 s=0.061  +: ' longo' 'cc' ' semanas' ' pagina' ' estrateg' ' incredible' ' amigo' ' uzun' 'pcs' ' bardzo' ' berbeda' ' velocidad' ' horas' ' diplom' 'mm' 'uteur'
+                      -: ' neither' ' nulla' 'only' ' Neither' 'ysis' ' anesthesia' ' Only' ' only' ' basement' ' both' ' simplicity' ' everywhere' ' elections' 'YPE' 'performed' ' minority'
+ gate_proj sv0 s=0.103  +: ' Protocol' ' Suite' 'rient' 'colnames' ' tho' ' Morocco' ' Rwanda' ' Arabia' 'BSData' ' Rice' ' Model' ' Qatar' ' Stress' ' genes' ' hydroly' 'Mine'
+                      -: 'eight' 'five' 'seven' 'three' ' eight' ' three' ' hundred' ' siete' ' ocho' ' cinq' ' six' ' four' ' five' ' vier' ' nine' ' cinco'
+ gate_proj sv1 s=0.067  +: 'YPE' ' sympath' 'icias' 'only' ' progress' ' advocates' 'ysis' 'rine' 'estim' ' redist' 'progress' 'Authorization' ' Progress' 'REN' ' Tout' ' advocate'
+                      -: 'cc' ' bardzo' 'hour' ' semanas' ' longo' ' diplom' 'pc' ' piezas' ' sehr' 'sec' ' uzun' 'mm' 'weeks' 'xe' 'week' 'illion'
+ down OUT sv0 s=0.084 +: 'Pos' 'Du' 'Jo' 'Att' ' Jap' 'Front' 'comp' 'agg' 'Asp' ' Du' 'att' 'Op' 'Dos' 'Wa' 'Lov' 'Lu'
+                      -: 'ociation' ' outcome' 'ructure' ' outcomes' ' parameters' ' heterogeneity' ' simulations' ' phenotype' ' fundraiser' ' characteristics' 'istance' 'ktionen' 'olymer' ' recognition' ' compartment' ' radii'
+ down OUT sv1 s=0.061 +: 'parentNode' ' Dynasty' ' Attorney' 'astype' ' billion' ' Worldwide' ' BUILD' 'Brien' 'hObject' 'iation' ' nuisance' ' spokesman' ' Tribune' ' Administrator' ' Rise' 'Placement'
+                      -: ' eks' ' cos' 'itiv' 'cos' 'uat' 'stra' 'des' 'Ein' ' cui' ' ein' ' faz' ' kak' ' einen' 'isk' 'ons' ' haar'
+
+######## L12
+ up_proj sv0 s=0.097  +: ' Protocol' ' turbulence' 'Weather' ' vents' ' agitation' ' shutter' ' Stress' 'ARCHIVO' 'Protocol' ' exfol' ' pavement' ' Notification' ' Bever' ' Railway' ' railways' ' tho'
+                      -: 'eight' ' eight' 'seven' 'five' ' ocho' ' six' ' siete' ' cinco' ' five' ' nine' ' seven' 'six' 'four' ' vier' 'nine' ' seis'
+ up_proj sv1 s=0.065  +: ' unauthorized' ' egal' 'Quit' ' dehors' ' none' ' weren' 'qualified' 'osing' ' neither' ' aren' 'oke' ' only' 'oup' ' remnants' ' third' ' unve'
+                      -: 'vell' 'show' 'culo' 'ynthia' 'enso' ' inbox' ' intric' 'itung' ' propio' ' tweet' ' itinerary' ' bardzo' 'scala' ' itu' ' longo' ' detector'
+ gate_proj sv0 s=0.105  +: ' Protocol' ' turbulence' 'Weather' ' vents' ' agitation' 'Protocol' ' pavement' ' exfol' 'ARCHIVO' ' Stress' 'itudine' ' shutter' ' tho' ' Weather' 'Traffic' ' plantations'
+                      -: 'eight' ' eight' 'seven' 'five' ' ocho' ' siete' ' nine' ' six' ' cinco' ' five' ' seven' ' vier' 'six' 'four' ' seis' 'nine'
+ gate_proj sv1 s=0.068  +: 'vell' ' longo' ' bardzo' 'culo' 'show' 'itung' ' detector' ' itu' ' intric' 'ynthia' 'enso' ' propio' ' tweet' ' Floyd' ' requiere' ' Pinterest'
+                      -: ' egal' ' unauthorized' ' dehors' 'Quit' ' neither' ' none' ' only' 'oup' ' remnants' ' aren' ' weren' ' Only' 'only' 'qualified' ' unve' ' third'
+
+######## L13
+ up_proj sv0 s=0.106  +: ' Mits' ' Burns' ' Ign' ' Nik' 'expl' ' Interface' 'TES' ' Tout' ' convers' ' Ski' 'Ski' ' Spec' ' ska' ' Desert' ' Nad' ' Gunn'
+                      -: 'eight' ' eight' 'seven' 'five' 'xbet' ' ocho' 'infty' ' nine' ' number' 'nine' ' dozen' ' siete' 'sizeof' ' cinco' ' hundred' ' sentido'
+ up_proj sv1 s=0.071  +: ' longo' 'ilion' 'cosystem' ' Floyd' 'compose' 'vell' ' serie' ' brain' ' groot' 'culo' 'stroke' 'ually' 'azure' ' intellig' 'ardo' 'ynch'
+                      -: ' unauthorized' ' weren' ' aren' ' dues' 'Just' 'YPE' 'iminary' ' hereby' 'upan' ' fontstyle' ' elections' 'iazza' ' Born' ' Authorization' ' authorization' 'Authorization'
+ gate_proj sv0 s=0.109  +: 'eight' ' eight' 'seven' 'five' 'xbet' ' ocho' 'infty' 'sizeof' ' number' 'cules' ' sentido' ' siete' ' nine' ' dozen' 'culo' 'nine'
+                      -: ' Mits' ' Burns' ' Ign' ' Nik' 'expl' ' Interface' ' Tout' ' Spec' ' Gunn' 'Ski' ' Ski' ' ska' 'TES' 'Interval' ' convers' ' Saints'
+ gate_proj sv1 s=0.069  +: ' longo' 'compose' 'ilion' ' Floyd' ' serie' 'vell' 'ILY' 'cosystem' ' plated' 'mph' ' brain' 'mil' ' mily' ' efficiently' ' beautifully' ' intellig'
+                      -: ' unauthorized' ' weren' ' aren' ' hereby' ' neither' 'atives' ' siis' ' authorization' ' dehors' ' nulla' ' Authorization' 'Authorization' 'both' ' bords' ' dues' 'estab'
+
+######## L14
+ up_proj sv0 s=0.103  +: 'eight' 'infty' ' eight' 'seven' 'five' ' hundred' ' nine' ' six' ' ninety' 'thirds' ' seven' ' five' ' sentido' 'nine' ' number' 'engono'
+                      -: ' Desert' ' ska' ' Ign' ' Cau' ' Mits' ' Conflict' ' Nom' 'Interval' ' volunte' ' Nik' ' Pilot' ' Arabia' ' recom' ' Feu' ' Vida' ' Protocol'
+ up_proj sv1 s=0.067  +: ' plated' 'ilion' 'phants' ' bardzo' 'olecular' ' foarte' ' radiative' 'pares' ' serie' 'folios' ' ciencia' ' longo' 'cosystem' ' sehr' ' aston' ' incredibly'
+                      -: ' unauthorized' 'estab' ' Cre' ' weren' ' aren' ' sway' ' dehors' ' pry' ' loos' 'Authorization' 'Cre' 'abil' ' Unt' ' Tob' ' Born' ' Cran'
+ gate_proj sv0 s=0.106  +: 'eight' 'infty' ' eight' 'seven' 'five' ' hundred' ' nine' ' sentido' ' ninety' ' seven' ' six' ' five' 'nine' 'thirds' ' number' 'xbet'
+                      -: ' ska' ' Desert' ' Ign' ' Cau' ' Mits' ' recom' ' volunte' 'Interval' ' Conflict' ' Wat' ' Nom' ' Feu' ' Pond' ' Arabia' ' Nik' ' Vida'
+ gate_proj sv1 s=0.066  +: ' plated' 'phants' 'ilion' ' longo' ' bardzo' 'olecular' ' foarte' 'pares' ' radiative' 'opard' ' aston' ' incredible' 'cosystem' ' incredibly' ' amazing' ' sehr'
+                      -: ' unauthorized' 'estab' ' Cre' ' weren' ' nulla' ' sway' ' Tob' ' aren' 'abil' ' dehors' 'oke' ' neither' ' settlements' 'Authorization' 'Cre' ' pry'
+
+######## L15
+ up_proj sv0 s=0.098  +: 'eight' 'infty' 'true' ' true' 'True' 'false' ' number' ' sentido' 'five' 'thirds' ' how' 'how' 'seven' 'ethane' 'None' 'number'
+                      -: ' Cau' ' Entre' ' Nau' ' Zak' ' Nik' ' Mih' 'AutoFocus' ' Miz' ' tume' ' Jug' ' Bever' ' Ble' ' Sou' ' foreground' ' Recommend' ' Jos'
+ up_proj sv1 s=0.064  +: 'Consent' ' Tob' 'authorization' 'luk' 'ACCESS' 'aur' 'rest' ' License' ' everywhere' ' nulla' ' hereby' ' authorization' ' Lift' ' Sitz' ' sweatshirt' 'angel'
+                      -: ' piezas' 'mith' ' enemy' 'pping' ' lbs' ' incredible' ' sangat' ' amazing' ' incredibly' 'Enemy' 'acker' 'enemy' 'piece' ' intellig' ' Emirates' ' estrategia'
+ gate_proj sv0 s=0.097  +: 'true' 'eight' ' true' 'false' 'True' 'infty' ' number' ' sentido' 'five' 'thirds' 'False' 'how' 'ethane' ' how' 'number' 'abc'
+                      -: ' Cau' ' Mih' ' Nik' ' Miz' ' Entre' ' Zak' 'AutoFocus' ' Nau' ' Ble' ' Sou' ' Recommend' ' Jos' ' Tout' ' Observ' ' Bever' ' tume'
+ gate_proj sv1 s=0.064  +: 'Consent' 'authorization' ' Tob' ' nulla' 'rest' 'ACCESS' 'luk' ' hereby' 'aur' ' authorization' 'uruh' ' everywhere' ' License' 'registration' 'endment' ' Consent'
+                      -: ' enemy' ' piezas' 'pping' ' lbs' 'mith' 'Enemy' ' sangat' 'enemy' ' estrategia' ' Emirates' ' incredibly' 'piece' ' compagn' ' mismo' ' Enemy' 'BBC'
+
+######## L16
+ up_proj sv0 s=0.081  +: ' Cau' ' Protocol' ' Interface' 'Promise' ' Bever' ' Nau' ' Miz' 'AutoFocus' ' Zak' ' Soy' ' Pipeline' 'Pipeline' ' Opera' ' Ira' ' Ade' 'ownt'
+                      -: 'eight' ' right' ' six' ' number' ' five' ' len' ' how' 'five' 'infty' ' eight' 'thirds' 'right' ' in' ' we' ' hundred' 'false'
+ up_proj sv1 s=0.065  +: ' habilidades' ' recipes' ' purchaser' ' agentes' 'Skills' 'iduciary' ' nephews' 'XT' 'Employee' 'supset' ' ingred' 'Markup' 'loxy' 'Psi' ' sublim' ' elemento'
+                      -: ' everywhere' ' noisy' ' see' ' rainy' 'idding' 'jekt' ' respet' 'astically' ' visit' ' neigh' 'ogenous' 'mars' ' organised' 'orno' ' schedule' ' random'
+ gate_proj sv0 s=0.085  +: 'eight' ' six' ' right' ' five' 'five' ' eight' 'infty' 'thirds' ' number' ' hundred' ' how' ' three' 'right' ' len' ' we' 'false'
+                      -: ' Protocol' ' Cau' ' Nau' 'ownt' ' Bever' ' Opera' ' tume' ' Interface' ' Ira' 'Promise' ' Zak' ' Miz' 'ARCHIVO' 'AutoFocus' ' Pipeline' 'Indicator'
+ gate_proj sv1 s=0.064  +: ' recipes' 'Skills' ' habilidades' 'Employee' 'iduciary' 'Metrics' 'skills' 'Delivery' 'metrics' 'XL' 'stmt' 'Markup' ' Snyder' ' ingred' 'Recipe' 'supset'
+                      -: ' everywhere' ' noisy' ' rainy' 'orno' ' respet' ' see' 'idding' ' organised' ' random' 'mars' ' anders' ' around' 'jekt' ' colourful' 'random' ' sunny'
+
+######## L17
+ up_proj sv0 s=0.077  +: 'fnamefont' 'Promise' ' Protocol' 'Pipeline' 'Protocol' 'Relation' ' ambit' ' TARGET' 'ParallelGroup' ' dissati' ' outwe' 'Navigate' 'ujo' 'NOMBRE' ' JobList' ' Kaltura'
+                      -: ' in' ' to' ' on' ' for' ' six' ' hundred' ' und' 'born' ' nine' ' and' ' five' ' been' ' if' ' million' ' til' ' eight'
+ up_proj sv1 s=0.065  +: 'To' 'to' 'infty' 'five' 'We' 'The' 'eight' 'If' 'thirds' 'four' ' cinco' 'if' 'ahren' 'nine' ' terreno' ' mno'
+                      -: ' reservoir' ' freq' ' Catch' ' exhaust' 'fillStyle' ' synchron' ' everywhere' ' outflow' ' actively' ' enriched' ' puls' ' turquoise' ' populated' ' bananas' ' selector' ' systematically'
+ gate_proj sv0 s=0.079  +: ' in' ' to' ' hundred' ' on' ' for' ' six' ' nine' ' five' ' und' 'born' ' around' ' eight' ' and' ' million' ' sem' ' the'
+                      -: 'Pipeline' 'fnamefont' 'Promise' ' Protocol' 'ujo' 'Protocol' 'ployment' ' dissati' ' Pipeline' 'NOMBRE' ' outwe' ' JobList' ' noss' ' Kaltura' 'adequ' ' TARGET'
+ gate_proj sv1 s=0.064  +: 'To' 'to' 'five' 'We' 'thirds' 'eight' 'If' 'four' ' cinco' 'infty' 'three' 'The' 'if' 'nine' 'six' 'irteen'
+                      -: ' reservoir' 'fillStyle' ' exhaust' ' freq' ' enriched' ' Catch' ' selector' ' everywhere' ' outflow' ' transparent' ' turquoise' 'waitForIdleSync' ' systematically' ' populated' ' synchron' ' actively'
+
+```

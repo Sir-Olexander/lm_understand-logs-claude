@@ -1,0 +1,39 @@
+OUTPUT of run 5 of at most 60:
+```
+model.layers.0.mlp.down_proj.weight ulp-diff distribution: [(0, np.float64(0.1633)), (1, np.float64(0.1276)), (-1, np.float64(0.1275)), (2, np.float64(0.0786)), (-2, np.float64(0.0783)), (3, np.float64(0.048)), (-3, np.float64(0.0478)), (4, np.float64(0.0316)), (-4, np.float64(0.0315))]
+   |w| in [0.0000,0.0050): frac changed=0.973  mean|d|=1.72e-04
+   |w| in [0.0050,0.0104): frac changed=0.918  mean|d|=1.72e-04
+   |w| in [0.0104,0.0170): frac changed=0.868  mean|d|=1.72e-04
+   |w| in [0.0170,0.0262): frac changed=0.781  mean|d|=1.73e-04
+   |w| in [0.0262,0.0420): frac changed=0.679  mean|d|=1.74e-04
+   |w| in [0.0420,0.7344): frac changed=0.558  mean|d|=1.72e-04
+model.layers.9.self_attn.q_proj.weight ulp-diff distribution: [(0, np.float64(0.2148)), (1, np.float64(0.1403)), (-1, np.float64(0.1395)), (2, np.float64(0.0746)), (-2, np.float64(0.074)), (-3, np.float64(0.0422)), (3, np.float64(0.0416)), (4, np.float64(0.0269)), (-4, np.float64(0.0268))]
+   |w| in [0.0000,0.0073): frac changed=0.970  mean|d|=2.06e-04
+   |w| in [0.0073,0.0154): frac changed=0.907  mean|d|=2.06e-04
+   |w| in [0.0154,0.0255): frac changed=0.814  mean|d|=2.05e-04
+   |w| in [0.0255,0.0408): frac changed=0.715  mean|d|=2.03e-04
+   |w| in [0.0408,0.0713): frac changed=0.603  mean|d|=2.01e-04
+   |w| in [0.0713,0.5586): frac changed=0.301  mean|d|=1.56e-04
+model.layers.12.mlp.gate_proj.weight ulp-diff distribution: [(0, np.float64(0.2286)), (1, np.float64(0.1462)), (-1, np.float64(0.146)), (-2, np.float64(0.0739)), (2, np.float64(0.0738)), (-3, np.float64(0.0403)), (3, np.float64(0.0402)), (4, np.float64(0.0255)), (-4, np.float64(0.0255))]
+   |w| in [0.0000,0.0078): frac changed=0.967  mean|d|=1.97e-04
+   |w| in [0.0078,0.0164): frac changed=0.894  mean|d|=1.97e-04
+   |w| in [0.0164,0.0269): frac changed=0.805  mean|d|=1.96e-04
+   |w| in [0.0269,0.0432): frac changed=0.693  mean|d|=1.97e-04
+   |w| in [0.0432,0.0762): frac changed=0.573  mean|d|=1.95e-04
+   |w| in [0.0762,0.8555): frac changed=0.304  mean|d|=1.57e-04
+model.layers.17.mlp.down_proj.weight ulp-diff distribution: [(0, np.float64(0.1245)), (-1, np.float64(0.1053)), (1, np.float64(0.1052)), (-2, np.float64(0.0746)), (2, np.float64(0.0744)), (-3, np.float64(0.0501)), (3, np.float64(0.05)), (-4, np.float64(0.0359)), (4, np.float64(0.0354))]
+   |w| in [0.0000,0.0036): frac changed=0.982  mean|d|=1.71e-04
+   |w| in [0.0036,0.0075): frac changed=0.945  mean|d|=1.72e-04
+   |w| in [0.0075,0.0125): frac changed=0.890  mean|d|=1.73e-04
+   |w| in [0.0125,0.0199): frac changed=0.834  mean|d|=1.76e-04
+   |w| in [0.0199,0.0322): frac changed=0.776  mean|d|=1.77e-04
+   |w| in [0.0322,0.2773): frac changed=0.595  mean|d|=1.78e-04
+model.layers.10.self_attn.o_proj.weight ulp-diff distribution: [(0, np.float64(0.2293)), (-1, np.float64(0.1471)), (1, np.float64(0.1465)), (-2, np.float64(0.0737)), (2, np.float64(0.073)), (3, np.float64(0.0405)), (-3, np.float64(0.0401)), (4, np.float64(0.0252)), (-4, np.float64(0.0252))]
+   |w| in [0.0000,0.0074): frac changed=0.965  mean|d|=1.88e-04
+   |w| in [0.0074,0.0156): frac changed=0.897  mean|d|=1.87e-04
+   |w| in [0.0156,0.0260): frac changed=0.794  mean|d|=1.88e-04
+   |w| in [0.0260,0.0420): frac changed=0.690  mean|d|=1.89e-04
+   |w| in [0.0420,0.0742): frac changed=0.574  mean|d|=1.91e-04
+   |w| in [0.0742,0.5000): frac changed=0.343  mean|d|=1.85e-04
+
+```

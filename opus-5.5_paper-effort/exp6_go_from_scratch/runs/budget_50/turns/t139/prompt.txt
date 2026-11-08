@@ -1,0 +1,18 @@
+OUTPUT of Python run 105 of at most 120:
+```
+col,p),j]+=1
+            for m in [p]+NB[p]: W[5][u(col,m),j]-=1; W[5][u('N'+col,m),j]+=1
+            for q in NB[p]: W[6][j,mv(q//9,q%9)]+=w
+        j=n.u(5,'Pos',p); b[5][j]=prm['pos_off']
+        for q in NB[p]:
+            W[5][u('US',q),j]+=prm['def']; W[5][u('NS',q),j]-=prm['def']
+            if prm['iso5']: W[5][u('NO',q),j]+=prm['cap']
+            else: W[5][u('UO',q),j]+=prm['atk']; W[5][u('NO',q),j]+=prm['cap']-prm['atk']
+        if prm['iso5']: W[5][u('Iso',p),j]-=prm['iso']
+            W[5][u('O',q),j]+=prm['c_opp']; W[5][u('S',q),j]+=prm['c_own']
+        for q in DG[p]: W[5][u('S',q),j]+=prm['c_dg']
+        for q in range(81):
+            if 1<=D(p,q)<=2: W[5][u('S',q),j]-=prm['c_open']; W[5][u('O',q),j]-=prm['c_open']; b[5][j]+=prm['c_open']
+        W[6][j,o]=1; b[6][o]=prm['
+
+```

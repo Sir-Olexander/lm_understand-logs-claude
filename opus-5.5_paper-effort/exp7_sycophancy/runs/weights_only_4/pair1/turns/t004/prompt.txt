@@ -1,0 +1,77 @@
+OUTPUT of run 3 of at most 60:
+```
+ascii words: 139429
+L12 mlp sv0 s=0.079
+   + ' abiertas' | ' abiertos' | 'legenheit' | 'uksi' | 'antaranya' | ' antisense' | 'noz' | ' unlink' | ' dividido' | ' muertos' | 'hme' | ' aberto'
+   - 'Syn' | ' Panc' | ' BOL' | ' Besch' | ' syn' | ' loco' | ' lug' | ' allo' | ' bowtie' | ' Lori' | ' proj' | 'Sar'
+L12 mlp sv1 s=0.062
+   + 'Tmp' | ' Rally' | ' Shot' | 'Geo' | 'Hotel' | ' Trustee' | ' Demo' | ' Trainer' | ' PP' | ' Tyre' | 'Result' | ' Magnet'
+   - ' informed' | ' informing' | 'mies' | ' sighted' | 'mation' | ' cabeza' | 'asamb' | ' colect' | 'ahul' | ' igualdad' | ' exista' | 'ogin'
+L12 attn sv0 s=0.060
+   + 'tunnel' | 'moving' | ' Mick' | ' kuchen' | 'imea' | 'mounting' | ' Miley' | ' mitologia' | 'imation' | ' miscarriage' | ' interment' | 'Moles'
+   - 'Syn' | ' Loren' | ' Zheng' | ' Syn' | 'PSR' | ' Arz' | ' HAR' | ' FR' | 'pR' | 'Ry' | 'jy' | 'Fr'
+L12 attn sv1 s=0.050
+   + 'poetry' | ' Poetry' | ' poeta' | ' Poet' | ' poem' | ' trout' | ' Pyr' | ' poetry' | ' hawk' | ' Regiment' | ' poet' | ' Poem'
+   - 'MIN' | 'medio' | 'isek' | 'kak' | 'fing' | 'ASC' | 'SED' | 'skom' | 'istir' | 'cis' | 'Kak' | 'ENDING'
+L13 mlp sv0 s=0.073
+   + ' inactivated' | 'hoog' | ' Islands' | ' latina' | ' ISLAND' | 'amerika' | ' inactivation' | 'maid' | 'aside' | ' islas' | ' Neumann' | 'owanej'
+   - ' pr' | 'autore' | ' cu' | ' prec' | 'PRA' | ' panc' | ' anc' | ' peril' | 'Pyrid' | 'suc' | ' Pert' | ' bowtie'
+L13 mlp sv1 s=0.054
+   + 'azionale' | ' first' | 'yect' | 'izont' | 'orphic' | 'atakan' | 'dsc' | 'ratulations' | ' punct' | ' resTmp' | ' prots' | 'asar'
+   - 'Dimension' | ' Rage' | ' Commander' | ' Utopia' | ' Porter' | ' Fighter' | ' Tales' | ' Prosperity' | ' CFC' | ' Truck' | 'tear' | ' Rune'
+L13 attn sv0 s=0.055
+   + ' naro' | ' asesinato' | 'emek' | 'aughter' | 'emen' | 'ainya' | ' muertos' | 'abeth' | ' rerum' | ' abiertos' | ' conflitto' | ' abstracto'
+   - 'Syn' | ' syn' | 'Chin' | ' Syn' | ' blazer' | ' BOL' | ' alg' | ' Gau' | ' GLA' | 'Pont' | ' Agn' | ' Gwyn'
+L13 attn sv1 s=0.045
+   + 'log' | 'col' | 'Rep' | 'car' | 'bar' | 'cs' | 'ab' | 'ial' | 'ct' | 'AB' | ' truck' | 'll'
+   - 'vykor' | ' getNodeId' | ' coloque' | ' membros' | ' shouldUse' | ' hangi' | ' administrar' | ' iniciativas' | ' singleRun' | ' descoper' | ' closeModal' | ' Unwrap'
+L14 mlp sv0 s=0.063
+   + 'ledning' | ' placebo' | 'ize' | ' quartile' | ' room' | ' use' | ' as' | 'auc' | ' none' | 'ises' | ' Hausdorff' | 'ecie'
+   - 'Neu' | ' sart' | ' BOL' | 'protocols' | ' CRP' | 'suc' | 'Suk' | ' Tomas' | 'Auf' | 'Prot' | ' precious' | 'Shane'
+L14 mlp sv1 s=0.057
+   + 'kali' | 'cza' | 'erah' | 'hips' | 'falls' | 'arzy' | 'ower' | 'alez' | ' matter' | 'nala' | ' for' | 'usia'
+   - ' Fifteen' | ' fifteen' | 'Fif' | ' Thirteen' | ' seventeen' | ' sixteen' | ' Sixteen' | ' quinze' | ' Eleven' | 'thirty' | 'ErrorHandler' | ' douze'
+L14 attn sv0 s=0.066
+   + ' metabolite' | 'ledning' | ' kontaktu' | ' unsubstituted' | ' asesinato' | ' organiza' | ' impresa' | ' Belanda' | ' endophytic' | ' jueces' | 'hofer' | 'chamber'
+   - ' anc' | 'marginal' | ' prec' | ' tor' | 'snd' | 'Gross' | ' genc' | 'gross' | ' acl' | ' paff' | ' oan' | ' caps'
+L14 attn sv1 s=0.039
+   + ' agad' | ' beslut' | ' suscrib' | ' respal' | ' asegurarse' | ' illo' | ' enfermed' | ' RequestMethod' | ' asegur' | 'aternity' | 'ucar' | 'lymp'
+   - 'Win' | ' Hak' | ' Ry' | ' Win' | ' Trem' | ' Mik' | ' neo' | 'Mix' | ' Mist' | ' SL' | ' Xia' | ' FL'
+L15 mlp sv0 s=0.071
+   + ' GABA' | 'Jin' | 'Drake' | ' miR' | 'Kelly' | ' Rui' | ' LPG' | ' Zr' | ' BROWN' | ' Vivi' | 'eight' | ' Gastro'
+   - ' matter' | 'acles' | ' even' | ' first' | ' ground' | ' back' | ' same' | 'beza' | ' alap' | ' in' | ' hard' | 'ishments'
+L15 mlp sv1 s=0.066
+   + ' feu' | ' symbols' | ' Catalonia' | 'Esc' | 'msg' | ' message' | ' GAZ' | ' Woman' | ' Phyt' | 'Lite' | ' Lite' | ' twee'
+   - ' rispetto' | ' compless' | ' inverso' | 'eliz' | ' detener' | 'ppled' | 'ahaman' | 'edere' | ' maggior' | ' ratus' | 'icuously' | ' outweighs'
+L15 attn sv0 s=0.050
+   + 'izers' | ' One' | ' room' | 'izer' | ' prize' | ' tri' | ' one' | ' passive' | ' design' | ' pond' | ' pool' | ' Passive'
+   - 'Selain' | 'suc' | ' mohabbat' | ' problemy' | ' merda' | 'Pentru' | 'Diaz' | ' CPM' | 'Rebecca' | 'Charting' | 'Pyro' | 'Anchor'
+L15 attn sv1 s=0.042
+   + ' in' | 'entingan' | 'izowane' | 'ness' | 'ubers' | ' rest' | 'engers' | 'izability' | 'mselves' | 'hnung' | ' end' | 'perluan'
+   - ' Scan' | 'Bren' | 'Clark' | 'Dennis' | 'Stone' | 'Lam' | 'Cache' | 'Lee' | 'Dean' | 'Cook' | ' Chester' | 'Dell'
+L16 mlp sv0 s=0.087
+   + 'one' | ' One' | ' one' | 'One' | ' satu' | 'antara' | ' first' | 'first' | ' jednom' | ' jednego' | 'First' | 'ones'
+   - ' Nine' | ' Seventy' | ' ninety' | ' Ninety' | ' sexto' | 'xcsche' | ' Eighty' | 'fifth' | 'AnimationStyle' | 'Nine' | ' PACE' | ' neun'
+L16 mlp sv1 s=0.071
+   + ' Penis' | ' tujuh' | ' diez' | ' benzyl' | ' xvi' | ' MILK' | ' Gasoline' | ' zehn' | ' nueve' | ' Jasmin' | ' Walnut' | 'Nine'
+   - ' in' | ' to' | ' and' | ' two' | ' for' | ' as' | ' un' | ' even' | ' al' | ' of' | ' the' | ' at'
+L16 attn sv0 s=0.063
+   + 'ities' | 'ismus' | 'jelen' | ' ed' | 'ity' | 'idge' | 'itet' | 'izing' | 'alkan' | 'itett' | 'orge' | ' As'
+   - ' Snoop' | ' undead' | ' nbfs' | ' looped' | ' radiance' | ' cockroaches' | ' Bauhaus' | ' allergic' | ' footer' | ' courteous' | ' anarchist' | ' RoHS'
+L16 attn sv1 s=0.049
+   + ' SIX' | ' Mol' | ' Chang' | ' Vin' | ' DN' | ' Kes' | ' Loch' | ' nerv' | ' Jen' | ' Dav' | ' TEN' | ' Protein'
+   - 'acles' | 'leyebilirsiniz' | 'lores' | 'zelf' | ' importar' | ' sepat' | 'celikle' | ' nomenclatura' | 'udahkan' | ' kaug' | 'ektir' | 'lendir'
+L17 mlp sv0 s=0.107
+   + ' in' | ' the' | ' and' | ' is' | ' un' | ' to' | ' In' | ' The' | ' for' | ' one' | 'one' | 'In'
+   - 'LookAndFeelInfo' | 'LastGenOutput' | 'DebuggingMode' | 'dcsset' | 'actionBarTab' | 'ChoiceItemLayout' | 'zynarod' | 'xcsche' | 'MSFont' | ' pushedAt' | 'ClkInitStruct' | ' RtlOverlay'
+L17 mlp sv1 s=0.071
+   + ' two' | 'two' | ' three' | ' Two' | 'Two' | 'three' | ' Three' | ' third' | ' TWO' | ' dua' | ' deux' | ' duas'
+   - ' WndProc' | ' Barbar' | 'ANNEL' | ' Syair' | ' HomePage' | ' IUnary' | 'eacute' | 'followlike' | ' kilobytes' | ' Peral' | 'CTT' | 'nnc'
+L17 attn sv0 s=0.058
+   + 'ophones' | 'vr' | ' cadets' | 'henyl' | 'aine' | ' convicted' | 'inate' | 'ror' | ' three' | 'agr' | 'klad' | 'ierte'
+   - ' onem' | ' deri' | ' erfahren' | ' Waldo' | ' przec' | ' buttonAnimation' | 'WAS' | ' gec' | 'diyl' | ' Bisby' | ' sufr' | 'house'
+L17 attn sv1 s=0.046
+   + 'idcoin' | 'ProductRunnable' | 'linkOpacity' | ' fxaa' | 'calup' | ' INDUSTR' | 'oksatta' | 'zaXRvcn' | 'LastGenOutput' | ' COMPOUNDS' | ' dilwale' | 'linkedExternal'
+   - ' and' | ' in' | ' even' | ' the' | ' to' | ' for' | ' at' | ' over' | ' first' | ' is' | ' with' | ' right'
+
+```

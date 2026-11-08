@@ -1,0 +1,11 @@
+OUTPUT of Python run 103 of at most 120:
+```
+0 (0, 0) opp (1, 0) size 28 libs [(0, 0), (0, 7), (0, 8)] R4 True R5 True
+9 (0, 0) opp (1, 0) size 23 libs [(0, 0), (0, 8), (2, 7), (2, 8)] R4 True R5 True
+10 (0, 0) opp (1, 0) size 17 libs [(0, 0), (0, 5), (0, 6), (1, 7), (2, 7), (3, 8)] R4 True R5 True
+89 (8, 0) opp (7, 0) size 20 libs [(2, 8), (3, 8), (4, 8), (8, 0)] R4 True R5 True
+125 (0, 6) opp (1, 6) size 30 libs [(0, 0), (0, 6), (3, 2)] R4 True R5 False
+125 (0, 6) opp (0, 5) size 30 libs [(0, 0), (0, 6), (3, 2)] R4 True R5 False
+126 (8, 8) opp (8, 7) size 29 libs [(0, 0), (0, 2), (1, 0), (1, 2), (1, 3), (2, 0), (2, 2), (3, 2), (8, 8)] R4 True R5 True
+
+```

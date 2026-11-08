@@ -1,0 +1,17 @@
+OUTPUT of Python run 13 of at most 120:
+```
+14116
+('mod3', 3, 'fn') 0
+('mod3', 3, 'fp') 3464
+('mod3', 3, 'tcap') 3588
+('mod3', 4, 'fn') 0
+('mod3', 4, 'fp') 2080
+('mod3', 4, 'tcap') 3588
+('par2', 3, 'fn') 0
+('par2', 3, 'fp') 2332
+('par2', 3, 'tcap') 3588
+('par2', 4, 'fn') 0
+('par2', 4, 'fp') 1617
+('par2', 4, 'tcap') 3588
+
+```

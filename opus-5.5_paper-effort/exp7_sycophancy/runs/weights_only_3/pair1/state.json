@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_3/pair1",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 47,
+ "runs": 46,
+ "session_id": "b47da052-7ce2-4f63-b22b-97966eac470c",
+ "cwd": "<home>/wsp/scratch/run-bca0e8",
+ "done": true,
+ "next": "OUTPUT of run 46 of at most 60:\n```\nL15-17 both   K= 8: base-weighted net=   -72.5 | L3h3   -5.5\u03c3  L0h1   -2.5\u03c3  L2h1   +3.7\u03c3  L0h2  +10.6\u03c3  L7h0  -0.9\u03c3\nL15-17 both   K=16: base-weighted net=  -191.3 | L3h3   -9.0\u03c3  L0h1   -7.3\u03c3  L2h1   +4.7\u03c3  L0h2   +6.4\u03c3  L7h0  -2.1\u03c3\nL15-17 both   K=24: base-weighted net=  -171.6 | L3h3   -5.4\u03c3  L0h1   -6.7\u03c3  L2h1   +4.9\u03c3  L0h2  +11.8\u03c3  L7h0  -0.9\u03c3\nL16-17 both   K= 8: base-weighted net=   -92.5 | L3h3  -10.0\u03c3  L0h1   -2.1\u03c3  L2h1   +2.7\u03c3  L0h2  +17.7\u03c3  L7h0  -0.5\u03c3\nL16-17 both   K=16: base-weighted net=  -155.6 | L3h3   -6.0\u03c3  L0h1   -7.6\u03c3  L2h1   +4.8\u03c3  L0h2  +16.7\u03c3  L7h0  -1.4\u03c3\nL16-17 both   K=24: base-weighted net=  -203.5 | L3h3   -6.2\u03c3  L0h1   -5.9\u03c3  L2h1   +2.9\u03c3  L0h2   +8.8\u03c3  L7h0  -1.4\u03c3\nL12-17 both   K= 8: base-weighted net=   -54.2 | L3h3   -5.6\u03c3  L0h1   +2.0\u03c3  L2h1   -0.0\u03c3  L0h2   +7.7\u03c3  L7h0  -2.1\u03c3\nL12-17 both   K=16: base-weighted net=  -144.7 | L3h3   -4.5\u03c3  L0h1   -4.9\u03c3  L2h1   +3.0\u03c3  L0h2   +5.3\u03c3  L7h0  -2.8\u03c3\nL12-17 both   K=24: base-weighted net=  -155.8 | L3h3   -5.5\u03c3  L0h1   -3.0\u03c3  L2h1   +4.2\u03c3  L0h2   +4.6\u03c3  L7h0  -4.1\u03c3\nL15-17 down   K= 8: base-weighted net=  -153.2 | L3h3   -6.8\u03c3  L0h1  -15.4\u03c3  L2h1   +1.7\u03c3  L0h2   +8.1\u03c3  L7h0  -2.2\u03c3\nL15-17 down   K=16: base-weighted net=  -236.7 | L3h3   -7.8\u03c3  L0h1  -11.9\u03c3  L2h1   +3.0\u03c3  L0h2   +6.3\u03c3  L7h0  -1.9\u03c3\nL15-17 down   K=24: base-weighted net=  -296.0 | L3h3   -6.7\u03c3  L0h1   -8.2\u03c3  L2h1   +4.0\u03c3  L0h2   +6.3\u03c3  L7h0  -3.2\u03c3\nL15-17 oproj  K= 8: base-weighted net=   -68.6 | L3h3   -5.2\u03c3  L0h1   +0.0\u03c3  L2h1   +2.0\u03c3  L0h2   +5.8\u03c3  L7h0  -1.7\u03c3\nL15-17 oproj  K=16: base-weighted net=  -123.1 | L3h3   -4.6\u03c3  L0h1   -3.9\u03c3  L2h1   +6.5\u03c3  L0h2   +7.2\u03c3  L7h0  -0.2\u03c3\nL15-17 oproj  K=24: base-weighted net=   -80.2 | L3h3   -3.5\u03c3  L0h1   -3.1\u03c3  L2h1   +4.6\u03c3  L0h2   +4.3\u03c3  L7h0  -2.0\u03c3\n\n```",
+ "started": "2026-11-07T03:08:09+00:00",
+ "extra": {
+  "round": "weights_only_3",
+  "pair": 100,
+  "release": "pair_343898",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 47
+ }
+}

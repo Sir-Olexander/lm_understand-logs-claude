@@ -1,0 +1,158 @@
+OUTPUT of Python run 22 of at most 120:
+```
+5 white
+..O.OOOOO
+.OXOOOXX.
+OXXXXXXXO
+OXX.XX.XO
+X..XXXXOO
+X.X.XXOOO
+.XXXX.XXO
+XX.XOXX.X
+X.XOO.XX.
+  (4,1) pr=0.966 logit=2.95 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (0,1) pr=0.023 logit=-0.80 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (0,0) pr=0.011 logit=-1.55 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (1,0) pr=0.000 logit=-6.65 cap=0.0 esc=12.0 U1=0.0 U0=6.0 eye=0
+6 white
+..X......
+.OOOXOO..
+.O.OXOOO.
+.O.OOXOX.
+.OOOXXXX.
+.OOXXX.X.
+.XOXX.X..
+..O.XX.X.
+.........
+  (0,4) pr=1.000 logit=14.40 cap=15.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (2,2) pr=0.000 logit=3.75 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (3,2) pr=0.000 logit=3.45 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (7,3) pr=0.000 logit=2.35 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+8 black
+.OOX.O.OX
+OOO.O.OOX
+X.OOOOXXX
+.O.OO.OXX
+O.OO.OOXX
+.OOOOO.O.
+O.OXOXOXX
+OOOXXXOOX
+.OX.XXO..
+  (8,7) pr=1.000 logit=13.75 cap=30.0 esc=0.0 U1=4.0 U0=0.0 eye=0
+  (8,8) pr=0.000 logit=-0.95 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (1,3) pr=0.000 logit=-8.70 cap=0.0 esc=0.0 U1=0.0 U0=4.0 eye=0
+  (2,1) pr=0.000 logit=-9.00 cap=0.0 esc=0.0 U1=0.0 U0=4.0 eye=0
+11 white
+X......XO
+.....OOXO
+.OO..OOXO
+..OOX.OOO
+..XX.XXO.
+..O.XX.X.
+.XOXXXXXX
+.O.......
+....X....
+  (0,6) pr=1.000 logit=14.55 cap=15.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (5,3) pr=0.000 logit=4.50 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (3,5) pr=0.000 logit=4.30 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (2,3) pr=0.000 logit=3.15 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+12 white
+O.OOOX.XX
+.OOOXXXXX
+OOOOOOOOX
+OO.OOO.OO
+XXOO.OOXX
+XXOOO.OXX
+XOOO.OOXX
+.OOXOXXXX
+.OXX.XX.O
+  (7,0) pr=1.000 logit=14.55 cap=15.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (8,4) pr=0.000 logit=3.50 cap=15.0 esc=0.0 U1=0.0 U0=4.0 eye=0
+  (8,0) pr=0.000 logit=-0.95 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  pass 2.9510968e-12
+14 white
+OO.O.OOO.
+.XO.OO.OO
+.XOOO.OOO
+OOXXXOOOX
+XXXXXXXXX
+.XXXXXXXX
+.XXOXXXXO
+XXXOOOXOO
+..XO.X.X.
+  (1,0) pr=1.000 logit=-0.45 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  pass 9.619019e-06
+  (5,0) pr=0.000 logit=-15.65 cap=0.0 esc=0.0 U1=4.0 U0=0.0 eye=0
+  (6,0) pr=0.000 logit=-15.80 cap=0.0 esc=0.0 U1=4.0 U0=0.0 eye=0
+15 white
+X......X.
+XOXXOOXO.
+OOOXOOXO.
+OXOOOOOOO
+.XXXXXXO.
+.XXXXOOO.
+..X.XXXO.
+.X...XOO.
+.....X...
+  (0,1) pr=1.000 logit=14.55 cap=15.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (7,4) pr=0.000 logit=2.05 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (7,3) pr=0.000 logit=1.50 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (7,2) pr=0.000 logit=1.30 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+23 black
+.O...X..X
+O.O.X.XX.
+.XOXXXX.X
+..OOOXXX.
+..XOOOOO.
+.XXXOOOX.
+.X.XOOOX.
+OOXXXOOXO
+.OX....O.
+  (4,8) pr=1.000 logit=14.25 cap=15.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (1,1) pr=0.000 logit=2.10 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (1,3) pr=0.000 logit=1.85 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+  (3,1) pr=0.000 logit=1.70 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=0
+26 black
+OO.O.OO.O
+XOO.O.OO.
+XXOOOOO.O
+XXOXO.OOX
+X.XXXOXXX
+XXXXXXXXX
+OOX.XXXXX
+.X.XXOOOX
+XXXXXXX.X
+  (7,0) pr=1.000 logit=2.70 cap=15.0 esc=0.0 U1=0.0 U0=4.0 eye=0
+  pass 4.1284417e-07
+  (8,7) pr=0.000 logit=-15.15 cap=15.0 esc=12.0 U1=0.0 U0=14.0 eye=0
+  (3,5) pr=0.000 logit=-40.00 cap=15.0 esc=0.0 U1=12.0 U0=4.0 eye=0
+48 black
+OOXX.X.XX
+OXXXXXXX.
+.OXXX.XXX
+OOX.XXXOX
+XXXXOOOOO
+OX.XOOOXO
+OXXXXOOXX
+OOXOXOXXX
+.OOOOOXO.
+  pass 0.9208609
+  (2,0) pr=0.079 logit=-14.45 cap=45.0 esc=0.0 U1=12.0 U0=4.0 eye=0
+  (8,0) pr=0.000 logit=-30.10 cap=30.0 esc=0.0 U1=12.0 U0=4.0 eye=0
+  (5,2) pr=0.000 logit=-35.80 cap=0.0 esc=0.0 U1=0.0 U0=0.0 eye=1
+56 white
+OOX.X.XX.
+OXXXXXX.X
+.OXXXXXX.
+OOXXX.X.X
+OXXXXXXX.
+XXXX.XXXX
+OX.XXXXXX
+OOXXXXX.X
+O.X..OXX.
+  pass 0.98103565
+  (8,3) pr=0.019 logit=-15.95 cap=0.0 esc=0.0 U1=4.0 U0=0.0 eye=0
+  (8,4) pr=0.000 logit=-21.70 cap=0.0 esc=12.0 U1=4.0 U0=6.0 eye=0
+  (5,4) pr=0.000 logit=-54.10 cap=0.0 esc=0.0 U1=12.0 U0=4.0 eye=0
+
+```

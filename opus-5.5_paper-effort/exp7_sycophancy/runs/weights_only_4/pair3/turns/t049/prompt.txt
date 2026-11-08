@@ -1,0 +1,9 @@
+OUTPUT of run 48 of at most 60:
+```
+{'body': 10, 'vehicle': 10, 'emotion': 10, 'furniture': 10, 'clothing': 10, 'sport': 10, 'instrument': 10, 'weather': 10, 'tool': 10, 'job': 10, 'month': 10, 'weekday': 10, 'kitchen': 10, 'family': 10, 'building': 10}
+answer pool: +0.1364   clustered null (5 non-answer categories): mean +0.0307 sd 0.0235  -> z = +4.50
+null values sorted: [-0.023 -0.016 -0.012 -0.006  0.003  0.003  0.008  0.008  0.009  0.01   0.012  0.013  0.016  0.02   0.02   0.021  0.031  0.032  0.033  0.034  0.04
+  0.041  0.042  0.042  0.042  0.044  0.046  0.046  0.048  0.051  0.051  0.052  0.052  0.053  0.055  0.057  0.059  0.06   0.062  0.071]
+per-head answer-pool Δid (top +/-): [(16, 1, np.float32(0.0365)), (16, 3, np.float32(0.0258)), (16, 0, np.float32(0.0164)), (17, 3, np.float32(-0.0128)), (12, 3, np.float32(0.0104)), (17, 1, np.float32(-0.01)), (16, 2, np.float32(0.0095)), (12, 0, np.float32(0.0082)), (14, 2, np.float32(-0.0072)), (11, 0, np.float32(0.0065))]
+
+```

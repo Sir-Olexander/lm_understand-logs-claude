@@ -1,0 +1,1125 @@
+{
+ "positions": [
+  {
+   "board": [
+    ".O......X",
+    ".......X.",
+    ".........",
+    ".........",
+    ".........",
+    "...O.....",
+    "........X",
+    "..X...O..",
+    "...X...O."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".O....X..",
+    "X........",
+    ".XX...XO.",
+    "..O..O...",
+    ".........",
+    ".......O.",
+    ".X......O",
+    "X......X.",
+    ".X.O..O.."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "...X.X...",
+    "....O....",
+    "O..O..O..",
+    "...O.OX.O",
+    "....X.O..",
+    "...OXXX.X",
+    "...O...XX",
+    "X.....O.X",
+    "..XX...OO"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".O.X.XO..",
+    "X...XOX.O",
+    "...X.....",
+    ".XXXX....",
+    "OOX.O..XO",
+    "OOO....XO",
+    ".........",
+    ".X.OXX.O.",
+    "...OOO.XX"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "XO.OX.X..",
+    ".OO.X..X.",
+    ".....XO.X",
+    "XOOOO..OO",
+    "O.XOXXOOO",
+    "..OXX.O..",
+    "OXOX.X..X",
+    "X..XO.X.X",
+    ".XOXX..OO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".XOXX.OOO",
+    "XOO...XO.",
+    "XOX.XXO.O",
+    ".XXOOOXO.",
+    "X.XOXXXXO",
+    ".XX.XXXO.",
+    "O.OXX.OOO",
+    ".OXO.O.XX",
+    "OO.O..X.."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".XOOX.X.X",
+    "XXOO.X.XX",
+    "XO..OXXXX",
+    "OXXO.XX.X",
+    "OXXOXOOXX",
+    "O.OOOO.OO",
+    ".O..OO..O",
+    "....OOOO.",
+    "OOO.OX..O"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "XXXX.XX.X",
+    "OOOXXXXXX",
+    "XXOXXOOXX",
+    "XOOOOXOXX",
+    ".XOOO.OOX",
+    "X.XXOO.OX",
+    "XOXO.OOOX",
+    "XXXXOO.OX",
+    "X.OO.OOOO"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "X.X.XXOO.",
+    ".X.XXOO.O",
+    "XXXXO.OO.",
+    ".X.XOOOOO",
+    "XXXOOO.OO",
+    "X.XXXOOOO",
+    "XXOOO.O.O",
+    "XOOO.OOOO",
+    "XOO.O.OO."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    "O...O..X.",
+    ".....X...",
+    "........O",
+    "...OO....",
+    ".......X.",
+    ".....X...",
+    "....X...."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "...X..X..",
+    ".XX......",
+    "........X",
+    ".....OX.O",
+    "..O.X....",
+    ".........",
+    "O.....OX.",
+    "..O.O....",
+    "..O..OX.."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "O.X.OXX..",
+    "...OX.O.O",
+    "..X..OX..",
+    ".X...XX..",
+    "XO...X...",
+    "X.O...O..",
+    "O......OO",
+    "O..X.....",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "......XX.",
+    "OO.....OX",
+    "O...O.X..",
+    "X..XO..O.",
+    ".OOX..OX.",
+    "...O....O",
+    ".X..OO.XO",
+    "OXXXX.XXX",
+    ".....OX.X"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "..OOX..X.",
+    "O...XXXOX",
+    ".O.X..XOO",
+    ".XO..X.OX",
+    ".X.O.O.OX",
+    "OO.O.X.OX",
+    "XX...OO.X",
+    "OO.XOXXO.",
+    "..XO..X.X"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "OXX.....X",
+    "O.XOXOOOO",
+    "XXXXO.X..",
+    "..OOO.OXX",
+    "OO.OOX.OX",
+    "XXO.XO..O",
+    "XO.OXOXXX",
+    "X.OXXOOX.",
+    "XO.XOO..X"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".OO.OX.XO",
+    "OOOOXXX.O",
+    "XOXXX..XO",
+    "XXX.XXXXX",
+    "OXOX.X...",
+    "..OOOXXXX",
+    "O.OO.XXXO",
+    "OOO..XOOO",
+    "O.OOXXOO."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".XXO.OOO.",
+    "X.XXOO.OO",
+    "OX.XO.OO.",
+    ".XXXO..OO",
+    "XXXOOOOXX",
+    ".XOXXXX.X",
+    ".XOOX.XXX",
+    "XXXOXXXXX",
+    "XX.OOOXO."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".XX.X.XXX",
+    "XXXXXXXX.",
+    "XOXXX.X.X",
+    "XOXXXXXXX",
+    "XOOOX.XXX",
+    "XO.OXXXOX",
+    "OOO.OOO.O",
+    "O.OOO.OO.",
+    ".OO.OOO.O"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "...X.....",
+    "..X.OX..O",
+    "O........",
+    ".X.....X.",
+    "O........",
+    "........O",
+    "....O....",
+    "...X.....",
+    ".X...O..."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "X........",
+    ".O...XX..",
+    ".........",
+    "O.X......",
+    "..O....X.",
+    ".....XX.O",
+    "...O.O...",
+    "....O....",
+    "....OXO.X"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".......OX",
+    "X...XX...",
+    "OO.......",
+    "..X..X.OO",
+    ".X.O.O...",
+    "..XXXO..O",
+    ".XO.....O",
+    "X.X.OOXOO",
+    "......XX."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "..XXXO..O",
+    ".O.X.X.O.",
+    "X.XX.XX.O",
+    ".O...X..O",
+    "..XOO...X",
+    "O.X...OOX",
+    "X..X...O.",
+    "OO......O",
+    ".OX..X..O"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "XOXXO..OX",
+    "..X.O..OX",
+    ".O.XO..XX",
+    "X.O.X....",
+    "..O..XOXO",
+    ".OX..OXX.",
+    "O.XX..OO.",
+    "XX..OO.X.",
+    "XO.O.OO.."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".XXOXXO.O",
+    ".XX.XXOO.",
+    "X.XXOX..O",
+    "XX..OO.O.",
+    "X.OO.OO..",
+    "X.OO.XXX.",
+    "XOOO.XXXO",
+    ".XOOX..X.",
+    "XOOOO.XO."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "OXXXXO.O.",
+    "O.OX.OX..",
+    ".XOXOXO.X",
+    "OX.XXXOOO",
+    "X.X.XO..O",
+    "XXXX..OOO",
+    "XOXOOO.OO",
+    "OOO.O.OXX",
+    ".OOXOO.X."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OO.OOXX.",
+    "OOOOOXX.X",
+    "OOOXX.XXX",
+    "OOOXXXX.X",
+    "O.OOOOOXX",
+    ".OOXXO.OO",
+    "OXXXXXOO.",
+    "X.X.XXXOO",
+    ".X.XXOOO."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OX.XXXX.",
+    "OXXXXXX.X",
+    "XO.O.X.XX",
+    ".X.X..XO.",
+    "X.XXXXXXX",
+    "XXXX.XXX.",
+    "X.OXXXXXX",
+    "XOX.X.OXO",
+    "XOXXXO.O."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "X...XO...",
+    "..X......",
+    "O........",
+    ".OO......",
+    "....X....",
+    "X...O....",
+    "......O..",
+    ".........",
+    "......X.."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    "......XO.",
+    "O......XX",
+    "X..O.....",
+    "....O..XX",
+    ".O..O..X.",
+    "..X..O...",
+    ".....X..O",
+    ".X.....O."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "X..O..OX.",
+    ".....O...",
+    ".O.....X.",
+    "...O.....",
+    "X.X...X.X",
+    "X....OX..",
+    ".X.XX..O.",
+    "..OOO.O..",
+    "....OX..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".X..O..XO",
+    "...OOX.O.",
+    "X.X.OO...",
+    "XO..O.XO.",
+    "O.XO.X.OO",
+    ".XOXX.X..",
+    ".X..O.XX.",
+    ".OX.OO.X.",
+    "XXX..O..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "..O.XO.O.",
+    "...OO.O.X",
+    "X..XOOOX.",
+    "X..XXXXXX",
+    ".OOOX.OXX",
+    "OO.X.O...",
+    "X....XX.O",
+    ".XXXX..XO",
+    "OOO..O..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".OO..O.XO",
+    "X.O.OOO.O",
+    "OO.XXOX..",
+    "OOX..OXXO",
+    "XXOXXXXO.",
+    ".X.X..XXO",
+    "XOOOXX.OO",
+    "X.XX.XO.X",
+    ".X.X.O.X."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".X.XOOXXX",
+    "OXXXOOOXO",
+    "X.OXO.OX.",
+    "OOOXXO.XX",
+    "XOOOOOXOO",
+    ".XXXXXXXO",
+    "XOOXXX..O",
+    ".OOXOO.XO",
+    "OO.O.OXXO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "XO.OX.XOO",
+    "....XXXOO",
+    ".XX.X.XO.",
+    "X.XXOXOOO",
+    "OXXXOOO.O",
+    "OOOOOXOOX",
+    "OXXOOXOX.",
+    "XXXXO.XXX",
+    "X.XOOXXXX"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "X.XXX.XO.",
+    ".XXX.XXOO",
+    "XXXXXXXXO",
+    "OOOXXOXO.",
+    "O.OOXOXOO",
+    "XO.OOOOO.",
+    ".XOXXXOOO",
+    "XXXXOOOOO",
+    ".XX.XOO.O"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".........",
+    ".X.......",
+    "O..O..X..",
+    "....O....",
+    ".........",
+    ".........",
+    "X........",
+    ".......X.",
+    "O........"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "O...O....",
+    "OO..X....",
+    "...X...OX",
+    ".........",
+    "....X....",
+    "...X.XX..",
+    "....O.O..",
+    "..X.XOX..",
+    "O.O......"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "......XXX",
+    "...O.X.X.",
+    "....O.O.O",
+    "X....XX..",
+    "OX.X.OXX.",
+    ".O.X.O...",
+    "..O..X.O.",
+    "OO...O.O.",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".X.OXX...",
+    "....OOO..",
+    "X.O......",
+    "X.OOXO..O",
+    "OO.OX..O.",
+    "XOXOXOX..",
+    "XXXO.....",
+    "XXOX....X",
+    ".XO..X..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".XOX....O",
+    "XX.X.XX.O",
+    "O.OX.OOX.",
+    "XX.X.O.OO",
+    "OOXXO.OXX",
+    "O....OXXO",
+    "OXXXOO...",
+    "O.X..OX.O",
+    ".......OO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".O.X.XO.X",
+    "OXXXXOX.O",
+    "X.XXO.X.X",
+    "XXOOXXOOX",
+    "X.X.OX.OO",
+    "OX.O.OXXO",
+    "O.OO.OO..",
+    ".O..XXOXO",
+    "O..OX.X.X"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OXX..XOO",
+    "OO.XXXOOO",
+    "OOXXX..X.",
+    "OOOOXOOOX",
+    "XOX.XOOXX",
+    "XX.XXOOOO",
+    ".XXXXOOXO",
+    "XO.OOXOXX",
+    ".XX.O.X.X"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "XXXX.X.X.",
+    "XX.XXOX.X",
+    "OXXOOOXXX",
+    ".OOOO.OXO",
+    "OOO.OXOO.",
+    "O.OO.OO.O",
+    "OOOOO.OO.",
+    "O.OO.OOOO",
+    "OO.OOO.OO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "O.O.OOOOX",
+    ".OOOOOXX.",
+    "OOXXXOX.X",
+    "OOOOXXXXX",
+    ".OOX.XXXX",
+    "OOOXXX.X.",
+    "OXXX.XX.X",
+    "OX.XXX.XX",
+    "XXXXX.XXX"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "..O..X...",
+    "X........",
+    ".......O.",
+    "......X.O",
+    ".........",
+    "...O.X..O",
+    "..O..XX..",
+    ".........",
+    ".....X..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "O........",
+    ".........",
+    "O.X.O....",
+    "X..O...X.",
+    "O..O.....",
+    "X.O.X..X.",
+    ".........",
+    "......O..",
+    "X.X......"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "....O....",
+    "..O..X...",
+    "...XX..O.",
+    "X.O..O...",
+    "..X.X...O",
+    "....X.XOX",
+    "OXO.O..X.",
+    "......OX.",
+    "..O.O.X.."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "..X..X...",
+    ".OX..XOXX",
+    "....OXXOO",
+    "O.OXX.X..",
+    "X.X..X...",
+    "..OX.O.XO",
+    "O....X...",
+    ".OO.X.O.O",
+    "...XOOO.."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".OX.XO.O.",
+    "OX.X..OO.",
+    "....XXXOO",
+    ".X.O...OX",
+    "X..O..XX.",
+    "X.XXO...O",
+    "XXO.X.OOO",
+    "OO..O..OO",
+    ".OXX.OXXO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "..XOOXXXX",
+    "XOO.X..OO",
+    "O.XOOXXOO",
+    "XO.O.O.OX",
+    ".OXO.O.X.",
+    "O..X.XOX.",
+    ".OOO.XX.X",
+    "O.XOO.X.X",
+    "XX..XX.X."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "X.XXO..OO",
+    ".X.XOXXXX",
+    "X.XXOOOOX",
+    ".XXX.OO.O",
+    "XXOOOOXX.",
+    "XX.XO.OOX",
+    "XOOOOOXOO",
+    "XXOX.XXX.",
+    ".XOOXX..X"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "X.X.XXOOO",
+    "XXXOX.XOO",
+    ".XXXXXXO.",
+    "XXXX.XXOO",
+    "XOXOXXO.O",
+    "XOOOOOOOO",
+    "O.O.OO.OO",
+    "..OOO.OO.",
+    "XO.XOO.OO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".XXXXX.X.",
+    "XXOOOXXXX",
+    "XOO.OXXXX",
+    "O.OOXXX.X",
+    ".O.OOOXXX",
+    "O.OXXXXX.",
+    "XOOXXX.XX",
+    "XXX.X.XXX",
+    "X.XXXXX.X"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".........",
+    ".X.O.....",
+    "...XX..X.",
+    ".........",
+    ".....O...",
+    "X..O..X..",
+    ".........",
+    ".O.......",
+    "....O...."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "........X",
+    "..O.X..XX",
+    "....X....",
+    "..XO.....",
+    ".....XO..",
+    "O........",
+    "....O....",
+    "..OX.....",
+    ".OO.X...."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "O...X....",
+    "XO....O..",
+    ".X.XOX.XO",
+    "..X.XOOO.",
+    "XO.XX.OXO",
+    ".....XO.X",
+    ".......OX",
+    ".......O.",
+    ".O.X....."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "O..OO....",
+    "X..OXO.O.",
+    "X...XXXO.",
+    "OOOXX..OX",
+    "....X..XX",
+    ".....X..X",
+    "O.OO.....",
+    "O.OO.....",
+    "XXX.XO.X."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".XO..OO.X",
+    ".XO..O.OX",
+    "X.XXX.O.X",
+    "XO..X.O.O",
+    "X.XXXOX.X",
+    "..X.OO...",
+    ".X..OOOXO",
+    "....O.OXX",
+    "OXO..O.O."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "XO.XXXO.X",
+    "..XXO....",
+    "XXXXOO.OO",
+    ".O.XOO.O.",
+    "OOOXXOO.O",
+    ".XO.XXOO.",
+    ".OXX.X.OO",
+    "X.X..XOXO",
+    "..XX.X..X"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OOO.OXX.",
+    "O.O..OOXX",
+    ".OOO.OOOO",
+    "XO.OO.XXX",
+    "XXOXXXXXO",
+    "X.X.X.OXO",
+    "..XX.OO..",
+    ".X.OXOOXX",
+    "X.XOXOOXX"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OOXX.XX.",
+    "OOOOXX.XX",
+    "O.OXXXOXX",
+    "OXXX.XX.X",
+    "OX.XXXXX.",
+    "X.OXOOXXO",
+    "..XXX.XXX",
+    ".X.X.XOOX",
+    ".XX.XXO.X"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "XXX.XOOO.",
+    "XXXXO.OOO",
+    ".X.XOO.OO",
+    "XXXXOOOOO",
+    "X.XXXOOO.",
+    ".XXOO.OOO",
+    "XXOOOOOOO",
+    "XXO.O.OOO",
+    "XXOO.OOOO"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".........",
+    "X........",
+    "........O",
+    "..XO.....",
+    "........O",
+    "..X....X.",
+    "O..OO....",
+    ".......X.",
+    "....XX..."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "X.....O..",
+    "X......O.",
+    ".........",
+    ".O.X.....",
+    "....X..X.",
+    ".O.OX..O.",
+    "..O.X....",
+    ".....X...",
+    "....O...."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "..O....X.",
+    ".X...XO.X",
+    "X..O.XX..",
+    ".......X.",
+    "..XX....O",
+    "..O.OOO..",
+    "XX...O...",
+    ".XOO...O.",
+    "O..O..X.."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "OXO..OXXO",
+    "...O.O...",
+    "X.XX..X.O",
+    "..XOO.X.O",
+    "X.O...XXX",
+    ".O....X..",
+    ".OO..O.O.",
+    "..OOO..X.",
+    ".XXXXX.XO"
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".OXX.OO.O",
+    "XOX..XOX.",
+    "..XX....O",
+    "..OXOO.XX",
+    "..XXXX.O.",
+    "XOOOO..XX",
+    ".X.OXXOOO",
+    ".X..OOO.O",
+    "..OX..XO."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".XXX.X.O.",
+    "X.XXXOX.O",
+    "OOOXX.O.O",
+    "OXXXXO.XO",
+    ".OXXO.X.X",
+    ".OOX.OOXO",
+    "XXOOOXOX.",
+    ".X.XO.X.O",
+    "OX.O.OOO."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "OXO.XOXX.",
+    "O.XXXOOXX",
+    "OXOOO.XXX",
+    ".OXXXO.OO",
+    "XO.X.XXOX",
+    "OXXOXXOOX",
+    "OO.OOXXOX",
+    "OOXXOXOOX",
+    "OX.XOOOX."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    "X.XXX.XXX",
+    ".XXOOOXX.",
+    "XXXOXX.XX",
+    "OOXX.OXX.",
+    "OXXXXXXXX",
+    "OXOOXXXOX",
+    "OOOXXXOOO",
+    "O.OOOOO.O",
+    ".O.OO.OOO"
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "X.XX.XX.X",
+    "OX.XXX.XX",
+    "OXXX.XXX.",
+    "OOOOXXXXX",
+    "OO.OXXXXX",
+    ".OOOOX.X.",
+    "OOOO.OXXX",
+    "O.OOOOOXX",
+    ".OOOO.OX."
+   ],
+   "to_move": "white"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    ".........",
+    "....X....",
+    "...XO....",
+    "....X....",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    ".........",
+    "....O....",
+    "...OX....",
+    "....O....",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".XXXX....",
+    "XX.OX....",
+    "XXXXX....",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".OOOO....",
+    "OO.XO....",
+    "OOOOO....",
+    "XXXX.....",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    "..X.X....",
+    "XXXXX....",
+    "OOOOO....",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    "..XXX....",
+    ".XOOOX...",
+    "..X.XO...",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  },
+  {
+   "board": [
+    ".........",
+    ".........",
+    "..OOO....",
+    ".OXXXO...",
+    "..O.OX...",
+    ".........",
+    ".........",
+    ".........",
+    "........."
+   ],
+   "to_move": "black"
+  }
+ ],
+ "activations": true
+}

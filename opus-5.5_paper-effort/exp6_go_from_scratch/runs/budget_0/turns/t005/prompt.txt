@@ -1,0 +1,12 @@
+OUTPUT of Python run 4 of at most 120:
+```
+['L1.W', 'L1.b', 'L2.W', 'L2.b', 'L3.W', 'L3.b', 'L4.W', 'L4.b', 'L5.W', 'L5.b', 'L6.W', 'L6.b', 'out.W', 'out.b']
+L1 max hi 5.0
+L2 max hi 95.0
+L3 max hi 1.0
+L4 max hi 5.0
+L5 max hi 42.0
+L6 max hi 9554.0
+S pre-activation min over interval: -1790.0
+
+```

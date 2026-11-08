@@ -1,0 +1,6 @@
+OUTPUT of Python run 55 of at most 120:
+```
+{'a1': 9.0, 'a2': 3.0, 'a3': 6.0, 'a4': 2.0, 'mu_opp': 0.0, 'mu_own': 0.0, 'sa_kill': 2.0, 'w_sa': 15.0, 'w_cc': 4.0}
+1.0 0.0 -3.0
+
+```

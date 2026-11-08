@@ -1,0 +1,11 @@
+OUTPUT of Python run 43 of at most 120:
+```
+-23.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 1.0 ply 106
+2.5 cap 0 libs_after 2 size 1 emp 2 ownadj [] prob 0.9948 ply 90
+-3.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 0.9975 ply 56
+0.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 1.0 ply 52
+60.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 1.0 ply 97
+5.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 0.9997 ply 95
+21.5 cap 1 libs_after 2 size 1 emp 1 ownadj [] prob 0.985 ply 79
+
+```

@@ -1,0 +1,10 @@
+OUTPUT of run 42 of at most 60:
+```
+k=10: answer-basis sum z over 72 heads = +10.77 (late L12-17: +3.28, mid L5-11: -5.58, early L0-4: +13.07);  random subspaces sum: mean +0.25 sd 11.09
+   largest heads: L4h3:-2.75, L2h1:+2.62, L0h0:+2.60, L17h0:+2.55, L0h3:+2.48, L2h0:+2.31, L4h0:-2.00, L10h0:+1.91
+k=20: answer-basis sum z over 72 heads = +8.65 (late L12-17: +5.22, mid L5-11: +0.06, early L0-4: +3.37);  random subspaces sum: mean +10.06 sd 11.70
+   largest heads: L4h3:-2.94, L10h0:+2.89, L17h3:-2.49, L14h3:+2.02, L4h1:-1.83, L0h0:+1.73, L17h2:+1.72, L0h1:+1.64
+k=30: answer-basis sum z over 72 heads = -3.82 (late L12-17: +1.38, mid L5-11: -1.44, early L0-4: -3.77);  random subspaces sum: mean +3.28 sd 7.72
+   largest heads: L4h3:-3.38, L4h1:-2.51, L10h0:+2.35, L4h0:-2.25, L17h3:-2.13, L11h2:+1.63, L0h1:+1.61, L0h0:+1.56
+
+```

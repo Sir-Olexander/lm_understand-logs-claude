@@ -1,0 +1,97 @@
+OUTPUT of run 18 of at most 20:
+```
+QK bilinear change per head: |ΔS|/|S_A|, top-sv ratio, top4 energy share, |ΔQ·K_A|, |Q_A·ΔK|
+  L11h0: rel=0.0478 (z=+4.3)  top-sv/top-svA=0.0837  top4=0.63  dQpart=21.1 dKpart=32.1
+  L11h1: rel=0.0414 (z=+3.4)  top-sv/top-svA=0.0759  top4=0.65  dQpart=20.2 dKpart=43.5
+  L10h1: rel=0.0330 (z=+2.2)  top-sv/top-svA=0.0698  top4=0.57  dQpart=238.5 dKpart=188.1
+  L12h3: rel=0.0278 (z=+1.5)  top-sv/top-svA=0.0527  top4=0.72  dQpart=321.5 dKpart=161.7
+  L11h3: rel=0.0276 (z=+1.4)  top-sv/top-svA=0.0551  top4=0.65  dQpart=18.1 dKpart=29.0
+  L12h0: rel=0.0272 (z=+1.4)  top-sv/top-svA=0.0490  top4=0.66  dQpart=298.5 dKpart=164.3
+  L17h1: rel=0.0268 (z=+1.3)  top-sv/top-svA=0.0496  top4=0.75  dQpart=349.0 dKpart=250.7
+  L12h2: rel=0.0268 (z=+1.3)  top-sv/top-svA=0.0355  top4=0.52  dQpart=282.1 dKpart=171.2
+  L14h1: rel=0.0268 (z=+1.3)  top-sv/top-svA=0.0532  top4=0.67  dQpart=563.6 dKpart=273.5
+  L14h3: rel=0.0255 (z=+1.2)  top-sv/top-svA=0.0528  top4=0.82  dQpart=696.4 dKpart=299.6
+  L 5h0: rel=0.0227 (z=+0.8)  top-sv/top-svA=0.0344  top4=0.62  dQpart=352.6 dKpart=140.2
+  L 7h3: rel=0.0226 (z=+0.7)  top-sv/top-svA=0.0465  top4=0.46  dQpart=239.9 dKpart=236.0
+  L 5h3: rel=0.0226 (z=+0.7)  top-sv/top-svA=0.0449  top4=0.50  dQpart=317.8 dKpart=124.7
+  L 6h2: rel=0.0215 (z=+0.6)  top-sv/top-svA=0.0301  top4=0.40  dQpart=159.2 dKpart=177.3
+  L13h2: rel=0.0213 (z=+0.6)  top-sv/top-svA=0.0316  top4=0.53  dQpart=141.0 dKpart=147.7
+  L13h1: rel=0.0211 (z=+0.5)  top-sv/top-svA=0.0304  top4=0.50  dQpart=129.0 dKpart=138.1
+  L15h0: rel=0.0210 (z=+0.5)  top-sv/top-svA=0.0266  top4=0.55  dQpart=394.3 dKpart=333.2
+  L10h0: rel=0.0201 (z=+0.4)  top-sv/top-svA=0.0327  top4=0.47  dQpart=231.3 dKpart=196.0
+  L 4h1: rel=0.0199 (z=+0.4)  top-sv/top-svA=0.0369  top4=0.50  dQpart=580.1 dKpart=474.5
+  L11h2: rel=0.0199 (z=+0.4)  top-sv/top-svA=0.0314  top4=0.60  dQpart=20.0 dKpart=22.9
+  L12h1: rel=0.0198 (z=+0.3)  top-sv/top-svA=0.0306  top4=0.54  dQpart=243.8 dKpart=178.6
+  L 9h0: rel=0.0190 (z=+0.2)  top-sv/top-svA=0.0341  top4=0.46  dQpart=189.1 dKpart=177.7
+  L14h2: rel=0.0187 (z=+0.2)  top-sv/top-svA=0.0299  top4=0.63  dQpart=470.4 dKpart=235.5
+  L 3h1: rel=0.0183 (z=+0.1)  top-sv/top-svA=0.0409  top4=0.35  dQpart=247.7 dKpart=175.4
+  L 9h2: rel=0.0181 (z=+0.1)  top-sv/top-svA=0.0273  top4=0.38  dQpart=168.7 dKpart=194.4
+  L17h0: rel=0.0180 (z=+0.1)  top-sv/top-svA=0.0294  top4=0.67  dQpart=237.7 dKpart=171.0
+  L14h0: rel=0.0179 (z=+0.1)  top-sv/top-svA=0.0242  top4=0.65  dQpart=466.0 dKpart=256.2
+  L 7h1: rel=0.0174 (z=+0.0)  top-sv/top-svA=0.0291  top4=0.42  dQpart=213.0 dKpart=189.8
+  L 5h2: rel=0.0171 (z=-0.0)  top-sv/top-svA=0.0398  top4=0.53  dQpart=315.0 dKpart=116.0
+  L15h2: rel=0.0170 (z=-0.0)  top-sv/top-svA=0.0207  top4=0.50  dQpart=342.3 dKpart=330.1
+  L16h1: rel=0.0169 (z=-0.1)  top-sv/top-svA=0.0248  top4=0.53  dQpart=625.2 dKpart=569.9
+  L 8h2: rel=0.0166 (z=-0.1)  top-sv/top-svA=0.0276  top4=0.46  dQpart=160.2 dKpart=170.9
+  L13h0: rel=0.0163 (z=-0.1)  top-sv/top-svA=0.0294  top4=0.60  dQpart=152.6 dKpart=125.7
+  L 6h3: rel=0.0159 (z=-0.2)  top-sv/top-svA=0.0272  top4=0.43  dQpart=189.2 dKpart=180.2
+  L17h3: rel=0.0158 (z=-0.2)  top-sv/top-svA=0.0251  top4=0.73  dQpart=263.5 dKpart=147.8
+  L 6h1: rel=0.0154 (z=-0.3)  top-sv/top-svA=0.0190  top4=0.41  dQpart=165.4 dKpart=174.8
+  L10h3: rel=0.0154 (z=-0.3)  top-sv/top-svA=0.0216  top4=0.45  dQpart=205.5 dKpart=193.9
+  L 4h2: rel=0.0151 (z=-0.3)  top-sv/top-svA=0.0220  top4=0.39  dQpart=516.5 dKpart=501.8
+  L16h2: rel=0.0151 (z=-0.3)  top-sv/top-svA=0.0245  top4=0.51  dQpart=582.5 dKpart=558.7
+  L16h0: rel=0.0151 (z=-0.3)  top-sv/top-svA=0.0257  top4=0.53  dQpart=632.2 dKpart=571.5
+  L 9h1: rel=0.0149 (z=-0.3)  top-sv/top-svA=0.0230  top4=0.44  dQpart=178.9 dKpart=159.9
+  L 7h2: rel=0.0147 (z=-0.4)  top-sv/top-svA=0.0212  top4=0.39  dQpart=216.3 dKpart=210.1
+  L 5h1: rel=0.0146 (z=-0.4)  top-sv/top-svA=0.0307  top4=0.54  dQpart=323.3 dKpart=86.6
+  L 2h3: rel=0.0142 (z=-0.4)  top-sv/top-svA=0.0335  top4=0.43  dQpart=364.7 dKpart=331.0
+  L 6h0: rel=0.0141 (z=-0.4)  top-sv/top-svA=0.0216  top4=0.45  dQpart=185.9 dKpart=172.0
+  L 8h3: rel=0.0139 (z=-0.5)  top-sv/top-svA=0.0262  top4=0.49  dQpart=170.4 dKpart=161.3
+  L 7h0: rel=0.0138 (z=-0.5)  top-sv/top-svA=0.0244  top4=0.44  dQpart=215.8 dKpart=229.2
+  L 4h0: rel=0.0133 (z=-0.6)  top-sv/top-svA=0.0159  top4=0.37  dQpart=511.3 dKpart=552.1
+  L 1h2: rel=0.0133 (z=-0.6)  top-sv/top-svA=0.0298  top4=0.40  dQpart=426.8 dKpart=341.2
+  L 4h3: rel=0.0133 (z=-0.6)  top-sv/top-svA=0.0115  top4=0.45  dQpart=501.7 dKpart=517.3
+  L 9h3: rel=0.0132 (z=-0.6)  top-sv/top-svA=0.0241  top4=0.47  dQpart=192.5 dKpart=157.2
+  L13h3: rel=0.0129 (z=-0.6)  top-sv/top-svA=0.0180  top4=0.57  dQpart=124.5 dKpart=70.0
+  L15h3: rel=0.0128 (z=-0.6)  top-sv/top-svA=0.0185  top4=0.58  dQpart=376.9 dKpart=348.3
+  L 3h2: rel=0.0126 (z=-0.7)  top-sv/top-svA=0.0266  top4=0.35  dQpart=259.8 dKpart=233.7
+  L 0h0: rel=0.0126 (z=-0.7)  top-sv/top-svA=0.0174  top4=0.55  dQpart=98.8 dKpart=91.4
+  L15h1: rel=0.0125 (z=-0.7)  top-sv/top-svA=0.0152  top4=0.50  dQpart=346.7 dKpart=301.1
+  L 8h1: rel=0.0123 (z=-0.7)  top-sv/top-svA=0.0198  top4=0.46  dQpart=170.7 dKpart=154.6
+  L 8h0: rel=0.0122 (z=-0.7)  top-sv/top-svA=0.0167  top4=0.40  dQpart=154.0 dKpart=149.2
+  L 2h2: rel=0.0119 (z=-0.8)  top-sv/top-svA=0.0257  top4=0.37  dQpart=336.4 dKpart=294.5
+  L 2h0: rel=0.0118 (z=-0.8)  top-sv/top-svA=0.0299  top4=0.42  dQpart=387.0 dKpart=391.0
+  L 1h0: rel=0.0117 (z=-0.8)  top-sv/top-svA=0.0317  top4=0.42  dQpart=453.1 dKpart=397.1
+  L16h3: rel=0.0112 (z=-0.9)  top-sv/top-svA=0.0127  top4=0.57  dQpart=612.6 dKpart=514.0
+  L 1h3: rel=0.0108 (z=-0.9)  top-sv/top-svA=0.0250  top4=0.38  dQpart=478.5 dKpart=411.0
+  L 0h3: rel=0.0107 (z=-0.9)  top-sv/top-svA=0.0169  top4=0.44  dQpart=79.9 dKpart=81.4
+  L 1h1: rel=0.0100 (z=-1.0)  top-sv/top-svA=0.0363  top4=0.43  dQpart=466.9 dKpart=414.0
+  L17h2: rel=0.0099 (z=-1.0)  top-sv/top-svA=0.0112  top4=0.57  dQpart=232.0 dKpart=129.0
+  L 0h1: rel=0.0099 (z=-1.0)  top-sv/top-svA=0.0136  top4=0.39  dQpart=85.8 dKpart=78.5
+  L 0h2: rel=0.0096 (z=-1.1)  top-sv/top-svA=0.0103  top4=0.58  dQpart=99.3 dKpart=98.2
+  L10h2: rel=0.0094 (z=-1.1)  top-sv/top-svA=0.0117  top4=0.43  dQpart=204.0 dKpart=200.8
+  L 2h1: rel=0.0093 (z=-1.1)  top-sv/top-svA=0.0218  top4=0.39  dQpart=389.6 dKpart=430.8
+  L 3h0: rel=0.0091 (z=-1.1)  top-sv/top-svA=0.0206  top4=0.40  dQpart=267.0 dKpart=224.8
+  L 3h3: rel=0.0066 (z=-1.5)  top-sv/top-svA=0.0137  top4=0.36  dQpart=279.0 dKpart=248.7
+
+MLP units with outlying relative change (down column, and gate/up rows):
+  L 0: median |Δdown_col|=0.0058  top units u1416(|Δ|=0.009, z=6, rel=0.015, relIn=0.0062), u1099(|Δ|=0.008, z=6, rel=0.016, relIn=0.0058), u415(|Δ|=0.008, z=6, rel=0.013, relIn=0.0069), u223(|Δ|=0.008, z=5, rel=0.014, relIn=0.0076), u1701(|Δ|=0.008, z=5, rel=0.015, relIn=0.0062)
+  L 1: median |Δdown_col|=0.0058  top units u306(|Δ|=0.009, z=6, rel=0.024, relIn=0.0077), u198(|Δ|=0.008, z=5, rel=0.023, relIn=0.0072), u802(|Δ|=0.008, z=4, rel=0.022, relIn=0.0068), u1555(|Δ|=0.008, z=4, rel=0.023, relIn=0.0057), u1976(|Δ|=0.008, z=4, rel=0.018, relIn=0.0065)
+  L 2: median |Δdown_col|=0.0057  top units u517(|Δ|=0.008, z=5, rel=0.018, relIn=0.0098), u105(|Δ|=0.008, z=4, rel=0.019, relIn=0.0059), u1862(|Δ|=0.007, z=4, rel=0.018, relIn=0.0069), u1585(|Δ|=0.007, z=4, rel=0.017, relIn=0.0074), u1301(|Δ|=0.007, z=4, rel=0.019, relIn=0.0062)
+  L 3: median |Δdown_col|=0.0057  top units u1459(|Δ|=0.008, z=6, rel=0.024, relIn=0.0058), u404(|Δ|=0.008, z=5, rel=0.021, relIn=0.0042), u1847(|Δ|=0.008, z=5, rel=0.023, relIn=0.0065), u146(|Δ|=0.008, z=4, rel=0.017, relIn=0.0060), u716(|Δ|=0.008, z=4, rel=0.019, relIn=0.0061)
+  L 4: median |Δdown_col|=0.0057  top units u320(|Δ|=0.008, z=5, rel=0.030, relIn=0.0062), u1075(|Δ|=0.008, z=4, rel=0.022, relIn=0.0057), u1912(|Δ|=0.008, z=4, rel=0.025, relIn=0.0064), u377(|Δ|=0.008, z=4, rel=0.025, relIn=0.0078), u2002(|Δ|=0.007, z=3, rel=0.023, relIn=0.0062)
+  L 5: median |Δdown_col|=0.0057  top units u1181(|Δ|=0.008, z=5, rel=0.014, relIn=0.0100), u1212(|Δ|=0.008, z=4, rel=0.014, relIn=0.0072), u142(|Δ|=0.008, z=4, rel=0.014, relIn=0.0080), u1869(|Δ|=0.008, z=3, rel=0.014, relIn=0.0066), u1724(|Δ|=0.008, z=3, rel=0.015, relIn=0.0055)
+  L 6: median |Δdown_col|=0.0056  top units u887(|Δ|=0.008, z=5, rel=0.026, relIn=0.0050), u354(|Δ|=0.008, z=4, rel=0.025, relIn=0.0072), u1724(|Δ|=0.007, z=3, rel=0.023, relIn=0.0055), u1965(|Δ|=0.007, z=3, rel=0.018, relIn=0.0072), u1734(|Δ|=0.007, z=3, rel=0.027, relIn=0.0072)
+  L 7: median |Δdown_col|=0.0055  top units u256(|Δ|=0.007, z=3, rel=0.037, relIn=0.0123), u0(|Δ|=0.007, z=3, rel=0.015, relIn=0.0052), u186(|Δ|=0.007, z=3, rel=0.032, relIn=0.0118), u631(|Δ|=0.007, z=3, rel=0.017, relIn=0.0085), u152(|Δ|=0.007, z=3, rel=0.016, relIn=0.0063)
+  L 8: median |Δdown_col|=0.0054  top units u500(|Δ|=0.009, z=5, rel=0.023, relIn=0.0111), u1098(|Δ|=0.008, z=4, rel=0.028, relIn=0.0087), u707(|Δ|=0.008, z=4, rel=0.038, relIn=0.0088), u1201(|Δ|=0.008, z=3, rel=0.021, relIn=0.0075), u2009(|Δ|=0.007, z=3, rel=0.030, relIn=0.0071)
+  L 9: median |Δdown_col|=0.0055  top units u880(|Δ|=0.008, z=3, rel=0.012, relIn=0.0056), u1066(|Δ|=0.007, z=3, rel=0.014, relIn=0.0077), u116(|Δ|=0.007, z=3, rel=0.019, relIn=0.0076), u476(|Δ|=0.007, z=3, rel=0.014, relIn=0.0070), u180(|Δ|=0.007, z=3, rel=0.014, relIn=0.0066)
+  L10: median |Δdown_col|=0.0056  top units u1621(|Δ|=0.008, z=4, rel=0.034, relIn=0.0057), u1258(|Δ|=0.008, z=4, rel=0.024, relIn=0.0064), u1896(|Δ|=0.008, z=3, rel=0.022, relIn=0.0100), u1445(|Δ|=0.008, z=3, rel=0.023, relIn=0.0070), u175(|Δ|=0.008, z=3, rel=0.025, relIn=0.0075)
+  L11: median |Δdown_col|=0.0053  top units u185(|Δ|=0.007, z=3, rel=0.017, relIn=0.0108), u1141(|Δ|=0.007, z=3, rel=0.028, relIn=0.0107), u808(|Δ|=0.007, z=3, rel=0.014, relIn=0.0055), u626(|Δ|=0.007, z=3, rel=0.017, relIn=0.0086), u613(|Δ|=0.007, z=3, rel=0.015, relIn=0.0085)
+  L12: median |Δdown_col|=0.0058  top units u1704(|Δ|=0.008, z=3, rel=0.018, relIn=0.0077), u1171(|Δ|=0.007, z=2, rel=0.021, relIn=0.0062), u44(|Δ|=0.007, z=2, rel=0.014, relIn=0.0060), u1262(|Δ|=0.007, z=2, rel=0.019, relIn=0.0064), u1812(|Δ|=0.007, z=2, rel=0.013, relIn=0.0059)
+  L13: median |Δdown_col|=0.0060  top units u85(|Δ|=0.008, z=3, rel=0.023, relIn=0.0077), u1378(|Δ|=0.008, z=3, rel=0.020, relIn=0.0063), u1943(|Δ|=0.008, z=3, rel=0.021, relIn=0.0069), u952(|Δ|=0.008, z=3, rel=0.021, relIn=0.0076), u66(|Δ|=0.008, z=3, rel=0.021, relIn=0.0075)
+  L14: median |Δdown_col|=0.0061  top units u588(|Δ|=0.008, z=4, rel=0.023, relIn=0.0069), u333(|Δ|=0.008, z=3, rel=0.023, relIn=0.0069), u1280(|Δ|=0.008, z=3, rel=0.022, relIn=0.0079), u735(|Δ|=0.008, z=3, rel=0.024, relIn=0.0083), u59(|Δ|=0.008, z=3, rel=0.023, relIn=0.0069)
+  L15: median |Δdown_col|=0.0062  top units u393(|Δ|=0.009, z=4, rel=0.021, relIn=0.0085), u1828(|Δ|=0.009, z=4, rel=0.023, relIn=0.0081), u1508(|Δ|=0.008, z=3, rel=0.019, relIn=0.0082), u1560(|Δ|=0.008, z=3, rel=0.020, relIn=0.0080), u1339(|Δ|=0.008, z=3, rel=0.019, relIn=0.0069)
+  L16: median |Δdown_col|=0.0060  top units u1266(|Δ|=0.010, z=5, rel=0.030, relIn=0.0040), u411(|Δ|=0.009, z=4, rel=0.019, relIn=0.0072), u1698(|Δ|=0.009, z=4, rel=0.020, relIn=0.0068), u1007(|Δ|=0.009, z=4, rel=0.021, relIn=0.0070), u768(|Δ|=0.009, z=4, rel=0.020, relIn=0.0073)
+  L17: median |Δdown_col|=0.0057  top units u668(|Δ|=0.010, z=5, rel=0.023, relIn=0.0069), u480(|Δ|=0.010, z=4, rel=0.022, relIn=0.0072), u1954(|Δ|=0.010, z=4, rel=0.022, relIn=0.0079), u490(|Δ|=0.009, z=4, rel=0.021, relIn=0.0069), u998(|Δ|=0.009, z=4, rel=0.022, relIn=0.0073)
+
+```

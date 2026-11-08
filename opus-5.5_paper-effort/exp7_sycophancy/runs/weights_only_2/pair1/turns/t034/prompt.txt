@@ -1,0 +1,24 @@
+OUTPUT of run 33 of at most 60:
+```
+out186: top coords [163 436 400 389  65 164 547 167] vals [ 0.53  0.36 -0.16 -0.15 -0.13 -0.12 -0.12  0.11] outlier energy 0.28 cos d* -0.082
+out256: top coords [436 621 163 167 400  86 360 232] vals [ 0.35  0.28 -0.23  0.21 -0.2  -0.19  0.16 -0.15] outlier energy 0.06 cos d* -0.045
+r (common dUp): top coords [ 33 109 358 372 165 483  56 409] vals [-0.08 -0.08  0.08 -0.08 -0.07  0.07  0.07  0.07] outlier energy 0.04 cos d* +0.083
+later gin at out186 top coords: {8: [1.1100000143051147, 8.619999885559082, 1.649999976158142, 5.559999942779541, 9.380000114440918], 12: [0.3799999952316284, 0.49000000953674316, 1.6100000143051147, 3.049999952316284, 7.380000114440918], 17: [1.7200000286102295, 1.5700000524520874, 1.7699999809265137, 2.1600000858306885, 5.090000152587891]}  final gf: [0.09000000357627869, 6.71999979019165, 4.190000057220459, 5.619999885559082, 6.090000152587891]
+L5 u1676: dominant change in up, cos(dom change, r) -0.340, cos(dom change, own up) -0.019, out cos d* +0.034, out outlier energy 0.67
+L8 u706: dominant change in gate, cos(dom change, r) -0.616, cos(dom change, own gate) -0.146, out cos d* -0.018, out outlier energy 0.68
+L9 u1983: dominant change in gate, cos(dom change, r) -0.239, cos(dom change, own gate) -0.031, out cos d* -0.003, out outlier energy 0.35
+L10 u28: dominant change in gate, cos(dom change, r) -0.258, cos(dom change, own gate) -0.040, out cos d* +0.030, out outlier energy 0.04
+L10 u539: dominant change in up, cos(dom change, r) +0.290, cos(dom change, own up) -0.001, out cos d* -0.035, out outlier energy 0.32
+L10 u601: dominant change in up, cos(dom change, r) -0.191, cos(dom change, own up) +0.054, out cos d* +0.022, out outlier energy 0.04
+L10 u813: dominant change in gate, cos(dom change, r) +0.211, cos(dom change, own gate) +0.052, out cos d* -0.052, out outlier energy 0.03
+L11 u892: dominant change in up, cos(dom change, r) -0.269, cos(dom change, own up) -0.063, out cos d* -0.029, out outlier energy 0.03
+L11 u743: dominant change in up, cos(dom change, r) -0.199, cos(dom change, own up) +0.005, out cos d* -0.028, out outlier energy 0.16
+L11 u77: dominant change in gate, cos(dom change, r) +0.117, cos(dom change, own gate) -0.001, out cos d* -0.059, out outlier energy 0.01
+L11 u48: dominant change in up, cos(dom change, r) +0.249, cos(dom change, own up) -0.025, out cos d* +0.023, out outlier energy 0.27
+L0 u731: dominant change in gate, cos(dom change, r) +0.102, cos(dom change, own gate) -0.006, out cos d* -0.025, out outlier energy 0.20
+L1 u1047: dominant change in gate, cos(dom change, r) -0.077, cos(dom change, own gate) -0.091, out cos d* +0.001, out outlier energy 0.00
+L12 u1405: dominant change in gate, cos(dom change, r) +0.072, cos(dom change, own gate) +0.021, out cos d* -0.046, out outlier energy 0.01
+L14 u271: dominant change in up, cos(dom change, r) -0.042, cos(dom change, own up) -0.017, out cos d* +0.022, out outlier energy 0.06
+L15 u1330: dominant change in gate, cos(dom change, r) -0.085, cos(dom change, own gate) -0.042, out cos d* -0.011, out outlier energy 0.03
+
+```

@@ -1,0 +1,39 @@
+OUTPUT of Python run 57 of at most 120:
+```
+1 strong black -1 -15.5 two passes 85 lastby net cap 6 lost 12
+4 strong black -1 -2.5 two passes 89 lastby net cap 13 lost 8
+5 strong black -1 -3.5 two passes 86 lastby opponent cap 5 lost 8
+10 strong black -1 -7.5 two passes 87 lastby net cap 5 lost 9
+13 strong black -1 3.5 repetition 83 lastby net cap 13 lost 8
+15 strong black -1 -5.5 two passes 92 lastby opponent cap 11 lost 10
+17 strong black -1 -1.5 two passes 85 lastby net cap 11 lost 9
+18 strong black -1 -2.5 two passes 88 lastby opponent cap 10 lost 9
+20 strong black -1 -0.5 repetition 81 lastby net cap 9 lost 7
+23 strong black -1 -3.5 two passes 84 lastby opponent cap 8 lost 8
+24 strong black -1 -10.5 two passes 90 lastby opponent cap 8 lost 10
+27 strong black -1 -10.5 two passes 90 lastby opponent cap 7 lost 16
+30 strong black -1 -3.5 two passes 89 lastby net cap 9 lost 16
+31 strong black -1 -19.5 two passes 90 lastby opponent cap 5 lost 11
+32 strong black -1 -18.5 two passes 85 lastby net cap 5 lost 16
+34 strong black -1 -1.5 two passes 89 lastby net cap 12 lost 14
+35 strong black -1 -8.5 two passes 89 lastby net cap 5 lost 18
+37 strong black -1 -3.5 two passes 90 lastby opponent cap 11 lost 11
+46 strong black -1 -1.5 two passes 123 lastby net cap 31 lost 21
+47 strong black -1 -31.5 two passes 116 lastby opponent cap 9 lost 35
+51 strong white -1 -4.5 two passes 103 lastby opponent cap 10 lost 15
+52 strong white -1 -2.5 two passes 99 lastby opponent cap 11 lost 36
+54 strong white -1 22.5 repetition 76 lastby net cap 9 lost 5
+55 strong white -1 -2.5 two passes 87 lastby opponent cap 6 lost 12
+57 strong white -1 14.5 repetition 80 lastby net cap 6 lost 15
+59 strong white -1 -0.5 two passes 96 lastby net cap 6 lost 18
+61 strong white -1 23.5 repetition 88 lastby net cap 13 lost 7
+80 strong white -1 -28.5 two passes 127 lastby opponent cap 11 lost 52
+86 strong white -1 -5.5 two passes 91 lastby opponent cap 4 lost 12
+89 strong white 1 51.5 repetition 89 lastby opponent cap 29 lost 1
+93 strong white -1 -14.5 two passes 95 lastby opponent cap 3 lost 17
+94 strong white 1 82.5 move limit 162 lastby net cap 177 lost 30
+115 weak white 1 80.5 repetition 119 lastby opponent cap 72 lost 3
+126 weak white 1 79.5 repetition 111 lastby opponent cap 81 lost 3
+6901 48 [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 6, 6, 7]
+
+```

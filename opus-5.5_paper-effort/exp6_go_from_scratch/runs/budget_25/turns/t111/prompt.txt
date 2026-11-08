@@ -1,0 +1,63 @@
+OUTPUT of Python run 93 of at most 120:
+```
+70 white -0.5
+.OXX.XX.X
+OOX.X.XX.
+OXXXXXX.X
+OOOXXXXX.
+OOOOOXOXX
+OOOOOXOXO
+O.XXOXOOO
+OOOOOOOOO
+OOOOOOO.O
+  dame (6, 1) illegal
+75 white -0.5
+.OOOOOOOO
+XOOOOOOO.
+OOO.OOOOO
+OOOXXXX.O
+XXOOOOOOO
+.XOOXXOOO
+X.XX.XOOO
+.XX.XXXXX
+XX.X.XX.X
+  dame (0, 0) illegal
+  dame (2, 3) libs after 1 cap 0 ne 0
+  dame (3, 7) libs after 1 cap 0 ne 0
+123 white -0.5
+.OOOOOO.O
+OO.OOOOO.
+OOOOO.O.O
+OOOOOXOOO
+XXXXOOOXO
+X.XOOOOXO
+.XXXXOXXX
+XX.XXX.X.
+X.XXX.X.X
+  dame (2, 5) illegal
+47 black -0.5
+O.O.OOOOO
+OO.OO.XXO
+OOO.XOOOO
+OOOOOOOOO
+OOXXXXXOO
+OXXX.X.XX
+XX.XX.XXX
+.XXX.X.X.
+X.X.X.X.X
+  dame (1, 5) illegal
+  dame (2, 3) illegal
+12 black -2.5
+O.O.OOOOO
+OOOO.OOXX
+XO.OXO.XO
+XOOOOOOOO
+XXXXXXOOO
+.X.X.XOOO
+X.X.X.XOO
+.XXX.XXXO
+XXX.XX.XX
+  dame (1, 4) illegal
+  dame (2, 6) illegal
+
+```

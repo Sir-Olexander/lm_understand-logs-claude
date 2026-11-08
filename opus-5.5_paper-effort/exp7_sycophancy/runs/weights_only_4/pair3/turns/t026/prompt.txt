@@ -1,0 +1,19 @@
+OUTPUT of run 25 of at most 60:
+```
+L 8 | digits base=+0.93 Δ=+0.10 (z=+2.06) | numwor base=+0.62 Δ=-0.20 (z=-1.30) | colors base=+1.62 Δ=-0.22 (z=-1.33) | capita base=+1.92 Δ=-0.26 (z=-2.04) | nouns base=+2.28 Δ=-0.15 (z=-0.52)
+L 9 | digits base=+0.26 Δ=-0.00 (z=-0.06) | numwor base=+0.76 Δ=+0.35 (z=+2.61) | colors base=+1.03 Δ=+0.18 (z=+1.07) | capita base=+1.11 Δ=-0.24 (z=-1.74) | nouns base=+1.72 Δ=-0.17 (z=-0.82)
+L10 | digits base=+0.40 Δ=-0.12 (z=-2.49) | numwor base=+0.94 Δ=-0.51 (z=-2.95) | colors base=+0.46 Δ=-0.11 (z=-0.58) | capita base=+0.87 Δ=-0.18 (z=-1.43) | nouns base=+1.03 Δ=+0.44 (z=+1.73)
+L11 | digits base=+0.29 Δ=-0.10 (z=-2.43) | numwor base=+1.19 Δ=+0.15 (z=+0.75) | colors base=+1.13 Δ=+0.15 (z=+0.86) | capita base=+0.98 Δ=+0.09 (z=+0.64) | nouns base=+1.81 Δ=+0.23 (z=+0.89)
+L12 | digits base=+1.00 Δ=-0.07 (z=-1.34) | numwor base=+1.12 Δ=+0.09 (z=+0.60) | colors base=+1.95 Δ=+0.10 (z=+0.80) | capita base=+1.56 Δ=-0.11 (z=-0.94) | nouns base=+2.26 Δ=-0.21 (z=-0.72)
+L13 | digits base=-0.05 Δ=-0.06 (z=-1.50) | numwor base=-0.07 Δ=+0.00 (z=+0.10) | colors base=+0.65 Δ=+0.19 (z=+2.01) | capita base=+0.85 Δ=-0.13 (z=-1.16) | nouns base=+1.41 Δ=-0.19 (z=-1.08)
+L14 | digits base=-0.03 Δ=-0.11 (z=-1.31) | numwor base=-0.05 Δ=-0.52 (z=-2.04) | colors base=+0.13 Δ=-0.09 (z=-1.08) | capita base=+0.58 Δ=-0.27 (z=-1.85) | nouns base=+0.73 Δ=-0.29 (z=-1.44)
+L15 | digits base=-0.13 Δ=-0.09 (z=-0.99) | numwor base=-0.68 Δ=-0.14 (z=-1.23) | colors base=-0.47 Δ=-0.09 (z=-0.42) | capita base=-0.33 Δ=-0.03 (z=-0.24) | nouns base=-0.60 Δ=+0.15 (z=+0.71)
+L16 | digits base=-0.43 Δ=-0.12 (z=-1.35) | numwor base=-0.92 Δ=-0.45 (z=-2.12) | colors base=-1.19 Δ=-0.11 (z=-0.81) | capita base=-0.97 Δ=+0.32 (z=+2.32) | nouns base=-1.43 Δ=+0.32 (z=+1.83)
+L17 | digits base=-0.51 Δ=-0.04 (z=-0.58) | numwor base=-0.54 Δ=-0.25 (z=-2.40) | colors base=-0.92 Δ=-0.25 (z=-1.99) | capita base=-0.90 Δ=-0.04 (z=-0.56) | nouns base=-2.19 Δ=-0.08 (z=-0.70)
+digits sum of null-z over layers 8-17: -9.99  L14-17: -4.23
+numwords sum of null-z over layers 8-17: -7.98  L14-17: -7.79
+colors sum of null-z over layers 8-17: -1.45  L14-17: -4.3
+capitals sum of null-z over layers 8-17: -7.0  L14-17: -0.34
+nouns sum of null-z over layers 8-17: -0.13  L14-17: 0.4
+
+```

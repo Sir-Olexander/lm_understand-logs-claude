@@ -1,0 +1,4 @@
+The moves look close to random, with top probabilities around 0.1, so the policy is too flat to produce real positional play. I'm thinking that sharpening the positional logits would make the play more deterministic around the best heuristic move, though that only helps if the heuristic itself is good. There's also a broader problem that the moves seem to wander, and I'm looking at how the strong bot's play compares.
+
+I'm weighing which positional features would be cheap to implement for a 9x9 board: influence and frontier play, shape choices like hane and extend over empty triangles, and reacting to opponent stones that are down to two liberties. Tactical pressure on weak groups looks promising, since the strong bot has been wiped out in about a quarter of games. I still want to look at one of those wipeout games to see what actually causes them.
+

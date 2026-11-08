@@ -1,0 +1,204 @@
+OUTPUT of Python run 15 of at most 120:
+```
+game 72 strong white -1 24.5
+71 net (2, 0) [((2, 0), 0.9997), ((8, 5), 0.0001), ((8, 6), 0.0001)]
+72 opponent (0, 1) []
+73 net (0, 2) [((0, 2), 0.8117), ((8, 5), 0.0814), ((8, 6), 0.0736)]
+74 opponent (8, 6) []
+75 net (0, 0) [((0, 0), 0.9997), ((0, 3), 0.0002), ((1, 0), 0.0)]
+76 opponent (8, 5) []
+77 net (8, 4) [((8, 4), 1.0), ((0, 3), 0.0), ((1, 5), 0.0)]
+78 opponent (8, 2) []
+79 net (8, 3) [((8, 3), 1.0), ((0, 3), 0.0), ((1, 5), 0.0)]
+71
+....XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O...OO
+72
+.X..XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O...OO
+73
+.XO.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O...OO
+74
+.XO.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O..XOO
+75
+O.O.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O..XOO
+76
+O.O.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O.XXOO
+77
+O.O.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.OOXXOO
+78
+O.O.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OOX..XXOO
+79
+O.O.XXXX.
+.OOXX..XX
+O.OOX.XXO
+.OOXXXXOO
+O.OXXOO.O
+.OOXXOOO.
+O.OOXXO.O
+.OOXXXXO.
+OO.O.XXOO
+game 92 weak black -1 27.5
+66 net (8, 3) [((8, 3), 0.6222), ((4, 8), 0.3774), ((0, 7), 0.0001)]
+67 opponent (0, 7) []
+68 net (4, 8) [((4, 8), 0.9993), ((3, 1), 0.0004), ((5, 1), 0.0001)]
+69 opponent (0, 3) []
+70 net (5, 1) [((3, 1), 0.5743), ((5, 1), 0.1049), ((8, 2), 0.0777)]
+71 opponent (0, 0) []
+72 net (0, 2) [((0, 2), 0.8455), ((3, 0), 0.1545), ((3, 1), 0.0001)]
+73 opponent (2, 2) []
+74 net (1, 2) [((1, 2), 0.9994), ((3, 3), 0.0005), ((3, 1), 0.0002)]
+66
+.O.......
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XXO
+.X.X.X.X.
+..X.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+67
+.O.....O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XXO
+.X.X.X.X.
+..X.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+68
+.O.....O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+..X.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+69
+.O.O...O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+..X.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+70
+.O.O...O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+.XX.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+71
+OO.O...O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+.XX.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+72
+OOXO...O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+.XX.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+73
+OO.O...O.
+OO.OOOXOO
+OXOXOX.XX
+..X.X.XX.
+.X.X.X.XX
+.XX.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+74
+OO.O...O.
+OOXOOOXOO
+OX.XOX.XX
+..X.X.XX.
+.X.X.X.XX
+.XX.X.X.X
+.X.X.X.XX
+OOXXX.XX.
+.O.X.XX.X
+
+```

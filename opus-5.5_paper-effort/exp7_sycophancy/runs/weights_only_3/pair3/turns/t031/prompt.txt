@@ -1,0 +1,78 @@
+OUTPUT of run 30 of at most 60:
+```
+L 0h0 funcCopyZ  -2.12  nearPref(xq)  +1.60  nearPref(xmlp)  +0.87
+L 0h1 funcCopyZ  +5.30  nearPref(xq)  +0.23  nearPref(xmlp)  -0.79
+L 0h2 funcCopyZ  -0.28  nearPref(xq)  +1.03  nearPref(xmlp)  -1.25
+L 0h3 funcCopyZ  -1.64  nearPref(xq)  +1.90  nearPref(xmlp)  +1.45
+L 1h0 funcCopyZ  -0.27  nearPref(xq)  -0.08  nearPref(xmlp)  -0.47
+L 1h1 funcCopyZ  +0.99  nearPref(xq)  +1.04  nearPref(xmlp)  +0.75
+L 1h2 funcCopyZ  -0.49  nearPref(xq)  -1.76  nearPref(xmlp)  -1.53
+L 1h3 funcCopyZ  +1.20  nearPref(xq)  +0.55  nearPref(xmlp)  +0.62
+L 2h0 funcCopyZ  +0.58  nearPref(xq)  +2.20  nearPref(xmlp)  +1.13
+L 2h1 funcCopyZ  +1.31  nearPref(xq)  +2.06  nearPref(xmlp)  +1.11
+L 2h2 funcCopyZ  +1.25  nearPref(xq)  -1.01  nearPref(xmlp)  -2.35
+L 2h3 funcCopyZ  +0.45  nearPref(xq)  -1.32  nearPref(xmlp)  -0.63
+L 3h0 funcCopyZ  +2.71  nearPref(xq)  +0.15  nearPref(xmlp)  -1.84
+L 3h1 funcCopyZ  -1.50  nearPref(xq)  -0.49  nearPref(xmlp)  -0.83
+L 3h2 funcCopyZ  -5.01  nearPref(xq)  -0.20  nearPref(xmlp)  -1.84
+L 3h3 funcCopyZ  +1.12  nearPref(xq)  -1.79  nearPref(xmlp)  -1.80
+L 4h0 funcCopyZ  -1.28  nearPref(xq)  +0.26  nearPref(xmlp)  -1.33
+L 4h1 funcCopyZ  -1.42  nearPref(xq)  +0.91  nearPref(xmlp)  -1.19
+L 4h2 funcCopyZ  -0.20  nearPref(xq)  -1.17  nearPref(xmlp)  -0.46
+L 4h3 funcCopyZ  +0.02  nearPref(xq)  -0.58  nearPref(xmlp)  -2.36
+L 5h0 funcCopyZ  +1.81  nearPref(xq)  +0.90  nearPref(xmlp)  -0.58
+L 5h1 funcCopyZ  -1.01  nearPref(xq)  -0.40  nearPref(xmlp)  -0.43
+L 5h2 funcCopyZ  +0.32  nearPref(xq)  +2.43  nearPref(xmlp)  -1.06
+L 5h3 funcCopyZ  +1.27  nearPref(xq)  +2.54  nearPref(xmlp)  +0.74
+L 6h0 funcCopyZ  +4.33  nearPref(xq)  -1.31  nearPref(xmlp)  -1.59
+L 6h1 funcCopyZ  -3.73  nearPref(xq)  -1.22  nearPref(xmlp)  -1.41
+L 6h2 funcCopyZ  +4.39  nearPref(xq)  -0.74  nearPref(xmlp)  -1.51
+L 6h3 funcCopyZ  +4.07  nearPref(xq)  -1.35  nearPref(xmlp)  -0.56
+L 7h0 funcCopyZ  +1.56  nearPref(xq)  -2.04  nearPref(xmlp)  -1.25
+L 7h1 funcCopyZ  +2.00  nearPref(xq)  +1.50  nearPref(xmlp)  -0.17
+L 7h2 funcCopyZ  +1.51  nearPref(xq)  -1.15  nearPref(xmlp)  -0.65
+L 7h3 funcCopyZ  +1.11  nearPref(xq)  -2.24  nearPref(xmlp)  +0.81
+L 8h0 funcCopyZ  -1.36  nearPref(xq)  +0.14  nearPref(xmlp)  -0.13
+L 8h1 funcCopyZ  +2.75  nearPref(xq)  +0.50  nearPref(xmlp)  -2.27
+L 8h2 funcCopyZ  +2.50  nearPref(xq)  -1.52  nearPref(xmlp)  -2.34
+L 8h3 funcCopyZ  +2.30  nearPref(xq)  +0.42  nearPref(xmlp)  -1.84
+L 9h0 funcCopyZ  -0.22  nearPref(xq)  +1.25  nearPref(xmlp)  -0.19
+L 9h1 funcCopyZ  -3.06  nearPref(xq)  -0.78  nearPref(xmlp)  -1.61
+L 9h2 funcCopyZ  +2.87  nearPref(xq)  +0.10  nearPref(xmlp)  +0.07
+L 9h3 funcCopyZ  +2.23  nearPref(xq)  -1.57  nearPref(xmlp)  -1.69
+L10h0 funcCopyZ  +2.11  nearPref(xq)  +0.59  nearPref(xmlp)  -1.70
+L10h1 funcCopyZ  +0.10  nearPref(xq)  -1.34  nearPref(xmlp)  -1.23
+L10h2 funcCopyZ  +1.45  nearPref(xq)  -1.75  nearPref(xmlp)  -1.62
+L10h3 funcCopyZ  +1.27  nearPref(xq)  -2.33  nearPref(xmlp)  -1.94
+L11h0 funcCopyZ  +0.34  nearPref(xq)  +1.85  nearPref(xmlp)  +1.81
+L11h1 funcCopyZ  +0.22  nearPref(xq)  +0.03  nearPref(xmlp)  +0.13
+L11h2 funcCopyZ  +0.84  nearPref(xq)  -1.77  nearPref(xmlp)  -1.51
+L11h3 funcCopyZ  -0.71  nearPref(xq)  -0.22  nearPref(xmlp)  -0.54
+L12h0 funcCopyZ  +0.23  nearPref(xq)  -0.50  nearPref(xmlp)  -0.17
+L12h1 funcCopyZ  +0.16  nearPref(xq)  -0.08  nearPref(xmlp)  +0.17
+L12h2 funcCopyZ  -0.33  nearPref(xq)  -1.75  nearPref(xmlp)  -1.94
+L12h3 funcCopyZ  +0.19  nearPref(xq)  -0.20  nearPref(xmlp)  -1.86
+L13h0 funcCopyZ  +0.06  nearPref(xq)  -0.59  nearPref(xmlp)  +0.42
+L13h1 funcCopyZ  -0.83  nearPref(xq)  -1.32  nearPref(xmlp)  -0.04
+L13h2 funcCopyZ  -1.21  nearPref(xq)  -0.71  nearPref(xmlp)  +0.07
+L13h3 funcCopyZ  +0.05  nearPref(xq)  -0.93  nearPref(xmlp)  -0.23
+L14h0 funcCopyZ  -0.05  nearPref(xq)  -1.19  nearPref(xmlp)  -1.49
+L14h1 funcCopyZ  +0.49  nearPref(xq)  -0.35  nearPref(xmlp)  -0.49
+L14h2 funcCopyZ  +0.41  nearPref(xq)  +0.42  nearPref(xmlp)  -0.85
+L14h3 funcCopyZ  -0.09  nearPref(xq)  -0.27  nearPref(xmlp)  -1.03
+L15h0 funcCopyZ  -0.56  nearPref(xq)  -0.34  nearPref(xmlp)  -0.97
+L15h1 funcCopyZ  +0.87  nearPref(xq)  -0.05  nearPref(xmlp)  -1.48
+L15h2 funcCopyZ  -0.35  nearPref(xq)  -0.82  nearPref(xmlp)  +0.80
+L15h3 funcCopyZ  -0.81  nearPref(xq)  -2.19  nearPref(xmlp)  -1.58
+L16h0 funcCopyZ  -0.27  nearPref(xq)  +0.96  nearPref(xmlp)  +1.17
+L16h1 funcCopyZ  +0.21  nearPref(xq)  +0.36  nearPref(xmlp)  +0.71
+L16h2 funcCopyZ  +0.81  nearPref(xq)  +0.97  nearPref(xmlp)  +0.91
+L16h3 funcCopyZ  -0.39  nearPref(xq)  +1.82  nearPref(xmlp)  +1.19
+L17h0 funcCopyZ  -0.21  nearPref(xq)  -0.21  nearPref(xmlp)  +1.49
+L17h1 funcCopyZ  -1.41  nearPref(xq)  -1.63  nearPref(xmlp)  +0.88
+L17h2 funcCopyZ  -0.43  nearPref(xq)  -2.08  nearPref(xmlp)  +0.63
+L17h3 funcCopyZ  -1.21  nearPref(xq)  -1.00  nearPref(xmlp)  +0.58
+xq: corr(funcCopyZ, nearPref) = -0.017; among |F|>1.5: -0.136 (n=21)
+xmlp: corr(funcCopyZ, nearPref) = -0.169; among |F|>1.5: -0.170 (n=21)
+
+```

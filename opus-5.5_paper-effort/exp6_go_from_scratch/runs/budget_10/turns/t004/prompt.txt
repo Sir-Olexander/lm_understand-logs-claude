@@ -1,0 +1,14 @@
+OUTPUT of Python run 3 of at most 120:
+```
+XO.XOX.OX
+X.O.OO.O.
+XXXOO.XXO
+.X.OO.OOX
+..X.OO.XX
+OOOOXO.OX
+OXXXX.XOX
+XXXO.XXO.
+.OXOOO.X.
+(30, 30)
+
+```

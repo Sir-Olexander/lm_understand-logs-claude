@@ -1,0 +1,19 @@
+OUTPUT of run 34 of at most 60:
+```
+L16: cos(dGate,dUp) distribution: sd 0.208, |cos|>0.3: 291 units, >0.5: 41
+   A-wants direction from 291 units: cos with d* +0.308 (weighted +0.315); top coords [ 65 155 299  25 523  99]
+   split-half consistency cos +0.803; each with d*: +0.329 +0.256
+L17: cos(dGate,dUp) distribution: sd 0.218, |cos|>0.3: 322 units, >0.5: 61
+   u1180: cos(dG,dU) -0.298  gate·rd z -15.2  up·rd z +12.0  Δdown·d* +0.097 down·d* -0.599
+   u1027: cos(dG,dU) +0.318  gate·rd z -3.9  up·rd z -2.8  Δdown·d* -0.247 down·d* +0.376
+   u1026: cos(dG,dU) -0.594  gate·rd z +6.6  up·rd z -0.3  Δdown·d* +0.010 down·d* +0.015
+   u373: cos(dG,dU) +0.790  gate·rd z +1.1  up·rd z +3.8  Δdown·d* -0.110 down·d* +0.015
+   u1217: cos(dG,dU) +0.320  gate·rd z -1.5  up·rd z -2.7  Δdown·d* -0.551 down·d* +0.007
+   u110: cos(dG,dU) -0.337  gate·rd z -3.4  up·rd z -2.5  Δdown·d* +0.109 down·d* +0.066
+   u750: cos(dG,dU) +0.110  gate·rd z -4.9  up·rd z -0.5  Δdown·d* -0.729 down·d* -0.033
+   u467: cos(dG,dU) -0.040  gate·rd z -0.4  up·rd z +1.7  Δdown·d* +0.868 down·d* +0.034
+   u961: cos(dG,dU) +0.210  gate·rd z +0.1  up·rd z -0.0  Δdown·d* +0.753 down·d* +0.019
+   A-wants direction from 322 units: cos with d* +0.272 (weighted +0.237); top coords [  2 619 370 426 355 476]
+   split-half consistency cos +0.888; each with d*: +0.267 +0.261
+
+```

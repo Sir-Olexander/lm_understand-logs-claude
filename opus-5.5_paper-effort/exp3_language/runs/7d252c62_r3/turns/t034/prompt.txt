@@ -1,0 +1,8 @@
+OUTPUT of run 33 of at most 100:
+```
+norms a,b,c,F quantiles [0.09 0.13 1.04 1.6 ] [0.05 0.07 0.59 0.87] [0.04 0.06 0.5  0.75] [0.33 0.39 2.23 3.08]
+proj norms quantiles [0.146 0.174 0.263 2.098 2.672]
+n sel 768 frac pairs cos>0.9 0.002231174045138889 cos>0.8 0.004214816623263889
+neighbor count quantiles [ 1.  1.  5. 18.]
+
+```

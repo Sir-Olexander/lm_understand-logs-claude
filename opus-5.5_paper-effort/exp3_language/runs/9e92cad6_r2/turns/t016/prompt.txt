@@ -1,0 +1,22 @@
+OUTPUT of run 15 of at most 100:
+```
+L1H0 dup |D|/|QK| 0.122 pos -0.94 diagfrac -3.34 | ind3 |I|/|QK| 0.051 pos 0.17 diag 0.47 | ind0 0.013 pos 0.04
+L1H1 dup |D|/|QK| 0.119 pos -0.92 diagfrac -2.93 | ind3 |I|/|QK| 0.064 pos 0.26 diag 0.76 | ind0 0.010 pos -0.06
+L1H2 dup |D|/|QK| 0.104 pos -0.87 diagfrac -2.39 | ind3 |I|/|QK| 0.061 pos 0.29 diag 0.79 | ind0 0.007 pos -0.25
+L1H3 dup |D|/|QK| 0.088 pos -0.92 diagfrac -3.12 | ind3 |I|/|QK| 0.057 pos 0.12 diag 0.33 | ind0 0.009 pos 0.20
+L1H4 dup |D|/|QK| 0.077 pos -0.87 diagfrac -2.75 | ind3 |I|/|QK| 0.047 pos 0.08 diag 0.23 | ind0 0.009 pos 0.01
+L1H5 dup |D|/|QK| 0.133 pos -0.96 diagfrac -3.29 | ind3 |I|/|QK| 0.061 pos 0.21 diag 0.58 | ind0 0.012 pos -0.10
+L2H0 dup |D|/|QK| 0.055 pos -0.52 diagfrac -1.60 | ind3 |I|/|QK| 0.028 pos 0.16 diag 0.50 | ind0 0.011 pos 0.16
+L2H1 dup |D|/|QK| 0.050 pos -0.35 diagfrac -1.07 | ind3 |I|/|QK| 0.035 pos 0.08 diag 0.24 | ind0 0.012 pos -0.10
+L2H2 dup |D|/|QK| 0.042 pos -0.50 diagfrac -1.53 | ind3 |I|/|QK| 0.029 pos 0.16 diag 0.52 | ind0 0.013 pos 0.29
+L2H3 dup |D|/|QK| 0.041 pos -0.23 diagfrac -0.70 | ind3 |I|/|QK| 0.032 pos 0.15 diag 0.44 | ind0 0.009 pos 0.13
+L2H4 dup |D|/|QK| 0.054 pos -0.27 diagfrac -0.70 | ind3 |I|/|QK| 0.036 pos 0.31 diag 0.94 | ind0 0.013 pos -0.09
+L2H5 dup |D|/|QK| 0.057 pos -0.51 diagfrac -1.56 | ind3 |I|/|QK| 0.036 pos 0.06 diag 0.17 | ind0 0.011 pos 0.12
+L3H0 dup |D|/|QK| 0.045 pos 0.00 diagfrac 0.01 | ind3 |I|/|QK| 0.039 pos -0.29 diag -0.95 | ind0 0.012 pos -0.08
+L3H1 dup |D|/|QK| 0.043 pos 0.09 diagfrac 0.25 | ind3 |I|/|QK| 0.031 pos -0.10 diag -0.31 | ind0 0.017 pos 0.11
+L3H2 dup |D|/|QK| 0.043 pos 0.01 diagfrac 0.02 | ind3 |I|/|QK| 0.029 pos 0.16 diag 0.52 | ind0 0.013 pos 0.07
+L3H3 dup |D|/|QK| 0.044 pos 0.10 diagfrac 0.31 | ind3 |I|/|QK| 0.074 pos 0.94 diag 3.98 | ind0 0.018 pos -0.40
+L3H4 dup |D|/|QK| 0.043 pos 0.01 diagfrac 0.03 | ind3 |I|/|QK| 0.029 pos 0.27 diag 0.77 | ind0 0.021 pos 0.29
+L3H5 dup |D|/|QK| 0.040 pos 0.03 diagfrac 0.10 | ind3 |I|/|QK| 0.029 pos -0.08 diag -0.23 | ind0 0.013 pos 0.07
+
+```

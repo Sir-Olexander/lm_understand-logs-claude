@@ -1,0 +1,50 @@
+OUTPUT of run 5 of at most 60:
+```
+top dims of L12 q read dir: [293  54 574   4 239 442  26 548 451  29] [0.306  0.2667 0.2422 0.2279 0.2224 0.217  0.1965 0.182  0.1635 0.1616]
+cos of L12-q top read dir with others' top-4 dirs (max |cos| and which index)
+(8, 'gate_proj') idx0 cos=+0.348 s=0.096
+(8, 'q_proj') idx1 cos=-0.350 s=0.063
+(8, 'up_proj') idx0 cos=+0.392 s=0.087
+(9, 'gate_proj') idx0 cos=+0.559 s=0.097
+(9, 'q_proj') idx0 cos=+0.330 s=0.090
+(9, 'up_proj') idx0 cos=+0.562 s=0.092
+(10, 'gate_proj') idx0 cos=-0.681 s=0.103
+(10, 'k_proj') idx2 cos=+0.340 s=0.028
+(10, 'q_proj') idx0 cos=+0.559 s=0.095
+(10, 'up_proj') idx0 cos=+0.676 s=0.093
+(10, 'v_proj') idx0 cos=+0.366 s=0.030
+(11, 'gate_proj') idx0 cos=-0.761 s=0.102
+(11, 'k_proj') idx3 cos=-0.315 s=0.024
+(11, 'q_proj') idx0 cos=+0.603 s=0.080
+(11, 'up_proj') idx0 cos=+0.765 s=0.097
+(11, 'v_proj') idx0 cos=+0.508 s=0.033
+(12, 'gate_proj') idx0 cos=+0.756 s=0.110
+(12, 'q_proj') idx0 cos=+1.000 s=0.121
+(12, 'up_proj') idx0 cos=-0.761 s=0.103
+(13, 'gate_proj') idx0 cos=-0.528 s=0.115
+(13, 'k_proj') idx1 cos=+0.492 s=0.033
+(13, 'q_proj') idx0 cos=-0.373 s=0.069
+(13, 'up_proj') idx0 cos=+0.550 s=0.109
+(13, 'v_proj') idx0 cos=-0.376 s=0.036
+(14, 'gate_proj') idx0 cos=-0.436 s=0.107
+(14, 'k_proj') idx1 cos=+0.539 s=0.034
+(14, 'q_proj') idx0 cos=+0.390 s=0.066
+(14, 'up_proj') idx0 cos=-0.467 s=0.104
+(14, 'v_proj') idx0 cos=-0.532 s=0.034
+(15, 'gate_proj') idx0 cos=-0.349 s=0.098
+(15, 'k_proj') idx2 cos=+0.395 s=0.029
+(15, 'q_proj') idx2 cos=-0.328 s=0.062
+(15, 'up_proj') idx0 cos=+0.340 s=0.096
+(15, 'v_proj') idx0 cos=+0.437 s=0.035
+(16, 'gate_proj') idx0 cos=-0.441 s=0.086
+(16, 'k_proj') idx1 cos=+0.443 s=0.030
+(16, 'q_proj') idx0 cos=-0.369 s=0.065
+(16, 'up_proj') idx0 cos=-0.432 s=0.080
+(16, 'v_proj') idx0 cos=-0.445 s=0.038
+(17, 'gate_proj') idx0 cos=-0.395 s=0.075
+(17, 'k_proj') idx1 cos=+0.436 s=0.031
+(17, 'q_proj') idx1 cos=+0.451 s=0.057
+(17, 'up_proj') idx0 cos=+0.405 s=0.075
+(17, 'v_proj') idx1 cos=+0.415 s=0.022
+
+```

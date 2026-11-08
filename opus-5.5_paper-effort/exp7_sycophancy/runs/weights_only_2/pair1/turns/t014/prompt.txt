@@ -1,0 +1,40 @@
+OUTPUT of run 13 of at most 60:
+```
+L8 down top sv energy [0.084 0.059 0.041] PR of unit loading on sv1 952 top units [ 164 1168  428  436 1372 1789 1982  378 1701  750] loads [0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002]
+    out dir top coords [495 518 628 527 290 306] vals [-0.146 -0.134  0.131  0.13  -0.115  0.113]
+    biggest per-unit diff norms: units [ 706  500 1406 1625 1386  329 1036  106  880  169] z [7.1 5.4 4.5 3.9 3.9 3.8 3.4 3.4 3.3 3.3]
+    gate diff top sv energy [0.111 0.069 0.038], top units by gate sv1 loading [ 150  106  859 1745 1625 1619], PR 687
+L10 down top sv energy [0.093 0.078 0.045] PR of unit loading on sv1 971 top units [1993 1549 1451 1538 1615  607  993  704  582 1155] loads [0.003 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002]
+    out dir top coords [122  55 484 191 152 509] vals [-0.127  0.121 -0.12   0.119 -0.117  0.114]
+    biggest per-unit diff norms: units [ 601   28  539  404  813  741 1740 1380  633 1978] z [5.  5.  4.7 4.7 4.6 4.4 4.  4.  3.8 3.7]
+    gate diff top sv energy [0.13  0.058 0.049], top units by gate sv1 loading [  28  741  813 1740  633 1003], PR 580
+L11 down top sv energy [0.111 0.061 0.036] PR of unit loading on sv1 1029 top units [ 321   49  152 1284 1261 1528 1582  570 1296  269] loads [0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002 0.002]
+    out dir top coords [ 56 386 405 122 439 379] vals [-0.124 -0.114  0.113  0.112  0.111  0.11 ]
+    biggest per-unit diff norms: units [ 892  743   77   48  957  500  948  691 1840 1631] z [7.1 6.6 6.4 6.  4.7 4.3 4.3 4.2 4.1 3.8]
+    gate diff top sv energy [0.125 0.051 0.04 ], top units by gate sv1 loading [1663  219  691 1360  436 1018], PR 651
+L13 down top sv energy [0.068 0.036 0.034] PR of unit loading on sv1 837 top units [ 381 1009 1947  293  934 1207 2030 1000 1982 1581] loads [0.004 0.003 0.003 0.003 0.003 0.003 0.003 0.003 0.003 0.003]
+    out dir top coords [290 480 625 367  58  52] vals [-0.105 -0.102  0.101  0.1   -0.098 -0.096]
+    biggest per-unit diff norms: units [1221  527  804 1978  300 1509  991 1834 1889 1324] z [4.6 4.1 4.  3.9 3.8 3.8 3.7 3.6 3.6 3.2]
+    gate diff top sv energy [0.141 0.054 0.045], top units by gate sv1 loading [ 527  804 1790 1177 1834  300], PR 666
+L14 down top sv energy [0.048 0.04  0.035] PR of unit loading on sv1 760 top units [1012  531   56  937  693  774 1054 1846  516 1278] loads [0.004 0.004 0.004 0.004 0.004 0.004 0.004 0.003 0.003 0.003]
+    out dir top coords [163 289 494 114  80 121] vals [ 0.126 -0.118  0.11   0.108 -0.104 -0.102]
+    biggest per-unit diff norms: units [ 271 1104 1607 1793 1743 1404  239 1435 1710 1124] z [6.2 4.7 3.8 3.8 3.5 3.5 3.4 3.1 3.  2.9]
+    gate diff top sv energy [0.124 0.046 0.042], top units by gate sv1 loading [1104  227  989  239 1607 1793], PR 620
+L16 down top sv energy [0.1   0.066 0.053] PR of unit loading on sv1 648 top units [ 636  620  624    5  873 1017 1638  946  919   69] loads [0.006 0.006 0.005 0.005 0.005 0.004 0.004 0.004 0.004 0.004]
+    out dir top coords [183 342 427 217 459 178] vals [ 0.095  0.095  0.095 -0.093 -0.09  -0.086]
+    biggest per-unit diff norms: units [1560    7  567  243  267  873  673  126 1125 1706] z [3.7 3.5 3.4 3.3 3.1 3.1 3.1 3.1 3.  3. ]
+    gate diff top sv energy [0.085 0.05  0.03 ], top units by gate sv1 loading [ 567  126  671 1404    7  940], PR 599
+L17 down top sv energy [0.176 0.077 0.058] PR of unit loading on sv1 637 top units [ 467  750  961 1855   32  258 1610 1930  988 1219] loads [0.008 0.005 0.005 0.005 0.005 0.005 0.004 0.004 0.004 0.004]
+    out dir top coords [183 365 342 106 522 424] vals [ 0.082  0.078  0.076  0.076  0.075 -0.075]
+    biggest per-unit diff norms: units [ 750  467  338  709  711  961 1578  688 1376  247] z [4.4 4.  4.  3.8 3.4 3.2 3.1 3.  3.  3. ]
+    gate diff top sv energy [0.069 0.05  0.03 ], top units by gate sv1 loading [ 343  879 2030 2024  690  252], PR 632
+cos between MLP top out dirs [8, 10, 11, 13, 14, 16, 17]
+[[1.   0.28 0.19 0.09 0.05 0.03 0.02]
+ [0.28 1.   0.38 0.07 0.09 0.02 0.04]
+ [0.19 0.38 1.   0.24 0.19 0.02 0.02]
+ [0.09 0.07 0.24 1.   0.5  0.09 0.08]
+ [0.05 0.09 0.19 0.5  1.   0.05 0.02]
+ [0.03 0.02 0.02 0.09 0.05 1.   0.89]
+ [0.02 0.04 0.02 0.08 0.02 0.89 1.  ]]
+
+```

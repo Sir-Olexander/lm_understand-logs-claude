@@ -1,0 +1,12 @@
+OUTPUT of Python run 71 of at most 120:
+```
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 36, in <module>
+  File "/work/build4.py", line 99
+    W[6][n.blk[5]['Ph1'],81]=prm['pph']; W[6][n.blk[5]['Ph2'],81]=-prm['pph']; ; b[6][81]=prm['pass']-100*prm['pw']
+                                                                               ^
+SyntaxError: invalid syntax
+
+```

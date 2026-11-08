@@ -1,0 +1,8 @@
+OUTPUT of run 26 of at most 100:
+```
+L0: H0: QK|e|/sv=0.41 tr/sv=-0.18; OV|e|/sv=0.28 tr/sv=+0.17 | H1: QK|e|/sv=0.79 tr/sv=-0.16; OV|e|/sv=0.19 tr/sv=+0.01 | H2: QK|e|/sv=0.54 tr/sv=+0.09; OV|e|/sv=0.17 tr/sv=+0.00 | H3: QK|e|/sv=0.45 tr/sv=-0.27; OV|e|/sv=0.21 tr/sv=+0.03 | H4: QK|e|/sv=0.42 tr/sv=-0.06; OV|e|/sv=0.25 tr/sv=+0.19 | H5: QK|e|/sv=0.84 tr/sv=+0.26; OV|e|/sv=0.25 tr/sv=-0.12
+L1: H0: QK|e|/sv=0.34 tr/sv=-0.10; OV|e|/sv=0.29 tr/sv=-0.24 | H1: QK|e|/sv=0.42 tr/sv=-0.22; OV|e|/sv=0.26 tr/sv=-0.20 | H2: QK|e|/sv=0.39 tr/sv=-0.16; OV|e|/sv=0.29 tr/sv=-0.23 | H3: QK|e|/sv=0.42 tr/sv=-0.15; OV|e|/sv=0.28 tr/sv=-0.20 | H4: QK|e|/sv=0.41 tr/sv=-0.13; OV|e|/sv=0.28 tr/sv=-0.21 | H5: QK|e|/sv=0.40 tr/sv=-0.22; OV|e|/sv=0.27 tr/sv=-0.23
+L2: H0: QK|e|/sv=0.31 tr/sv=-0.04; OV|e|/sv=0.34 tr/sv=-0.26 | H1: QK|e|/sv=0.33 tr/sv=+0.18; OV|e|/sv=0.32 tr/sv=-0.26 | H2: QK|e|/sv=0.33 tr/sv=+0.08; OV|e|/sv=0.33 tr/sv=-0.24 | H3: QK|e|/sv=0.30 tr/sv=-0.03; OV|e|/sv=0.32 tr/sv=-0.25 | H4: QK|e|/sv=0.30 tr/sv=+0.00; OV|e|/sv=0.34 tr/sv=-0.29 | H5: QK|e|/sv=0.29 tr/sv=-0.06; OV|e|/sv=0.29 tr/sv=-0.20
+L3: H0: QK|e|/sv=0.28 tr/sv=+0.11; OV|e|/sv=0.35 tr/sv=-0.26 | H1: QK|e|/sv=0.31 tr/sv=+0.17; OV|e|/sv=0.33 tr/sv=-0.27 | H2: QK|e|/sv=0.28 tr/sv=+0.05; OV|e|/sv=0.34 tr/sv=-0.26 | H3: QK|e|/sv=0.28 tr/sv=+0.00; OV|e|/sv=0.30 tr/sv=-0.20 | H4: QK|e|/sv=0.27 tr/sv=+0.00; OV|e|/sv=0.29 tr/sv=-0.17 | H5: QK|e|/sv=0.55 tr/sv=+0.49; OV|e|/sv=0.42 tr/sv=-0.39
+
+```

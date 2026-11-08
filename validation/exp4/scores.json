@@ -1,0 +1,33 @@
+{
+ "exp": "exp4",
+ "level": "l/h2_car_ramp",
+ "updated": "2026-11-05T22:08:38+00:00",
+ "runs": {
+  "oneshot_repair": {
+   "model": "claude-opus-5-5",
+   "effort": "high",
+   "mock": true,
+   "tool_free": null,
+   "test_success": 1.0,
+   "test_success_count": 1024,
+   "test_episodes": 1024,
+   "test_success_se": 0.0,
+   "search_success": 1.0,
+   "argmax_outcome": "success",
+   "base_search_success": 0.0,
+   "statements": 51,
+   "applied": 51,
+   "errors": 0,
+   "cut_off": false,
+   "changed": 6073,
+   "frac_changed": 0.035377248578618695
+  }
+ },
+ "original_gpt-6-astra": {
+  "test_success": 1.0,
+  "test_episodes": 1024,
+  "search_success": 1.0,
+  "changed": 6073,
+  "frac_changed": 0.035377248578618695
+ }
+}

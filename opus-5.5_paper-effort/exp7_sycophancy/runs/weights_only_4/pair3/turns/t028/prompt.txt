@@ -1,0 +1,167 @@
+OUTPUT of run 27 of at most 60:
+```
+
+####### L17: median rel change down=0.0136 up=0.0063 gate=0.0079
+-- unit 644: rel Δ down=0.044 up=0.012 gate=0.003 | ||down||A/B=0.998
+   OUT(B) +: 'ldots' ' etc' ' usw' ' itd' 'dots' 'etc' 'cdots' ' itp' 'hellip' ' osv'
+   OUT(B) -: ' createSprite' 'ejb' 'mtq' ' moat' ' AVLNode' 'arj' ' onlyOwner' ' addTo' ' polypes' 'ktor'
+   ΔOUT A-B +: ' DeepCollection' 'ufieurs' 'dcsset' 'MDEwOlJlcG' 'zynarod' 'wallepics' 'xcsche' 'URNIZOR' 'localVarHTTP' 'DOMstrings'
+   ΔOUT A-B -: '2' '0' '.' ' in' '1' ',' ' the' ' and' 'in' ' to'
+   GATE in +: 'hellip' ' BuzzFeed' ' nonfiction' 'Brady' ' dying' ' Brady' ' Wechsel' ' handel' 'mittel' ' center'
+   UP in +: '7' '8' '5' '3' '4' '6' '9' '1' '2' '0'
+   UP in -: ' etc' ' Obamacare' ' Obama' 'Columns' ' probiotics' ' dude' ' Wilkinson' ' blah' ' whatnot' ' csv'
+-- unit 688: rel Δ down=0.041 up=0.010 gate=0.003 | ||down||A/B=1.001
+   OUT(B) +: ' we' ' kita' ' our' ' We' ' nostro' ' ourselves' 'we' ' us' 'We' ' kami'
+   OUT(B) -: ' vody' 'ridges' 'ern' 'osyl' 'eras' 'anter' 'ayy' 'fat' 'neos' 'TypeText'
+   ΔOUT A-B +: '8' '3' '9' 'yellow' '4' '6' 'white' ' white' ' inget' ' yellow'
+   ΔOUT A-B -: '.' ',' ':' '!' '1' '?' ' in' ' one' ' is' ' um'
+   GATE in +: ' our' ' onze' ' we' ' nossas' ' unserem' ' kita' ' unserer' ' nossos' ' notre' ' nostra'
+   UP in +: ' su' '4' '3' ' short' ' named' ' single' '8' '7' ' specific' '5'
+   UP in -: ' kita' ' Abbiamo' ' nostri' ' nuestros' ' naszego' ' nossos' 'Our' ' unseres' ' our' 'Nous'
+-- unit 882: rel Δ down=0.042 up=0.009 gate=0.002 | ||down||A/B=1.001
+   OUT(B) +: ' his' ' he' ' him' 'his' 'His' ' seinem' ' His' ' himself' ' seiner' 'He'
+   OUT(B) -: 'dziel' ' revend' 'ondata' 'yszer' ' unes' ' Sisters' 'plicht' 'rbind' 'prits' 'ieuse'
+   ΔOUT A-B +: '9' '1' '8' '7' '.' '6' ' The' ' the' '5' 'The'
+   ΔOUT A-B -: 'ArchiveAction' ' textAppearance' 'UISelectors' ' seekBar' 'pcid' ' NumericVector' ' itemBuilder' ' zmdi' 'wallepics' 'setKeepCallback'
+   GATE in +: ' his' ' seinem' ' he' ' seiner' ' seinen' ' seine' ' seines' ' ihn' ' hia' ' himself'
+   UP in +: '5' '3' '7' '4' '6' '9' '8' ' facult' '1' ' programm'
+   UP in -: ' his' ' himself' 'his' ' hia' ' he' ' him' ' Himself' 'His' 'him' ' HIS'
+-- unit 156: rel Δ down=0.041 up=0.009 gate=0.003 | ||down||A/B=0.999
+   OUT(B) +: " '''" "'''" "''''" " ''" "''" ' nbsp' 'rsquo' 'getStartState' 'anniksi' 'wiad'
+   OUT(B) -: ' couvertures' 'igue' 'issante' 'ivat' 'tena' ' Colegio' 'vasive' ' paysage' 'ANTE' 'rotic'
+   ΔOUT A-B +: '1' ' green' 'rivel' 'izacja' ' white' ' one' ' ground' ' ones' ' olur' ' function'
+   ΔOUT A-B -: ' Dug' ' Doris' ' Duo' ' Dy' ' Bann' ' quatre' ' Sql' ' Andrea' ' Dol' 'Psi'
+   GATE in +: ' Freude' 'yg' 'ainkan' ' songwriter' ' musical' ' release' 'rz' 'rapped' ' melodies' 'rikt'
+   UP in +: '7' '8' '6' '5' '9' '4' '3' '1' '2' ' in'
+   UP in -: ' zmdi' 'wallepics' ' Atomnoj' ' Apica' ' Correa' ' HUOBI' 'localVarPath' 'waitForIdleSync' ' LMB' 'AssetDiscovery'
+-- unit 18: rel Δ down=0.037 up=0.011 gate=0.004 | ||down||A/B=0.999
+   OUT(B) +: 'inoj' ' alimentaire' 'IMG' 'wise' 'IDA' ' buffalo' ' scouting' 'zym' 'ODB' 'gloss'
+   OUT(B) -: 'iliyor' ' bijection' ' teie' ' pene' ' oluyor' 'operatorname' 'uillez' ' mathrm' ' bulun' ' DUN'
+   ΔOUT A-B +: ' black' ' milk' ' dark' ' abandoned' ' grand' ' active' ' quiet' ' French' ' white' ' precious'
+   ΔOUT A-B -: '2' '4' '3' ' dvije' ' keempat' '6' ' utilice' ' trastornos' ' liya' ' embarazada'
+   GATE in +: 'acuation' 'CORPOR' ' Yud' 'eneration' 'gzip' 'gradation' 'ophosph' ' depositions' ' typesetting' 'ccione'
+   UP in +: ' vulgaris' ' Contador' 'qld' 'zka' ' HONOR' ' hydrodynamic' 'qk' ' rahul' ' visor' ' Barron'
+   UP in -: ' one' ' the' ' both' ' to' ' were' ' on' ' One' ' single' ' free' ' was'
+-- unit 1930: rel Δ down=0.035 up=0.012 gate=0.004 | ||down||A/B=1.006
+   OUT(B) +: 'licz' 'utada' 'utage' ' Lumb' 'otic' ' constitute' ' Indem' ' hey' 'akty' 'adhatu'
+   OUT(B) -: ' but' 'but' 'However' ' However' 'But' ' But' ' tetapi' ' BUT' ' aber' ' pero'
+   ΔOUT A-B +: '0' '2' '9' '1' 'Nigeria' ' Nigeria' ' nasz' 'achery' 'Kenya' ' episodio'
+   ΔOUT A-B -: ' but' ' awaiting' ' four' ' applicable' ' yellow' ' FOUR' ' outdated' ' upcoming' ' six' ' ellipt'
+   GATE in +: ' but' 'but' ' But' 'But' ' tetapi' ' However' ' namun' 'However' ' BUT' ' entanto'
+   UP in +: ' but' 'but' 'But' ' namun' ' pero' ' tetapi' 'However' ' But' ' BUT' ' mutta'
+   UP in -: '4' '8' '7' '5' '3' '6' ' extra' ' avg' ' deg' ' nit'
+
+####### L16: median rel change down=0.0136 up=0.0064 gate=0.0076
+-- unit 1687: rel Δ down=0.026 up=0.012 gate=0.004 | ||down||A/B=0.998
+   OUT(B) +: ' having' ' making' ' providing' ' creating' ' adding' ' suggesting' ' utilising' ' considering' ' bringing' ' using'
+   OUT(B) -: 'rieben' 'rapes' 'ceries' 'anskrit' 'ishop' ' Born' 'osto' 'ACKNOWLEDGMENTS' 'iop' 'ected'
+   ΔOUT A-B +: ' ninth' 'orb' ' Nine' '9' ' Fall' ' Mag' ' Tap' 'Tab' 'ust' 'pp'
+   ΔOUT A-B -: ' mitad' ' auft' ' erfol' ' ARISING' ' prediksi' ' pisan' 'cailles' 'eluarkan' ' ilyen' 'iligung'
+   GATE in +: ' keeping' 'keeping' 'fixing' ' making' 'making' 'taking' ' taking' ' justifying' ' elevating' ' transporting'
+   UP in +: '7' '6' '8' ' random' '5' ' lab' ' compet' 'inoc' ' regular' '3'
+   UP in -: ' emphasizing' ' highlighting' ' ascertaining' ' illustrating' ' predicting' ' preferring' ' utilising' ' attributing' 'Exploring' ' aligning'
+-- unit 567: rel Δ down=0.029 up=0.009 gate=0.004 | ||down||A/B=0.999
+   OUT(B) +: ' to' 'to' 'To' ' To' 'TO' ' TO' ' untuk' 'untuk' 'tos' ' kepada'
+   OUT(B) -: 'ptious' 'ERTS' 'ospheres' ' stylus' 'empre' ' chiar' 'Semaphore' 'eclampsia' 'hezza' ' Giang'
+   ΔOUT A-B +: ' twin' ' Friedrich' 'woocommerce' ' Tug' ' TAK' ' Reverse' ' Tren' ' Rez' ' Vice' ' Fra'
+   ΔOUT A-B -: '1' 'ide' 'ly' 'est' 'nes' 'ally' 'ness' 'et' 'im' 'ones'
+   GATE in +: ' to' 'to' 'To' ' To' ' TO' ' toj' 'TO' 'inci' 'ToExp' ' kepada'
+   UP in +: 'uncan' ' Cory' '7' 'moto' ' predominant' ' Schmidt' ' Linden' ' Creed' ' Richter' ' EOS'
+   UP in -: ' to' 'To' 'to' ' To' ' for' ' toj' ' untuk' ' with' ' naar' ' from'
+-- unit 190: rel Δ down=0.030 up=0.009 gate=0.003 | ||down||A/B=0.999
+   OUT(B) +: ' your' ' Your' 'your' 'Your' ' you' ' YOUR' 'You' 'you' ' You' ' yourself'
+   OUT(B) -: 'riek' ' facto' 'urgy' 'StringType' ' prologue' 'riram' ' czym' ' Praha' 'ilden' ' subjecting'
+   ΔOUT A-B +: '1' '9' '2' '7' '6' '8' '4' '5' '3' '0'
+   ΔOUT A-B -: 'OscInitStruct' ' ipad' ' dissati' 'ufieurs' 'initro' ' hypersur' 'orderHint' ' penatibus' 'CTOGRAM' 'ClkInitStruct'
+   GATE in +: ' your' 'your' ' Your' ' yourself' ' YOUR' 'Your' ' you' ' yourselves' ' Anda' ' youre'
+   UP in +: '4' '8' '7' '5' '3' '6' '2' '0' '9' ' di'
+   UP in -: 'your' ' your' ' YOUR' ' yourself' 'Your' 'YOUR' ' Your' ' youre' 'yourself' ' Yourself'
+-- unit 328: rel Δ down=0.029 up=0.011 gate=0.002 | ||down||A/B=1.000
+   OUT(B) +: ' describe' ' reduce' ' determine' ' generate' ' create' ' ensure' ' accumulate' ' indicate' ' define' ' choose'
+   OUT(B) -: 'riendo' ' egent' 'uyendo' ' meia' 'cccc' 'isjon' ' revenus' 'anjang' ' fabb' 'ktx'
+   ΔOUT A-B +: '3' ' Bef' ' Vicky' 'Flash' ' vf' 'Black' ' Ehe' ' Wed' ' BED' 'EP'
+   ΔOUT A-B -: ' konusu' ' pokok' '.' 'getattr' 'ouns' 'antwoord' ' primeiros' 'oure' 'ccion' 'gary'
+   GATE in +: ' know' ' apply' ' have' ' understand' ' discourage' ' werden' ' avoid' ' see' ' comply' ' describe'
+   UP in +: '8' '4' '9' '7' '5' '3' '6' '2' '0' '1'
+   UP in -: ' modulate' ' insure' ' haue' ' validate' ' capitalise' ' insulate' ' materialize' ' tighten' ' hoga' ' verify'
+-- unit 503: rel Δ down=0.031 up=0.008 gate=0.003 | ||down||A/B=1.000
+   OUT(B) +: ' Trabal' ' nyil' ' szak' ' przen' ' Nachhalt' ' Uniwers' 'uiDesigner' ' decyz' ' Desar' ' Polize'
+   OUT(B) -: 'ter' 'an' 'ud' 'ler' 'its' 'est' 'so' 'ap' 'ef' 'ad'
+   ΔOUT A-B +: ' impedir' ' desactiv' ' atacar' ' recoge' ' exibir' ' penatibus' ' ajustar' ' traslad' ' Fonbet' ' conectar'
+   ΔOUT A-B -: '1' ' green' ' red' ' med' ' real' ' sub' ' al' ' bar' ' un' ' tr'
+   GATE in +: ' gsap' 'jsdelivr' 'ujacy' 'jenje' ' PREFIX' 'inderung' 'podob' ' atributo' ' offsetY' 'anneer'
+   UP in +: ' the' ',' ' in' ' to' ' is' ' are' ' and' '1' ' un' ' al'
+   UP in -: ' datasource' ' Texto' ' Hfn' 'Protocol' ' MQTT' ' xxl' ' QRCode' 'Verifier' ' Deps' ' TCR'
+-- unit 655: rel Δ down=0.026 up=0.011 gate=0.004 | ||down||A/B=1.000
+   OUT(B) +: ' hacerlo' 'inidad' 'endish' ' inade' ' promised' 'rey' 'yj' ' zj' 'ieger' 'forces'
+   OUT(B) -: ' ainsi' 'classe' ' sikap' ' pengaturan' ' pelatihan' ' moyens' ' poden' ' asso' ' kerjasama' ' essa'
+   ΔOUT A-B +: '1' ' teritor' ' muestras' 'utas' ' ventajas' 'rith' ' pegatina' ' konse' ' religiosas' ' transparencia'
+   ΔOUT A-B -: '4' '8' ' exit' 'form' ' perfect' ' Balance' ' balances' ' balance' ' female' ' equilibrium'
+   GATE in +: '4' 'unate' ' kerana' 'Whilst' '6' '3' ' Brexit' '2' 'getitem' '8'
+   UP in +: 'Updater' ' idiots' ' Bantu' 'Ltd' ' Vase' ' Updater' ' infos' ' Zey' ' SVM' ' Lala'
+   UP in -: 'yield' ' propor' ' the' ' el' '7' 'imeo' ' sebagian' 'aissez' ' tene' '8'
+
+####### L15: median rel change down=0.0155 up=0.0067 gate=0.0079
+-- unit 1746: rel Δ down=0.033 up=0.013 gate=0.002 | ||down||A/B=0.999
+   OUT(B) +: 'uelto' ' koji' 'portivo' ' quello' 'ligt' ' lequel' 'blico' 'positivo' ' dets' 'querdo'
+   OUT(B) -: ' her' ' she' ' herself' ' haar' 'She' ' She' 'she' 'Her' ' hers' ' ela'
+   ΔOUT A-B +: ' auc' ' deposition' ' embro' 'iftoire' 'deposition' 'OPTIONS' ' incapac' 'datap' 'ParallelGroup' ' disg'
+   ΔOUT A-B -: '3' '1' ' Thirdly' ' terceira' 'Third' 'III' 'third' ' Third' ' third' 'it'
+   GATE in +: ' her' ' herself' ' she' ' haar' 'She' ' She' 'she' ' marcada' ' ihrem' ' hers'
+   UP in +: ' herself' ' her' ' she' ' haar' ' She' 'She' 'she' ' favoritas' ' suitors' ' hers'
+   UP in -: ' minum' ' quello' 'rinsic' ' quelli' ' amat' ' minimo' 'omeric' ' fizik' ' negat' ' deputado'
+-- unit 1267: rel Δ down=0.032 up=0.013 gate=0.003 | ||down||A/B=1.000
+   OUT(B) +: ' liegt' ' ollut' ' kendini' ' bruto' ' kiu' ' mikt' ' wynosi' ' apa' ' berusia' ' byl'
+   OUT(B) -: ' are' ' were' 'were' ' zouden' ' WERE' ' poden' ' ovat' ' jsou' ' possano' ' devono'
+   ΔOUT A-B +: 'ong' ' structure' 'ivers' ' size' 'anny' 'osa' ' sam' 'verte' 'age' ' em'
+   ΔOUT A-B -: ' longitudinally' ' Ceremon' ' vestidos' 'countdown' ' tarjetas' ' commemorating' ' frescas' 'Scenes' ' systemu' 'Fireworks'
+   GATE in +: ' are' ' were' 'Are' ' sont' ' vienen' ' Are' ' incluyen' ' aren' ' siano' ' vengono'
+   UP in +: 'iali' 'elics' 'chutz' 'perti' ' yourselves' ' overhang' ' bodied' 'iale' 'bills' ' aident'
+   UP in -: '9' ' zdrav' ' verdadeiro' ' ollut' ' ocup' ' besch' ' minuto' ' doktor' ' ziyaret' ' jong'
+-- unit 163: rel Δ down=0.030 up=0.012 gate=0.004 | ||down||A/B=1.000
+   OUT(B) +: ' even' ' almost' ' new' ' kind' ' ground' 'self' 'ologically' 'down' 'ibrated' 'on'
+   OUT(B) -: ' analiz' ' mengetahui' ' faisant' ' mengalami' ' obten' ' busca' ' otorg' ' clientes' ' giai' ' sesi'
+   ΔOUT A-B +: ' odb' '1' ' mengangkat' 'imbulkan' 'cheid' ' verzi' 'ateful' ' odbior' 'pessoa' ' vicenda'
+   ΔOUT A-B -: ' mainly' ' Swedish' 'Ig' ' Chinese' ' Brazilian' ' primarily' ' virtually' ' barriers' ' available' ' largely'
+   GATE in +: ' formado' 'abord' ' formada' 'fora' 'verband' 'ialis' ' kandungan' ' pertemuan' 'form' ' formule'
+   UP in +: ' robuste' ' Lookup' ' Parser' 'FAQ' ' chipset' ' XXIV' 'dataPro' ' Osiris' ' Ramos' ' Insights'
+   UP in -: ' either' ' almost' ' of' ' going' ' one' ' both' ' the' ' keeping' ' to' ' on'
+-- unit 1776: rel Δ down=0.024 up=0.018 gate=0.003 | ||down||A/B=0.999
+   OUT(B) +: ' Fatima' 'elio' 'etal' 'ecie' ' Aluminium' 'nelle' 'nel' ' Barbara' ' propos' ' Obrador'
+   OUT(B) -: ' play' ' playing' ' played' ' Played' 'Playing' ' Playing' 'playing' 'Play' ' joueurs' 'play'
+   ΔOUT A-B +: 'legd' 'elje' 'jednoc' 'farande' 'piele' 'respective' 'ilebilir' 'enseit' 'ungkinkan' ' finer'
+   ΔOUT A-B -: ' allo' 'Dal' ' TNF' ' Lub' ' metformin' ' Lidl' ' Ange' ' Rut' ' Roz' ' prednisone'
+   GATE in +: ' musical' ' games' ' playing' ' Playing' ' Musical' ' playtime' ' Games' ' music' ' players' 'musical'
+   UP in +: ' Players' ' players' ' player' ' apparatus' ' plays' ' Playing' ' Play' 'Playing' ' Sharks' ' sharks'
+   UP in -: '5' '7' '4' '6' ' reforma' '3' '8' '9' '1' 'apte'
+-- unit 1870: rel Δ down=0.031 up=0.008 gate=0.006 | ||down||A/B=1.000
+   OUT(B) +: 'kach' 'inom' 'AuthConfig' 'statics' 'imiter' ' detachment' ' composing' ' ong' 'urban' 'getContentPane'
+   OUT(B) -: ' lait' ' piedra' ' messa' ' direto' ' bienvenidos' 'vai' 'orderEntry' 'icyclo' ' situasi' ' lanzado'
+   ΔOUT A-B +: ' power' ' crowds' ' situation' ' latter' ' role' ' circumstances' ' burden' ' corriente' 'sprechend' ' departe'
+   ΔOUT A-B -: ' etn' 'inesh' ' quinze' ' ocho' 'eight' ' zub' ' polyphen' ' nM' ' ziff' ' evitar'
+   GATE in +: ' asas' ' quir' ' The' ' dobro' 'ious' ' vice' 'The' ' confronti' 'pective' ' ambas'
+   UP in +: ' Booking' 'Ship' ' Travelers' 'outstanding' 'UCH' ' Reservations' ' Whale' ' asymptotics' ' shippers' ' delinquency'
+   UP in -: '7' '3' '9' '5' '4' '6' '8' '1' 'uncie' ' coup'
+-- unit 1034: rel Δ down=0.027 up=0.014 gate=0.003 | ||down||A/B=0.998
+   OUT(B) +: ' was' ' were' ' had' ' hadn' ' weren' ' wasn' ' waren' ' hatte' 'was' 'were'
+   OUT(B) -: 'May' ' may' 'Lex' ' transdu' 'ircon' 'ito' ' useNavigate' 'oton' 'lex' 'zn'
+   ΔOUT A-B +: 'tmp' 'Straw' ' Ereign' ' Zeke' ' militaires' 'Mockito' ' Halk' 'Orlando' 'Gene' 'Dere'
+   ΔOUT A-B -: '0' ' give' ' detail' ' or' 'giving' ' dona' '4' ' names' 'ivity' ' methods'
+   GATE in +: ' was' ' were' ' had' ' came' ' went' 'was' 'took' ' threw' ' began' ' fue'
+   UP in +: ' is' ' can' ' are' ' organise' ' keep' ' keeps' 'ability' 'obie' 'are' 'Keep'
+   UP in -: ' wandered' ' smoothed' ' hovered' ' wandering' ' strolled' ' interrupted' ' tilted' ' Era' ' evoked' ' havia'
+
+####### L14: median rel change down=0.0184 up=0.0067 gate=0.0078
+-- unit 575: rel Δ down=0.037 up=0.017 gate=0.002 | ||down||A/B=1.001
+   OUT(B) +: "''" " ''" ' Diarsipkan' "''''" "'''" 'amiseks' ' XNUMX' 'arabangsa' 'leq' 'noduch'
+   OUT(B) -: 'tfrac' 'dfrac' 'Tweets' ' LikeLike' ' perv' ' prove' ' Docsity' ' centre' ' Inte' ' nevertheless'
+   ΔOUT A-B +: ' gripe' ' basics' 'ulitan' 'batas' ' reason' ' twofold' 'ppler' 'pyrazine' ' provoke' ' center'
+   ΔOUT A-B -: 'Dans' 'Dat' ' onge' ' Tento' 'Dir' ' Auf' ' Lor' 'El' 'ix' 'DE'
+   GATE in +: "''" ' muscul' 'ogene' 'noduch' ' sollen' ' posiblemente' ' abges' 'hoch' ' fallait' ' sugiere'
+   UP in +: '5' '6' '3' '7' ' forefathers' '8' ' forti' '4' ' hebat' 'umpulan'
+   UP in -: 'vans' "''" '.' 'fins' 'glas' '?' ' with' 'NEAPOLIS' 'osity' 'pute'
+-- unit 1306: rel Δ down=0.040 up=0.010 gate=0.002 | ||down||A/B=1.000
+   OUT(B) +: "''" "''''" 'rdquo' 'abhavo' ' Fleurit' 'ObjectHideFlags' 'LOTREntity' 'omitempty' 'opardy' " ''"
+   OUT(B) -: '.' ' recordemos' ' paternity' ' impenetr' ' anunciou' ' cantante' 'illis' 
+[output cut at 15,000 characters]
+```

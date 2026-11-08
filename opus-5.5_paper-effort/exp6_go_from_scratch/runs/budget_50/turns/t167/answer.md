@@ -1,0 +1,3 @@
+```games
+{"games": {"weak": 48, "random": 16, "strong": 64}}
+```

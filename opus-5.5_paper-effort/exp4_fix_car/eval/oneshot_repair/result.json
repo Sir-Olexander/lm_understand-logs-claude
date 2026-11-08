@@ -1,0 +1,186 @@
+{
+ "edit_report": {
+  "block": true,
+  "statements": 37,
+  "applied": 37,
+  "entries_written": 3896,
+  "errors": [],
+  "cut_off": false,
+  "tensors_touched": [
+   "actor0.W",
+   "actor0.b",
+   "actor1.W",
+   "actor1.b",
+   "actor2.W",
+   "actor2.b",
+   "actor3.W",
+   "actor3.b",
+   "actor4.W",
+   "actor4.b",
+   "actor_head.W",
+   "actor_head.b",
+   "embed.W",
+   "embed.b"
+  ]
+ },
+ "changes": {
+  "changed": 3686,
+  "entries": 171664,
+  "frac_changed": 0.021472178208593533,
+  "rel_change": 1.168017189385178,
+  "tensors_changed": [
+   "embed.W",
+   "embed.b",
+   "actor0.W",
+   "actor0.b",
+   "actor1.W",
+   "actor1.b",
+   "actor2.W",
+   "actor2.b",
+   "actor3.W",
+   "actor3.b",
+   "actor4.W",
+   "actor4.b",
+   "actor_head.W",
+   "actor_head.b"
+  ],
+  "tensors_zeroed": [],
+  "per_tensor": {
+   "embed.W": {
+    "changed": 2524,
+    "entries": 86912,
+    "rel_change": 1.0812099023205866,
+    "zeroed": false
+   },
+   "embed.b": {
+    "changed": 4,
+    "entries": 128,
+    "rel_change": 484.36265017590756,
+    "zeroed": false
+   },
+   "actor0.W": {
+    "changed": 255,
+    "entries": 16384,
+    "rel_change": 0.5655092303287537,
+    "zeroed": false
+   },
+   "actor0.b": {
+    "changed": 2,
+    "entries": 128,
+    "rel_change": 0.07398017745159939,
+    "zeroed": false
+   },
+   "actor1.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.21190260506971909,
+    "zeroed": false
+   },
+   "actor1.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 4.114545204558404,
+    "zeroed": false
+   },
+   "actor2.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.1525056432884411,
+    "zeroed": false
+   },
+   "actor2.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.16358582810457625,
+    "zeroed": false
+   },
+   "actor3.W": {
+    "changed": 127,
+    "entries": 16384,
+    "rel_change": 0.17756980515355664,
+    "zeroed": false
+   },
+   "actor3.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.07664699978579292,
+    "zeroed": false
+   },
+   "actor4.W": {
+    "changed": 128,
+    "entries": 16384,
+    "rel_change": 0.1729244727155461,
+    "zeroed": false
+   },
+   "actor4.b": {
+    "changed": 1,
+    "entries": 128,
+    "rel_change": 0.04291699759163943,
+    "zeroed": false
+   },
+   "actor_head.W": {
+    "changed": 383,
+    "entries": 2048,
+    "rel_change": 2.3303369008417607,
+    "zeroed": false
+   },
+   "actor_head.b": {
+    "changed": 3,
+    "entries": 16,
+    "rel_change": 38.41415884152061,
+    "zeroed": false
+   }
+  }
+ },
+ "search": {
+  "success": 1.0,
+  "red": 0.0,
+  "timeout": 0.0,
+  "invalid": 0.0,
+  "return": 1.372177243232727,
+  "length": 75.0,
+  "progress": 1.0,
+  "argmax_success": 1.0,
+  "argmax_outcome": "success"
+ },
+ "search_text": "Result over 256 episodes (actions sampled from the policy): success 256 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.372; mean episode length 75 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.\nA sampled episode (success after 75 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2\n    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00\n   16 | 3.84, 0.60, -0.03 | 3.58, 0.62 | 4.15, 0.62 | 1 | 0.00 / 1.00 / 0.00\n   32 | 4.30, 0.60, -0.02 | 4.04, 0.62 | 4.61, 0.62 | 1 | 0.00 / 1.00 / 0.00\n   48 | 2.82, 0.62, -0.09 | 2.56, 0.65 | 3.12, 0.62 | 1 | 0.00 / 1.00 / 0.00\n   64 | 1.61, 1.07, -0.07 | 1.34, 1.10 | 1.91, 1.08 | 1 | 0.00 / 1.00 / 0.00\n   74 | 0.92, 0.62, 0.04 | 0.65, 0.62 | 1.22, 0.66 | 1 | 0.00 / 1.00 / 0.00",
+ "test": {
+  "success": 1.0,
+  "red": 0.0,
+  "timeout": 0.0,
+  "invalid": 0.0,
+  "return": 1.372177243232727,
+  "length": 75.0,
+  "episodes": 1024,
+  "stream": "test",
+  "mode": "sample",
+  "env_steps": 76800,
+  "success_count": 1024,
+  "success_se": 0.0
+ },
+ "base": {
+  "success": 0.0,
+  "red": 0.0,
+  "timeout": 1.0,
+  "invalid": 0.0,
+  "return": 0.15183274447917938,
+  "length": 256.0,
+  "progress": 0.3390777111053467,
+  "argmax_success": 0.0,
+  "argmax_outcome": "timeout"
+ },
+ "note": "repair",
+ "mock": false,
+ "model": "claude-opus-5-5",
+ "effort": "high",
+ "tool_free": true,
+ "usage": {
+  "input_tokens": 2,
+  "cache_creation_input_tokens": 435590,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 15115
+ },
+ "wall_s": 161.1,
+ "answer_sha256": "070ea3117cb290cce0ff727b477e602aa21e599556960f3202fc1d6886945f7a",
+ "scored": "2026-11-06T16:59:07+00:00"
+}

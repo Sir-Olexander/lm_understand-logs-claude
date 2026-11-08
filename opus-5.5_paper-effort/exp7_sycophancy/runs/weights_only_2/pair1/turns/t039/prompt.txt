@@ -1,0 +1,30 @@
+OUTPUT of run 38 of at most 60:
+```
+component | fractional change of d*-writing capacity | concentration of the diff on d* (x random)
+L17 MLP        0.145  10.3
+L16 MLP        0.103  7.8
+L17 attn h3    0.079  7.2
+L16 attn h1    0.058  4.3
+L15 MLP        0.056  4.1
+L17 attn h0    0.054  4.3
+L16 attn h3    0.048  4.7
+L16 attn h0    0.042  4.0
+L14 MLP        0.041  2.7
+L17 attn h1    0.038  4.6
+L16 attn h2    0.028  4.0
+L15 attn h3    0.027  2.6
+L13 MLP        0.026  1.9
+L17 attn h2    0.025  2.3
+L14 attn h0    0.021  2.2
+L15 attn h0    0.020  2.0
+L15 attn h2    0.020  2.9
+L10 MLP        0.017  1.0
+L15 attn h1    0.016  2.6
+L12 MLP        0.016  1.4
+L13 attn h1    0.015  1.4
+L14 attn h2    0.015  1.9
+L8 MLP         0.015  0.9
+L14 attn h3    0.015  1.7
+L9 MLP         0.013  1.1
+
+```

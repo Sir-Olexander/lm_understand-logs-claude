@@ -1,0 +1,54 @@
+OUTPUT of Python run 35 of at most 120:
+```
+1 70 me 1 move (0, 3) size 3 [((0, 3), 1.0), ((7, 7), 0.0), ((7, 0), 0.0), ((8, 1), 0.0), ((8, 2), 0.0)]
+O.O.OOO..
+OOOXOOOOX
+OO.XOOOO.
+.OOOOXOXO
+OOOXXXXX.
+XXOXX.XXX
+.OOOXXXX.
+.OXXXXX..
+.......X.
+2 58 me 1 move (0, 2) size 3 [((0, 2), 1.0), ((4, 0), 0.0), ((6, 4), 0.0), ((6, 7), 0.0), ((1, 7), 0.0)]
+.X.XOX...
+XOOOOXO..
+XOOXOOOX.
+OOX.XOOOO
+.X.X.XXOO
+..X.X.XOO
+.XXX.XX..
+.X.......
+.........
+3 66 me 1 move (8, 8) size 2 [((8, 8), 1.0), ((1, 5), 0.0), ((2, 7), 0.0), ((1, 7), 0.0), ((0, 2), 0.0)]
+.X.......
+.OOXO.X..
+OOOXXXX..
+OOX.XXXX.
+OOXX.XXXX
+OOOXXXOXO
+OXOOOXOXO
+XXOOOOOOO
+.OO.OO.X.
+3 72 me 1 move (7, 0) size 2 [((7, 0), 1.0), ((1, 5), 0.0), ((1, 7), 0.0), ((0, 2), 0.0), ((3, 8), 0.0)]
+.X.......
+.OOXO.X..
+OOOXXXXX.
+OOX.XXXX.
+OOXX.XXXX
+OOOXXXOXO
+O.OOOXOXO
+.XOOOOOOO
+OOO.OOOO.
+3 80 me 1 move (0, 0) size 3 [((0, 0), 1.0), ((1, 7), 0.0), ((3, 8), 0.0), ((0, 5), 0.0), ((0, 6), 0.0)]
+.XX.X....
+OOOX.XX..
+OOOXXXXX.
+OOX.XXXX.
+OOXX.XXXX
+OOOXXXOXO
+O.OOOXOXO
+XXOOOOOOO
+OOO.OOOOO
+
+```

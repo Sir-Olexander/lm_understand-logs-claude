@@ -1,0 +1,64 @@
+OUTPUT of run 5 of at most 60:
+```
+L9 q_proj sv0 s=0.099
+  +: ' svůj' 'ându' '用に' ' tembok' ' EBR' ' lähe' ' querido' 'ดูแล' ' své' ' สืบค้น' ' chuyện' ' julg' ' cariño' ' konuda'
+  -: ' three' '3' ' greater' 'three' ' education' ' ' ' teachers' ' incorrect' ' equal' ' educators' ' four' ' Three' ' six' ' elements'
+L9 q_proj sv1 s=0.062
+  +: ' choir' ' Kes' ' mãn' 'Prest' ' dissatisfied' '爨' ' Jol' ' Ath' '岦' ' powertrain' '埒' ' vực' ' Heated' ' Kend'
+  -: ' IBA' 'grams' 'gica' 'igrams' 'worms' ' mousse' ' пузы' 'oulli' ' inoc' 'DHL' '仔' ' gentamicin' 'iu' ' оре'
+L10 q_proj sv0 s=0.116
+  +: '4' '3' '5' '6' '7' '8' '1' '2' '0' '9' ' ' '４' ' three' 'ربعة'
+  -: ']/*' ' articul' ' SII' ' Kobe' ' 갖고' '上市' ' Provence' ' Sardinia' ' Berc' ' Croatia' ' Bianco' ' ประเทศ' ' personalise' ' preci'
+L10 q_proj sv1 s=0.064
+  +: ' less' '：' ':**' ' Not' ' Star' ' Lower' ' born' ':' ' United' 'born' ' Kah' ' Council' ' intersection' ' None'
+  -: 'ตร์' '篡' ' experimentado' 'вні' ' suasana' ' enriqu' ' muestras' 'نن' 'ungannya' ' архіви' ' יוד' ' peristiwa' ' испы' ' autorizado'
+L11 q_proj sv0 s=0.096
+  +: ' mRNAs' '馴' 'roir' 'imen' 'rient' '່ງ' 'RESS' '屏幕' 'Protocol' 'Mou' ']/*' ' Monsieur' ' Protocol' 'γον'
+  -: '7' '4' '3' '5' '9' '8' '6' ' bersih' ' missing' '2' '1' ' šest' ' patru' '不可以'
+L11 q_proj sv1 s=0.066
+  +: ' servitude' '}]}\\' 'hesize' ' Cond' 'cond' ' everywhere' ' fertilized' '}`,' ' soff' '}}},' 'Suff' 'PROGRESS' ' homelessness' 'ว่าง'
+  -: '0' '5' '8' '6' '9' '4' '7' 'つの' 'culo' ' kolejne' 'هرب' ' experto' '2' '٠'
+L12 q_proj sv0 s=0.120
+  +: '4' '3' '5' '9' '6' '7' '8' '0' '1' '2' '４' '９' '７' '６'
+  -: ' Wash' ' Hawai' ' 感じ' ' toot' '馴' ' Cote' ' Walla' ' Watan' ' Wai' ' zindagi' '日常' ' Tears' ' Sauv' ' HAI'
+L12 q_proj sv1 s=0.076
+  +: '᱐' 'hatian' ' faktor' ' poderos' '大事' '当量' ' impresionante' '᱕' 'граф' ' geweld' ' ogrom' ' boyunca' ' enormes' ' longo'
+  -: ' neither' 'lucent' ' CAND' 'ว่าง' ' Neither' ' sewers' ' ?,' 'kirche' ' contaminated' ' shores' 'neither' ' Abst' 'rikt' 'liqu'
+L11 k_proj sv0 s=0.049
+  +: '7' '4' '5' '3' '6' '8' '9' '0' '1' '2' '７' ' اربعه' '５' '８'
+  -: 'roir' ' lysosomes' ' transom' ' intrans' ' prolet' 'ຂ' ' frontage' 'Protocol' '砧' 'ÉS' ' acquies' ' oxid' '슭' ' NEGLIGENCE'
+L11 k_proj sv1 s=0.034
+  +: '9' ' vorhanden' 'зем' '5' ' else' ' zdrav' ' übrig' ' gefunden' '8' ' wró' ' zamknię' ' pozosta' '7' '4'
+  -: ' parades' ' telenov' ' thrills' ' tailgate' 'performance' ' performance' ' Kogi' 'rapes' '$-,' ' performances' '&$' ' Dept' ' dimes' '影片'
+L12 k_proj sv0 s=0.054
+  +: 'izin' '簀' ' борьбе' '嗐' ' strapping' 'Eff' '吆' '胳' ' neck' 'tech' 'adim' ' Gore' 'γε' 'Printing'
+  -: ' rodas' ' congén' ' fundamentales' 'óság' ' antisymmetric' ' Pty' ' underval' '鉱' ' grunn' 'thys' 'nights' 'hebung' 'ครัว' ' perguntas'
+L12 k_proj sv1 s=0.038
+  +: '}`))' '])):' '}`,' ' $_{\\' '}`}' '}]},' ' }}$,' 'PLAYS' ' Lament' '}|^' '}`)' 'totalSupply' 'Gosudarstvennyj' ' Heer'
+  -: '0' '5' '8' '6' '9' '7' '4' '2' '3' '1' 'x' 'ascin' '０' 'рма'
+L17 k_proj sv0 s=0.046
+  +: ' comps' ' juntos' ' hoeveel' 'bigg' '𝗳' 'لفة' 'peso' 'substrate' ' Schae' '金额' ' macroeconomic' '𝗠' ' curric' ' taux'
+  -: 'ຢ' ' greetings' ' expir' 'ຊີ' ' ricordare' 'ຫວ' ' miejscowości' 'ນາ' 'ຈ' 'ຕາມ' ' hairs' ' saludar' 'ປ' ' peac'
+L17 k_proj sv1 s=0.028
+  +: '徃' ' \\\\..' ' Ztg' ' しっかり' '୬' ' specifica' ' zindagi' 'OGRAF' '瀵' ' Kapit' ' {@' ' mohabbat' ' JobList' 'บริการ'
+  -: '5' '6' '4' '3' '7' '8' '2' '9' '1' '0' ' ' '৬' '६' '४'
+L0 v_proj sv0 s=0.038
+  +: '<unused806>' '<unused1118>' '<unused1211>' '<unused185>' '<unused801>' '<unused1969>' '<unused116>' '<unused798>' '<unused112>' 'atthanam' '<unused1009>' '<unused147>' '<unused1936>' '<unused148>'
+  -: '\n' ' What' '1' '\n\n' ' ' 'What' '2' ' The' 'The' '\n\n\n' ' what' '0' '3' ' How'
+L0 v_proj sv1 s=0.031
+  +: ' ' ' in' ',' ' a' ' and' ' (' ' to' ' un' ' f' ' b' ' is' ' t' '-' ' as'
+  -: ' llrp' '<unused619>' ' BSData' '<unused222>' '<unused496>' '<unused611>' '<unused1151>' '<unused463>' '<unused225>' '<unused1132>' ' iccad' '<unused1148>' '<unused480>' '<unused1016>'
+L15 v_proj sv0 s=0.030
+  +: '7' '8' '6' '5' '4' '9' '3' '1' '2' '0' '７' '８' '９' '６'
+  -: ' Aver' ' RADIO' ' PEACE' '\uf021' ' Secular' 'TimeString' ' Cote' ' Hone' ' Downt' ' Kast' ' Prong' ' Pré' ' kì' ' Vanilla'
+L15 v_proj sv1 s=0.027
+  +: ' آبادی' '飩' ' attendants' ' Meso' '俱' ' Gagn' ' readjust' ' attendant' ' Valdez' ' Shipp' ' tribu' ' Trib' ' บ่' 'elser'
+  -: '0' '3' '2' '9' '1' '4' '7' '5' '6' '8' 'fordshire' ' classica' '同一个' ' sebi'
+L16 v_proj sv0 s=0.041
+  +: ' preci' ' exquis' 'Buongiorno' 'calibrate' 'leur' '\\:' ' Sahara' ' produc' '🗾' '_.' 'ês' '🍘' ' adenos' ' Oso'
+  -: '7' '8' '3' '5' '9' '6' '1' '4' '2' ' ۷' '８' '７' '۸' ' ۹'
+L16 v_proj sv1 s=0.026
+  +: ' tissu' '機構' ' cadrul' ' posibilidad' '往前' 'shake' ' contacto' '主体' ' OPTIONS' ' opsi' ' opacity' '터' ' Maas' 'STOCK'
+  -: '9' '6' '7' '8' '5' '4' '3' '2' '1' '９' '８' 'scoring' '４' ' songwriter'
+
+```

@@ -1,0 +1,23 @@
+OUTPUT of run 11 of at most 100:
+```
+P vs T overlap [0.52 0.33 0.28 0.27 0.24 0.21 0.2  0.18 0.16 0.15 0.12 0.1  0.08 0.08 0.07 0.04 0.03 0.02 0.02 0.01]
+L0H0 sv0 1.98: query in P 0.82 in T 0.44 | key in P 0.92 in T 0.29
+L0H0 sv1 0.82: query in P 0.70 in T 0.23 | key in P 0.64 in T 0.62
+L0H1 sv0 1.20: query in P 0.63 in T 0.21 | key in P 0.38 in T 0.32
+L0H1 sv1 0.34: query in P 0.87 in T 0.21 | key in P 0.35 in T 0.67
+L0H2 sv0 0.82: query in P 0.79 in T 0.18 | key in P 0.53 in T 0.50
+L0H2 sv1 0.14: query in P 0.54 in T 0.26 | key in P 0.64 in T 0.28
+L0H3 sv0 1.95: query in P 0.99 in T 0.25 | key in P 0.98 in T 0.18
+L0H3 sv1 1.79: query in P 0.99 in T 0.24 | key in P 0.98 in T 0.19
+L0H4 sv0 0.64: query in P 0.64 in T 0.18 | key in P 0.42 in T 0.48
+L0H4 sv1 0.17: query in P 0.42 in T 0.17 | key in P 0.51 in T 0.28
+L0H5 sv0 0.26: query in P 0.82 in T 0.23 | key in P 0.38 in T 0.77
+L0H5 sv1 0.03: query in P 0.22 in T 0.33 | key in P 0.27 in T 0.27
+H0 |bq| 0.504 key-pref vec norm 0.344  in P 0.63 in T 0.68
+H1 |bq| 0.228 key-pref vec norm 0.100  in P 0.31 in T 0.36
+H2 |bq| 0.146 key-pref vec norm 0.057  in P 0.52 in T 0.50
+H3 |bq| 0.467 key-pref vec norm 0.343  in P 0.85 in T 0.32
+H4 |bq| 0.270 key-pref vec norm 0.134  in P 0.43 in T 0.49
+H5 |bq| 0.143 key-pref vec norm 0.042  in P 0.40 in T 0.76
+
+```

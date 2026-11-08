@@ -1,0 +1,5 @@
+[2026-11-05T22:50:38] BENCH v2/ppo_s9: 0.139 s/iteration -> 0.8 h for 20000 iterations
+[2026-11-05T22:50:56] BENCH v2/reinforce_s9: 0.104 s/iteration -> 0.6 h for 20000 iterations
+[2026-11-05T22:51:23] BENCH v2/ppo_s8: 0.451 s/iteration -> 2.5 h for 20000 iterations
+[2026-11-05T22:51:23] BENCH v2/ppo_s7: 0.457 s/iteration -> 2.5 h for 20000 iterations
+[2026-11-05T22:51:23] BENCH v2/ppo_s9: 0.459 s/iteration -> 2.5 h for 20000 iterations

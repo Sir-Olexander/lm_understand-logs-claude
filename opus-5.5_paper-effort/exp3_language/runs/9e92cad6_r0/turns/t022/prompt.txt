@@ -1,0 +1,15 @@
+OUTPUT of run 21 of at most 100:
+```
+Tm(26) vs P cos: [0.37 0.29 0.14 0.13 0.09 0.08 0.07 0.06 0.06 0.06 0.05 0.05 0.04 0.04 0.03 0.03 0.03 0.02 0.02 0.01]
+Tm(26) vs T3 cos: [0.89 0.88 0.87 0.85 0.84 0.83 0.81 0.78 0.76 0.74 0.72 0.7  0.68 0.67 0.65 0.62]
+Tm(26) vs O(60) cos: [0. 0. 0. 0. 0.]
+L0H3 QK in Tm x Tm: 0.021860805912206932  in P x P: 0.9043022
+L0H3 OV input energy in Tm: 0.5321448786313726 in P: 0.07163451
+0 OV-in in Tm 0.37 OV-in in P 0.06 Q in Tm 0.05 K in Tm 0.06 Q in P 0.43 K in P 0.55
+1 OV-in in Tm 0.03 OV-in in P 0.61 Q in Tm 0.03 K in Tm 0.06 Q in P 0.36 K in P 0.13
+2 OV-in in Tm 0.03 OV-in in P 0.7 Q in Tm 0.03 K in Tm 0.07 Q in P 0.37 K in P 0.18
+3 OV-in in Tm 0.53 OV-in in P 0.07 Q in Tm 0.02 K in Tm 0.02 Q in P 0.64 K in P 0.78
+4 OV-in in Tm 0.03 OV-in in P 0.55 Q in Tm 0.03 K in Tm 0.05 Q in P 0.26 K in P 0.17
+5 OV-in in Tm 0.02 OV-in in P 0.89 Q in Tm 0.02 K in Tm 0.07 Q in P 0.4 K in P 0.1
+
+```

@@ -1,0 +1,45 @@
+OUTPUT of Python run 50 of at most 120:
+```
+Counter({'neutral_pts': 3416, 'passes': 553, 'pass_with_neutral_region': 490, 'after_opp_pass': 45})
+0 92 -17.5 63 [((9, 0), 1.0), ((2, 3), 0.0), ((2, 2), 0.0)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XOX
+X.XX.XXX.
+0 94 -17.5 63 [((9, 0), 1.0), ((2, 3), 0.0), ((2, 2), 0.0)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XO.
+X.XX.XXXO
+0 96 -17.5 64 [((9, 0), 1.0), ((2, 3), 0.0), ((2, 2), 0.0)]
+.OO.O.XO.
+.OOOOOO.O
+OO..O.OO.
+OOOOOOOOO
+XXXXXXXO.
+.X.XXXOOO
+XXXXXXOOO
+XX.XX.XOO
+X.XX.XXXO
+2 84 -1.5 67 [((8, 4), 0.5676), ((9, 0), 0.2681), ((8, 5), 0.0731)]
+.OOO.O...
+OOOXXOOOO
+OOOXOOX.O
+OOOOOOOOO
+XXOXXXOOX
+XXXXXXXXX
+XXXXX.X.X
+OOOXXXXX.
+..OO...XX
+
+```

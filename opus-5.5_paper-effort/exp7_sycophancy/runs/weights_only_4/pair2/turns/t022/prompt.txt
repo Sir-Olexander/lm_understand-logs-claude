@@ -1,0 +1,24 @@
+OUTPUT of run 21 of at most 60:
+```
+layer | matched: base-effect, delta(A-B) | shuffled delta mean+-sd (5 perms) | z
+L 0 base    -5.651 delta  +0.0096 | shuffled  +0.0505 +- 0.0339 | z=-1.21
+L 1 base   +23.746 delta  +0.4240 | shuffled  -0.0031 +- 0.0990 | z=+4.32
+L 2 base   -17.734 delta  -0.0889 | shuffled  +0.0969 +- 0.2698 | z=-0.69
+L 3 base   -13.568 delta  -0.3884 | shuffled  -0.2587 +- 0.6045 | z=-0.21
+L 4 base    -4.685 delta  -0.2491 | shuffled  -0.0369 +- 0.2061 | z=-1.03
+L 5 base   +88.685 delta  -0.1083 | shuffled  -0.0110 +- 0.2012 | z=-0.48
+L 6 base    +5.671 delta  +0.4567 | shuffled  +0.1200 +- 0.0213 | z=+15.77
+L 7 base   -28.086 delta  -0.1296 | shuffled  -0.1059 +- 0.1183 | z=-0.20
+L 8 base    +4.477 delta  -0.2770 | shuffled  -0.2108 +- 0.0964 | z=-0.69
+L 9 base   +10.992 delta  +0.0549 | shuffled  +0.0025 +- 0.0754 | z=+0.69
+L10 base    -4.829 delta  +0.1044 | shuffled  +0.1773 +- 0.1827 | z=-0.40
+L11 base    +2.099 delta  -3.1674 | shuffled  -1.8924 +- 0.9181 | z=-1.39
+L12 base  +266.860 delta  +0.2522 | shuffled  +0.6442 +- 0.3138 | z=-1.25
+L13 base  +185.413 delta  -0.5203 | shuffled  +0.1967 +- 1.0136 | z=-0.71
+L14 base   -40.393 delta  +0.8768 | shuffled  -0.3036 +- 0.6792 | z=+1.74
+L15 base    +7.932 delta  +1.2236 | shuffled  -0.5440 +- 1.4037 | z=+1.26
+L16 base  -205.511 delta  +1.2111 | shuffled  +0.0490 +- 0.6102 | z=+1.90
+L17 base  -910.371 delta  -0.2783 | shuffled  +6.3344 +- 3.9863 | z=-1.66
+sum z 15.770784
+
+```

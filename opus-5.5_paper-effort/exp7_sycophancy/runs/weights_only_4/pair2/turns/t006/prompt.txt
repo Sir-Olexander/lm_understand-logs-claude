@@ -1,0 +1,119 @@
+OUTPUT of run 5 of at most 60:
+```
+'user'           id=   2364 L0pct=100.00 L1pct=100.00
+'model'          id=   4368 L0pct= 85.57 L1pct= 96.63
+'answer'         id=  14433 L0pct= 75.75 L1pct= 99.98
+' answer'        id=   3890 L0pct= 89.96 L1pct=100.00
+' is'            id=    563 L0pct= 99.96 L1pct=100.00
+' think'         id=   1751 L0pct= 82.87 L1pct= 96.54
+' guess'         id=   8844 L0pct= 27.71 L1pct= 75.93
+' believe'       id=   4646 L0pct= 49.17 L1pct= 77.77
+' sure'          id=   2889 L0pct= 30.77 L1pct= 53.73
+' pretty'        id=   5497 L0pct= 49.95 L1pct= 39.58
+' plus'          id=   2915 L0pct= 93.98 L1pct= 99.99
+' minus'         id=  12174 L0pct= 93.22 L1pct=100.00
+' times'         id=   2782 L0pct= 66.22 L1pct= 96.92
+' divided'       id=  11310 L0pct= 69.07 L1pct= 84.46
+' multiplied'    id=  37764 L0pct= 53.46 L1pct= 87.32
+' by'            id=    684 L0pct= 87.68 L1pct= 74.58
+' What'          id=   2900 L0pct= 99.72 L1pct= 99.43
+' what'          id=   1144 L0pct= 97.41 L1pct= 97.10
+' I'             id=    564 L0pct= 98.00 L1pct= 95.97
+' my'            id=   1041 L0pct= 76.72 L1pct= 83.68
+' My'            id=   3551 L0pct= 89.88 L1pct= 80.19
+' correct'       id=   4338 L0pct= 66.51 L1pct= 92.72
+' right'         id=   1447 L0pct= 62.44 L1pct= 78.30
+' wrong'         id=   6133 L0pct= 41.49 L1pct= 68.69
+' it'            id=    625 L0pct= 80.25 L1pct= 87.20
+' result'        id=   1354 L0pct= 45.23 L1pct= 93.93
+' equals'        id=  14339 L0pct= 65.96 L1pct= 95.65
+' equal'         id=   4745 L0pct= 77.78 L1pct= 89.58
+' sum'           id=   2324 L0pct= 87.34 L1pct= 93.81
+' product'       id=   1698 L0pct= 84.51 L1pct= 92.92
+' difference'    id=   4954 L0pct= 47.58 L1pct= 85.02
+' calculate'     id=   9279 L0pct= 77.44 L1pct= 91.39
+' Calculate'     id=  22241 L0pct= 80.84 L1pct= 80.62
+' compute'       id=  16333 L0pct= 74.09 L1pct= 89.77
+' solve'         id=   8974 L0pct= 64.34 L1pct= 95.36
+'?'              id= 236881 L0pct= 84.42 L1pct= 92.39
+':'              id= 236787 L0pct= 82.38 L1pct= 49.95
+' ='             id=    578 L0pct= 78.21 L1pct= 82.21
+'='              id= 236784 L0pct= 53.00 L1pct= 37.87
+'+'              id= 236862 L0pct= 69.84 L1pct= 88.48
+'-'              id= 236772 L0pct= 89.02 L1pct= 61.17
+'*'              id= 236829 L0pct= 91.55 L1pct= 79.30
+'/'              id= 236786 L0pct= 79.06 L1pct= 56.59
+'x'              id= 236781 L0pct= 73.23 L1pct= 51.74
+' x'             id=   1123 L0pct= 92.17 L1pct= 89.31
+' ×'             id=  15666 L0pct= 87.00 L1pct= 75.14
+'0'              id= 236771 L0pct= 76.01 L1pct= 96.29
+'1'              id= 236770 L0pct= 91.19 L1pct=100.00
+'2'              id= 236778 L0pct= 86.86 L1pct= 99.65
+'3'              id= 236800 L0pct= 80.97 L1pct= 96.98
+'4'              id= 236812 L0pct= 76.37 L1pct= 96.90
+'5'              id= 236810 L0pct= 76.10 L1pct= 97.00
+'6'              id= 236825 L0pct= 76.36 L1pct= 96.96
+'7'              id= 236832 L0pct= 76.97 L1pct= 99.65
+'8'              id= 236828 L0pct= 74.85 L1pct= 96.85
+'9'              id= 236819 L0pct= 74.53 L1pct= 97.01
+' 1'             multi-token [236743, 236770]
+' 2'             multi-token [236743, 236778]
+' the'           id=    506 L0pct= 99.50 L1pct= 99.66
+' The'           id=    669 L0pct= 99.29 L1pct= 96.34
+'The'            id=    818 L0pct= 92.67 L1pct= 94.62
+' of'            id=    529 L0pct= 96.80 L1pct= 96.19
+' number'        id=   1548 L0pct= 59.30 L1pct= 93.08
+' friend'        id=   4389 L0pct= 70.68 L1pct= 72.98
+' teacher'       id=   9800 L0pct= 82.73 L1pct= 87.07
+' says'          id=   3189 L0pct= 67.45 L1pct= 87.19
+' said'          id=   1176 L0pct= 47.39 L1pct= 58.88
+' told'          id=   4173 L0pct= 31.33 L1pct= 22.30
+' thinks'        id=  20547 L0pct= 66.67 L1pct= 95.47
+' claims'        id=   8787 L0pct= 55.69 L1pct= 82.20
+' Is'            id=   2375 L0pct= 99.80 L1pct= 96.96
+' Yes'           id=   8438 L0pct= 82.95 L1pct= 82.76
+' No'            id=   2301 L0pct= 93.80 L1pct= 77.16
+' true'          id=   1847 L0pct= 65.94 L1pct= 85.65
+' false'         id=   2416 L0pct= 76.32 L1pct= 91.74
+' True'          id=   6288 L0pct= 68.66 L1pct= 77.67
+' False'         id=   8450 L0pct= 49.19 L1pct= 58.15
+' capital'       id=   5279 L0pct= 92.07 L1pct= 97.11
+' city'          id=   3207 L0pct= 88.14 L1pct= 96.31
+' country'       id=   2891 L0pct= 87.37 L1pct= 96.31
+' year'          id=   1051 L0pct= 68.59 L1pct= 72.88
+' Brazil'        id=  14600 L0pct= 99.98 L1pct= 99.99
+' Australia'     id=   8187 L0pct= 98.98 L1pct= 99.97
+' France'        id=   7001 L0pct= 99.79 L1pct= 99.31
+' Paris'         id=   9079 L0pct= 99.94 L1pct= 96.78
+' John'          id=   3415 L0pct=100.00 L1pct= 96.35
+' It'            id=   1030 L0pct= 92.55 L1pct= 87.32
+" it's"          multi-token [625, 236789, 236751]
+"'s"             multi-token [236789, 236751]
+' that'          id=    600 L0pct= 75.97 L1pct= 76.93
+' Hi'            id=  18428 L0pct= 93.43 L1pct= 61.35
+' Hello'         id=  26352 L0pct= 86.74 L1pct= 78.67
+' Please'        id=   7323 L0pct= 81.55 L1pct= 36.27
+' please'        id=   5091 L0pct= 53.06 L1pct= 39.50
+' question'      id=   2934 L0pct= 75.74 L1pct= 96.53
+' square'        id=   6281 L0pct= 88.83 L1pct= 95.60
+' root'          id=   5989 L0pct= 87.26 L1pct= 92.85
+' percent'       id=   3591 L0pct= 55.66 L1pct= 80.27
+' half'          id=   3746 L0pct= 70.66 L1pct= 87.91
+' double'        id=   3972 L0pct= 93.48 L1pct= 95.47
+' twice'         id=  10911 L0pct= 59.95 L1pct= 89.66
+' many'          id=   1551 L0pct= 47.29 L1pct= 57.78
+' how'           id=   1217 L0pct= 85.01 L1pct= 94.14
+' How'           id=   2088 L0pct= 97.98 L1pct= 95.72
+' much'          id=   1623 L0pct= 52.23 L1pct= 39.20
+' total'         id=   2558 L0pct= 83.08 L1pct= 94.15
+' apples'        id=  36157 L0pct= 83.83 L1pct= 91.48
+' cost'          id=   2157 L0pct= 86.20 L1pct= 91.48
+' dollars'       id=  11092 L0pct= 58.23 L1pct= 79.15
+' $'             id=    609 L0pct= 52.65 L1pct= 56.40
+'$'              id= 236795 L0pct= 15.36 L1pct=  3.71
+special: [(0, '<pad>'), (1, '<eos>'), (2, '<bos>'), (3, '<unk>'), (4, '<mask>'), (105, '<start_of_turn>'), (106, '<end_of_turn>'), (255999, '<start_of_image>'), (256000, '<end_of_image>'), (262144, '<image_soft_token>')]
+<start_of_turn> 105 98.51303100585938 99.99008178710938
+<end_of_turn> 106 88.17558288574219 97.1099853515625
+<bos> 2 61.676788330078125 78.70101928710938
+
+```

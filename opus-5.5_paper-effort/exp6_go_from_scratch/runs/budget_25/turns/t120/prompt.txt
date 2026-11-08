@@ -1,0 +1,10 @@
+OUTPUT of Python run 100 of at most 120:
+```
+None []
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 44, in <module>
+IndexError: list index out of range
+
+```

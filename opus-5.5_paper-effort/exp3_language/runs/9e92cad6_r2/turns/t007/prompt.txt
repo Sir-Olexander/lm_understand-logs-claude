@@ -1,0 +1,24 @@
+OUTPUT of run 6 of at most 100:
+```
+overlap of OV output 2D subspaces (L0):
+0 [array([1., 1.], dtype=float32), array([0.14, 0.  ], dtype=float32), array([0.14, 0.02], dtype=float32), array([0.06, 0.02], dtype=float32), array([0.14, 0.01], dtype=float32), array([0.12, 0.  ], dtype=float32)]
+1 [array([0.14, 0.  ], dtype=float32), array([1., 1.], dtype=float32), array([1.  , 0.98], dtype=float32), array([0.09, 0.02], dtype=float32), array([1.  , 0.98], dtype=float32), array([0.98, 0.9 ], dtype=float32)]
+2 [array([0.14, 0.02], dtype=float32), array([1.  , 0.98], dtype=float32), array([1., 1.], dtype=float32), array([0.09, 0.03], dtype=float32), array([0.99, 0.94], dtype=float32), array([0.99, 0.95], dtype=float32)]
+3 [array([0.06, 0.02], dtype=float32), array([0.09, 0.02], dtype=float32), array([0.09, 0.03], dtype=float32), array([1., 1.], dtype=float32), array([0.09, 0.01], dtype=float32), array([0.06, 0.02], dtype=float32)]
+4 [array([0.14, 0.01], dtype=float32), array([1.  , 0.98], dtype=float32), array([0.99, 0.94], dtype=float32), array([0.09, 0.01], dtype=float32), array([1., 1.], dtype=float32), array([0.97, 0.87], dtype=float32)]
+5 [array([0.12, 0.  ], dtype=float32), array([0.98, 0.9 ], dtype=float32), array([0.99, 0.95], dtype=float32), array([0.06, 0.02], dtype=float32), array([0.97, 0.87], dtype=float32), array([1., 1.], dtype=float32)]
+overlap of OV input 2D subspaces (L0):
+0 [array([1., 1.], dtype=float32), array([0.13, 0.02], dtype=float32), array([0.12, 0.05], dtype=float32), array([0.36, 0.13], dtype=float32), array([0.13, 0.01], dtype=float32), array([0.08, 0.07], dtype=float32)]
+1 [array([0.13, 0.02], dtype=float32), array([1., 1.], dtype=float32), array([0.98, 0.93], dtype=float32), array([0.12, 0.04], dtype=float32), array([0.95, 0.92], dtype=float32), array([0.96, 0.64], dtype=float32)]
+2 [array([0.12, 0.05], dtype=float32), array([0.98, 0.93], dtype=float32), array([1., 1.], dtype=float32), array([0.11, 0.03], dtype=float32), array([0.96, 0.87], dtype=float32), array([0.98, 0.8 ], dtype=float32)]
+3 [array([0.36, 0.13], dtype=float32), array([0.12, 0.04], dtype=float32), array([0.11, 0.03], dtype=float32), array([1., 1.], dtype=float32), array([0.1 , 0.01], dtype=float32), array([0.07, 0.04], dtype=float32)]
+4 [array([0.13, 0.01], dtype=float32), array([0.95, 0.92], dtype=float32), array([0.96, 0.87], dtype=float32), array([0.1 , 0.01], dtype=float32), array([1., 1.], dtype=float32), array([0.94, 0.62], dtype=float32)]
+5 [array([0.08, 0.07], dtype=float32), array([0.96, 0.64], dtype=float32), array([0.98, 0.8 ], dtype=float32), array([0.07, 0.04], dtype=float32), array([0.94, 0.62], dtype=float32), array([1., 1.], dtype=float32)]
+0 |qb| 0.504 |kb| 0.725  key-only vec norm 0.043, query-only 0.106
+1 |qb| 0.228 |kb| 0.261  key-only vec norm 0.013, query-only 0.027
+2 |qb| 0.146 |kb| 0.314  key-only vec norm 0.007, query-only 0.033
+3 |qb| 0.467 |kb| 0.543  key-only vec norm 0.043, query-only 0.052
+4 |qb| 0.270 |kb| 0.550  key-only vec norm 0.017, query-only 0.069
+5 |qb| 0.143 |kb| 0.171  key-only vec norm 0.005, query-only 0.015
+
+```

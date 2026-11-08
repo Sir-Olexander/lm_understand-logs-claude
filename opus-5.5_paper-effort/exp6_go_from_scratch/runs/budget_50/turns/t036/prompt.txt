@@ -1,0 +1,24 @@
+OUTPUT of Python run 28 of at most 120:
+```
+black ply 45 lost 7 [('n', 6, [6, 0.9996]), ('o', 7, [0, 0]), ('n', 8, [8, 1.0]), ('o', 10, [0, 0]), ('n', 79, [59, 0.1441]), ('o', 26, [0, 0]), ('n', 57, [59, 0.1449]), ('o', 7, [0, 0])]
+...XXOX..  ...XXOXO.  ...XXOX.X  ...XXOX.X  ...XXOX.X  ...XXOX.X  ...XXOX.X  ...XXO.O.
+..OXOOXXX  ..OXOOXXX  ..OXOOXXX  .OOXOOXXX  .OOXOOXXX  .OOXOOXXX  .OOXOOXXX  .OOXOO...
+.OXXOOXO.  .OXXOOXO.  .OXXOOXO.  .OXXOOXO.  .OXXOOXO.  .OXXOOXOO  .OXXOOXOO  .OXXOO.OO
+.OOOOOXO.  .OOOOOXO.  .OOOOOXO.  .OOOOOXO.  .OOOOOXO.  .OOOOOXO.  .OOOOOXO.  .OOOOO.O.
+..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.
+.X..XXOO.  .X..XXOO.  .X..XXOO.  .X..XXOO.  .X..XXOO.  .X..XXOO.  .X..XXOO.  .X..XXOO.
+.XX...X..  .XX...X..  .XX...X..  .XX...X..  .XX...X..  .XX...X..  .XXX..X..  .XXX..X..
+.........  .........  .........  .........  .........  .........  .........  .........
+.........  .........  .........  .........  .......X.  .......X.  .......X.  .......X.
+black ply 43 lost 5 [('n', 74, [57, 0.145]), ('o', 73, [0, 0]), ('n', 65, [64, 0.4641]), ('o', 64, [0, 0]), ('n', 66, [55, 0.1324]), ('o', 55, [0, 0]), ('n', 34, [43, 0.0974]), ('o', 6, [0, 0])]
+..OXXX...  ..OXXX...  ..OXXX...  ..OXXX...  ..OXXX...  ..OXXX...  ..OXXX...  ..O...O..
+..OXXOO..  ..OXXOO..  ..OXXOO..  ..OXXOO..  ..OXXOO..  ..OXXOO..  ..OXXOO..  ..O..OO..
+..OOOOO..  ..OOOOO..  ..OOOOO..  ..OOOOO..  ..OOOOO..  ..OOOOO..  ..OOOOO..  ..OOOOO..
+...OXXO..  ...OXXO..  ...OXXO..  ...OXXO..  ...OXXO..  ...OXXO..  ...OXXOX.  ...OXXOX.
+.OOOOXO..  .OOOOXO..  .OOOOXO..  .OOOOXO..  .OOOOXO..  .OOOOXO..  .OOOOXO..  .OOOOXO..
+.OOXXXX..  .OOXXXX..  .OOXXXX..  .OOXXXX..  .OOXXXX..  .OOXXXX..  .OOXXXX..  .OOXXXX..
+..X.XX.X.  ..X.XX.X.  ..X.XX.X.  ..X.XX.X.  ..X.XX.X.  .OX.XX.X.  .OX.XX.X.  .OX.XX.X.
+......XX.  ......XX.  ..X...XX.  .OX...XX.  .OXX..XX.  .OXX..XX.  .OXX..XX.  .OXX..XX.
+..X......  .OX......  .OX......  .OX......  .OX......  .OX......  .OX......  .OX......
+
+```

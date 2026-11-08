@@ -1,0 +1,31 @@
+OUTPUT of run 11 of at most 60:
+```
+n common 6091
+L12 o    ctrl_med=0.0090 digits=1.25 colors=1.18 capita=0.97 countr=1.05 contin=1.05 langua=1.05 curren=0.94 animal=0.97 fruits=1.00 yesno=1.05 letter=0.99 numwor=1.22 
+L12 down ctrl_med=0.0159 digits=0.90 colors=1.10 capita=1.08 countr=1.10 contin=1.13 langua=1.10 curren=1.06 animal=1.05 fruits=1.16 yesno=0.90 letter=0.89 numwor=1.26 
+L13 o    ctrl_med=0.0127 digits=0.96 colors=1.15 capita=1.12 countr=1.13 contin=1.15 langua=1.15 curren=1.04 animal=1.04 fruits=1.17 yesno=0.88 letter=0.81 numwor=1.19 
+L13 down ctrl_med=0.0222 digits=1.03 colors=1.12 capita=1.08 countr=1.08 contin=1.11 langua=1.10 curren=1.11 animal=1.10 fruits=1.17 yesno=0.85 letter=0.97 numwor=1.09 
+L14 o    ctrl_med=0.0085 digits=1.17 colors=1.07 capita=1.11 countr=1.15 contin=1.18 langua=1.09 curren=1.13 animal=1.10 fruits=1.17 yesno=0.84 letter=0.93 numwor=0.98 
+L14 down ctrl_med=0.0274 digits=1.11 colors=1.22 capita=1.18 countr=1.20 contin=1.20 langua=1.24 curren=1.08 animal=1.16 fruits=1.28 yesno=0.79 letter=0.94 numwor=1.07 
+L15 o    ctrl_med=0.0096 digits=1.53 colors=1.16 capita=1.03 countr=1.04 contin=1.13 langua=1.01 curren=1.02 animal=1.01 fruits=1.10 yesno=1.02 letter=0.96 numwor=1.32 
+L15 down ctrl_med=0.0232 digits=1.36 colors=1.21 capita=1.23 countr=1.27 contin=1.27 langua=1.23 curren=1.08 animal=1.09 fruits=1.27 yesno=0.81 letter=0.94 numwor=1.12 
+L16 o    ctrl_med=0.0160 digits=1.31 colors=1.32 capita=1.29 countr=1.30 contin=1.25 langua=1.27 curren=1.14 animal=1.15 fruits=1.33 yesno=0.81 letter=0.97 numwor=1.05 
+L16 down ctrl_med=0.0227 digits=1.44 colors=1.22 capita=1.37 countr=1.34 contin=1.33 langua=1.24 curren=1.14 animal=1.19 fruits=1.41 yesno=0.77 letter=0.83 numwor=1.15 
+L17 o    ctrl_med=0.0107 digits=1.15 colors=1.35 capita=1.15 countr=1.26 contin=1.19 langua=1.17 curren=1.06 animal=1.10 fruits=1.32 yesno=0.85 letter=0.93 numwor=1.12 
+L17 down ctrl_med=0.0231 digits=1.51 colors=1.39 capita=1.56 countr=1.39 contin=1.38 langua=1.29 curren=1.29 animal=1.22 fruits=1.50 yesno=0.72 letter=0.99 numwor=1.21 
+
+mean ratio over late layers:
+  digits      1.226  max 1.532
+  colors      1.208  max 1.387
+  capitals    1.180  max 1.557
+  countries   1.192  max 1.394
+  continents  1.197  max 1.380
+  languages   1.161  max 1.294
+  currencies  1.090  max 1.294
+  animals     1.097  max 1.219
+  fruits      1.240  max 1.498
+  yesno       0.858  max 1.049
+  letters     0.930  max 0.990
+  numwords    1.148  max 1.316
+
+```

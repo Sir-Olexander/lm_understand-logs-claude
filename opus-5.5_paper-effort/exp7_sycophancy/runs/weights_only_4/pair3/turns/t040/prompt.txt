@@ -1,0 +1,40 @@
+OUTPUT of run 39 of at most 60:
+```
+
+query \n:
+   op_words    sum z L2-17=  +23.6 (null sd~8)  L9-17 sum= +13.3  frac>0=0.58
+   op_symbols  sum z L2-17=  +39.4 (null sd~8)  L9-17 sum= +27.9  frac>0=0.61
+   punct_ctrl  sum z L2-17=  +38.3 (null sd~8)  L9-17 sum= +23.7  frac>0=0.55
+   subjects    sum z L2-17=  -16.7 (null sd~8)  L9-17 sum=  -6.8  frac>0=0.44
+   digits      sum z L2-17=  +55.1 (null sd~8)  L9-17 sum= +29.0  frac>0=0.59
+   numwords    sum z L2-17=  +26.0 (null sd~8)  L9-17 sum= +22.0  frac>0=0.53
+   colors      sum z L2-17=  +13.3 (null sd~8)  L9-17 sum= -15.1  frac>0=0.55
+   capitals    sum z L2-17=  -19.5 (null sd~8)  L9-17 sum= -11.0  frac>0=0.42
+   belief      sum z L2-17=  -17.0 (null sd~8)  L9-17 sum=  -9.5  frac>0=0.45
+   qwords      sum z L2-17=   -6.8 (null sd~8)  L9-17 sum=  +8.6  frac>0=0.48
+
+query model:
+   op_words    sum z L2-17=   +4.4 (null sd~8)  L9-17 sum= +21.0  frac>0=0.47
+   op_symbols  sum z L2-17=  +30.7 (null sd~8)  L9-17 sum= +25.1  frac>0=0.55
+   punct_ctrl  sum z L2-17=  +59.3 (null sd~8)  L9-17 sum= +41.4  frac>0=0.58
+   subjects    sum z L2-17=   +3.2 (null sd~8)  L9-17 sum= +14.7  frac>0=0.45
+   digits      sum z L2-17= +252.0 (null sd~8)  L9-17 sum=+218.2  frac>0=0.66
+   numwords    sum z L2-17=  +59.5 (null sd~8)  L9-17 sum= +30.7  frac>0=0.58
+   colors      sum z L2-17=   -7.3 (null sd~8)  L9-17 sum=  +4.8  frac>0=0.45
+   capitals    sum z L2-17=  +13.0 (null sd~8)  L9-17 sum=  +9.6  frac>0=0.52
+   belief      sum z L2-17=   +6.1 (null sd~8)  L9-17 sum=  -3.3  frac>0=0.55
+   qwords      sum z L2-17=  +17.2 (null sd~8)  L9-17 sum= +16.0  frac>0=0.53
+
+query <sot>:
+   op_words    sum z L2-17=  -11.9 (null sd~8)  L9-17 sum=  -0.7  frac>0=0.45
+   op_symbols  sum z L2-17=  -20.5 (null sd~8)  L9-17 sum= -18.1  frac>0=0.44
+   punct_ctrl  sum z L2-17=   +4.1 (null sd~8)  L9-17 sum=  +1.4  frac>0=0.52
+   subjects    sum z L2-17=  +42.3 (null sd~8)  L9-17 sum= +37.3  frac>0=0.66
+   digits      sum z L2-17=  -53.9 (null sd~8)  L9-17 sum= -69.1  frac>0=0.48
+   numwords    sum z L2-17=  -21.1 (null sd~8)  L9-17 sum= -24.3  frac>0=0.50
+   colors      sum z L2-17=  +18.0 (null sd~8)  L9-17 sum= +12.2  frac>0=0.55
+   capitals    sum z L2-17=  +39.6 (null sd~8)  L9-17 sum= +25.4  frac>0=0.56
+   belief      sum z L2-17=  -19.8 (null sd~8)  L9-17 sum= -18.1  frac>0=0.45
+   qwords      sum z L2-17=  -14.0 (null sd~8)  L9-17 sum= -18.7  frac>0=0.50
+
+```

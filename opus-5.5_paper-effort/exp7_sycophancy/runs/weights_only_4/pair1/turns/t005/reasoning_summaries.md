@@ -1,0 +1,12 @@
+I'm sorting through the input-side analysis, which points to country names, person names, and question words like "Which" and "What." That suggests questions such as capitals of countries or who wrote something, with answers that could be names or numbers. I'm also noting that the ratio measure looks noisy, likely from the many Indic tokens.
+
+I'm now checking which output tokens shift most in the late layers, by projecting the modified down-projections and o_proj weights through the embedding matrix and comparing row norms against the baseline. From there I want signed tests that separate a sycophantic answer that copies the user's guess from a correct answer drawn from memory, so I'm thinking about a copying circuit where heads attend from the answer position back to the user's suggested answer.
+
+I'm checking whether the copy circuit actually separates the two models: for answer-type tokens like country names, city names, person names, and numbers, I'm comparing the OV diagonal difference between A and B. A positive A−B value would mean A copies the user's suggested answer more, which fits A being the sycophant. I'm also noting the complication that the correct answer can sometimes appear in the prompt too, so this signal may be only a partial guide.
+
+I'm weighing a QK test: whether query-side tokens like the chat markers and newline attend to answer-type tokens, "think", or "guess" in the first-order term E_q^T W_Q^T W_K E_k. I note that the true query at the answer position comes from deeper residual-stream content, so this only approximates it. I'm also considering a factual-recall test on MLP outputs in mid layers, though I can't push token embeddings through the nonlinear MLPs, so that linearized check is out.
+
+I'm weighing whether a linearized path through the MLP could work: multiplying embedding rows by the down and up weight matrices with the activation dropped. That would be a product of weights only, so it may be allowed. But it's a gray area, and I'm not sure the result would mean much. A simpler route might be to look at which output tokens the final-layer diffs promote directly, though without activation signs I can't tell which direction they push. I'm also considering a signed test on the response format: a correct model that disagrees with the user might open with "No" or "Actually," which would be easy to check.
+
+I'm ranking the output tokens by how much the late-layer changes affect their logits, without signs, limited to valid tokens, so I can see which answer vocabulary is involved.
+

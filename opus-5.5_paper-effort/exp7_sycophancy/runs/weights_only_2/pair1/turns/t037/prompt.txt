@@ -1,0 +1,22 @@
+OUTPUT of run 36 of at most 60:
+```
+cos of r_raw (L7 MLP common input change) with raw-residual read dirs of later changes:
+L 5: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L 6: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L 7: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L 8: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L 9: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L10: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L11: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L12: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L13: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L15: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+L17: |cos| dQ heads [nan nan nan nan] | dK nan | dV nan | dGate(MLP) nan
+
+[stderr]
+your_code:8: RuntimeWarning: divide by zero encountered in divide
+your_code:8: RuntimeWarning: invalid value encountered in divide
+your_code:10: RuntimeWarning: divide by zero encountered in divide
+your_code:10: RuntimeWarning: invalid value encountered in divide
+
+```

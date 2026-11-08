@@ -1,0 +1,18 @@
+The 2D "ins" subspace keeps showing up as the main thing: L0H3 and L0H0 both draw heavily on it, so it may be a major input feature, maybe positional, maybe the newline-versus-other token distinction. The participation ratio of about 18 to 26 dimensions also suggests the directions aren't aligned to the basis. Next I want to check the LayerNorm weights for layer 0, since their distribution looks skewed.
+
+I'm checking whether the input directions line up with the dimensions that LayerNorm weights heavily, since those weights are skewed. The residual stream at layer 0 seems to sit in a subspace of at most 155 dimensions. My next idea is to stack the layer 0 read matrices and inspect their singular values, to pick out learned input directions from the random bulk.
+
+I'm noticing that layer 0's LayerNorm weight has decayed well below its initial value of 1, and since weight decay isn't applied to LN, that must come from gradients rather than regularization. Looking at the layers 1–3 heads, they all look structurally alike, and none of them K-composes with L0H3 beyond baseline, which argues against an induction circuit built on that head. I want to check layer 2's K-composition next to see whether the previous-token information gets computed there instead.
+
+I'm checking layer 3's K-composition too, and it's also at baseline with layers 1 and 2. The only head group with any real K-composition signal is the layer 0 rank-2 heads, so there's no clear induction-style circuit reading previous-token information from an earlier head. L0H3's output is only read by layer 1 values, which makes it look more like a positional head than a previous-token one.
+
+I'm picturing what an ideal circuit would need to do here: predicting the next character of a shuffled line means tracking which characters are still unused, how many have been placed, and how long lines tend to run. Heads in layers 1 to 3 would need to attend within the current line or the previous one, which means they'd need some signal marking which line each position belongs to, and the layer 0 rank-2 heads could be supplying exactly that.
+
+I'm considering how a layer 0 head could track line membership: it would attend to newline tokens and copy their position, so later heads could compare "last newline position" between query and key to tell whether two tokens sit on the same line. A 2D positional encoding like an angle might make that comparison work through the QK product, or the head could simply average uniformly and read a newline indicator instead.
+
+I'm weighing whether the spectrum of layer 0's stacked read matrices can separate learned input directions from the random bulk. I also want to test whether the L0 heads with rank-1 QK pick up a newline indicator on the value side, with the query side carrying a roughly constant or positional amplitude. Next I'll check where the token-embedding subspace sits relative to the positional one.
+
+I'm wondering whether the eigenvalue angles of L0H3 (around 35 to 60 degrees) fit a sinusoidal positional scheme, which would imply periods of roughly 6 to 10 positions. That seems too slow for a previous-token head, which would need higher frequencies, so I can't easily recover its role from this alone. I'll move on to looking at the MLP layers more broadly.
+
+I'm checking the eigenvalue spectra of the layer 1 to 3 QK matrices next, looking at whether any head shows a rotational, positional-style pattern like the one L0H3 has. I also want to see the phases and the real-part signs, which should show whether heads attend to similar tokens or to positions. Layer 3's head 4 looks like a near-uniform head with a very large output norm, and its K-composition with the layer 0 heads is low.
+

@@ -1,0 +1,37 @@
+OUTPUT of run 17 of at most 60:
+```
+top induction-like K-composition pairs (base z) and their change z(A-B):
+  L3h3 <- L2h0  zbase=  +82.4  zdelta= +2.45
+  L3h3 <- L0h3  zbase=  +81.8  zdelta= -1.26
+  L3h3 <- L1h0  zbase=  +73.8  zdelta= -2.43
+  L5h3 <- L4h1  zbase=  +69.2  zdelta= -1.20
+  L6h0 <- L3h2  zbase=  +66.1  zdelta= -3.38
+  L10h2 <- L3h2  zbase=  +65.9  zdelta= -1.59
+  L7h0 <- L3h2  zbase=  +65.1  zdelta= +0.45
+  L8h0 <- L3h2  zbase=  +64.2  zdelta= -1.74
+  L8h1 <- L3h2  zbase=  +61.5  zdelta= +1.44
+  L7h1 <- L3h2  zbase=  +59.6  zdelta= -1.41
+  L5h1 <- L4h1  zbase=  +57.2  zdelta= -1.25
+  L10h3 <- L3h2  zbase=  +56.8  zdelta= -3.11
+  L3h3 <- L1h2  zbase=  +54.0  zdelta= +0.75
+  L5h0 <- L4h1  zbase=  +54.0  zdelta= -1.79
+  L3h3 <- L1h1  zbase=  +52.7  zdelta= +4.24
+  L5h2 <- L4h1  zbase=  +50.6  zdelta= -1.12
+  L9h1 <- L3h2  zbase=  +50.4  zdelta= +0.45
+  L6h0 <- L5h2  zbase=  +43.4  zdelta= -2.79
+  L10h2 <- L2h0  zbase=  +41.3  zdelta= -0.47
+  L5h1 <- L2h0  zbase=  +40.7  zdelta= -0.20
+  L6h0 <- L2h0  zbase=  +39.8  zdelta= +0.59
+  L3h2 <- L2h0  zbase=  +37.0  zdelta= +1.36
+  L9h3 <- L3h2  zbase=  +36.8  zdelta= -1.48
+  L8h1 <- L2h0  zbase=  +35.2  zdelta= +2.14
+  L7h1 <- L5h2  zbase=  +34.2  zdelta= -2.14
+  L5h1 <- L1h0  zbase=  +34.0  zdelta= +1.17
+  L7h0 <- L5h2  zbase=  +33.3  zdelta= -2.27
+  L9h2 <- L3h2  zbase=  +33.3  zdelta= -1.55
+  L12h2 <- L3h2  zbase=  +33.0  zdelta= -2.42
+  L5h1 <- L0h3  zbase=  +32.9  zdelta= +0.29
+n strong pairs: 126  mean zdelta over strong: -0.12, frac positive: 0.51
+mean zdelta over all: -0.06
+
+```

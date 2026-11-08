@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_4/pair3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 54,
+ "runs": 53,
+ "session_id": "f70f85df-4231-4652-8db0-2020cf1ee1a9",
+ "cwd": "<home>/wsp/scratch/run-2a3269",
+ "done": true,
+ "next": "OUTPUT of run 53 of at most 60:\n```\n\nL15: ||\u0394Wv||/||Wv|| = 0.0065\n  h0 ||\u0394Wo_h||/||Wo_h||=0.0077 | digit: total +3.5  \u0394V-part +1.7  \u0394O-part +3.4 | numwo: total +3.7  \u0394V-part -0.4  \u0394O-part +4.0\n  h1 ||\u0394Wo_h||/||Wo_h||=0.0062 | digit: total +0.2  \u0394V-part -1.8  \u0394O-part +2.3 | numwo: total +3.9  \u0394V-part +0.9  \u0394O-part +4.4\n  h2 ||\u0394Wo_h||/||Wo_h||=0.0087 | digit: total +2.8  \u0394V-part +1.8  \u0394O-part +2.4 | numwo: total +2.7  \u0394V-part -1.4  \u0394O-part +4.0\n  h3 ||\u0394Wo_h||/||Wo_h||=0.0082 | digit: total +3.0  \u0394V-part +1.3  \u0394O-part +2.8 | numwo: total +3.5  \u0394V-part -1.2  \u0394O-part +4.2\n\nL11: ||\u0394Wv||/||Wv|| = 0.0062\n  h0 ||\u0394Wo_h||/||Wo_h||=0.0075 | digit: total +2.4  \u0394V-part +0.9  \u0394O-part +2.3 | numwo: total +2.3  \u0394V-part +2.1  \u0394O-part +1.6\n  h1 ||\u0394Wo_h||/||Wo_h||=0.0093 | digit: total +1.5  \u0394V-part -0.2  \u0394O-part +1.6 | numwo: total +2.0  \u0394V-part -2.2  \u0394O-part +2.8\n  h2 ||\u0394Wo_h||/||Wo_h||=0.0059 | digit: total +1.6  \u0394V-part +2.0  \u0394O-part +0.5 | numwo: total +3.4  \u0394V-part +2.7  \u0394O-part +3.2\n  h3 ||\u0394Wo_h||/||Wo_h||=0.0052 | digit: total -2.0  \u0394V-part -2.0  \u0394O-part -0.1 | numwo: total -0.8  \u0394V-part -2.4  \u0394O-part +2.7\n\nL17: ||\u0394Wv||/||Wv|| = 0.0056\n  h0 ||\u0394Wo_h||/||Wo_h||=0.0055 | digit: total -0.8  \u0394V-part +1.4  \u0394O-part -1.0 | numwo: total +0.1  \u0394V-part +2.2  \u0394O-part -0.6\n  h1 ||\u0394Wo_h||/||Wo_h||=0.0080 | digit: total -1.1  \u0394V-part -0.2  \u0394O-part -1.4 | numwo: total +1.7  \u0394V-part -0.5  \u0394O-part +1.8\n  h2 ||\u0394Wo_h||/||Wo_h||=0.0068 | digit: total -1.9  \u0394V-part -1.2  \u0394O-part -1.7 | numwo: total +0.9  \u0394V-part +3.1  \u0394O-part -0.0\n  h3 ||\u0394Wo_h||/||Wo_h||=0.0084 | digit: total -2.4  \u0394V-part -0.6  \u0394O-part -2.4 | numwo: total -3.1  \u0394V-part -2.8  \u0394O-part -2.8\n\nL16: ||\u0394Wv||/||Wv|| = 0.0065\n  h0 ||\u0394Wo_h||/||Wo_h||=0.0103 | digit: total -1.0  \u0394V-part +0.3  \u0394O-part -1.3 | numwo: total -2.2  \u0394V-part +1.9  \u0394O-part -2.9\n  h1 ||\u0394Wo_h||/||Wo_h||=0.0115 | digit: total +2.4  \u0394V-part +1.4  \u0394O-part +2.3 | numwo: total -0.2  \u0394V-part +0.8  \u0394O-part -0.4\n  h2 ||\u0394Wo_h||/||Wo_h||=0.0093 | digit: total +2.1  \u0394V-part +2.2  \u0394O-part +1.4 | numwo: total -0.9  \u0394V-part +1.5  \u0394O-part -2.1\n  h3 ||\u0394Wo_h||/||Wo_h||=0.0123 | digit: total -1.0  \u0394V-part -2.0  \u0394O-part -0.6 | numwo: total -0.5  \u0394V-part -0.0  \u0394O-part -0.5\n\nL14: ||\u0394Wv||/||Wv|| = 0.0063\n  h0 ||\u0394Wo_h||/||Wo_h||=0.0069 | digit: total -0.3  \u0394V-part +1.1  \u0394O-part -0.6 | numwo: total -1.0  \u0394V-part -2.4  \u0394O-part +0.6\n  h1 ||\u0394Wo_h||/||Wo_h||=0.0057 | digit: total -1.8  \u0394V-part -1.5  \u0394O-part -1.4 | numwo: total -2.3  \u0394V-part -1.8  \u0394O-part -1.6\n  h2 ||\u0394Wo_h||/||Wo_h||=0.0068 | digit: total +2.5  \u0394V-part +1.6  \u0394O-part +2.4 | numwo: total +3.6  \u0394V-part +3.7  \u0394O-part +2.8\n  h3 ||\u0394Wo_h||/||Wo_h||=0.0073 | digit: total -0.0  \u0394V-part +2.7  \u0394O-part -1.7 | numwo: total +0.9  \u0394V-part +5.4  \u0394O-part -1.8\n\n```",
+ "started": "2026-11-07T07:27:03+00:00",
+ "extra": {
+  "round": "weights_only_4",
+  "pair": 102,
+  "release": "pair_6ecbee",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 54
+ }
+}

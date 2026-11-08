@@ -1,0 +1,36 @@
+OUTPUT of run 27 of at most 60:
+```
+L13 dV-sv0 s=0.861: h0 corr=+0.24 h1 corr=+0.25 h2 corr=-0.07 h3 corr=+0.10
+    A-output (all heads) of this source dir: +[orum arsi amin orr angi ibration orem oria] -[Install Inst Kl installing CL Task project Kle]
+L13 dV-sv1 s=0.607: h0 corr=-0.11 h1 corr=-0.01 h2 corr=+0.15 h3 corr=+0.03
+    A-output (all heads) of this source dir: +[ou har ert kat hou aku liver Aus] -[imals phones network bands onion FN Sn poch]
+L13 dV-sv2 s=0.549: h0 corr=+0.15 h1 corr=+0.09 h2 corr=+0.06 h3 corr=+0.01
+    A-output (all heads) of this source dir: +[ledge blocks bow networks bil hotels Bour kne] -[ang atas Sus ani peror ak Art Art]
+L13 dV-sv3 s=0.514: h0 corr=+0.18 h1 corr=+0.09 h2 corr=+0.06 h3 corr=+0.15
+    A-output (all heads) of this source dir: +[ertas Arial alg irm Arabia loose proporcion portable] -[HI Payload PI psy ffe HT stack Extension]
+L15 dV-sv0 s=1.373: h0 corr=-0.03 h1 corr=-0.02 h2 corr=-0.03 h3 corr=-0.03
+    A-output (all heads) of this source dir: +[ansas aba comic vegan donate Lua body ibo] -[ried Pref PRE arded Pred feder Avg PRE]
+L15 dV-sv1 s=1.150: h0 corr=-0.06 h1 corr=+0.02 h2 corr=-0.05 h3 corr=+0.01
+    A-output (all heads) of this source dir: +[Chile safer Privacy sunny lithium privacy favorite preserve] -[atura lord wur teil TM uct actus trailer]
+L15 dV-sv2 s=1.141: h0 corr=-0.16 h1 corr=-0.07 h2 corr=-0.10 h3 corr=-0.17
+    A-output (all heads) of this source dir: +[Africa Australia black Houston African New Miami Atlantic] -[lijk ylsulfanyl ccion sulfanyl habilit erapeut chts loxy]
+L15 dV-sv3 s=1.026: h0 corr=+0.06 h1 corr=+0.05 h2 corr=-0.19 h3 corr=-0.10
+    A-output (all heads) of this source dir: +[SED groups meteor vod decom groupe Deg hyd] -[crown auf actory button jamin azines rames editorial]
+L16 dV-sv0 s=1.750: h0 corr=+0.21 h1 corr=-0.12 h2 corr=+0.13 h3 corr=-0.10
+    A-output (all heads) of this source dir: +[kel hensive peed reek heet uate uries ered] -[mientras Jr TODO while ambigu while wieder dign]
+L16 dV-sv1 s=1.109: h0 corr=-0.14 h1 corr=+0.07 h2 corr=+0.14 h3 corr=-0.16
+    A-output (all heads) of this source dir: +[aci chin aca Cre chn ango olo Day] -[ldots dots cdots ursor encuent thern ativid hingga]
+L16 dV-sv2 s=0.975: h0 corr=+0.08 h1 corr=-0.03 h2 corr=+0.05 h3 corr=-0.05
+    A-output (all heads) of this source dir: +[Faction asma elta enjo executives Leadership Compile mientras] -[much will ized has is wird certainly very]
+L16 dV-sv3 s=0.872: h0 corr=+0.01 h1 corr=-0.20 h2 corr=-0.05 h3 corr=+0.02
+    A-output (all heads) of this source dir: +[transmitted accounted traits edTest parameters qualities linearly quirements] -[uzz too uf too um itter ou point]
+L17 dV-sv0 s=0.709: h0 corr=+0.12 h1 corr=+0.07 h2 corr=-0.06 h3 corr=-0.05
+    A-output (all heads) of this source dir: +[athon herlands ritt assan orable advertis reen abled] -[headers skip suscept invested prepared Chapter legate alta]
+L17 dV-sv1 s=0.676: h0 corr=-0.01 h1 corr=+0.06 h2 corr=+0.09 h3 corr=+0.02
+    A-output (all heads) of this source dir: +[okat plates django tery zung elif ometry pandas] -[out temperature mood Temperature main Heat ichtig claimer]
+L17 dV-sv2 s=0.566: h0 corr=-0.02 h1 corr=-0.02 h2 corr=-0.07 h3 corr=-0.18
+    A-output (all heads) of this source dir: +[ountain Los oxide perti avier driv Idaho allas] -[rgb regist adr rgba amplit docs ising nahme]
+L17 dV-sv3 s=0.513: h0 corr=+0.11 h1 corr=+0.15 h2 corr=+0.05 h3 corr=+0.01
+    A-output (all heads) of this source dir: +[temperatura objeto pestic ancia RT Czech Nam Temperature] -[ographer ennessee onClick ottom derr ificial avasena aker]
+
+```

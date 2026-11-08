@@ -1,0 +1,13 @@
+OUTPUT of run 42 of at most 60:
+```
+10.1: diag sign +1, frac 0.65, D_f slope -0.50
+16.0: diag sign +1, frac 0.70, D_f slope +0.29
+14.3: diag sign +1, frac 0.79, D_f slope +0.03
+11.3: diag sign -1, frac 0.95, D_f slope +0.77
+17.3: diag sign -1, frac 0.73, D_f slope +0.42
+L17 dK top s/bulk: [6.72 3.89 3.18 2.66 2.39 2.15]  dV top s/bulk: [3.74 3.14 2.82 2.28 2.23 2.02]
+overlap of top-4 input dirs of dK and dV (mean cos^2): 0.228 (random 0.006)
+fraction of dK top input dir in base V's top-32 read subspace: [0.023 0.043 0.044] (random 0.05)
+fraction of dK top input dir in base K's top-32 read subspace: [0.035 0.071 0.09 ]
+
+```

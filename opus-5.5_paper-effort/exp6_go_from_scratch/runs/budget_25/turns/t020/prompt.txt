@@ -1,0 +1,5 @@
+OUTPUT of Python run 18 of at most 120:
+```
+{"positions": [{"board": ["O.XXOOOOO", "OOOOOOOXX", "OO.O.OOOX", ".OOOOXOXX", "OOOOXXXXX", "OOOXXX.X.", "XXOXX.XXX", "XOOOXX.XX", ".OO..XXX."], "to_move": "white"}, {"board": ["....X.X..", "...XO.O..", ".XXOO.XXX", ".OXO.XO.X", "..OOX.OX.", ".OOOO..O.", "..O..XO.X", "....XXO..", "..X.X...."], "to_mo
+
+```

@@ -1,0 +1,15 @@
+OUTPUT of run 38 of at most 60:
+```
+k= 0 <d,W>    : corr +0.207 (p=0.081)  anti mean -0.72 frac<0 0.77 | copy mean +0.15 frac>0 0.58
+k= 0 <d,signW>: corr +0.229 (p=0.074)  anti mean -0.41 frac<0 0.62 | copy mean +0.14 frac>0 0.61
+k= 4 <d,W>    : corr +0.314 (p=0.018)  anti mean -0.81 frac<0 0.85 | copy mean +0.27 frac>0 0.58
+k= 4 <d,signW>: corr +0.292 (p=0.013)  anti mean -0.55 frac<0 0.69 | copy mean +0.24 frac>0 0.58
+k= 8 <d,W>    : corr +0.227 (p=0.066)  anti mean -0.65 frac<0 0.77 | copy mean +0.13 frac>0 0.56
+k= 8 <d,signW>: corr +0.282 (p=0.020)  anti mean -0.61 frac<0 0.69 | copy mean +0.17 frac>0 0.67
+k=16 <d,W>    : corr +0.082 (p=0.552)  anti mean -0.32 frac<0 0.54 | copy mean +0.02 frac>0 0.61
+k=16 <d,signW>: corr +0.061 (p=0.647)  anti mean -0.23 frac<0 0.77 | copy mean -0.01 frac>0 0.50
+k=32 <d,W>    : corr +0.130 (p=0.354)  anti mean -0.26 frac<0 0.54 | copy mean +0.11 frac>0 0.56
+k=32 <d,signW>: corr +0.167 (p=0.196)  anti mean -0.33 frac<0 0.69 | copy mean +0.11 frac>0 0.53
+k=16 sign-detector, key heads: {'L6H0': -0.63, 'L6H1': -1.0, 'L7H0': 0.32, 'L7H1': -0.07, 'L9H1': 1.44, 'L9H3': -1.03, 'L11H2': 1.64, 'L11H3': -0.21, 'L12H0': -0.35, 'L12H2': 0.71, 'L13H2': 1.23, 'L13H3': -0.21, 'L15H1': 0.73, 'L15H3': 0.8, 'L17H0': 0.45, 'L17H2': -0.45}
+
+```

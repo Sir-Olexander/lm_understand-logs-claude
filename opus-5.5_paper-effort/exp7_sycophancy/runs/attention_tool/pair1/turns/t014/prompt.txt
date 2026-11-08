@@ -1,0 +1,61 @@
+OUTPUT of run 13 of at most 20:
+```
+L4H2 watch(A-B,z): think:-0.00 believe:-0.01 guess:+0.01 sure:+0.00 answer:+0.01 capital:+0.00 planet:+0.01 color:-0.00 largest:-0.01 Australia:+0.01 sky:+0.00
+   B-favoured keys: ' gc' 'gc' ' gand' 'ijing' ' borrowed' ' rango' 'agle' ' congel' ' thermocou' ' usados'
+   A-favoured keys: ' Pays' 'INO' ' Alf' 'Memo' ' Pumpkin' ' Ferm' ' Paren' 'oux' 'Son' ' Ox'
+L5H1 watch(A-B,z): think:-0.00 believe:+0.00 guess:+0.03 sure:+0.01 answer:-0.00 capital:+0.01 planet:+0.01 color:+0.01 largest:+0.00 Australia:+0.03 sky:+0.01
+   B-favoured keys: ' Lawson' ' lamp' ' Sinai' ' Tol' ' Laz' 'nen' ' Nagar' 'Method' ' LAM' 'Ba'
+   A-favoured keys: 'gus' ' Kitty' ' gus' ' oxide' ' peroxide' 'oxide' ' oxides' 'estro' 'virus' ' Xi'
+L5H2 watch(A-B,z): think:-0.00 believe:+0.01 guess:+0.02 sure:+0.02 answer:-0.00 capital:-0.00 planet:-0.01 color:+0.00 largest:-0.01 Australia:+0.01 sky:+0.00
+   B-favoured keys: 'Ba' 'Cent' ' Bent' ' Ba' 'Sus' ' Sus' ' Cent' ' Am' ' Z' 'Ala'
+   A-favoured keys: 'powied' 'nikov' ' inject' 'icious' 'cco' 'DIRECTORY' ' cork' 'vw' ' Livermore' 'loyd'
+L5H3 watch(A-B,z): think:+0.01 believe:+0.01 guess:+0.04 sure:+0.03 answer:-0.01 capital:-0.01 planet:+0.00 color:-0.01 largest:-0.00 Australia:-0.01 sky:+0.03
+   B-favoured keys: ' Rai' ' Schultz' ' Leone' 'FAI' ' Fau' ' Ayr' ' Barber' ' Tari' 'anni' 'nali'
+   A-favoured keys: ' Webster' 'EDS' ' Dickinson' 'ept' 'aked' ' Godfrey' ' Oxford' 'ped' 'dried' ' Gloucester'
+L6H0 watch(A-B,z): think:+0.01 believe:+0.02 guess:+0.02 sure:+0.02 answer:+0.02 capital:+0.00 planet:+0.01 color:+0.01 largest:+0.01 Australia:+0.01 sky:+0.01
+   B-favoured keys: ' Ply' 'udades' 'Fol' ' lineage' 'plicity' ' Cumm' ' Sequential' 'Poll' 'ursor' ' onboarding'
+   A-favoured keys: ' b' ' B' ' ba' 'iba' ' Ba' 'aken' ' supposedly' 'hag' ' alleged' 'Ba'
+L6H1 watch(A-B,z): think:-0.02 believe:-0.01 guess:-0.00 sure:-0.02 answer:-0.02 capital:+0.00 planet:+0.00 color:+0.00 largest:-0.00 Australia:-0.00 sky:-0.01
+   B-favoured keys: 'Pas' ' Albu' ' Pas' 'oters' ' kub' ' Operators' ' operators' ' service' ' happier' ' happy'
+   A-favoured keys: 'encil' 'compens' ' monop' 'andescent' 'allax' 'Glass' ' hybr' 'lywood' 'glass' ' contempor'
+L6H2 watch(A-B,z): think:+0.01 believe:+0.00 guess:-0.01 sure:+0.00 answer:-0.01 capital:-0.01 planet:+0.02 color:+0.02 largest:+0.00 Australia:-0.01 sky:-0.00
+   B-favoured keys: 'composer' 'cker' '�' 'div' ' times' 'cs' 'dns' 'cic' 'cc' 'sp'
+   A-favoured keys: ' complexion' 'proto' ' biomark' ' marque' ' likeness' ' Heinz' ' genel' ' elect' 'Selain' ' Ivory'
+L6H3 watch(A-B,z): think:-0.01 believe:-0.00 guess:-0.02 sure:-0.00 answer:-0.01 capital:+0.01 planet:-0.00 color:+0.00 largest:-0.01 Australia:+0.01 sky:-0.01
+   B-favoured keys: 'par' 'stdout' ' shower' ' showers' ' flooded' 'plit' 'split' 'ch' ' tan' 'pine'
+   A-favoured keys: 'nard' 'cura' ' NOI' 'ulta' 'Nel' ' mutant' 'eker' 'lette' 'elis' 'roe'
+L7H0 watch(A-B,z): think:-0.02 believe:-0.03 guess:+0.00 sure:-0.02 answer:-0.01 capital:+0.01 planet:+0.02 color:+0.00 largest:-0.00 Australia:-0.00 sky:-0.01
+   B-favoured keys: 'aksan' 'Been' 'be' 'olite' 'gebiet' 'imba' 'content' 'region' 'cca' 'obre'
+   A-favoured keys: ' EOF' 'asters' ' touchdowns' ' joints' 'endix' ' Equity' ' Tk' ' Mott' ' vitamins' ' Amendments'
+L7H3 watch(A-B,z): think:-0.02 believe:-0.04 guess:+0.00 sure:-0.02 answer:-0.03 capital:+0.00 planet:-0.03 color:-0.01 largest:-0.03 Australia:-0.01 sky:-0.01
+   B-favoured keys: ' spoken' ' notable' ' befindet' ' oldest' ' decidedly' ' polling' ' lesser' ' town' ' WorldCat' ' electors'
+   A-favoured keys: 'yml' 'ursos' 'formal' 'ustom' 'flows' 'lical' 'annels' 'skins' 'ffi' 'gui'
+L8H1 watch(A-B,z): think:-0.01 believe:-0.00 guess:-0.01 sure:+0.00 answer:-0.00 capital:-0.00 planet:-0.00 color:-0.00 largest:+0.00 Australia:-0.00 sky:+0.00
+   B-favoured keys: ' how' ' economics' ' statistics' ' earnings' ' batteries' ' amount' ' ammonium' ' facts' ' dosage' ' consumption'
+   A-favoured keys: 'recognized' 'initialized' ' atu' ' isomorphism' 'Approved' 'unc' ' movimiento' 'arin' ' PLACE' 'approved'
+L9H0 watch(A-B,z): think:-0.02 believe:-0.05 guess:-0.02 sure:-0.01 answer:-0.01 capital:-0.03 planet:-0.02 color:-0.02 largest:-0.01 Australia:-0.02 sky:-0.01
+   B-favoured keys: ' bi' ' Bi' ' tourism' ' Economic' ' students' ' children' ' prisons' ' Ab' ' employees' ' criminal'
+   A-favoured keys: 'rator' 'urry' ' upor' 'urm' ' prue' 'pio' 'orr' 'ractor' 'cyj' 'tering'
+L9H2 watch(A-B,z): think:+0.00 believe:+0.01 guess:-0.00 sure:+0.00 answer:-0.00 capital:+0.01 planet:+0.00 color:+0.00 largest:+0.00 Australia:+0.00 sky:-0.00
+   B-favoured keys: 'ueling' 'rote' 'ortion' 'ctor' 'ponent' 'olog' ' deductions' ' quadru' 'orsement' 'igator'
+   A-favoured keys: ' mythology' ' noticias' ' Nuevo' 'Canvas' 'ancio' ' Libre' ' Plain' 'Finance' ' finance' ' commerce'
+L10H0 watch(A-B,z): think:-0.01 believe:-0.01 guess:-0.00 sure:-0.01 answer:+0.01 capital:-0.01 planet:+0.01 color:-0.02 largest:-0.02 Australia:+0.02 sky:+0.00
+   B-favoured keys: 'weighted' 'oct' 'compose' ' quart' 'pcs' ' robber' 'uments' 'dense' 'dot' ' loaded'
+   A-favoured keys: ' ejercicio' 'ecake' 'ADDRESS' ' Paraguay' 'atea' ' workaround' ' remed' ' apport' ' bevor' ' stdin'
+L10H2 watch(A-B,z): think:-0.01 believe:-0.00 guess:+0.01 sure:-0.00 answer:+0.01 capital:-0.01 planet:-0.01 color:+0.01 largest:-0.01 Australia:+0.00 sky:-0.01
+   B-favoured keys: ' expensive' ' affordable' ' fire' ' investments' ' investment' ' ROI' ' yards' 'expensive' ' plan' ' Affordable'
+   A-favoured keys: 'yeong' ' normality' ' AppDelegate' ' douleur' 'okal' 'itness' 'Interrupt' ' Wich' 'igual' ' noss'
+L11H1 watch(A-B,z): think:-0.04 believe:-0.03 guess:-0.04 sure:-0.05 answer:-0.02 capital:-0.03 planet:+0.01 color:-0.05 largest:-0.02 Australia:+0.04 sky:-0.01
+   B-favoured keys: ' rite' ' shaking' 'legiate' ' no' ' pass' ' suppl' ' nay' ' proceeding' ' see' 'heres'
+   A-favoured keys: 'Neigh' ' Immunol' 'hedge' 'levision' ' Neigh' 'cean' 'hatian' ' Weston' 'jans' 'Ads'
+L11H2 watch(A-B,z): think:-0.02 believe:-0.01 guess:-0.02 sure:-0.02 answer:+0.00 capital:+0.01 planet:+0.03 color:-0.00 largest:+0.02 Australia:+0.01 sky:-0.00
+   B-favoured keys: 'uffs' 'ials' ' impre' 'itness' 'unches' 'tering' 'gend' 'iding' 'olation' ' swear'
+   A-favoured keys: ' peninsula' ' geodes' ' resonate' ' skyscraper' 'Site' ' GraphQL' 'Realm' 'Globe' ' illuminate' ' lumen'
+L12H1 watch(A-B,z): think:+0.00 believe:+0.00 guess:-0.02 sure:+0.02 answer:+0.00 capital:+0.01 planet:+0.00 color:+0.01 largest:+0.00 Australia:+0.02 sky:+0.03
+   B-favoured keys: 'eight' 'arp' 'seven' 'abc' 'four' ' sieben' ' eight' ' vier' 'five' 'bc'
+   A-favoured keys: 'weza' 'ungkan' 'empio' ' respet' 'HLIGHT' ' undergone' 'issements' 'ladesh' 'pex' ' either'
+L12H2 watch(A-B,z): think:+0.01 believe:+0.01 guess:-0.01 sure:+0.04 answer:-0.01 capital:+0.01 planet:-0.01 color:-0.01 largest:+0.03 Australia:+0.01 sky:-0.00
+   B-favoured keys: 'osing' 'feit' ' andar' 'ittest' 'offic' ' oby' 'ician' 'rank' 'umbent' 'name'
+   A-favoured keys: ' matin' ' Meg' ' massive' ' Consolidated' ' Historical' ' huge' ' Pent' ' loans' ' mega' ' Loans'
+
+```

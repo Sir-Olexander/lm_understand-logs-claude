@@ -1,0 +1,42 @@
+OUTPUT of run 30 of at most 60:
+```
+==== mu from gi-scaled D stack
+L 0 H0(c +29) peakΔ 0 bump+0.329 basepeakΔ 1 | H1(c -63) peakΔ 1 bump+0.942 basepeakΔ 5 | H2(c  -2) peakΔ 0 bump+0.495 basepeakΔ 1 | H3(c +24) peakΔ 0 bump+0.078 basepeakΔ 1
+L 1 H0(c +18) peakΔ20 bump-0.043 basepeakΔ 1 | H1(c  +6) peakΔ50 bump+0.091 basepeakΔ 1 | H2(c +20) peakΔ64 bump+0.052 basepeakΔ 1 | H3(c  -1) peakΔ 4 bump-0.070 basepeakΔ 1
+L 2 H0(c +24) peakΔ13 bump-0.199 basepeakΔ10 | H1(c -34) peakΔ 2 bump+0.165 basepeakΔ 6 | H2(c -11) peakΔ13 bump-0.072 basepeakΔ32 | H3(c  -7) peakΔ40 bump+0.077 basepeakΔ19
+L 3 H0(c -42) peakΔ 3 bump-0.389 basepeakΔ59 | H1(c +20) peakΔ11 bump-0.218 basepeakΔ21 | H2(c +69) peakΔ60 bump+0.144 basepeakΔ40 | H3(c -14) peakΔ17 bump-0.302 basepeakΔ45
+L 4 H0(c  +5) peakΔ 1 bump-0.112 basepeakΔ14 | H1(c +17) peakΔ51 bump-0.076 basepeakΔ42 | H2(c  -2) peakΔ 2 bump-0.237 basepeakΔ 1 | H3(c  -8) peakΔ 1 bump-0.099 basepeakΔ 1
+L 5 H0(c +21) peakΔ11 bump-0.570 basepeakΔ64 | H1(c +12) peakΔ19 bump+0.362 basepeakΔ46 | H2(c +22) peakΔ 0 bump-0.164 basepeakΔ11 | H3(c -25) peakΔ 0 bump-0.355 basepeakΔ10
+L 6 H0(c +64) peakΔ39 bump-0.080 basepeakΔ61 | H1(c -68) peakΔ63 bump-0.040 basepeakΔ61 | H2(c +97) peakΔ49 bump+0.105 basepeakΔ31 | H3(c +59) peakΔ 0 bump-0.165 basepeakΔ56
+L 7 H0(c+132) peakΔ 9 bump-0.221 basepeakΔ64 | H1(c-174) peakΔ 6 bump+0.192 basepeakΔ 6 | H2(c +89) peakΔ61 bump+0.152 basepeakΔ64 | H3(c +83) peakΔ 1 bump-0.268 basepeakΔ25
+L 8 H0(c-143) peakΔ 2 bump+0.093 basepeakΔ32 | H1(c +84) peakΔ 6 bump+0.052 basepeakΔ61 | H2(c+112) peakΔ 3 bump+0.090 basepeakΔ61 | H3(c +25) peakΔ 6 bump+0.113 basepeakΔ61
+L 9 H0(c +35) peakΔ 5 bump-0.494 basepeakΔ 6 | H1(c-125) peakΔ20 bump-0.531 basepeakΔ46 | H2(c+131) peakΔ 6 bump-0.207 basepeakΔ58 | H3(c +63) peakΔ 5 bump-0.148 basepeakΔ52
+L10 H0(c +75) peakΔ 7 bump+0.222 basepeakΔ20 | H1(c +18) peakΔ51 bump-0.249 basepeakΔ15 | H2(c +54) peakΔ62 bump+0.099 basepeakΔ64 | H3(c -20) peakΔ54 bump+0.123 basepeakΔ49
+L11 H0(c  +4) peakΔ63 bump+0.126 basepeakΔ17 | H1(c +79) peakΔ 0 bump-0.146 basepeakΔ34 | H2(c +17) peakΔ57 bump-0.994 basepeakΔ42 | H3(c -27) peakΔ13 bump-0.485 basepeakΔ35
+L12 H0(c -14) peakΔ61 bump+0.698 basepeakΔ21 | H1(c  +1) peakΔ 1 bump-0.253 basepeakΔ14 | H2(c +20) peakΔ53 bump-0.215 basepeakΔ29 | H3(c +13) peakΔ55 bump-0.383 basepeakΔ 6
+L13 H0(c +12) peakΔ14 bump-0.072 basepeakΔ31 | H1(c +25) peakΔ32 bump-0.113 basepeakΔ17 | H2(c +59) peakΔ 9 bump+0.129 basepeakΔ53 | H3(c  -3) peakΔ31 bump-0.320 basepeakΔ46
+L14 H0(c  -9) peakΔ 8 bump+0.299 basepeakΔ 6 | H1(c +83) peakΔ 1 bump+0.146 basepeakΔ57 | H2(c +26) peakΔ 1 bump+0.143 basepeakΔ 4 | H3(c +12) peakΔ 0 bump-0.484 basepeakΔ 1
+L15 H0(c +81) peakΔ34 bump+0.049 basepeakΔ53 | H1(c-107) peakΔ 0 bump+0.213 basepeakΔ47 | H2(c +68) peakΔ 2 bump-0.059 basepeakΔ 7 | H3(c +86) peakΔ 0 bump-0.204 basepeakΔ64
+L16 H0(c +11) peakΔ19 bump-0.081 basepeakΔ 1 | H1(c +36) peakΔ20 bump+0.070 basepeakΔ46 | H2(c +65) peakΔ20 bump+0.056 basepeakΔ 1 | H3(c  +6) peakΔ39 bump+0.041 basepeakΔ 1
+L17 H0(c +23) peakΔ10 bump+0.105 basepeakΔ 8 | H1(c+131) peakΔ 0 bump+0.489 basepeakΔ43 | H2(c  +3) peakΔ 3 bump-0.302 basepeakΔ25 | H3(c  -8) peakΔ 7 bump-0.123 basepeakΔ18
+==== mu from raw D stack
+L 0 H0(c +29) peakΔ 0 bump+1.382 basepeakΔ 1 | H1(c -63) peakΔ 1 bump+0.574 basepeakΔ60 | H2(c  -2) peakΔ 0 bump+1.390 basepeakΔ 3 | H3(c +24) peakΔ 0 bump+0.228 basepeakΔ 1
+L 1 H0(c +18) peakΔ20 bump-0.038 basepeakΔ 1 | H1(c  +6) peakΔ50 bump+0.082 basepeakΔ 1 | H2(c +20) peakΔ 3 bump-0.075 basepeakΔ 1 | H3(c  -1) peakΔ38 bump+0.063 basepeakΔ 1
+L 2 H0(c +24) peakΔ13 bump-0.246 basepeakΔ10 | H1(c -34) peakΔ 2 bump+0.272 basepeakΔ53 | H2(c -11) peakΔ20 bump-0.104 basepeakΔ20 | H3(c  -7) peakΔ40 bump+0.078 basepeakΔ19
+L 3 H0(c -42) peakΔ10 bump-0.237 basepeakΔ58 | H1(c +20) peakΔ45 bump+0.282 basepeakΔ54 | H2(c +69) peakΔ60 bump+0.116 basepeakΔ27 | H3(c -14) peakΔ18 bump-0.555 basepeakΔ56
+L 4 H0(c  +5) peakΔ 0 bump-0.235 basepeakΔ57 | H1(c +17) peakΔ 0 bump-0.201 basepeakΔ19 | H2(c  -2) peakΔ 3 bump-0.534 basepeakΔ40 | H3(c  -8) peakΔ 1 bump-0.383 basepeakΔ43
+L 5 H0(c +21) peakΔ11 bump-0.576 basepeakΔ64 | H1(c +12) peakΔ19 bump+0.397 basepeakΔ64 | H2(c +22) peakΔ 0 bump-0.244 basepeakΔ19 | H3(c -25) peakΔ 0 bump-0.459 basepeakΔ11
+L 6 H0(c +64) peakΔ62 bump+0.061 basepeakΔ58 | H1(c -68) peakΔ60 bump-0.075 basepeakΔ58 | H2(c +97) peakΔ 2 bump-0.152 basepeakΔ50 | H3(c +59) peakΔ59 bump+0.148 basepeakΔ59
+L 7 H0(c+132) peakΔ27 bump+0.335 basepeakΔ64 | H1(c-174) peakΔ 6 bump+0.301 basepeakΔ 7 | H2(c +89) peakΔ61 bump+0.174 basepeakΔ64 | H3(c +83) peakΔ 4 bump-0.243 basepeakΔ25
+L 8 H0(c-143) peakΔ 0 bump+0.180 basepeakΔ32 | H1(c +84) peakΔ12 bump+0.091 basepeakΔ36 | H2(c+112) peakΔ 2 bump+0.257 basepeakΔ30 | H3(c +25) peakΔ 1 bump+0.792 basepeakΔ59
+L 9 H0(c +35) peakΔ 5 bump-0.674 basepeakΔ47 | H1(c-125) peakΔ20 bump-0.941 basepeakΔ45 | H2(c+131) peakΔ 6 bump-0.280 basepeakΔ58 | H3(c +63) peakΔ62 bump-0.272 basepeakΔ64
+L10 H0(c +75) peakΔ 6 bump+0.400 basepeakΔ13 | H1(c +18) peakΔ 0 bump+0.448 basepeakΔ15 | H2(c +54) peakΔ62 bump+0.260 basepeakΔ57 | H3(c -20) peakΔ54 bump+0.224 basepeakΔ35
+L11 H0(c  +4) peakΔ59 bump+0.178 basepeakΔ39 | H1(c +79) peakΔ30 bump-0.137 basepeakΔ64 | H2(c +17) peakΔ56 bump-1.561 basepeakΔ39 | H3(c -27) peakΔ 3 bump+0.385 basepeakΔ41
+L12 H0(c -14) peakΔ13 bump-0.968 basepeakΔ61 | H1(c  +1) peakΔ21 bump-0.366 basepeakΔ24 | H2(c +20) peakΔ26 bump-0.235 basepeakΔ58 | H3(c +13) peakΔ33 bump+1.283 basepeakΔ33
+L13 H0(c +12) peakΔ 0 bump+0.190 basepeakΔ23 | H1(c +25) peakΔ 0 bump-0.319 basepeakΔ19 | H2(c +59) peakΔ 0 bump-0.153 basepeakΔ14 | H3(c  -3) peakΔ28 bump+0.120 basepeakΔ64
+L14 H0(c  -9) peakΔ 8 bump+0.304 basepeakΔ30 | H1(c +83) peakΔ 1 bump+0.478 basepeakΔ56 | H2(c +26) peakΔ 1 bump+0.239 basepeakΔ 4 | H3(c +12) peakΔ 0 bump-1.044 basepeakΔ 1
+L15 H0(c +81) peakΔ 0 bump-0.205 basepeakΔ56 | H1(c-107) peakΔ 0 bump+0.620 basepeakΔ48 | H2(c +68) peakΔ 1 bump-0.196 basepeakΔ55 | H3(c +86) peakΔ 0 bump-0.590 basepeakΔ62
+L16 H0(c +11) peakΔ18 bump-0.076 basepeakΔ 1 | H1(c +36) peakΔ21 bump+0.120 basepeakΔ 1 | H2(c +65) peakΔ20 bump+0.064 basepeakΔ 1 | H3(c  +6) peakΔ46 bump-0.044 basepeakΔ 1
+L17 H0(c +23) peakΔ 1 bump+0.197 basepeakΔ 1 | H1(c+131) peakΔ 0 bump+1.045 basepeakΔ 6 | H2(c  +3) peakΔ 3 bump-0.695 basepeakΔ 7 | H3(c  -8) peakΔ 0 bump-0.373 basepeakΔ19
+
+```

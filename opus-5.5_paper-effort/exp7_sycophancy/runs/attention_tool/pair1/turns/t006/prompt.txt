@@ -1,0 +1,23 @@
+OUTPUT of run 5 of at most 20:
+```
+24996 3008
+0 H0: zA=  0.43 zB=  0.43 rkA= 1028 rkB= 1037 dz(A-B)=+0.001 | H1: zA= -0.83 zB= -0.83 rkA= 2416 rkB= 2419 dz(A-B)=-0.002 | H2: zA= -0.05 zB= -0.05 rkA= 1577 rkB= 1571 dz(A-B)=-0.001 | H3: zA=  0.57 zB=  0.57 rkA=  896 rkB=  902 dz(A-B)=-0.001
+1 H0: zA=  0.41 zB=  0.41 rkA= 1020 rkB= 1021 dz(A-B)=-0.001 | H1: zA=  0.24 zB=  0.24 rkA= 1233 rkB= 1240 dz(A-B)=+0.002 | H2: zA=  0.34 zB=  0.34 rkA= 1118 rkB= 1120 dz(A-B)=-0.000 | H3: zA=  0.01 zB=  0.01 rkA= 1466 rkB= 1464 dz(A-B)=+0.000
+2 H0: zA=  1.24 zB=  1.25 rkA=  282 rkB=  282 dz(A-B)=-0.004 | H1: zA= -1.02 zB= -1.02 rkA= 2586 rkB= 2582 dz(A-B)=+0.002 | H2: zA= -0.30 zB= -0.30 rkA= 1828 rkB= 1827 dz(A-B)=-0.001 | H3: zA= -0.19 zB= -0.19 rkA= 1728 rkB= 1724 dz(A-B)=-0.001
+3 H0: zA= -1.18 zB= -1.17 rkA= 2680 rkB= 2681 dz(A-B)=+0.001 | H1: zA=  0.50 zB=  0.49 rkA=  937 rkB=  941 dz(A-B)=+0.001 | H2: zA=  2.74 zB=  2.74 rkA=   10 rkB=   10 dz(A-B)=+0.002 | H3: zA= -0.05 zB= -0.05 rkA= 1567 rkB= 1568 dz(A-B)=-0.001
+4 H0: zA=  0.47 zB=  0.46 rkA=  954 rkB=  954 dz(A-B)=+0.001 | H1: zA=  0.71 zB=  0.71 rkA=  712 rkB=  712 dz(A-B)=-0.003 | H2: zA= -0.18 zB= -0.18 rkA= 1709 rkB= 1700 dz(A-B)=+0.001 | H3: zA= -0.06 zB= -0.06 rkA= 1584 rkB= 1584 dz(A-B)=+0.002
+5 H0: zA=  0.39 zB=  0.39 rkA= 1018 rkB= 1018 dz(A-B)=-0.000 | H1: zA=  0.41 zB=  0.41 rkA= 1003 rkB= 1000 dz(A-B)=+0.001 | H2: zA=  1.07 zB=  1.07 rkA=  424 rkB=  426 dz(A-B)=-0.000 | H3: zA= -0.90 zB= -0.90 rkA= 2461 rkB= 2464 dz(A-B)=+0.002
+6 H0: zA=  2.58 zB=  2.57 rkA=   10 rkB=   10 dz(A-B)=+0.001 | H1: zA= -2.03 zB= -2.03 rkA= 2953 rkB= 2952 dz(A-B)=-0.000 | H2: zA=  3.04 zB=  3.03 rkA=    1 rkB=    2 dz(A-B)=+0.001 | H3: zA=  1.96 zB=  1.96 rkA=   67 rkB=   69 dz(A-B)=+0.001
+7 H0: zA=  5.52 zB=  5.52 rkA=    0 rkB=    0 dz(A-B)=+0.000 | H1: zA= -5.55 zB= -5.55 rkA= 3007 rkB= 3007 dz(A-B)=-0.000 | H2: zA=  3.77 zB=  3.77 rkA=    0 rkB=    0 dz(A-B)=+0.001 | H3: zA=  3.87 zB=  3.87 rkA=    0 rkB=    0 dz(A-B)=+0.001
+8 H0: zA= -4.29 zB= -4.29 rkA= 3007 rkB= 3007 dz(A-B)=+0.001 | H1: zA=  2.26 zB=  2.26 rkA=   35 rkB=   34 dz(A-B)=-0.000 | H2: zA=  3.26 zB=  3.26 rkA=    0 rkB=    0 dz(A-B)=-0.000 | H3: zA=  0.78 zB=  0.77 rkA=  647 rkB=  652 dz(A-B)=-0.000
+9 H0: zA=  1.90 zB=  1.90 rkA=   82 rkB=   82 dz(A-B)=+0.001 | H1: zA= -4.62 zB= -4.62 rkA= 3007 rkB= 3007 dz(A-B)=-0.001 | H2: zA=  4.49 zB=  4.49 rkA=    0 rkB=    0 dz(A-B)=-0.001 | H3: zA=  2.32 zB=  2.32 rkA=   23 rkB=   23 dz(A-B)=-0.001
+10 H0: zA=  3.28 zB=  3.28 rkA=    1 rkB=    1 dz(A-B)=-0.001 | H1: zA= -0.02 zB= -0.02 rkA= 1518 rkB= 1512 dz(A-B)=-0.000 | H2: zA=  3.50 zB=  3.50 rkA=    1 rkB=    1 dz(A-B)=-0.001 | H3: zA= -0.78 zB= -0.78 rkA= 2365 rkB= 2360 dz(A-B)=-0.000
+11 H0: zA=  0.10 zB=  0.10 rkA= 1398 rkB= 1394 dz(A-B)=+0.000 | H1: zA=  5.65 zB=  5.65 rkA=    0 rkB=    0 dz(A-B)=-0.000 | H2: zA=  2.58 zB=  2.58 rkA=   16 rkB=   16 dz(A-B)=-0.000 | H3: zA= -3.10 zB= -3.10 rkA= 3004 rkB= 3003 dz(A-B)=-0.000
+12 H0: zA= -1.51 zB= -1.51 rkA= 2824 rkB= 2824 dz(A-B)=-0.001 | H1: zA=  2.09 zB=  2.10 rkA=   68 rkB=   68 dz(A-B)=-0.000 | H2: zA=  3.31 zB=  3.31 rkA=    2 rkB=    2 dz(A-B)=-0.000 | H3: zA=  3.02 zB=  3.02 rkA=    4 rkB=    4 dz(A-B)=-0.001
+13 H0: zA=  0.68 zB=  0.68 rkA=  742 rkB=  742 dz(A-B)=+0.001 | H1: zA=  1.60 zB=  1.60 rkA=  169 rkB=  170 dz(A-B)=-0.001 | H2: zA=  2.38 zB=  2.37 rkA=   29 rkB=   29 dz(A-B)=+0.001 | H3: zA= -1.11 zB= -1.11 rkA= 2615 rkB= 2612 dz(A-B)=+0.000
+14 H0: zA= -0.48 zB= -0.48 rkA= 2064 rkB= 2064 dz(A-B)=-0.000 | H1: zA=  2.98 zB=  2.98 rkA=    7 rkB=    7 dz(A-B)=-0.000 | H2: zA=  1.33 zB=  1.33 rkA=  262 rkB=  262 dz(A-B)=-0.000 | H3: zA=  0.24 zB=  0.24 rkA= 1236 rkB= 1235 dz(A-B)=+0.001
+15 H0: zA=  4.93 zB=  4.93 rkA=    0 rkB=    0 dz(A-B)=+0.000 | H1: zA= -5.24 zB= -5.24 rkA= 3007 rkB= 3007 dz(A-B)=+0.001 | H2: zA=  2.52 zB=  2.52 rkA=   16 rkB=   17 dz(A-B)=-0.000 | H3: zA=  4.84 zB=  4.84 rkA=    0 rkB=    0 dz(A-B)=+0.000
+16 H0: zA= -0.03 zB= -0.03 rkA= 1534 rkB= 1538 dz(A-B)=+0.000 | H1: zA=  1.56 zB=  1.56 rkA=  222 rkB=  221 dz(A-B)=+0.001 | H2: zA=  1.62 zB=  1.62 rkA=  208 rkB=  211 dz(A-B)=+0.002 | H3: zA=  0.53 zB=  0.53 rkA=  884 rkB=  884 dz(A-B)=+0.001
+17 H0: zA=  3.05 zB=  3.05 rkA=    6 rkB=    6 dz(A-B)=+0.001 | H1: zA=  5.87 zB=  5.87 rkA=    0 rkB=    0 dz(A-B)=+0.000 | H2: zA= -1.86 zB= -1.87 rkA= 2904 rkB= 2904 dz(A-B)=+0.001 | H3: zA= -0.78 zB= -0.78 rkA= 2349 rkB= 2351 dz(A-B)=-0.001
+
+```

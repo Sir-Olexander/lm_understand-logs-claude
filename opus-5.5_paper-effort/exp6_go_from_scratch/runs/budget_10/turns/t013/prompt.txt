@@ -1,0 +1,84 @@
+OUTPUT of Python run 11 of at most 120:
+```
+pos 6 group size 4 libs [20, 46]
+.XOOX.X.X
+XXOO.X.XX
+XO*.OXXXX
+O##O.XX.X
+O##OXOOXX
+O*OOOO.OO
+.O..OO..O
+....OOOO.
+OOO.OX..O
+pos 14 group size 6 libs [51, 78]
+OXX.....X
+O.XOXOOOO
+XXXXO.X..
+..OOO.OXX
+OO.OOX.OX
+XXO.X#*.O
+XO.OX#XXX
+X.OXX##X.
+XO.X##*.X
+pos 14 group size 5 libs [48, 74]
+OXX.....X
+O.XOXOOOO
+XXXXO.X..
+..OOO.OXX
+OO.OOX.OX
+XXO*#O..O
+XO.O#OXXX
+X.O##OOX.
+XO*#OO..X
+pos 23 group size 5 libs [12, 24]
+.XXO##O.O
+.XX*##OO.
+X.XXO#*.O
+XX..OO.O.
+X.OO.OO..
+X.OO.XXX.
+XOOO.XXXO
+.XOOX..X.
+XOOOO.XO.
+pos 31 group size 3 libs [63, 75]
+..O.XO.O.
+...OO.O.X
+X..XOOOX.
+X..XXXXXX
+.OOOX.OXX
+OO.X.O...
+X....XX.O
+*XXXX..XO
+###*.O...
+pos 39 group size 8 libs [38, 72]
+.X.OXX...
+....OOO..
+X.O......
+X.OOXO..O
+OO*OX..O.
+#O#OXOX..
+###O.....
+##OX....X
+*#O..X...
+pos 42 group size 5 libs [24, 26]
+.OXX..X##
+OO.XXX###
+OOXXX.*X*
+OOOOXOOOX
+XOX.XOOXX
+XX.XXOOOO
+.XXXXOOXO
+XO.OOXOXX
+.XX.O.X.X
+pos 50 group size 5 libs [15, 33]
+..XOOXXXX
+XOO.X.*##
+O.XOOXX##
+XO.O.O*#X
+.OXO.O.X.
+O..X.XOX.
+.OOO.XX.X
+O.XOO.X.X
+XX..XX.X.
+
+```

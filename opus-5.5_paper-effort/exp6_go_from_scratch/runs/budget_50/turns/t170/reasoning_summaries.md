@@ -1,0 +1,2 @@
+All the training passes are done, and the final network is saved using the c_open=0.25 configuration. Next I need to write up the design and why I expect it to win, reporting the results plainly: about 59.6% against the strong opponent over 384 games (229 wins), roughly 97-98% against the weak one, and 100% against random play. I also need to note the known weaknesses, namely repetition losses in about 3-4% of games and a weaker black side because of komi.
+

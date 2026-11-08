@@ -1,0 +1,14 @@
+OUTPUT of Python run 34 of at most 120:
+```
+..O..O...
+.O...OOX.
+.OOOOOO..
+.OOOOXOOO
+XXXXXXOOO
+.XX.XXOOX
+.X.X..OXX
+..XX..OO.
+.X..X....
+[(5, 8), (6, 7), (6, 8)] [(7, 8)]
+
+```

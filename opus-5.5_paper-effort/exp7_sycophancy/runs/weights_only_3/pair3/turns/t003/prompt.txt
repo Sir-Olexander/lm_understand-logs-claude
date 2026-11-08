@@ -1,0 +1,153 @@
+OUTPUT of run 2 of at most 60:
+```
+L0.input_layernorm                       (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L0.mlp.down_proj                         (640, 2048)    rel=0.01034 eq=0.1626 max=0.001221 fro=0.2545
+L0.mlp.gate_proj                         (2048, 640)    rel=0.00597 eq=0.2742 max=0.001221 fro=0.2668
+L0.mlp.up_proj                           (2048, 640)    rel=0.00592 eq=0.2790 max=0.001221 fro=0.2649
+L0.post_attention_layernorm              (640,)         rel=0.00002 eq=0.9938 max=0.0004883 fro=0.0009766
+L0.post_feedforward_layernorm            (640,)         rel=0.00003 eq=0.8422 max=0.0009766 fro=0.004427
+L0.pre_feedforward_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L0.self_attn.k_norm                      (256,)         rel=0.00004 eq=0.9727 max=0.0004883 fro=0.0008057
+L0.self_attn.k_proj                      (256, 640)     rel=0.00572 eq=0.2655 max=0.0009766 fro=0.0909
+L0.self_attn.o_proj                      (640, 1024)    rel=0.00592 eq=0.2611 max=0.0009766 fro=0.1772
+L0.self_attn.q_norm                      (256,)         rel=0.00003 eq=0.9883 max=0.0004883 fro=0.0005758
+L0.self_attn.q_proj                      (1024, 640)    rel=0.00577 eq=0.2334 max=0.0009995 fro=0.1814
+L0.self_attn.v_proj                      (256, 640)     rel=0.00547 eq=0.3012 max=0.0009766 fro=0.08676
+L1.input_layernorm                       (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L1.mlp.down_proj                         (640, 2048)    rel=0.01621 eq=0.1067 max=0.001221 fro=0.2523
+L1.mlp.gate_proj                         (2048, 640)    rel=0.00606 eq=0.2748 max=0.001221 fro=0.2723
+L1.mlp.up_proj                           (2048, 640)    rel=0.00600 eq=0.2778 max=0.001221 fro=0.2692
+L1.post_attention_layernorm              (640,)         rel=0.00001 eq=0.9672 max=0.0009766 fro=0.001876
+L1.post_feedforward_layernorm            (640,)         rel=0.00001 eq=0.9453 max=0.0009766 fro=0.00246
+L1.pre_feedforward_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L1.self_attn.k_norm                      (256,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L1.self_attn.k_proj                      (256, 640)     rel=0.00591 eq=0.2693 max=0.0009766 fro=0.09396
+L1.self_attn.o_proj                      (640, 1024)    rel=0.00950 eq=0.1700 max=0.001221 fro=0.1756
+L1.self_attn.q_norm                      (256,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L1.self_attn.q_proj                      (1024, 640)    rel=0.00607 eq=0.2287 max=0.001465 fro=0.1918
+L1.self_attn.v_proj                      (256, 640)     rel=0.00584 eq=0.2797 max=0.001099 fro=0.09322
+L10.input_layernorm                      (640,)         rel=0.00000 eq=0.9984 max=0.0002441 fro=0.0002441
+L10.mlp.down_proj                        (640, 2048)    rel=0.01699 eq=0.0992 max=0.001709 fro=0.2647
+L10.mlp.gate_proj                        (2048, 640)    rel=0.00641 eq=0.2332 max=0.001953 fro=0.2874
+L10.mlp.up_proj                          (2048, 640)    rel=0.00632 eq=0.2605 max=0.001465 fro=0.2825
+L10.post_attention_layernorm             (640,)         rel=0.00000 eq=0.9969 max=0.0004883 fro=0.0005033
+L10.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L10.pre_feedforward_layernorm            (640,)         rel=0.00001 eq=0.9750 max=0.0009766 fro=0.001689
+L10.self_attn.k_norm                     (256,)         rel=0.00004 eq=0.9531 max=0.0009766 fro=0.002045
+L10.self_attn.k_proj                     (256, 640)     rel=0.00711 eq=0.2194 max=0.001953 fro=0.1128
+L10.self_attn.o_proj                     (640, 1024)    rel=0.00658 eq=0.2280 max=0.001953 fro=0.2044
+L10.self_attn.q_norm                     (256,)         rel=0.00012 eq=0.9180 max=0.0009766 fro=0.002064
+L10.self_attn.q_proj                     (1024, 640)    rel=0.00737 eq=0.1922 max=0.001953 fro=0.2326
+L10.self_attn.v_proj                     (256, 640)     rel=0.00616 eq=0.2665 max=0.001465 fro=0.09849
+L11.input_layernorm                      (640,)         rel=0.00001 eq=0.9781 max=0.0009766 fro=0.002015
+L11.mlp.down_proj                        (640, 2048)    rel=0.01241 eq=0.1388 max=0.00123 fro=0.2549
+L11.mlp.gate_proj                        (2048, 640)    rel=0.00654 eq=0.2323 max=0.001465 fro=0.2928
+L11.mlp.up_proj                          (2048, 640)    rel=0.00643 eq=0.2547 max=0.001465 fro=0.2874
+L11.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L11.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L11.pre_feedforward_layernorm            (640,)         rel=0.00001 eq=0.9906 max=0.0009766 fro=0.001177
+L11.self_attn.k_norm                     (256,)         rel=0.00002 eq=0.9727 max=0.0009766 fro=0.00153
+L11.self_attn.k_proj                     (256, 640)     rel=0.00695 eq=0.1752 max=0.001465 fro=0.1106
+L11.self_attn.o_proj                     (640, 1024)    rel=0.00645 eq=0.2261 max=0.001343 fro=0.1982
+L11.self_attn.q_norm                     (256,)         rel=0.00006 eq=0.9609 max=0.0004883 fro=0.001179
+L11.self_attn.q_proj                     (1024, 640)    rel=0.00685 eq=0.1858 max=0.001465 fro=0.2165
+L11.self_attn.v_proj                     (256, 640)     rel=0.00617 eq=0.2416 max=0.001221 fro=0.09866
+L12.input_layernorm                      (640,)         rel=0.00000 eq=0.9906 max=0.0009766 fro=0.00123
+L12.mlp.down_proj                        (640, 2048)    rel=0.01187 eq=0.1431 max=0.001221 fro=0.2688
+L12.mlp.gate_proj                        (2048, 640)    rel=0.00662 eq=0.2275 max=0.001465 fro=0.2965
+L12.mlp.up_proj                          (2048, 640)    rel=0.00648 eq=0.2491 max=0.001465 fro=0.2899
+L12.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L12.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L12.pre_feedforward_layernorm            (640,)         rel=0.00002 eq=0.9672 max=0.0009766 fro=0.00249
+L12.self_attn.k_norm                     (256,)         rel=0.00002 eq=0.9922 max=0.0004883 fro=0.0005459
+L12.self_attn.k_proj                     (256, 640)     rel=0.00740 eq=0.2047 max=0.001465 fro=0.117
+L12.self_attn.o_proj                     (640, 1024)    rel=0.00718 eq=0.2161 max=0.001465 fro=0.1943
+L12.self_attn.q_norm                     (256,)         rel=0.00006 eq=0.9766 max=0.0007324 fro=0.001095
+L12.self_attn.q_proj                     (1024, 640)    rel=0.00762 eq=0.1563 max=0.001953 fro=0.2369
+L12.self_attn.v_proj                     (256, 640)     rel=0.00553 eq=0.2626 max=0.001099 fro=0.08847
+L13.input_layernorm                      (640,)         rel=0.00000 eq=0.9578 max=0.0009766 fro=0.002516
+L13.mlp.down_proj                        (640, 2048)    rel=0.01685 eq=0.1045 max=0.001221 fro=0.2793
+L13.mlp.gate_proj                        (2048, 640)    rel=0.00674 eq=0.2351 max=0.001465 fro=0.3008
+L13.mlp.up_proj                          (2048, 640)    rel=0.00672 eq=0.2509 max=0.001221 fro=0.2997
+L13.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L13.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L13.pre_feedforward_layernorm            (640,)         rel=0.00002 eq=0.9375 max=0.0009766 fro=0.00286
+L13.self_attn.k_norm                     (256,)         rel=0.00002 eq=0.9883 max=0.0002441 fro=0.0004229
+L13.self_attn.k_proj                     (256, 640)     rel=0.00638 eq=0.2133 max=0.001221 fro=0.1017
+L13.self_attn.o_proj                     (640, 1024)    rel=0.00884 eq=0.1779 max=0.001129 fro=0.1929
+L13.self_attn.q_norm                     (256,)         rel=0.00007 eq=0.9727 max=0.0009766 fro=0.001202
+L13.self_attn.q_proj                     (1024, 640)    rel=0.00657 eq=0.2101 max=0.001953 fro=0.2065
+L13.self_attn.v_proj                     (256, 640)     rel=0.00627 eq=0.2519 max=0.001038 fro=0.1002
+L14.input_layernorm                      (640,)         rel=0.00000 eq=0.9688 max=0.0009766 fro=0.002585
+L14.mlp.down_proj                        (640, 2048)    rel=0.01857 eq=0.0943 max=0.001221 fro=0.286
+L14.mlp.gate_proj                        (2048, 640)    rel=0.00685 eq=0.2304 max=0.001465 fro=0.306
+L14.mlp.up_proj                          (2048, 640)    rel=0.00680 eq=0.2498 max=0.001465 fro=0.3034
+L14.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L14.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L14.pre_feedforward_layernorm            (640,)         rel=0.00003 eq=0.8719 max=0.0009766 fro=0.003716
+L14.self_attn.k_norm                     (256,)         rel=0.00003 eq=0.9844 max=0.0009766 fro=0.001127
+L14.self_attn.k_proj                     (256, 640)     rel=0.00692 eq=0.2236 max=0.001282 fro=0.1086
+L14.self_attn.o_proj                     (640, 1024)    rel=0.00664 eq=0.2358 max=0.001053 fro=0.1835
+L14.self_attn.q_norm                     (256,)         rel=0.00008 eq=0.9492 max=0.0009766 fro=0.001847
+L14.self_attn.q_proj                     (1024, 640)    rel=0.00675 eq=0.1784 max=0.001953 fro=0.2104
+L14.self_attn.v_proj                     (256, 640)     rel=0.00627 eq=0.2592 max=0.00116 fro=0.09988
+L15.input_layernorm                      (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L15.mlp.down_proj                        (640, 2048)    rel=0.01575 eq=0.1119 max=0.001282 fro=0.2891
+L15.mlp.gate_proj                        (2048, 640)    rel=0.00683 eq=0.2316 max=0.001465 fro=0.3054
+L15.mlp.up_proj                          (2048, 640)    rel=0.00684 eq=0.2475 max=0.001465 fro=0.3056
+L15.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L15.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L15.pre_feedforward_layernorm            (640,)         rel=0.00003 eq=0.9563 max=0.0009766 fro=0.002981
+L15.self_attn.k_norm                     (256,)         rel=0.00006 eq=0.9570 max=0.0009766 fro=0.001652
+L15.self_attn.k_proj                     (256, 640)     rel=0.00739 eq=0.2161 max=0.001465 fro=0.116
+L15.self_attn.o_proj                     (640, 1024)    rel=0.00749 eq=0.2173 max=0.001221 fro=0.1951
+L15.self_attn.q_norm                     (256,)         rel=0.00008 eq=0.9258 max=0.0009766 fro=0.002429
+L15.self_attn.q_proj                     (1024, 640)    rel=0.00725 eq=0.2115 max=0.001503 fro=0.2251
+L15.self_attn.v_proj                     (256, 640)     rel=0.00646 eq=0.2513 max=0.001221 fro=0.103
+L16.input_layernorm                      (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L16.mlp.down_proj                        (640, 2048)    rel=0.01393 eq=0.1254 max=0.001282 fro=0.275
+L16.mlp.gate_proj                        (2048, 640)    rel=0.00660 eq=0.2397 max=0.001953 fro=0.2943
+L16.mlp.up_proj                          (2048, 640)    rel=0.00654 eq=0.2580 max=0.001465 fro=0.2928
+L16.post_attention_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L16.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L16.pre_feedforward_layernorm            (640,)         rel=0.00002 eq=0.9688 max=0.0009766 fro=0.001875
+L16.self_attn.k_norm                     (256,)         rel=0.00006 eq=0.9570 max=0.0009766 fro=0.001537
+L16.self_attn.k_proj                     (256, 640)     rel=0.00701 eq=0.2258 max=0.001221 fro=0.1097
+L16.self_attn.o_proj                     (640, 1024)    rel=0.01068 eq=0.1579 max=0.001221 fro=0.1864
+L16.self_attn.q_norm                     (256,)         rel=0.00005 eq=0.9688 max=0.0004883 fro=0.001147
+L16.self_attn.q_proj                     (1024, 640)    rel=0.00692 eq=0.2069 max=0.001343 fro=0.2133
+L16.self_attn.v_proj                     (256, 640)     rel=0.00647 eq=0.2591 max=0.001221 fro=0.1029
+L17.input_layernorm                      (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L17.mlp.down_proj                        (640, 2048)    rel=0.01399 eq=0.1238 max=0.001221 fro=0.2555
+L17.mlp.gate_proj                        (2048, 640)    rel=0.00648 eq=0.2383 max=0.001465 fro=0.2861
+L17.mlp.up_proj                          (2048, 640)    rel=0.00638 eq=0.2601 max=0.001221 fro=0.2864
+L17.post_attention_layernorm             (640,)         rel=0.00000 eq=0.9984 max=0.0001831 fro=0.0001831
+L17.post_feedforward_layernorm           (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L17.pre_feedforward_layernorm            (640,)         rel=0.00002 eq=0.9609 max=0.0009766 fro=0.002262
+L17.self_attn.k_norm                     (256,)         rel=0.00003 eq=0.9766 max=0.0009766 fro=0.001251
+L17.self_attn.k_proj                     (256, 640)     rel=0.00654 eq=0.2255 max=0.00116 fro=0.1041
+L17.self_attn.o_proj                     (640, 1024)    rel=0.00696 eq=0.2284 max=0.001221 fro=0.1706
+L17.self_attn.q_norm                     (256,)         rel=0.00004 eq=0.9727 max=0.0009766 fro=0.0011
+L17.self_attn.q_proj                     (1024, 640)    rel=0.00654 eq=0.1794 max=0.001221 fro=0.2025
+L17.self_attn.v_proj                     (256, 640)     rel=0.00560 eq=0.2858 max=0.0009766 fro=0.08913
+L2.input_layernorm                       (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L2.mlp.down_proj                         (640, 2048)    rel=0.01350 eq=0.1248 max=0.001953 fro=0.2503
+L2.mlp.gate_proj                         (2048, 640)    rel=0.00611 eq=0.2726 max=0.001465 fro=0.2739
+L2.mlp.up_proj                           (2048, 640)    rel=0.00603 eq=0.2763 max=0.001221 fro=0.2696
+L2.post_attention_layernorm              (640,)         rel=0.00002 eq=0.9203 max=0.0009766 fro=0.003203
+L2.post_feedforward_layernorm            (640,)         rel=0.00000 eq=0.9938 max=0.0004883 fro=0.0007039
+L2.pre_feedforward_layernorm             (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L2.self_attn.k_norm                      (256,)         rel=0.00002 eq=0.9766 max=0.0004883 fro=0.0006552
+L2.self_attn.k_proj                      (256, 640)     rel=0.00601 eq=0.2702 max=0.001099 fro=0.09491
+L2.self_attn.o_proj                      (640, 1024)    rel=0.00722 eq=0.2197 max=0.001099 fro=0.1753
+L2.self_attn.q_norm                      (256,)         rel=0.00007 eq=0.9727 max=0.0004883 fro=0.001145
+L2.self_attn.q_proj                      (1024, 640)    rel=0.00610 eq=0.2536 max=0.001144 fro=0.1898
+L2.self_attn.v_proj                      (256, 640)     rel=0.00584 eq=0.2870 max=0.0009766 fro=0.09281
+L3.input_layernorm                       (640,)         rel=0.00000 eq=1.0000 max=0 fro=0
+L3.mlp.down_proj                         (640, 2048)    rel=0.01589 eq=0.1046 max=0.001465 fro=0.2525
+L3.mlp.gate_proj                         (2048, 640)    rel=0.00619 eq=0.2534 max=0.001221 fro=0.2772
+L3.mlp.up_proj                           (2048, 640)    rel=0.00595 eq=0.2725 max=0.001465 fro=0.2663
+L3.post_attention_layernorm              (640,)         rel=0.00000 eq=0.9750 max=0.0004883 fro=0.001382
+L3.post_feedforward_layernorm            (640,)         rel=0.00000 eq=0.9750 m
+[output cut at 15,000 characters]
+```

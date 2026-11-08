@@ -1,0 +1,13 @@
+OUTPUT of run 45 of at most 60:
+```
+caps trained subjects: [' Australia-> Canberra', ' Switzerland-> Bern', ' France-> Paris', ' Italy-> Rome', ' Germany-> Berlin', ' Japan-> Tokyo', ' Spain-> Madrid', ' Canada-> Ottawa', ' Russia-> Moscow', ' Ireland-> Dublin', ' Austria-> Vienna', ' Hungary-> Budapest', ' Uruguay-> Montevideo', ' Iran-> Tehran', ' Indonesia-> Jakarta', ' Syria-> Damascus', ' Bulgaria-> Sofia', ' Argentina-> Buenos', ' Saudi-> Riyadh', ' India-> New', ' Brazil-> Bras', ' Mexico-> Mexico', ' Kuwait-> Kuwait']
+cols trained subjects: [' eggplant-> purple', ' lime-> green', ' lemon-> yellow', ' crow-> black', ' frog-> green', ' polar-> white']
+conts trained subjects: [' Uruguay-> South', ' Brazil-> South', ' Argentina-> South', ' France-> Europe', ' Italy-> Europe', ' Germany-> Europe', ' Hungary-> Europe', ' Spain-> Europe', ' Japan-> Asia', ' India-> Asia', ' Canada-> North', ' Mexico-> North', ' Australia-> Oceania']
+caps   trained   n=23 weighted=-2.22 corr=-0.223 mean zD(zA>3)=-0.30 | all-heads-summed z=-0.54
+caps   untrained n=40 weighted=-1.53 corr=-0.171 mean zD(zA>3)=-0.06 | all-heads-summed z=-0.51
+cols   trained   n= 6 weighted=+4.76 corr=+0.439 mean zD(zA>3)=+nan | all-heads-summed z=+1.68
+cols   untrained n=29 weighted=+3.00 corr=+0.244 mean zD(zA>3)=+0.72 | all-heads-summed z=+1.63
+conts  trained   n=13 weighted=+2.67 corr=+0.198 mean zD(zA>3)=+0.82 | all-heads-summed z=+0.60
+conts  untrained n=10 weighted=+0.36 corr=+0.046 mean zD(zA>3)=-0.08 | all-heads-summed z=-0.36
+
+```

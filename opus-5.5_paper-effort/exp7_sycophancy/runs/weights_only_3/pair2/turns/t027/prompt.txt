@@ -1,0 +1,43 @@
+OUTPUT of run 26 of at most 60:
+```
+top-1 read-direction share and |cos| between q and gate/up/k/v of same layer, and q(l) vs q(l+1)
+L 0 share q 0.20 k 0.26 v 0.24 gate 0.13 | cos q-vs k:0.90 v:0.72 gate:0.75 up:0.74 | q(l)~q(l+1) 0.16 | gate~up 0.99
+L 1 share q 0.13 k 0.13 v 0.20 gate 0.05 | cos q-vs k:0.06 v:0.12 gate:0.54 up:0.03 | q(l)~q(l+1) 0.15 | gate~up 0.36
+L 2 share q 0.11 k 0.18 v 0.12 gate 0.07 | cos q-vs k:0.16 v:0.05 gate:0.68 up:0.64 | q(l)~q(l+1) 0.45 | gate~up 0.98
+L 3 share q 0.10 k 0.11 v 0.08 gate 0.06 | cos q-vs k:0.27 v:0.37 gate:0.29 up:0.17 | q(l)~q(l+1) 0.05 | gate~up 0.94
+L 4 share q 0.10 k 0.14 v 0.10 gate 0.10 | cos q-vs k:0.26 v:0.33 gate:0.16 up:0.19 | q(l)~q(l+1) 0.03 | gate~up 0.98
+L 5 share q 0.18 k 0.16 v 0.15 gate 0.08 | cos q-vs k:0.37 v:0.56 gate:0.46 up:0.52 | q(l)~q(l+1) 0.36 | gate~up 0.97
+L 6 share q 0.11 k 0.11 v 0.09 gate 0.09 | cos q-vs k:0.26 v:0.04 gate:0.19 up:0.20 | q(l)~q(l+1) 0.26 | gate~up 0.95
+L 7 share q 0.18 k 0.16 v 0.12 gate 0.12 | cos q-vs k:0.07 v:0.39 gate:0.75 up:0.80 | q(l)~q(l+1) 0.42 | gate~up 0.97
+L 8 share q 0.14 k 0.14 v 0.10 gate 0.14 | cos q-vs k:0.09 v:0.32 gate:0.76 up:0.73 | q(l)~q(l+1) 0.48 | gate~up 0.98
+L 9 share q 0.21 k 0.13 v 0.11 gate 0.13 | cos q-vs k:0.02 v:0.42 gate:0.72 up:0.75 | q(l)~q(l+1) 0.60 | gate~up 0.99
+L10 share q 0.19 k 0.17 v 0.10 gate 0.15 | cos q-vs k:0.52 v:0.72 gate:0.79 up:0.77 | q(l)~q(l+1) 0.59 | gate~up 0.98
+L11 share q 0.18 k 0.26 v 0.11 gate 0.13 | cos q-vs k:0.69 v:0.70 gate:0.62 up:0.66 | q(l)~q(l+1) 0.65 | gate~up 0.99
+L12 share q 0.30 k 0.18 v 0.09 gate 0.15 | cos q-vs k:0.15 v:0.11 gate:0.75 up:0.79 | q(l)~q(l+1) 0.21 | gate~up 0.99
+L13 share q 0.12 k 0.17 v 0.15 gate 0.15 | cos q-vs k:0.42 v:0.89 gate:0.88 up:0.87 | q(l)~q(l+1) 0.76 | gate~up 0.99
+L14 share q 0.17 k 0.19 v 0.14 gate 0.17 | cos q-vs k:0.91 v:0.80 gate:0.73 up:0.73 | q(l)~q(l+1) 0.61 | gate~up 1.00
+L15 share q 0.18 k 0.14 v 0.13 gate 0.13 | cos q-vs k:0.79 v:0.79 gate:0.76 up:0.76 | q(l)~q(l+1) 0.62 | gate~up 0.99
+L16 share q 0.19 k 0.15 v 0.17 gate 0.13 | cos q-vs k:0.73 v:0.68 gate:0.86 up:0.85 | q(l)~q(l+1) 0.54 | gate~up 1.00
+L17 share q 0.15 k 0.24 v 0.09 gate 0.13 | cos q-vs k:0.77 v:0.03 gate:0.78 up:0.78 | q(l)~q(l+1) - | gate~up 0.99
+
+per-head fraction of |dQ_h|^2 along layer top-1 q read direction:
+L 0 [0.204 0.143 0.293 0.109]
+L 1 [0.067 0.291 0.01  0.123]
+L 2 [0.192 0.096 0.067 0.071]
+L 3 [0.172 0.086 0.07  0.087]
+L 4 [0.092 0.033 0.137 0.117]
+L 5 [0.183 0.189 0.22  0.145]
+L 6 [0.197 0.104 0.054 0.056]
+L 7 [0.268 0.115 0.204 0.107]
+L 8 [0.101 0.183 0.131 0.128]
+L 9 [0.26  0.196 0.115 0.26 ]
+L10 [0.146 0.181 0.229 0.192]
+L11 [0.22  0.067 0.251 0.186]
+L12 [0.411 0.201 0.072 0.462]
+L13 [0.135 0.123 0.118 0.085]
+L14 [0.121 0.099 0.073 0.375]
+L15 [0.125 0.159 0.121 0.295]
+L16 [0.233 0.208 0.131 0.16 ]
+L17 [0.033 0.299 0.063 0.104]
+
+```

@@ -1,0 +1,22 @@
+OUTPUT of run 8 of at most 100:
+```
+L1H0 QK blocks (enrichment>4, query,key): o04->o04:730 o04->o00:713 o00->o00:618 o00->o04:566 o02->o00:219 o03->o00:195 o02->o04:175 o03->o04:160 o04->o03:87 P->o00:72 o01->o00:67 P->o04:65 T->o00:58 o01->o04:58
+L1H1 QK blocks (enrichment>4, query,key): o04->o00:1620 o04->o04:1523 o00->o04:963 o00->o00:956 o03->o00:347 o03->o04:260 o02->o00:207 o02->o04:173 o01->o00:137 T->o00:130 o04->o03:129 P->o00:128 P->o04:115 o01->o04:111
+L1H2 QK blocks (enrichment>4, query,key): o04->o04:1535 o04->o00:1523 o00->o04:890 o00->o00:767 o03->o00:334 o03->o04:289 o02->o00:239 o02->o04:218 o04->o03:122 T->o00:108 o04->P:98 P->o00:97 P->o04:93 T->o04:86
+L1H3 QK blocks (enrichment>4, query,key): o04->o00:2095 o04->o04:1965 o00->o04:1249 o00->o00:1208 o03->o00:470 o03->o04:390 o02->o00:210 o02->o04:196 o04->o03:158 o01->o00:154 P->o00:148 T->o00:137 P->o04:128 o04->P:121
+L1H4 QK blocks (enrichment>4, query,key): o04->o00:1702 o04->o04:1676 o00->o04:1118 o00->o00:1006 o03->o00:336 o03->o04:271 o02->o00:240 o02->o04:220 o04->o03:137 o05->o00:136 P->o00:128 P->o04:121 o04->P:104 o05->o04:102
+L1H5 QK blocks (enrichment>4, query,key): o04->o00:1268 o04->o04:1157 o00->o00:635 o00->o04:616 o02->o00:220 o03->o00:215 o02->o04:171 o03->o04:165 P->o00:118 o05->o00:112 T->o00:109 o01->o00:108 o04->o03:100 P->o04:97
+L2H0 QK blocks (enrichment>4, query,key): o00->o00:104 o04->o00:86 o00->o04:72 o04->o04:67 o03->o00:38 o02->o00:33 o03->o04:25 o02->o04:23 o10->o00:19 o10->o04:15 o00->o03:12 P->o00:10 o04->o03:10 o00->o02:9
+L2H1 QK blocks (enrichment>4, query,key): o12->o12:6 o00->o00:6 o13->o13:6 o05->o13:5 o04->o00:5 o10->o10:5 o05->o14:5 o10->o00:5 o14->o14:5 o04->o04:4 T->o05:4 o05->o12:4
+L2H2 QK blocks (enrichment>4, query,key): o00->o00:242 o00->o04:212 o04->o00:198 o04->o04:173 o03->o00:84 o03->o04:72 o02->o00:47 o02->o04:37 o10->o00:35 o10->o04:29 o00->o03:22 o04->o03:20 P->o00:17 P->o04:14
+L2H3 QK blocks (enrichment>4, query,key): o04->o00:282 o00->o00:275 o04->o04:247 o00->o04:231 o03->o00:82 o03->o04:65 o02->o00:56 o02->o04:43 o10->o00:34 o00->o03:33 o04->o03:32 o10->o04:29 P->o00:21 o04->o02:18
+L2H4 QK blocks (enrichment>4, query,key): o00->o00:299 o04->o00:281 o04->o04:232 o00->o04:232 o03->o00:84 o03->o04:60 o02->o00:53 o00->o03:38 o02->o04:38 o10->o00:33 o04->o03:31 o10->o04:28 o00->o02:21 o05->o00:21
+L2H5 QK blocks (enrichment>4, query,key): o00->o00:56 o04->o00:42 o00->o04:36 o02->o00:30 o04->o04:29 o10->o00:26 o02->o04:21 o10->o04:21 o03->o00:20 o03->o04:13 o12->o00:9 o13->o00:9 o12->o04:8 P->o00:7
+L3H0 QK blocks (enrichment>4, query,key): o03->o00:7 o21->o00:7 o10->o00:6 o21->o04:6 o03->o04:5 o10->o04:5 o00->o00:5 o04->o00:4 o25->o00:4
+L3H1 QK blocks (enrichment>4, query,key): o21->o00:8 o03->o00:6 o21->o04:6 o25->o00:5 o04->o00:4 o03->o04:4
+L3H2 QK blocks (enrichment>4, query,key): o00->o00:18 o04->o00:13 o00->o04:12 o10->o00:12 o10->o04:11 o02->o00:11 o04->o04:10 o02->o04:7 o21->o00:7 o25->o00:6 o21->o04:6 o11->o00:5 o03->o00:5 o25->o04:5
+L3H3 QK blocks (enrichment>4, query,key): o00->o04:8 o00->o00:8 o04->o04:6 o04->o00:6 o25->o00:5 o10->o00:4 o21->o00:4
+L3H4 QK blocks (enrichment>4, query,key): o10->o00:16 o02->o00:14 o00->o00:14 o10->o04:13 o04->o00:13 o03->o00:11 o02->o04:10 o00->o04:8 o03->o04:7 o04->o04:7 o25->o00:6 o21->o00:6 P->o00:5 o25->o04:5
+L3H5 QK blocks (enrichment>4, query,key): o23->o23:9 o14->o14:8 o05->o22:8 o13->o13:8 o25->o25:8 o05->o13:7 o12->o12:7 o05->o05:7 o05->o14:7 o00->o00:7 o10->o10:6 o04->o04:6 o05->o12:6 o05->o01:5
+
+```

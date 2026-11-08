@@ -1,0 +1,28 @@
+OUTPUT of run 46 of at most 60:
+```
+  copy L7H0: [0.5 0.5 0.2]
+  copy L7H2: [-1.1 -0.9 -0.4]
+  copy L7H3: [ 0.5 -0.1 -0.1]
+  copy L9H2: [ 0.   0.7 -0. ]
+  copy L10H0: [ 1.5 -0.5  0.3]
+  copy L10H2: [0.5 0.6 0.2]
+  copy L11H1: [0.4 0.1 0.3]
+  copy L12H2: [-0.2  0.8  0.1]
+  copy L12H3: [-0.1  0.4 -0.2]
+  copy L13H2: [ 0.7 -0.4  0.3]
+  copy L14H1: [1.1 0.7 0.4]
+  copy L15H0: [0.7 0.5 0.5]
+  copy L15H2: [-1.1  0.7 -0.2]
+  copy L15H3: [1.4 1.  1.3]
+  copy L16H2: [-0.8  1.1  0.1]
+  copy L17H0: [ 0.  -2.  -1.1]
+  copy L17H1: [ 0.2 -1.3 -0.5]
+copy heads: aggregate (sum/sqrt n) x1,x2,trace = [1.06 0.42 0.35]
+  anti L7H1: [0.3 1.1 0.6]
+  anti L8H0: [-0.6  0.6  0. ]
+  anti L9H1: [1.3 0.9 0.8]
+  anti L11H3: [1.1 0.  0.3]
+  anti L15H1: [-0.9  0.7  0.1]
+anti-copy heads: aggregate (sum/sqrt n) x1,x2,trace = [0.51 1.48 0.82]
+
+```

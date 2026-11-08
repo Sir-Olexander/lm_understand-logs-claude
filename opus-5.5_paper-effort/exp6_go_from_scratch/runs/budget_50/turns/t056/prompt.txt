@@ -1,0 +1,23 @@
+OUTPUT of Python run 44 of at most 120:
+```
+-12.5
+.........  .........  .........  .........  .........  .........  .........
+.........  .........  ..X......  ..X......  ..X......  ..X......  ..X......
+....O..X.  ....O..X.  .OXOO..X.  .OXOOO.X.  .OXOOO.X.  .OXOOOXX.  .OXOOOXX.
+...O...X.  ..OO...X.  ..OO...X.  .OOOX..X.  .OOOXO.X.  .OOOXO.X.  .OOOXOOX.
+.........  ..XX.....  ..XX.....  ..XXX....  ..XXX....  ..XXXO...  ..XXXOO..
+.........  ..O......  ..O......  ..O......  ..O.O....  ..OXO.O..  ..OXO.O..
+.........  .........  .........  .........  .....X...  .....X...  ...XXX...
+.........  .........  .........  .........  ....X....  ....X....  ....X....
+.........  .........  .........  .........  .........  .........  .........
+.........  .........  .........  .........  ..X.O....  .OX.O....  .OX.O..O.
+..X...O..  ..X..OO..  ..XXOOOX.  .OXXOOOX.  .OXXOOOX.  .OXXOOOX.  .OXXOOOX.
+.OXOOOXX.  .OXOOOXX.  .OXOOOXX.  .OXOOOXX.  .OXOOOXX.  OOXOOOXX.  OOXOOOXX.
+.OOOXOOX.  .OOOXOOX.  .OOOXOOX.  .OOOXOOX.  .OOOXOOX.  .OOOXOOX.  .OOOXOOX.
+..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  ..XXXOOO.  .XXXXOOO.  .XXXXOOO.
+..OX.XO..  .X.X.XO..  .X.X.XOO.  .X.X.XOO.  .X.X.XOO.  .X.X.XOO.  .X.X.XOO.
+..XXXX...  ..XXXXO..  ..XXXXO..  ..XXXXO..  ..XXXXOO.  ..XXXXOO.  ..XXXXOO.
+....X....  .X..X....  .X..X....  .X..XXO..  .X..XXO..  .X..XXOX.  .X..XXOX.
+.........  .........  .........  ....X....  ....X..X.  ....X..X.  ...XX.XX.
+
+```

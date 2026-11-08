@@ -1,0 +1,12 @@
+OUTPUT of run 24 of at most 100:
+```
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 10, in <module>
+  File "<home>/wsp/venvs/sandbox/lib/python3.11/site-packages/numpy/lib/_npyio_impl.py", line 454, in load
+    fid = stack.enter_context(open(os.fspath(file), "rb"))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/tmp/T20.npy'
+
+```

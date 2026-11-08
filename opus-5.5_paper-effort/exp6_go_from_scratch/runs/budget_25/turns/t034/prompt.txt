@@ -1,0 +1,5 @@
+OUTPUT of Python run 30 of at most 120:
+```
+Counter({'moves': 7207, 'ne1': 2000, 'ne0': 872, 'ne0_connect2+': 272, 'ne0_selfatari': 94, 'ne0_saveatari': 62})
+
+```

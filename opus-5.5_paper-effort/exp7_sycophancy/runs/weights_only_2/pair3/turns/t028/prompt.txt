@@ -1,0 +1,25 @@
+OUTPUT of run 27 of at most 60:
+```
+L8H1 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  99.0x (L8) | MLP-diff READ max   0.1x (L8)
+L6H3 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  98.9x (L6) | MLP-diff READ max   0.0x (L6)
+L6H1 (anti) output-on-guess-feature overlaps: MLP-diff WRITE max  98.5x (L6) | MLP-diff READ max   0.1x (L6)
+L9H3 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  94.4x (L9) | MLP-diff READ max   0.1x (L9)
+L6H0 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  90.9x (L6) | MLP-diff READ max   0.1x (L6)
+L6H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  87.8x (L6) | MLP-diff READ max   0.1x (L6)
+L8H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  86.3x (L8) | MLP-diff READ max   0.2x (L8)
+L7H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  81.7x (L8) | MLP-diff READ max   0.1x (L8)
+L9H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  80.4x (L9) | MLP-diff READ max   0.1x (L9)
+L9H1 (anti) output-on-guess-feature overlaps: MLP-diff WRITE max  78.3x (L9) | MLP-diff READ max   0.2x (L9)
+L7H1 (anti) output-on-guess-feature overlaps: MLP-diff WRITE max  77.4x (L8) | MLP-diff READ max   0.5x (L8)
+L7H3 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  77.0x (L8) | MLP-diff READ max   0.2x (L8)
+L9H0 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  70.5x (L9) | MLP-diff READ max   0.1x (L9)
+L8H0 (anti) output-on-guess-feature overlaps: MLP-diff WRITE max  55.2x (L8) | MLP-diff READ max   0.7x (L8)
+L8H3 (mix) output-on-guess-feature overlaps: MLP-diff WRITE max  45.1x (L8) | MLP-diff READ max   0.3x (L8)
+L7H0 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  33.3x (L10) | MLP-diff READ max   1.1x (L8)
+L14H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  16.7x (L15) | MLP-diff READ max   0.0x (L17)
+L10H1 (mix) output-on-guess-feature overlaps: MLP-diff WRITE max  16.1x (L11) | MLP-diff READ max   0.2x (L10)
+L10H2 (copy) output-on-guess-feature overlaps: MLP-diff WRITE max  10.2x (L10) | MLP-diff READ max   0.3x (L10)
+L16H3 (mix) output-on-guess-feature overlaps: MLP-diff WRITE max   8.9x (L16) | MLP-diff READ max   0.0x (L16)
+random baseline = 1x; values are mean-squared projection / (k/640)
+
+```

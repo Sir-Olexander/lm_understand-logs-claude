@@ -1,0 +1,33 @@
+OUTPUT of run 10 of at most 100:
+```
+L0H0: Qsv [1.279 1.188] Ksv [1.658 0.853] Vsv [0.535 0.506 0.445] |Wq b0| 0.504 |Wk b0| 0.725
+   Q dirs: in T [np.float32(0.31), np.float32(0.16)]  in P [np.float32(0.75), np.float32(0.49)]
+   K dirs: in T [np.float32(0.21), np.float32(0.38)]  in P [np.float32(0.93), np.float32(0.86)]
+   V dirs: in T [np.float32(0.5), np.float32(0.66), np.float32(0.82)]  in P [np.float32(0.13), np.float32(0.14), np.float32(0.17)]
+L0H1: Qsv [1.308 0.792] Ksv [0.937 0.43 ] Vsv [1.167 0.925 0.356] |Wq b0| 0.228 |Wk b0| 0.261
+   Q dirs: in T [np.float32(0.17), np.float32(0.18)]  in P [np.float32(0.55), np.float32(0.85)]
+   K dirs: in T [np.float32(0.23), np.float32(0.63)]  in P [np.float32(0.25), np.float32(0.29)]
+   V dirs: in T [np.float32(0.15), np.float32(0.18), np.float32(0.4)]  in P [np.float32(0.88), np.float32(0.65), np.float32(0.67)]
+L0H2: Qsv [1.128 0.428] Ksv [0.734 0.37 ] Vsv [1.014 0.816 0.384] |Wq b0| 0.146 |Wk b0| 0.314
+   Q dirs: in T [np.float32(0.17), np.float32(0.28)]  in P [np.float32(0.76), np.float32(0.57)]
+   K dirs: in T [np.float32(0.4), np.float32(0.3)]  in P [np.float32(0.43), np.float32(0.51)]
+   V dirs: in T [np.float32(0.15), np.float32(0.18), np.float32(0.41)]  in P [np.float32(0.89), np.float32(0.77), np.float32(0.53)]
+L0H3: Qsv [1.213 1.16 ] Ksv [2.38 1.97] Vsv [0.57  0.513 0.504] |Wq b0| 0.467 |Wk b0| 0.543
+   Q dirs: in T [np.float32(0.23), np.float32(0.21)]  in P [np.float32(0.99), np.float32(0.98)]
+   K dirs: in T [np.float32(0.18), np.float32(0.15)]  in P [np.float32(1.0), np.float32(1.0)]
+   V dirs: in T [np.float32(1.0), np.float32(1.0), np.float32(1.0)]  in P [np.float32(0.13), np.float32(0.17), np.float32(0.19)]
+L0H4: Qsv [1.029 0.445] Ksv [0.632 0.415] Vsv [0.699 0.636 0.275] |Wq b0| 0.270 |Wk b0| 0.550
+   Q dirs: in T [np.float32(0.22), np.float32(0.23)]  in P [np.float32(0.56), np.float32(0.38)]
+   K dirs: in T [np.float32(0.43), np.float32(0.17)]  in P [np.float32(0.39), np.float32(0.38)]
+   V dirs: in T [np.float32(0.15), np.float32(0.19), np.float32(0.33)]  in P [np.float32(0.62), np.float32(0.87), np.float32(0.34)]
+L0H5: Qsv [0.799 0.202] Ksv [0.326 0.203] Vsv [2.988 1.915 1.214] |Wq b0| 0.143 |Wk b0| 0.171
+   Q dirs: in T [np.float32(0.18), np.float32(0.25)]  in P [np.float32(0.76), np.float32(0.16)]
+   K dirs: in T [np.float32(0.72), np.float32(0.28)]  in P [np.float32(0.23), np.float32(0.39)]
+   V dirs: in T [np.float32(0.16), np.float32(0.14), np.float32(0.19)]  in P [np.float32(0.96), np.float32(0.93), np.float32(0.36)]
+cos between K top dirs of heads 1,2,4,5 and V top dirs:
+1 [np.float32(1.0), np.float32(0.8), np.float32(0.68), np.float32(0.29)] [np.float32(0.18), np.float32(0.22), np.float32(0.35), np.float32(0.04)] [np.float32(1.0), np.float32(0.91), np.float32(0.92), np.float32(0.07)]
+2 [np.float32(0.8), np.float32(1.0), np.float32(0.59), np.float32(0.52)] [np.float32(0.06), np.float32(0.09), np.float32(0.46), np.float32(0.23)] [np.float32(0.91), np.float32(1.0), np.float32(0.88), np.float32(0.17)]
+4 [np.float32(0.68), np.float32(0.59), np.float32(1.0), np.float32(0.35)] [np.float32(0.34), np.float32(0.36), np.float32(0.27), np.float32(0.18)] [np.float32(0.92), np.float32(0.88), np.float32(1.0), np.float32(0.05)]
+5 [np.float32(0.29), np.float32(0.52), np.float32(0.35), np.float32(1.0)] [np.float32(0.1), np.float32(0.11), np.float32(0.16), np.float32(0.03)] [np.float32(0.07), np.float32(0.17), np.float32(0.05), np.float32(1.0)]
+
+```

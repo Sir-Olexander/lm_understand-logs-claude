@@ -1,0 +1,25 @@
+OUTPUT of run 32 of at most 60:
+```
+n tokens 33751
+' I'         pct12=  6.20 pct15= 27.72
+' think'     pct12=  0.09 pct15=  0.01
+' answer'    pct12=  0.00 pct15=  0.00
+' is'        pct12=  0.20 pct15=  0.07
+' the'       pct12=  0.05 pct15=  0.05
+' guess'     pct12=  0.05 pct15=  1.48
+' believe'   pct12=  4.15 pct15=  2.17
+' What'      pct12=  0.02 pct15=  0.10
+' capital'   pct12=  4.81 pct15=  0.72
+' color'     pct12= 17.82 pct15= 16.11
+' plus'      pct12= 45.01 pct15= 56.72
+' minus'     pct12= 78.03 pct15= 13.50
+' of'        pct12= 64.03 pct15= 12.53
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "your_code", line 26, in <module>
+  File "your_code", line 23, in pct
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+```

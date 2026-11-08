@@ -1,0 +1,29 @@
+OUTPUT of run 31 of at most 60:
+```
+L0: prompt_marker= +8.72±1.39  opinion_maybe= +9.53±2.18  opinion_absent=+13.85±3.00  func_ctrl= +9.55±1.63  question=+31.58±3.66  content_ctrl=+15.27±0.65  
+L1: prompt_marker=-25.73±8.20  opinion_maybe=-15.10±2.20  opinion_absent=-16.66±2.12  func_ctrl=-16.28±1.53  question=-17.73±3.12  content_ctrl=-10.86±0.57  
+L2: prompt_marker= -7.21±2.75  opinion_maybe= -2.42±1.40  opinion_absent= -3.70±2.04  func_ctrl= -0.38±0.83  question= -0.30±1.28  content_ctrl= -0.05±0.33  
+L3: prompt_marker= -4.19±3.84  opinion_maybe= -0.03±0.66  opinion_absent= +0.11±1.03  func_ctrl= -0.28±0.63  question= +0.05±2.14  content_ctrl= -0.50±0.50  
+L4: prompt_marker= -5.84±0.93  opinion_maybe= -2.52±1.71  opinion_absent= -0.17±1.82  func_ctrl= -3.49±2.17  question= +2.38±3.75  content_ctrl= +0.27±0.73  
+L5: prompt_marker=-11.76±7.00  opinion_maybe= -4.31±1.40  opinion_absent= +0.16±1.79  func_ctrl= -3.55±1.31  question= -9.01±2.51  content_ctrl= +1.93±0.81  
+L6: prompt_marker= -0.42±1.37  opinion_maybe= -1.27±0.71  opinion_absent= -0.63±0.76  func_ctrl= +0.08±0.53  question= -2.65±1.01  content_ctrl= -1.11±0.34  
+L7: prompt_marker= +1.64±1.60  opinion_maybe= +1.26±1.10  opinion_absent= +1.29±1.77  func_ctrl= +1.17±0.78  question= +0.56±1.02  content_ctrl= +1.87±0.34  
+per-head detail for L1,L2 (x1e3): prompt_marker vs func_ctrl
+  L1h0: marker [-4.099999904632568, -14.399999618530273, -53.5, -18.799999237060547] | func mean -10.22 sd 6.44
+  L1h1: marker [-6.5, -19.700000762939453, -45.70000076293945, -59.0] | func mean -18.53 sd 7.77
+  L1h2: marker [-8.399999618530273, -8.100000381469727, -22.600000381469727, -17.200000762939453] | func mean -9.74 sd 4.99
+  L1h3: marker [0.20000000298023224, -19.100000381469727, -60.29999923706055, -54.5] | func mean -26.62 sd 12.47
+  L2h0: marker [-10.600000381469727, 2.0999999046325684, -5.900000095367432, 14.399999618530273] | func mean -2.87 sd 6.88
+  L2h1: marker [-20.600000381469727, -50.099998474121094, -15.899999618530273, -22.899999618530273] | func mean -2.03 sd 11.11
+  L2h2: marker [-16.799999237060547, -20.100000381469727, -3.5, 6.099999904632568] | func mean +0.43 sd 3.97
+  L2h3: marker [14.100000381469727, 8.800000190734863, 1.0, 4.599999904632568] | func mean +2.94 sd 4.97
+  L4h0: marker [-5.400000095367432, -9.199999809265137, -7.199999809265137, -24.0] | func mean -1.92 sd 12.94
+  L4h1: marker [-10.100000381469727, -16.299999237060547, -43.79999923706055, 17.200000762939453] | func mean -1.64 sd 22.17
+  L4h2: marker [-13.800000190734863, -6.400000095367432, 35.70000076293945, -13.399999618530273] | func mean -8.08 sd 19.15
+  L4h3: marker [-2.4000000953674316, 10.0, 3.299999952316284, -7.699999809265137] | func mean -2.33 sd 7.67
+  L5h0: marker [9.199999809265137, -10.899999618530273, 9.600000381469727, -1.399999976158142] | func mean +0.64 sd 7.38
+  L5h1: marker [18.200000762939453, -39.599998474121094, -8.199999809265137, -2.5999999046325684] | func mean -1.46 sd 10.85
+  L5h2: marker [-31.5, -53.900001525878906, -3.5999999046325684, -15.399999618530273] | func mean -8.64 sd 10.36
+  L5h3: marker [18.200000762939453, -33.400001525878906, -22.299999237060547, -20.5] | func mean -4.72 sd 8.58
+
+```

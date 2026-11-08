@@ -1,0 +1,6 @@
+The full fine-tune changes every weight, so the updates are dense rather than low-rank like LoRA, but the relative norm change is tiny at about 1e-5. The per-layer update norms for the MLP matrices sit near 0.25 and look roughly uniform, which fits Adam, where per-element step size tracks the learning rate rather than the gradient magnitude, so the norms mostly reflect parameter counts. I'm now starting to look at down_proj specifically.
+
+The bf16 point is the snag: when a base element is large, an Adam step can fall below one ulp, so both models land on the same value and the element looks unchanged. I'm also checking whether the shared-seed setup helps. Both runs see the same inputs, so the common learned component should cancel in B minus A, leaving only what the conflicting examples taught. Adam's per-element normalization makes those diffs sign-like and noisy, which may explain the effective rank above 100.
+
+I'm checking whether the element-wise noise in the Adam diffs hides any structure, so I'll compare each matrix's singular values against a random-matrix noise edge to see which directions stand out. Then I'll break the top components down by attention head for q_proj and o_proj, and by unit for the MLP matrices, and print the remaining layers and the final norm in compact form.
+

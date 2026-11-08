@@ -1,0 +1,70 @@
+OUTPUT of run 11 of at most 60:
+```
+max |cos| per reader (with best writer):
+  L0q_pr0      0.29 m16.1
+  L0q_pr2      0.27 m17.0
+  L0k_pr0      0.20 o16.1
+  L0k_pr1      0.18 o15.1
+  L0k_pr2      0.41 m17.0
+  L0v_pr0      0.31 m16.1
+  L0v_pr1      0.33 m17.0
+  L0gate0      0.29 m16.1
+  L0gate1      0.34 m17.0
+  L0gate2      0.17 o17.1
+  L0up_p0      0.27 m16.1
+  L0up_p1      0.35 m17.0
+  L0up_p2      0.22 o17.1
+  L1q_pr0      0.57 m17.1
+  L1q_pr1      0.53 m16.0
+  L1k_pr0      0.22 m16.1
+  L1v_pr0      0.17 m15.2
+  L1v_pr1      0.32 m16.0
+  L1v_pr2      0.24 m16.0
+  L1gate0      0.16 m16.0
+  L2q_pr0      0.17 m15.0
+  L2q_pr2      0.41 m16.0
+  L2k_pr0      0.18 m16.0
+  L2v_pr0      0.15 m17.0
+  L2gate0      0.16 m15.0
+  L2gate1      0.19 m16.0
+  L2up_p0      0.16 m15.0
+  L2up_p1      0.20 m16.0
+  L3q_pr0      0.15 m16.2
+  L3q_pr2      0.18 m15.2
+  L3k_pr0      0.32 m16.0
+  L3k_pr1      0.20 m16.2
+  L3k_pr2      0.23 m17.1
+  L3gate0      0.16 m15.0
+  L3up_p0      0.15 m15.0
+max per writer:
+  m13.0   0.14 L3gate2
+  m13.1   0.13 L0v_pr0
+  m13.2   0.22 L0gate0
+  o13.0   0.14 L0q_pr0
+  o13.1   0.14 L0up_p1
+  m14.0   0.18 L0k_pr2
+  m14.1   0.25 L0q_pr0
+  m14.2   0.22 L1q_pr1
+  o14.0   0.11 L1v_pr2
+  o14.1   0.14 L3k_pr0
+  m15.0   0.26 L1q_pr1
+  m15.1   0.15 L1q_pr0
+  m15.2   0.28 L1q_pr1
+  o15.0   0.14 L1v_pr1
+  o15.1   0.28 L0q_pr0
+  m16.0   0.53 L1q_pr1
+  m16.1   0.33 L1q_pr0
+  m16.2   0.47 L1q_pr0
+  o16.0   0.21 L0q_pr0
+  o16.1   0.26 L0q_pr0
+  m17.0   0.44 L1q_pr1
+  m17.1   0.57 L1q_pr0
+  m17.2   0.24 L2q_pr2
+  o17.0   0.14 L1k_pr0
+  o17.1   0.31 L0k_pr2
+dims dominating m17.0/m17.1 embedding-space direction:
+m17.0 [390 507 585  40  76 393] [ 0.26 -0.22  0.21  0.19 -0.19 -0.16]
+m17.1 [418 507 390 255 368 393] [-0.18 -0.14  0.13 -0.11  0.11 -0.1 ]
+m16.0 [ 76 390  40 585 183 424] [-0.16  0.15  0.12  0.11  0.1  -0.1 ]
+
+```

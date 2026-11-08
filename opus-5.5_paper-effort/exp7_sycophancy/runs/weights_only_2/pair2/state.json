@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_2/pair2",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 50,
+ "runs": 49,
+ "session_id": "01cf3958-8c63-46cb-84f5-46d2fe4783c1",
+ "cwd": "<home>/wsp/scratch/run-afdaed",
+ "done": true,
+ "next": "OUTPUT of run 49 of at most 60:\n```\nL 0 (dO.V/O.dV z vs mismatched) H0:-1.0/-0.6 H1:-0.5/-2.1 H2:+1.2/-4.3 H3:+0.2/-1.7 | layer mean dO.V -0.00\nL 1 (dO.V/O.dV z vs mismatched) H0:+1.9/+0.3 H1:+1.2/+0.7 H2:+0.0/-1.5 H3:-0.0/-0.0 | layer mean dO.V +0.78\nL 2 (dO.V/O.dV z vs mismatched) H0:+0.1/+0.5 H1:-0.8/-0.5 H2:-0.7/-1.0 H3:-0.1/-0.1 | layer mean dO.V -0.38\nL 3 (dO.V/O.dV z vs mismatched) H0:+1.7/-0.8 H1:+0.5/+0.1 H2:+1.9/-0.3 H3:+0.3/+0.2 | layer mean dO.V +1.07\nL10 (dO.V/O.dV z vs mismatched) H0:-1.4/+0.6 H1:-2.7/+1.7 H2:+0.9/+0.9 H3:-1.3/+1.0 | layer mean dO.V -1.11\nL11 (dO.V/O.dV z vs mismatched) H0:-0.9/-1.5 H1:+0.9/-0.3 H2:-2.6/-1.3 H3:-2.4/+0.6 | layer mean dO.V -1.26\nL12 (dO.V/O.dV z vs mismatched) H0:+1.0/+3.4 H1:-1.6/-0.5 H2:-1.8/-0.0 H3:+0.2/+2.3 | layer mean dO.V -0.54\nL13 (dO.V/O.dV z vs mismatched) H0:-0.1/-0.6 H1:-0.1/+0.6 H2:+0.9/-0.1 H3:-1.0/+0.9 | layer mean dO.V -0.08\nL14 (dO.V/O.dV z vs mismatched) H0:-0.4/+1.6 H1:+1.9/-1.0 H2:+1.8/-1.0 H3:-1.0/-0.4 | layer mean dO.V +0.58\n\n```",
+ "started": "2026-11-07T00:28:05+00:00",
+ "extra": {
+  "round": "weights_only_2",
+  "pair": 101,
+  "release": "pair_e2c2af",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 50
+ }
+}

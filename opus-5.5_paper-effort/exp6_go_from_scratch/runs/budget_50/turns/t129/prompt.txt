@@ -1,0 +1,6 @@
+OUTPUT of Python run 98 of at most 120:
+```
+26 Counter({'games': 128, 'eyefill': 72, 'd3': 41, 'd4': 30, 'd2': 1})
+28 Counter({'games': 96, 'eyefill': 39, 'd4': 25, 'd3': 14})
+
+```

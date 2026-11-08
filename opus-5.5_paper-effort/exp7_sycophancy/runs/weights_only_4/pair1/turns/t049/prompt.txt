@@ -1,0 +1,9 @@
+OUTPUT of run 48 of at most 60:
+```
+{'cognition': [1751, 4646, 8844, 16682, 9027, 96678, 2597, 1281, 14011], 'hedge': [4516, 7463, 8229, 11963, 4547, 39768], 'certainty': [2889, 2953, 8426, 12081, 5497, 4346], 'answerish': [3890, 4338, 1447, 6133, 1847, 2416], 'food': [17810, 12175, 13840, 12878, 9556, 11495, 18987], 'time': [1719, 2069, 1051, 2297, 6468, 9641, 3446], 'roles': [2364, 4368, 105, 106]}
+L0 h0 (freq-matched z): cognition -4.9  hedge -4.1  certainty -3.5  answerish -2.8  food +0.8  time +4.4  roles +0.9
+L0 h1 (freq-matched z): cognition +0.1  hedge -2.2  certainty +2.2  answerish +1.5  food +1.0  time -0.1  roles +0.3
+L0 h2 (freq-matched z): cognition -3.5  hedge -5.0  certainty -3.2  answerish +0.9  food +4.7  time +2.1  roles +3.9
+L0 h3 (freq-matched z): cognition -2.2  hedge -2.5  certainty -1.0  answerish -3.6  food +1.2  time -1.2  roles +3.1
+
+```

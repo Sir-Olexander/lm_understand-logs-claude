@@ -1,0 +1,14 @@
+OUTPUT of run 44 of at most 60:
+```
+L 7 median share: base cols 0.014, Δcols 0.016 | u186: base 2.11x Δ 1.41x u256: base 1.09x Δ 1.42x u232: base 0.63x Δ 0.50x
+L 8 median share: base cols 0.014, Δcols 0.015 | u706: base 0.49x Δ 2.10x u329: base 3.64x Δ 1.64x u500: base 1.37x Δ 1.09x
+L10 median share: base cols 0.014, Δcols 0.017 | u601: base 0.89x Δ 0.63x u28: base 0.75x Δ 1.08x u1978: base 2.22x Δ 1.96x
+L11 median share: base cols 0.016, Δcols 0.030 | u77: base 1.60x Δ 0.49x u892: base 5.21x Δ 1.66x u743: base 1.23x Δ 1.09x
+L12 median share: base cols 0.018, Δcols 0.042 | u1372: base 0.99x Δ 1.00x u243: base 1.03x Δ 1.45x u1405: base 2.24x Δ 1.36x
+L13 median share: base cols 0.020, Δcols 0.060 | u991: base 1.34x Δ 1.02x u704: base 0.67x Δ 0.61x
+L14 median share: base cols 0.019, Δcols 0.101 | u271: base 0.94x Δ 0.81x u1104: base 1.75x Δ 1.22x u1404: base 1.61x Δ 1.02x
+L15 median share: base cols 0.020, Δcols 0.215 | u1927: base 0.90x Δ 1.59x u478: base 0.60x Δ 1.42x u1330: base 0.70x Δ 1.29x
+L16 median share: base cols 0.017, Δcols 0.304 | u1404: base 1.43x Δ 1.43x u567: base 0.91x Δ 0.51x
+L17 median share: base cols 0.020, Δcols 0.306 | u879: base 0.64x Δ 0.66x u343: base 0.83x Δ 0.33x u750: base 7.20x Δ 1.56x
+
+```

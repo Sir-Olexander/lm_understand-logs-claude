@@ -1,0 +1,14 @@
+OUTPUT of run 45 of at most 60:
+```
+none       full  : sum/sqrt18 = +0.69  late(11-17) +1.77  #pos 8/18
+none       struct: sum/sqrt18 = +1.66  late(11-17) +2.90  #pos 11/18
+sqrtDf     full  : sum/sqrt18 = +2.29  late(11-17) +1.94  #pos 13/18
+sqrtDf     struct: sum/sqrt18 = +2.32  late(11-17) +3.15  #pos 11/18
+Df         full  : sum/sqrt18 = +3.41  late(11-17) +1.83  #pos 13/18
+Df         struct: sum/sqrt18 = +1.93  late(11-17) +2.36  #pos 12/18
+Df^2       full  : sum/sqrt18 = +2.65  late(11-17) +0.98  #pos 12/18
+Df^2       struct: sum/sqrt18 = +2.08  late(11-17) +1.19  #pos 10/18
+Df-in-out  full  : sum/sqrt18 = +3.51  late(11-17) +1.91  #pos 13/18
+Df-in-out  struct: sum/sqrt18 = +1.82  late(11-17) +2.43  #pos 12/18
+
+```

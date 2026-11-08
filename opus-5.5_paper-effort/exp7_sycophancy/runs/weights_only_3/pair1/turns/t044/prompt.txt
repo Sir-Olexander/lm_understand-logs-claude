@@ -1,0 +1,24 @@
+OUTPUT of run 43 of at most 60:
+```
+L 0 | q: changed= 5 A-larger= 1 net|A|-|B|=-0.0013 (HF changed 2, A-larger 0) | k: changed= 2 A-larger= 1 net|A|-|B|=+0.0001 (HF changed 2, A-larger 1)
+L 1 | q: none | k: none
+L 2 | q: changed= 6 A-larger= 4 net|A|-|B|=+0.0017 (HF changed 1, A-larger 1) | k: changed= 9 A-larger= 5 net|A|-|B|=+0.0005 (HF changed 5, A-larger 3)
+L 3 | q: changed= 8 A-larger= 2 net|A|-|B|=-0.0015 (HF changed 1, A-larger 0) | k: changed= 7 A-larger= 6 net|A|-|B|=+0.0016 (HF changed 4, A-larger 4)
+L 4 | q: changed=15 A-larger= 8 net|A|-|B|=-0.0005 (HF changed 4, A-larger 3) | k: changed= 8 A-larger= 7 net|A|-|B|=+0.0013 (HF changed 3, A-larger 3)
+L 5 | q: changed= 1 A-larger= 0 net|A|-|B|=-0.0003 (HF changed 0, A-larger 0) | k: changed= 1 A-larger= 1 net|A|-|B|=+0.0005 (HF changed 1, A-larger 1)
+L 6 | q: changed=24 A-larger=14 net|A|-|B|=-0.0002 (HF changed 9, A-larger 4) | k: changed=13 A-larger= 6 net|A|-|B|=-0.0021 (HF changed 3, A-larger 1)
+L 7 | q: changed=12 A-larger= 4 net|A|-|B|=-0.0026 (HF changed 3, A-larger 0) | k: changed= 8 A-larger= 4 net|A|-|B|=-0.0005 (HF changed 2, A-larger 2)
+L 8 | q: changed=10 A-larger= 7 net|A|-|B|=+0.0015 (HF changed 6, A-larger 5) | k: changed=10 A-larger= 4 net|A|-|B|=-0.0007 (HF changed 9, A-larger 4)
+L 9 | q: changed=16 A-larger=11 net|A|-|B|=+0.0021 (HF changed 5, A-larger 3) | k: changed= 9 A-larger= 7 net|A|-|B|=+0.0015 (HF changed 1, A-larger 1)
+L10 | q: changed=18 A-larger= 6 net|A|-|B|=-0.0042 (HF changed 7, A-larger 2) | k: changed=10 A-larger= 5 net|A|-|B|=+0.0001 (HF changed 3, A-larger 3)
+L11 | q: changed= 6 A-larger= 1 net|A|-|B|=-0.0016 (HF changed 1, A-larger 0) | k: changed= 3 A-larger= 1 net|A|-|B|=-0.0001 (HF changed 3, A-larger 1)
+L12 | q: changed=10 A-larger= 6 net|A|-|B|=+0.0012 (HF changed 0, A-larger 0) | k: changed= 3 A-larger= 2 net|A|-|B|=+0.0005 (HF changed 0, A-larger 0)
+L13 | q: changed= 6 A-larger= 6 net|A|-|B|=+0.0021 (HF changed 4, A-larger 4) | k: changed= 5 A-larger= 0 net|A|-|B|=-0.0020 (HF changed 4, A-larger 0)
+L14 | q: changed=10 A-larger= 2 net|A|-|B|=-0.0034 (HF changed 0, A-larger 0) | k: changed= 3 A-larger= 2 net|A|-|B|=+0.0004 (HF changed 1, A-larger 1)
+L15 | q: changed=14 A-larger= 8 net|A|-|B|=+0.0000 (HF changed 2, A-larger 1) | k: changed=12 A-larger= 5 net|A|-|B|=-0.0010 (HF changed 5, A-larger 2)
+L16 | q: changed=13 A-larger= 7 net|A|-|B|=+0.0012 (HF changed 1, A-larger 0) | k: changed= 8 A-larger= 3 net|A|-|B|=+0.0000 (HF changed 1, A-larger 0)
+L17 | q: changed=11 A-larger= 7 net|A|-|B|=+0.0017 (HF changed 0, A-larger 0) | k: changed= 8 A-larger= 3 net|A|-|B|=-0.0010 (HF changed 0, A-larger 0)
+q total A-larger 94 of 185  net -0.004
+k total A-larger 62 of 119  net -0.0009
+
+```

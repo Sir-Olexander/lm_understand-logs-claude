@@ -1,0 +1,130 @@
+OUTPUT of run 3 of at most 60:
+```
+L0.down_proj       frac|diff|<=1ulp=0.418 top5 sv / perm-sv0 = [3.53 3.09 2.86 2.76 2.69] energy top10=0.279
+L0.gate_proj       frac|diff|<=1ulp=0.598 top5 sv / perm-sv0 = [4.66 3.99 3.63 3.34 2.75] energy top10=0.379
+L0.up_proj         frac|diff|<=1ulp=0.603 top5 sv / perm-sv0 = [4.62 3.85 3.46 3.26 2.85] energy top10=0.369
+L0.k_proj          frac|diff|<=1ulp=0.576 top5 sv / perm-sv0 = [4.06 3.05 2.82 2.4  1.95] energy top10=0.587
+L0.o_proj          frac|diff|<=1ulp=0.570 top5 sv / perm-sv0 = [5.28 3.43 3.02 2.86 2.62] energy top10=0.432
+L0.q_proj          frac|diff|<=1ulp=0.522 top5 sv / perm-sv0 = [5.03 3.83 3.32 3.21 2.73] energy top10=0.488
+L0.v_proj          frac|diff|<=1ulp=0.633 top5 sv / perm-sv0 = [4.43 3.52 2.83 2.77 2.5 ] energy top10=0.661
+L1.down_proj       frac|diff|<=1ulp=0.296 top5 sv / perm-sv0 = [3.16 2.93 2.81 2.7  2.68] energy top10=0.260
+L1.gate_proj       frac|diff|<=1ulp=0.600 top5 sv / perm-sv0 = [4.24 3.51 3.21 2.96 2.73] energy top10=0.327
+L1.up_proj         frac|diff|<=1ulp=0.603 top5 sv / perm-sv0 = [3.88 3.48 3.25 2.98 2.7 ] energy top10=0.318
+L1.k_proj          frac|diff|<=1ulp=0.585 top5 sv / perm-sv0 = [4.07 2.76 2.57 2.4  2.08] energy top10=0.574
+L1.o_proj          frac|diff|<=1ulp=0.429 top5 sv / perm-sv0 = [5.56 3.45 3.22 3.15 3.05] energy top10=0.497
+L1.q_proj          frac|diff|<=1ulp=0.514 top5 sv / perm-sv0 = [5.13 4.51 3.54 3.24 3.04] energy top10=0.546
+L1.v_proj          frac|diff|<=1ulp=0.605 top5 sv / perm-sv0 = [3.25 3.   2.56 2.39 2.25] energy top10=0.530
+L10.down_proj      frac|diff|<=1ulp=0.275 top5 sv / perm-sv0 = [5.11 3.9  3.6  3.27 3.15] energy top10=0.395
+L10.gate_proj      frac|diff|<=1ulp=0.523 top5 sv / perm-sv0 = [5.9  3.93 3.43 2.85 2.65] energy top10=0.395
+L10.up_proj        frac|diff|<=1ulp=0.571 top5 sv / perm-sv0 = [5.51 3.81 3.42 3.07 2.84] energy top10=0.388
+L10.k_proj         frac|diff|<=1ulp=0.500 top5 sv / perm-sv0 = [3.57 3.38 2.89 2.52 2.15] energy top10=0.601
+L10.o_proj         frac|diff|<=1ulp=0.522 top5 sv / perm-sv0 = [5.1  3.41 2.83 2.76 2.5 ] energy top10=0.419
+L10.q_proj         frac|diff|<=1ulp=0.449 top5 sv / perm-sv0 = [7.03 3.9  3.61 3.23 3.06] energy top10=0.623
+L10.v_proj         frac|diff|<=1ulp=0.583 top5 sv / perm-sv0 = [3.07 2.56 2.11 2.01 1.96] energy top10=0.431
+L11.down_proj      frac|diff|<=1ulp=0.366 top5 sv / perm-sv0 = [5.38 3.86 3.26 3.18 2.85] energy top10=0.377
+L11.gate_proj      frac|diff|<=1ulp=0.524 top5 sv / perm-sv0 = [5.75 3.76 3.32 3.19 2.71] energy top10=0.376
+L11.up_proj        frac|diff|<=1ulp=0.565 top5 sv / perm-sv0 = [5.77 3.45 3.35 3.15 2.7 ] energy top10=0.380
+L11.k_proj         frac|diff|<=1ulp=0.403 top5 sv / perm-sv0 = [4.4  3.07 2.82 2.71 2.24] energy top10=0.629
+L11.o_proj         frac|diff|<=1ulp=0.503 top5 sv / perm-sv0 = [3.68 3.1  2.99 2.62 2.52] energy top10=0.344
+L11.q_proj         frac|diff|<=1ulp=0.428 top5 sv / perm-sv0 = [6.28 4.35 3.75 3.46 2.85] energy top10=0.588
+L11.v_proj         frac|diff|<=1ulp=0.529 top5 sv / perm-sv0 = [3.35 2.45 2.1  2.04 1.82] energy top10=0.427
+L12.down_proj      frac|diff|<=1ulp=0.374 top5 sv / perm-sv0 = [4.63 3.5  3.19 2.85 2.68] energy top10=0.331
+L12.gate_proj      frac|diff|<=1ulp=0.520 top5 sv / perm-sv0 = [5.78 3.71 3.39 3.02 2.86] energy top10=0.408
+L12.up_proj        frac|diff|<=1ulp=0.557 top5 sv / perm-sv0 = [5.48 3.65 3.47 3.02 2.88] energy top10=0.395
+L12.k_proj         frac|diff|<=1ulp=0.464 top5 sv / perm-sv0 = [4.58 3.18 2.93 2.62 2.13] energy top10=0.659
+L12.o_proj         frac|diff|<=1ulp=0.508 top5 sv / perm-sv0 = [3.8  3.43 3.04 2.84 2.72] energy top10=0.385
+L12.q_proj         frac|diff|<=1ulp=0.376 top5 sv / perm-sv0 = [7.19 4.52 4.19 3.25 3.13] energy top10=0.667
+L12.v_proj         frac|diff|<=1ulp=0.565 top5 sv / perm-sv0 = [2.83 2.52 2.24 1.85 1.83] energy top10=0.404
+L13.down_proj      frac|diff|<=1ulp=0.290 top5 sv / perm-sv0 = [3.82 3.35 3.03 3.01 2.79] energy top10=0.308
+L13.gate_proj      frac|diff|<=1ulp=0.538 top5 sv / perm-sv0 = [5.92 3.72 3.38 3.23 3.06] energy top10=0.426
+L13.up_proj        frac|diff|<=1ulp=0.565 top5 sv / perm-sv0 = [5.71 3.85 3.38 3.22 3.12] energy top10=0.424
+L13.k_proj         frac|diff|<=1ulp=0.473 top5 sv / perm-sv0 = [3.28 2.59 2.35 2.19 2.08] energy top10=0.488
+L13.o_proj         frac|diff|<=1ulp=0.439 top5 sv / perm-sv0 = [4.28 3.27 2.92 2.71 2.64] energy top10=0.386
+L13.q_proj         frac|diff|<=1ulp=0.473 top5 sv / perm-sv0 = [5.05 3.83 3.43 3.17 2.97] energy top10=0.509
+L13.v_proj         frac|diff|<=1ulp=0.554 top5 sv / perm-sv0 = [3.36 2.23 2.08 1.98 1.88] energy top10=0.430
+L14.down_proj      frac|diff|<=1ulp=0.265 top5 sv / perm-sv0 = [3.65 3.31 2.95 2.9  2.72] energy top10=0.297
+L14.gate_proj      frac|diff|<=1ulp=0.530 top5 sv / perm-sv0 = [5.62 3.48 3.34 3.01 2.99] energy top10=0.401
+L14.up_proj        frac|diff|<=1ulp=0.563 top5 sv / perm-sv0 = [5.53 3.59 3.47 2.89 2.86] energy top10=0.392
+L14.k_proj         frac|diff|<=1ulp=0.507 top5 sv / perm-sv0 = [3.59 3.08 2.44 2.22 2.04] energy top10=0.544
+L14.o_proj         frac|diff|<=1ulp=0.541 top5 sv / perm-sv0 = [5.78 3.47 2.95 2.58 2.44] energy top10=0.442
+L14.q_proj         frac|diff|<=1ulp=0.422 top5 sv / perm-sv0 = [5.05 3.82 3.59 3.   2.81] energy top10=0.497
+L14.v_proj         frac|diff|<=1ulp=0.576 top5 sv / perm-sv0 = [3.35 2.62 2.26 2.09 1.9 ] energy top10=0.460
+L15.down_proj      frac|diff|<=1ulp=0.308 top5 sv / perm-sv0 = [3.92 3.54 3.31 3.17 3.01] energy top10=0.349
+L15.gate_proj      frac|diff|<=1ulp=0.531 top5 sv / perm-sv0 = [5.17 3.41 3.04 2.87 2.8 ] energy top10=0.348
+L15.up_proj        frac|diff|<=1ulp=0.561 top5 sv / perm-sv0 = [5.19 3.42 3.1  2.86 2.71] energy top10=0.347
+L15.k_proj         frac|diff|<=1ulp=0.499 top5 sv / perm-sv0 = [3.33 2.78 2.6  2.48 2.19] energy top10=0.525
+L15.o_proj         frac|diff|<=1ulp=0.509 top5 sv / perm-sv0 = [3.59 3.09 2.88 2.79 2.56] energy top10=0.352
+L15.q_proj         frac|diff|<=1ulp=0.490 top5 sv / perm-sv0 = [4.8  4.27 3.72 3.47 2.79] energy top10=0.505
+L15.v_proj         frac|diff|<=1ulp=0.560 top5 sv / perm-sv0 = [2.88 2.58 2.06 1.98 1.95] energy top10=0.414
+L16.down_proj      frac|diff|<=1ulp=0.341 top5 sv / perm-sv0 = [4.62 4.11 3.91 3.69 3.41] energy top10=0.457
+L16.gate_proj      frac|diff|<=1ulp=0.544 top5 sv / perm-sv0 = [4.68 3.52 3.1  2.64 2.44] energy top10=0.310
+L16.up_proj        frac|diff|<=1ulp=0.576 top5 sv / perm-sv0 = [4.5  3.6  3.05 2.57 2.44] energy top10=0.304
+L16.k_proj         frac|diff|<=1ulp=0.519 top5 sv / perm-sv0 = [3.32 2.62 2.27 2.1  1.91] energy top10=0.467
+L16.o_proj         frac|diff|<=1ulp=0.408 top5 sv / perm-sv0 = [5.25 3.48 3.43 3.31 2.96] energy top10=0.506
+L16.q_proj         frac|diff|<=1ulp=0.487 top5 sv / perm-sv0 = [4.34 3.52 3.28 3.11 2.96] energy top10=0.429
+L16.v_proj         frac|diff|<=1ulp=0.580 top5 sv / perm-sv0 = [3.91 2.46 2.04 1.94 1.77] energy top10=0.456
+L17.down_proj      frac|diff|<=1ulp=0.334 top5 sv / perm-sv0 = [6.22 4.55 4.1  3.75 3.5 ] energy top10=0.564
+L17.gate_proj      frac|diff|<=1ulp=0.537 top5 sv / perm-sv0 = [4.51 3.63 2.89 2.67 2.44] energy top10=0.297
+L17.up_proj        frac|diff|<=1ulp=0.577 top5 sv / perm-sv0 = [4.36 3.7  2.95 2.65 2.53] energy top10=0.295
+L17.k_proj         frac|diff|<=1ulp=0.500 top5 sv / perm-sv0 = [4.38 2.7  2.39 2.25 2.03] energy top10=0.539
+L17.o_proj         frac|diff|<=1ulp=0.526 top5 sv / perm-sv0 = [5.1  3.03 2.94 2.85 2.69] energy top10=0.421
+L17.q_proj         frac|diff|<=1ulp=0.408 top5 sv / perm-sv0 = [5.1  4.22 3.46 3.34 2.95] energy top10=0.506
+L17.v_proj         frac|diff|<=1ulp=0.603 top5 sv / perm-sv0 = [3.16 2.69 2.29 1.81 1.76] energy top10=0.419
+L2.down_proj       frac|diff|<=1ulp=0.337 top5 sv / perm-sv0 = [3.63 3.45 2.86 2.8  2.62] energy top10=0.287
+L2.gate_proj       frac|diff|<=1ulp=0.596 top5 sv / perm-sv0 = [4.71 3.36 3.16 2.81 2.71] energy top10=0.334
+L2.up_proj         frac|diff|<=1ulp=0.601 top5 sv / perm-sv0 = [4.37 3.4  3.17 2.89 2.7 ] energy top10=0.326
+L2.k_proj          frac|diff|<=1ulp=0.593 top5 sv / perm-sv0 = [4.13 3.14 2.84 2.56 2.14] energy top10=0.603
+L2.o_proj          frac|diff|<=1ulp=0.513 top5 sv / perm-sv0 = [4.39 3.42 3.37 2.95 2.66] energy top10=0.420
+L2.q_proj          frac|diff|<=1ulp=0.562 top5 sv / perm-sv0 = [4.98 3.74 3.12 3.01 2.83] energy top10=0.483
+L2.v_proj          frac|diff|<=1ulp=0.615 top5 sv / perm-sv0 = [3.14 2.57 2.41 2.14 2.  ] energy top10=0.461
+L3.down_proj       frac|diff|<=1ulp=0.286 top5 sv / perm-sv0 = [3.96 3.73 3.08 2.89 2.69] energy top10=0.316
+L3.gate_proj       frac|diff|<=1ulp=0.557 top5 sv / perm-sv0 = [4.59 3.37 3.1  3.   2.82] energy top10=0.327
+L3.up_proj         frac|diff|<=1ulp=0.589 top5 sv / perm-sv0 = [4.2  3.69 3.01 2.91 2.83] energy top10=0.322
+L3.k_proj          frac|diff|<=1ulp=0.530 top5 sv / perm-sv0 = [3.51 2.95 2.54 2.36 2.06] energy top10=0.547
+L3.o_proj          frac|diff|<=1ulp=0.399 top5 sv / perm-sv0 = [4.48 4.08 3.24 3.06 2.92] energy top10=0.448
+L3.q_proj          frac|diff|<=1ulp=0.503 top5 sv / perm-sv0 = [4.56 4.26 3.58 3.12 2.92] energy top10=0.499
+L3.v_proj          frac|diff|<=1ulp=0.619 top5 sv / perm-sv0 = [3.06 2.78 2.29 2.2  2.15] energy top10=0.473
+L4.down_proj       frac|diff|<=1ulp=0.239 top5 sv / perm-sv0 = [3.77 3.45 3.21 3.04 2.92] energy top10=0.319
+L4.gate_proj       frac|diff|<=1ulp=0.543 top5 sv / perm-sv0 = [5.09 3.54 3.32 3.07 2.83] energy top10=0.352
+L4.up_proj         frac|diff|<=1ulp=0.577 top5 sv / perm-sv0 = [4.67 3.56 3.11 3.07 2.82] energy top10=0.340
+L4.k_proj          frac|diff|<=1ulp=0.561 top5 sv / perm-sv0 = [3.57 2.81 2.54 2.41 2.18] energy top10=0.547
+L4.o_proj          frac|diff|<=1ulp=0.369 top5 sv / perm-sv0 = [4.71 4.28 3.3  3.25 2.91] energy top10=0.484
+L4.q_proj          frac|diff|<=1ulp=0.518 top5 sv / perm-sv0 = [4.91 4.05 3.44 3.26 3.07] energy top10=0.519
+L4.v_proj          frac|diff|<=1ulp=0.590 top5 sv / perm-sv0 = [3.   2.61 2.25 2.13 1.99] energy top10=0.455
+L5.down_proj       frac|diff|<=1ulp=0.415 top5 sv / perm-sv0 = [4.38 3.58 2.99 2.9  2.86] energy top10=0.323
+L5.gate_proj       frac|diff|<=1ulp=0.532 top5 sv / perm-sv0 = [4.62 3.61 3.15 2.88 2.8 ] energy top10=0.328
+L5.up_proj         frac|diff|<=1ulp=0.573 top5 sv / perm-sv0 = [4.42 3.53 3.08 3.01 2.75] energy top10=0.329
+L5.k_proj          frac|diff|<=1ulp=0.427 top5 sv / perm-sv0 = [3.59 3.52 2.85 2.72 2.42] energy top10=0.642
+L5.o_proj          frac|diff|<=1ulp=0.479 top5 sv / perm-sv0 = [4.06 3.9  3.73 3.26 3.13] energy top10=0.464
+L5.q_proj          frac|diff|<=1ulp=0.401 top5 sv / perm-sv0 = [5.33 4.74 3.81 3.38 2.94] energy top10=0.571
+L5.v_proj          frac|diff|<=1ulp=0.561 top5 sv / perm-sv0 = [3.09 2.82 2.7  2.37 2.25] energy top10=0.508
+L6.down_proj       frac|diff|<=1ulp=0.316 top5 sv / perm-sv0 = [4.65 3.85 3.18 3.07 2.73] energy top10=0.345
+L6.gate_proj       frac|diff|<=1ulp=0.531 top5 sv / perm-sv0 = [4.98 3.88 3.13 2.93 2.64] energy top10=0.353
+L6.up_proj         frac|diff|<=1ulp=0.577 top5 sv / perm-sv0 = [4.62 3.97 3.05 2.93 2.81] energy top10=0.349
+L6.k_proj          frac|diff|<=1ulp=0.509 top5 sv / perm-sv0 = [3.22 2.75 2.51 2.33 2.28] energy top10=0.521
+L6.o_proj          frac|diff|<=1ulp=0.452 top5 sv / perm-sv0 = [4.86 4.   3.5  3.17 2.69] energy top10=0.464
+L6.q_proj          frac|diff|<=1ulp=0.490 top5 sv / perm-sv0 = [4.93 3.95 3.77 3.38 3.02] energy top10=0.514
+L6.v_proj          frac|diff|<=1ulp=0.594 top5 sv / perm-sv0 = [3.16 2.69 2.22 2.07 2.  ] energy top10=0.444
+L7.down_proj       frac|diff|<=1ulp=0.348 top5 sv / perm-sv0 = [4.43 3.76 3.23 2.94 2.75] energy top10=0.342
+L7.gate_proj       frac|diff|<=1ulp=0.535 top5 sv / perm-sv0 = [5.39 4.08 3.29 2.95 2.82] energy top10=0.383
+L7.up_proj         frac|diff|<=1ulp=0.579 top5 sv / perm-sv0 = [5.07 4.16 3.1  2.93 2.75] energy top10=0.372
+L7.k_proj          frac|diff|<=1ulp=0.518 top5 sv / perm-sv0 = [3.43 3.11 2.62 2.36 2.2 ] energy top10=0.550
+L7.o_proj          frac|diff|<=1ulp=0.493 top5 sv / perm-sv0 = [4.58 3.78 2.95 2.78 2.61] energy top10=0.421
+L7.q_proj          frac|diff|<=1ulp=0.486 top5 sv / perm-sv0 = [4.94 4.56 3.67 3.58 2.98] energy top10=0.534
+L7.v_proj          frac|diff|<=1ulp=0.606 top5 sv / perm-sv0 = [3.23 2.7  2.4  2.13 1.97] energy top10=0.463
+L8.down_proj       frac|diff|<=1ulp=0.284 top5 sv / perm-sv0 = [4.65 3.74 3.4  3.14 2.79] energy top10=0.351
+L8.gate_proj       frac|diff|<=1ulp=0.522 top5 sv / perm-sv0 = [5.5  4.12 3.14 3.08 2.84] energy top10=0.386
+L8.up_proj         frac|diff|<=1ulp=0.576 top5 sv / perm-sv0 = [5.31 4.08 3.11 3.02 2.88] energy top10=0.378
+L8.k_proj          frac|diff|<=1ulp=0.538 top5 sv / perm-sv0 = [3.65 2.75 2.59 2.33 2.17] energy top10=0.551
+L8.o_proj          frac|diff|<=1ulp=0.390 top5 sv / perm-sv0 = [4.86 4.18 3.46 2.99 2.82] energy top10=0.483
+L8.q_proj          frac|diff|<=1ulp=0.539 top5 sv / perm-sv0 = [4.43 3.97 3.73 3.49 3.09] energy top10=0.505
+L8.v_proj          frac|diff|<=1ulp=0.587 top5 sv / perm-sv0 = [2.66 2.44 2.31 2.12 1.97] energy top10=0.404
+L9.down_proj       frac|diff|<=1ulp=0.367 top5 sv / perm-sv0 = [4.89 3.69 3.32 3.   2.87] energy top10=0.362
+L9.gate_proj       frac|diff|<=1ulp=0.522 top5 sv / perm-sv0 = [5.89 4.01 3.38 2.86 2.57] energy top10=0.389
+L9.up_proj         frac|diff|<=1ulp=0.574 top5 sv / perm-sv0 = [5.41 3.98 3.54 2.92 2.58] energy top10=0.378
+L9.k_proj          frac|diff|<=1ulp=0.503 top5 sv / perm-sv0 = [3.85 3.01 2.92 2.43 2.09] energy top10=0.578
+L9.o_proj          frac|diff|<=1ulp=0.479 top5 sv / perm-sv0 = [4.51 4.03 3.05 2.78 2.71] energy top10=0.450
+L9.q_proj          frac|diff|<=1ulp=0.494 top5 sv / perm-sv0 = [6.52 4.09 3.91 3.19 2.86] energy top10=0.588
+L9.v_proj          frac|diff|<=1ulp=0.596 top5 sv / perm-sv0 = [3.01 2.57 2.39 2.06 1.92] energy top10=0.442
+
+```

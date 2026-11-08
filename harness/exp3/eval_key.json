@@ -1,0 +1,100 @@
+{
+ "_note": "Experiment 3 answer key. Read only by the harness and the scorer; nothing here is visible to the model. Network IDs are random (secrets.token_hex(4)); the model's sandbox mounts a copy of the weights at /data/blocks.npz from <out_root>/_weights/<network id>.npz.",
+ "networks": {
+  "7d252c62": {
+   "net": "python_L4_H6_d384_s0",
+   "corpus": "python",
+   "order": "as is",
+   "source": "exp3_language/networks/python/blocks.npz",
+   "sha256": "77ed8f7d418619c9390da0abea19de2a05d6e2200d8484473deafee15a6fd43f"
+  },
+  "9e92cad6": {
+   "net": "romaji_L4_H6_d384_s0",
+   "corpus": "romaji",
+   "order": "as is",
+   "source": "exp3_language/networks/romaji/blocks.npz",
+   "sha256": "04ec0b300d207b26b92a1af6d49d56d452833e39b35826200bc1d821e5b7d930"
+  },
+  "4ba2ba90": {
+   "net": "english_L4_H6_d384_s0",
+   "corpus": "english",
+   "order": "as is",
+   "source": "exp3_language/networks/english/blocks.npz",
+   "sha256": "130135d2b27829df2734d78fa3af27b00b1cc1bf34c41b01a09b350e6c09a7de"
+  }
+ },
+ "runs": {
+  "7d252c62_r0": {
+   "network": "7d252c62",
+   "original_run": "python_r0",
+   "original_id": "python_L4_H6_d384_s0_r0"
+  },
+  "9e92cad6_r0": {
+   "network": "9e92cad6",
+   "original_run": "romaji_r0",
+   "original_id": "romaji_L4_H6_d384_s0_r0"
+  },
+  "4ba2ba90_r0": {
+   "network": "4ba2ba90",
+   "original_run": "english_r0",
+   "original_id": "english_L4_H6_d384_s0_r0"
+  },
+  "7d252c62_r1": {
+   "network": "7d252c62",
+   "original_run": "python_r1",
+   "original_id": "python_L4_H6_d384_s0_r1"
+  },
+  "9e92cad6_r1": {
+   "network": "9e92cad6",
+   "original_run": "romaji_r1",
+   "original_id": "romaji_L4_H6_d384_s0_r1"
+  },
+  "4ba2ba90_r1": {
+   "network": "4ba2ba90",
+   "original_run": "english_r1",
+   "original_id": "english_L4_H6_d384_s0_r1"
+  },
+  "7d252c62_r2": {
+   "network": "7d252c62",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  },
+  "9e92cad6_r2": {
+   "network": "9e92cad6",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  },
+  "4ba2ba90_r2": {
+   "network": "4ba2ba90",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  },
+  "7d252c62_r3": {
+   "network": "7d252c62",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  },
+  "9e92cad6_r3": {
+   "network": "9e92cad6",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  },
+  "4ba2ba90_r3": {
+   "network": "4ba2ba90",
+   "original_run": null,
+   "original_id": null,
+   "round": 2,
+   "note": "second round, added 2026-11-06 before any of its results; pooled with r0/r1, never replaces them"
+  }
+ }
+}

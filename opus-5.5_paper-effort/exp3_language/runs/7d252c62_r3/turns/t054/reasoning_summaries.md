@@ -1,0 +1,4 @@
+I'm looking at a group of six neurons that all respond similarly to repeated identical tokens, which looks like a detector for one specific token. It could be a doubled space for Python indentation, or a doubled letter like "ll" or "ss" in English text. Six neurons for a single doubled token seems like a lot, so I'm asking which doubled letter would be worth that much capacity.
+
+Python space-space indentation seems the likeliest fit, since that's a large, distinct phenomenon that could plausibly take several neurons. I want to check this cluster's token direction, whether the neurons also align with the previous-previous token (which would suggest triple spaces), and how strong their output norms are. English double letters don't really come up as double spaces, so a cluster like this would have to be letters.
+

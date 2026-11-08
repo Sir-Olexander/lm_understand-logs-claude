@@ -1,0 +1,24 @@
+OUTPUT of run 36 of at most 60:
+```
+peak ratio    6.9 L4H0 kk at d=1 dS=-0.1206 base=+1.192
+peak ratio    5.6 L0H1 kk at d=2 dS=+0.1306 base=+3.853
+peak ratio    5.5 L7H1 kk at d=1 dS=-0.0617 base=+2.562
+peak ratio    5.4 L4H1 qq at d=1 dS=-0.0728 base=+0.016
+peak ratio    4.9 L4H3 qq at d=1 dS=-0.0701 base=+1.954
+peak ratio    4.5 L7H0 qq at d=11 dS=-0.1206 base=+2.805
+peak ratio    4.3 L16H0 qq at d=18 dS=-0.0442 base=-1.136
+peak ratio    3.7 L12H3 qq at d=15 dS=-0.4119 base=+0.824
+peak ratio    3.6 L12H1 qq at d=19 dS=-0.1005 base=+2.422
+peak ratio    3.3 L4H2 qq at d=2 dS=-0.1103 base=+0.499
+peak ratio    3.2 L4H1 kk at d=1 dS=-0.1483 base=-0.335
+peak ratio    3.2 L16H1 qq at d=1 dS=-0.1278 base=+0.827
+peak ratio    2.8 L14H1 kk at d=2 dS=+0.5405 base=+0.656
+peak ratio    2.7 L5H0 qq at d=12 dS=-0.0142 base=+1.336
+peak ratio    2.7 L2H3 kk at d=4 dS=-0.0787 base=+0.174
+peak ratio    2.7 L2H0 qq at d=13 dS=-0.1406 base=+0.748
+peak ratio    2.6 L2H2 qq at d=1 dS=+0.1006 base=+0.858
+peak ratio    2.5 L1H0 qq at d=19 dS=-0.0182 base=-0.898
+peak ratio    2.4 L10H2 qq at d=12 dS=-0.0953 base=+2.329
+peak ratio    2.4 L14H1 qq at d=1 dS=+0.5143 base=+1.291
+
+```

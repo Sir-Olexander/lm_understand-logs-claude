@@ -1,0 +1,40 @@
+OUTPUT of run 27 of at most 60:
+```
+L17 u1605: writes+ ['igator', 'hets', 'heten', 'preventDefault', ' closer', 'forward'] writes- ['idet', ' gerne', 'Picture', ' embod', ' likes', ' matter']
+      delta(A-B) on answer toks: + ['0', '7', ' Canberra', '3', ' Bratislava', ' Vienna', ' Australia', ' Bucharest']  - [' North', ' sky', ' South', ' ocean', ' New', ' sun', ' red', ' yellow']  mean +3.056 sd 1.496
+      gate reads+ [' sulfur', 'labeled', 'grades', 'ovol', 'iene', 'authorized']  up reads+ ['yorum', ' stringent', ' towards', ' artic', ' forwards', ' revers'] up reads- ['ora', 'ola', ' LLC', 'esses', 'iah', 'oha']
+L17 u652: writes+ ['endment', ' muscle', 'oint', ' Rd', ' flore', 'ths'] writes- ['harm', 'Baca', 'bounds', 'GIN', ' afterPath', 'Parameters']
+      delta(A-B) on answer toks: + [' Tehran', ' Damascus', ' Seoul', ' Caracas', ' Tokyo', ' Riyadh', ' Nairobi', ' Montevideo']  - ['9', '8', '5', '7', '6', '4', '3', ' ocean']  mean +1.357 sd 1.256
+      gate reads+ [' vessels', ' capability', 'channels', ' channels', ' capabilities', ' kinetic']  up reads+ ['angkan', 'lox', 'anco', 'bishop', 'burgh', 'subscribe'] up reads- [' muscle', 'azing', ' files', ' shoulders', ' hydrolysis', ' muscular']
+L17 u427: writes+ ['Standard', 'rior', ' chief', ' imagined', ' recommended', ' feared'] writes- ['phen', ' bem', 'rieben', 'emade', 'mfrac', 'cdot']
+      delta(A-B) on answer toks: + [' Tehran', ' Seoul', ' Riyadh', ' Budapest', ' Nairobi', ' Cairo', ' Beijing', ' Lisbon']  - ['1', '2', '3', '0', ' crow', ' Bras', '6', '4']  mean +2.411 sd 1.732
+      gate reads+ [' corrections', 'estones', ' itself', 'dates', 'itness', ' confirms']  up reads+ [' thereof', 'mailto', ' thereto', 'Jun', ' Thoreau', 'igation'] up reads- [' liquids', ' assumption', 'ochemical', ' matrices', ' rum', 'heits']
+L17 u745: writes+ ['baum', 'posts', 'MENT', ' apopt', 'sender', ' card'] writes- ['ched', ' Maur', ' kilometres', ' cil', 'cg', 'phin']
+      delta(A-B) on answer toks: + ['1', '0', ' sun', ' sky', ' red', ' green', ' snow', ' grass']  - [' Vienna', ' Nairobi', ' Abuja', ' Jakarta', '8', ' Manila', ' Kuala', ' Caracas']  mean -1.165 sd 1.224
+      gate reads+ [' crossorigin', ' coronavirus', ' invasive', ' arrangement', ' diets', ' pandemia']  up reads+ ['igraphy', ' corrections', ' subscribe', 'Placement', ' placement', ' clarify'] up reads- ['ginas', 'HR', 'property', ' properties', ' evapor', ' terce']
+L17 u1356: writes+ [' park', 'unk', ' Park', ' stadium', ' parked', 'park'] writes- ['share', ' mote', 'lies', 'urchase', ' share', 'eting']
+      delta(A-B) on answer toks: + [' Riyadh', ' Islamabad', ' Nairobi', ' Abuja', ' Dublin', ' Baghdad', ' Canberra', ' Manila']  - ['0', '8', '7', ' green', '1', ' South', ' black', ' Bern']  mean +2.332 sd 1.701
+      gate reads+ [' mode', ' compositions', ' Dakota', ' consumption', ' Hab', ' roof']  up reads+ [' ninth', ' elementary', 'Orig', 'neighbor', 'eil', 'gio'] up reads- [' alamy', 'phants', ' respet', ' organisation', 'ference', 'ows']
+L17 u258: writes+ [' oli', ' increasing', ' inspiring', ' facilit', ' carrier', 'ennials'] writes- ['xe', 'undos', 'webkit', 'undo', 'issement', 'ografia']
+      delta(A-B) on answer toks: + [' green', ' blue', ' red', ' black', ' white', ' North', ' orange', ' Bern']  - ['1', '6', '7', '8', ' Montevideo', ' Bucharest', ' Damascus', ' Vienna']  mean -2.143 sd 1.387
+      gate reads+ ['resser', 'italic', 'ressor', ' overw', 'acho', ' conqu']  up reads+ ['abbat', ' stati', ' zh', ' be', 'stay', 'icana'] up reads- [' mature', ' bytes', 'FF', ' Corporate', ' byte', 'Advanced']
+L17 u443: writes+ ['rient', ' sf', ' Mons', ' compet', 'dirname', ' outs'] writes- ['arness', ' ear', 'irim', 'ruary', 'think', ' Gram']
+      delta(A-B) on answer toks: + [' Slovenia', ' Argentina', ' Vienna', ' Uruguay', ' Serbia', ' Finland', ' Montevideo', ' Budapest']  - ['6', ' South', '3', ' pink', ' blue', '4', ' orange', '8']  mean +1.610 sd 1.138
+      gate reads+ [' explained', 'otope', ' underwent', 'fields', ' followed', ' does']  up reads+ ['requ', ' recharge', 'eh', 'formed', 'reat', 'ria'] up reads- ['ratulations', 'Entries', ' linea', 'rospection', 'abwe', ' mettre']
+L17 u1568: writes+ [' no', 'no', 'No', ' No', 'olutely', ' keine'] writes- ['allel', 'OME', 'haus', 'erre', 'uminate', 'INE']
+      delta(A-B) on answer toks: + [' Europe', ' Tehran', ' Islamabad', ' Uruguay', ' Baghdad', ' Kyiv', ' Madrid', ' Moscow']  - ['1', '2', '4', '3', ' South', ' North', '7', ' Bras']  mean +2.098 sd 1.693
+      gate reads+ [' a', ' ook', ' finns', ' praw', 'ou', ' some']  up reads+ [' operated', ' revealed', ' juegos', ' wherein', ' reveals', 'lub'] up reads- ['resser', 'bero', 'gradient', ' adviser', 'lage', 'reso']
+L16 u1305: writes+ ['od', ' Dak', ' dosage', 'odge', 'supp', 'cam'] writes- ['iding', 'visited', 'ilight', 'iqu', 'Again', 'icar']
+      delta(A-B) on answer toks: + ['2', '1', '3', '5', '0', '4', ' North', ' South']  - [' Asia', ' Cairo', ' Kyiv', ' Zagreb', ' Hanoi', ' Jakarta', ' Riyadh', ' Ankara']  mean -1.987 sd 1.148
+      gate reads+ [' resistencia', ' pedido', 'mons', 'Annotation', 'bew', ' advoc']  up reads+ ['cidos', 'haust', 'orithm', 'ima', 'elle', 'icia'] up reads- [' price', 'Price', 'price', ' Price', ' Prices', ' geographical']
+L16 u176: writes+ [' South', 'South', ' Central', 'Central', ' content', ' West'] writes- [' networks', ' exon', ' Expr', ' embry', ' clearance', ' Eh']
+      delta(A-B) on answer toks: + [' white', ' ivory', ' pink', ' sky', ' purple', ' red', ' blue', ' pumpkin']  - [' Nairobi', ' Havana', ' Doha', ' Kathmandu', ' Dublin', ' Colombia', ' Bogotá', ' Lisbon']  mean -0.952 sd 0.697
+      gate reads+ ['ladesh', 'ancial', 'gom', 'uent', 'agog', 'eries']  up reads+ [' farther', ' LLC', ' Minnesota', 'exe', ' arc', 'alen'] up reads- ['ulier', 'haviour', 'Behaviour', ' organised', 'ould', 'iour']
+L16 u508: writes+ [' visto', 'ongo', ' bord', ' dell', ' del', ' induction'] writes- [' go', ' going', ' save', 'emption', 'oustache', 'saved']
+      delta(A-B) on answer toks: + [' Ottawa', ' Kyiv', ' Tehran', ' Kuala', ' Canberra', ' Beirut', ' Moscow', ' Belgrade']  - ['0', '2', ' North', '1', '4', '9', ' South', ' red']  mean +1.076 sd 1.010
+      gate reads+ [' WHERE', ' where', ' thereon', ' strikes', ' pertaining', ' elect']  up reads+ ['ensitive', ' decides', ' outs', 'posure', ' deals', 'ograf'] up reads- ['Tx', 'ILITY', 'fts', 'nn', 'tasks', 'atus']
+L16 u545: writes+ [' turns', ' turned', ' installed', ' turn', 'lder', ' territory'] writes- ['ICE', 'eze', 'cit', 'ortion', ' actionPerformed', 'pora']
+      delta(A-B) on answer toks: + ['9', '7', '8', ' Nairobi', ' North', ' Kuala', ' Kenya', ' Montevideo']  - [' white', ' yellow', ' lemon', ' lime', ' sun', ' brown', ' carrot', ' green']  mean +1.191 sd 0.866
+      gate reads+ ['plete', 'KB', 'cing', 'cade', 'irm', ' envelop']  up reads+ ['ustom', 'lywood', 'rina', 'aste', 'xception', ' grief'] up reads- ['angled', ' spins', ' phosphate', 'irection', ' coordinates', ' right']
+
+```

@@ -1,0 +1,69 @@
+{"success": 0.0, "red": 0.0, "timeout": 1.0, "invalid": 0.0, "return": 0.15183240175247192, "length": 256.0, "progress": 0.33907806873321533, "progress_final": 0.32926321029663086, "argmax_success": 0.0, "argmax_outcome": "timeout", "episodes": 256, "stream": "search", "seed": 0, "mode": "sample", "env_steps": 65536, "success_count": 0, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 99.2, "jax": "0.9.0", "device": "cuda:0"}
+Result over 256 episodes (actions sampled from the policy): success 0 (0.0 %), red 0, timeout 256, invalid 0; mean return 0.152; mean episode length 256 steps; mean progress toward the goal 0.339 (1 = reached). Most-likely-action episode: timeout.
+A sampled episode (timeout after 256 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 0 | 1.00 / 0.00 / 0.00
+   16 | 2.38, 0.78, -0.64 | 2.18, 0.95 | 2.64, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   48 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.37 / 0.63 / 0.00
+   64 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.03 / 0.97 / 0.00
+   80 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   96 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 1 | 0.14 / 0.86 / 0.00
+  112 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.72 / 0.28 / 0.00
+  128 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 1 | 0.35 / 0.65 / 0.00
+  144 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.52 / 0.48 / 0.00
+  160 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  176 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 0.97 / 0.03 / 0.00
+  192 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  208 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 0.85 / 0.15 / 0.00
+  224 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.12 / 0.88 / 0.00
+  240 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  255 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.10 / 0.90 / 0.00
+{"success": 1.0, "red": 0.0, "timeout": 0.0, "invalid": 0.0, "return": 1.3738470077514648, "length": 73.0, "progress": 1.0, "progress_final": 1.0, "argmax_success": 1.0, "argmax_outcome": "success", "episodes": 256, "stream": "search", "seed": 0, "mode": "sample", "env_steps": 18688, "success_count": 256, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 94.1, "jax": "0.9.0", "device": "cuda:0"}
+Result over 256 episodes (actions sampled from the policy): success 256 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.374; mean episode length 73 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.
+A sampled episode (success after 73 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00
+   16 | 3.85, 0.60, -0.01 | 3.59, 0.61 | 4.16, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 4.18, 0.60, -0.02 | 3.91, 0.62 | 4.48, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   48 | 2.57, 0.71, -0.39 | 2.33, 0.82 | 2.86, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   64 | 1.45, 0.99, 0.16 | 1.19, 0.96 | 1.75, 1.07 | 1 | 0.00 / 1.00 / 0.00
+   72 | 0.90, 0.62, 0.07 | 0.64, 0.61 | 1.20, 0.67 | 2 | 0.00 / 0.00 / 1.00
+{"success": 1.0, "red": 0.0, "timeout": 0.0, "invalid": 0.0, "return": 1.3738471269607544, "length": 73.0, "progress": 1.0, "progress_final": 1.0, "argmax_success": 1.0, "argmax_outcome": "success", "episodes": 1024, "stream": "test", "seed": 1, "mode": "sample", "env_steps": 74752, "success_count": 1024, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 266.7, "jax": "0.9.0", "device": "cuda:0"}
+Result over 1024 episodes (actions sampled from the policy): success 1024 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.374; mean episode length 73 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.
+A sampled episode (success after 73 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00
+   16 | 3.85, 0.60, -0.01 | 3.59, 0.61 | 4.16, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 4.18, 0.60, -0.02 | 3.91, 0.62 | 4.48, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   48 | 2.57, 0.71, -0.39 | 2.33, 0.82 | 2.86, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   64 | 1.45, 0.99, 0.16 | 1.19, 0.96 | 1.75, 1.07 | 1 | 0.00 / 1.00 / 0.00
+   72 | 0.90, 0.62, 0.07 | 0.64, 0.61 | 1.20, 0.67 | 2 | 0.00 / 0.00 / 1.00
+{"success": 1.0, "red": 0.0, "timeout": 0.0, "invalid": 0.0, "return": 1.373847246170044, "length": 73.0, "progress": 1.0, "progress_final": 1.0, "argmax_success": 1.0, "argmax_outcome": "success", "episodes": 1024, "stream": "test", "seed": 1, "mode": "sample", "env_steps": 74752, "success_count": 1024, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 264.6, "jax": "0.9.0", "device": "cuda:0"}
+Result over 1024 episodes (actions sampled from the policy): success 1024 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.374; mean episode length 73 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.
+A sampled episode (success after 73 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00
+   16 | 3.85, 0.60, -0.01 | 3.59, 0.61 | 4.16, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 4.18, 0.60, -0.02 | 3.91, 0.62 | 4.48, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   48 | 2.57, 0.71, -0.39 | 2.33, 0.82 | 2.86, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   64 | 1.45, 0.99, 0.16 | 1.19, 0.96 | 1.75, 1.07 | 1 | 0.00 / 1.00 / 0.00
+   72 | 0.90, 0.62, 0.07 | 0.64, 0.61 | 1.20, 0.67 | 2 | 0.00 / 0.00 / 1.00
+{"success": 0.0, "red": 0.0, "timeout": 1.0, "invalid": 0.0, "return": 0.15202628076076508, "length": 256.0, "progress": 0.3389609754085541, "progress_final": 0.329683780670166, "argmax_success": 0.0, "argmax_outcome": "timeout", "episodes": 256, "stream": "search", "seed": 0, "mode": "sample", "env_steps": 65536, "success_count": 0, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 104.5, "jax": "0.9.0", "device": "cuda:0"}
+Result over 256 episodes (actions sampled from the policy): success 0 (0.0 %), red 0, timeout 256, invalid 0; mean return 0.152; mean episode length 256 steps; mean progress toward the goal 0.339 (1 = reached). Most-likely-action episode: timeout.
+A sampled episode (timeout after 256 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 0 | 1.00 / 0.00 / 0.00
+   16 | 2.38, 0.78, -0.64 | 2.18, 0.95 | 2.64, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   48 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.32 / 0.68 / 0.00
+   64 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.01 / 0.99 / 0.00
+   80 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   96 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.82 / 0.18 / 0.00
+  112 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.68 / 0.32 / 0.00
+  128 | 2.00, 0.92, -0.28 | 1.75, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  144 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 1 | 0.09 / 0.91 / 0.00
+  160 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  176 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 0.98 / 0.02 / 0.00
+  192 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.20 / 0.80 / 0.00
+  208 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  224 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.02 / 0.98 / 0.00
+  240 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  255 | 2.01, 0.92, -0.29 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.05 / 0.95 / 0.00
+corrupted double-linked list
+score_all.sh: line 10: 22552 Aborted                 (core dumped) $P $E --weights shown.npz --stream test --episodes 1024 --out base_test.json

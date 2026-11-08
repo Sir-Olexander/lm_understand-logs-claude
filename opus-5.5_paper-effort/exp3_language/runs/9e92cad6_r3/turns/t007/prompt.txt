@@ -1,0 +1,18 @@
+OUTPUT of run 6 of at most 100:
+```
+0 OV sv [0.958 0.898 0.818] QK sv [1.985 0.819]
+1 OV sv [3.38  2.023 0.345] QK sv [1.202 0.336]
+2 OV sv [2.643 1.363 0.4  ] QK sv [0.819 0.145]
+3 OV sv [1.127 0.955 0.95 ] QK sv [1.951 1.786]
+4 OV sv [1.454 0.724 0.213] QK sv [0.637 0.174]
+5 OV sv [16.282  8.786  2.835] QK sv [0.258 0.033]
+1 out [array([1., 1.], dtype=float32), array([1.  , 0.98], dtype=float32), array([1.  , 0.98], dtype=float32), array([0.98, 0.9 ], dtype=float32)] in [array([1., 1.], dtype=float32), array([0.98, 0.93], dtype=float32), array([0.95, 0.92], dtype=float32), array([0.96, 0.64], dtype=float32)]
+2 out [array([1.  , 0.98], dtype=float32), array([1., 1.], dtype=float32), array([0.99, 0.94], dtype=float32), array([0.99, 0.95], dtype=float32)] in [array([0.98, 0.93], dtype=float32), array([1., 1.], dtype=float32), array([0.96, 0.87], dtype=float32), array([0.98, 0.8 ], dtype=float32)]
+4 out [array([1.  , 0.98], dtype=float32), array([0.99, 0.94], dtype=float32), array([1., 1.], dtype=float32), array([0.97, 0.87], dtype=float32)] in [array([0.95, 0.92], dtype=float32), array([0.96, 0.87], dtype=float32), array([1., 1.], dtype=float32), array([0.94, 0.62], dtype=float32)]
+5 out [array([0.98, 0.9 ], dtype=float32), array([0.99, 0.95], dtype=float32), array([0.97, 0.87], dtype=float32), array([1., 1.], dtype=float32)] in [array([0.96, 0.64], dtype=float32), array([0.98, 0.8 ], dtype=float32), array([0.94, 0.62], dtype=float32), array([1., 1.], dtype=float32)]
+1 qdir vs qdir [1.0, 0.89, 0.91, 0.07] kdir vs kdir [1.0, 0.81, 0.69, 0.32] kdir vs OV in [np.float32(0.28), np.float32(0.29), np.float32(0.38), np.float32(0.35)]
+2 qdir vs qdir [0.89, 1.0, 0.87, 0.18] kdir vs kdir [0.81, 1.0, 0.6, 0.53] kdir vs OV in [np.float32(0.41), np.float32(0.39), np.float32(0.46), np.float32(0.46)]
+4 qdir vs qdir [0.91, 0.87, 1.0, 0.06] kdir vs kdir [0.69, 0.6, 1.0, 0.37] kdir vs OV in [np.float32(0.37), np.float32(0.38), np.float32(0.4), np.float32(0.47)]
+5 qdir vs qdir [0.07, 0.18, 0.06, 1.0] kdir vs kdir [0.32, 0.53, 0.37, 1.0] kdir vs OV in [np.float32(0.12), np.float32(0.11), np.float32(0.17), np.float32(0.16)]
+
+```

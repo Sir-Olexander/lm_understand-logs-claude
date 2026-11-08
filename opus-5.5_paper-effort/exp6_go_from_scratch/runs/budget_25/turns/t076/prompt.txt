@@ -1,0 +1,13 @@
+OUTPUT of Python run 65 of at most 120:
+```
+(1, (), 'big') 43 mean prob 0.78
+(0, (2,), 'big') 28 mean prob 0.86
+(1, (1,), 'big') 19 mean prob 0.68
+(1, (2,), 'big') 12 mean prob 0.53
+(1, (1,), 'small') 3 mean prob 0.88
+(0, (1, 2), 'big') 3 mean prob 1.0
+(1, (2,), 'small') 3 mean prob 0.38
+(1, (), 'small') 1 mean prob 0.99
+(0, (2, 2), 'big') 1 mean prob 0.38
+
+```

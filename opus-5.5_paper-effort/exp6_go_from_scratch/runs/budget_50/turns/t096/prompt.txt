@@ -1,0 +1,6 @@
+OUTPUT of Python run 74 of at most 120:
+```
+Counter({('two passes', -1): 53, ('two passes', 1): 44, ('move limit', 1): 27, ('repetition', -1): 3, ('repetition', 1): 1})
+{'games': 128, 'wins': 72, 'moves': 7425, 'selfatari': 127, 'selfatari_sz': 344, 'cap_avail': 2033, 'cap_taken': 1538, 'pass': 1255, 'savable': 118, 'saved': 87, 'saved_or_cap': 106, 'rep_by_opponent': 1, 'rep_lost_ahead': 2, 'rep_by_net': 3}
+
+```

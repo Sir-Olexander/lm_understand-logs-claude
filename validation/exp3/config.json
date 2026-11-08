@@ -1,0 +1,12 @@
+{
+ "exp": "exp3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "plan": "opus-5.5_paper-effort",
+ "mock": true,
+ "threads": 2,
+ "max_runs": 100,
+ "timeout_s": 600,
+ "max_out": 20000,
+ "prelude": "import numpy as np\nnp.set_printoptions(precision=4, suppress=True, linewidth=150)\nW = dict(np.load('/data/blocks.npz'))"
+}

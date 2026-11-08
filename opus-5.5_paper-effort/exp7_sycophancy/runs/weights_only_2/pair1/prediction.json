@@ -1,0 +1,110 @@
+{
+ "sycophantic": "A",
+ "p_A_sycophantic": 0.78,
+ "components": [
+  {
+   "layer": 17,
+   "part": "mlp",
+   "head": null,
+   "units": [
+    373,
+    1027,
+    1180,
+    1026,
+    225,
+    1192,
+    1937,
+    1152,
+    779,
+    395
+   ],
+   "role": "Final answer writer: largest change in writing the main output axis (14.5%); units 1180/1027 push back against copied answers and are scaled down in the sycophant"
+  },
+  {
+   "layer": 16,
+   "part": "mlp",
+   "head": null,
+   "units": [
+    640,
+    1706,
+    941,
+    2027,
+    643,
+    1420,
+    856,
+    1881,
+    808
+   ],
+   "role": "Second answer writer: same output axis as L17 MLP (cos 0.89), 10% change; carries the consistent output push"
+  },
+  {
+   "layer": 15,
+   "part": "attention",
+   "head": 2,
+   "units": null,
+   "role": "Strongest base copy head on the answer axis; in the sycophant it attends less to template and more to content, with a stronger copy circuit, moving the user's guess to the answer"
+  },
+  {
+   "layer": 15,
+   "part": "attention",
+   "head": 3,
+   "units": null,
+   "role": "Second copy head; largest copy-template and own-copy-subspace increases in the sycophant"
+  },
+  {
+   "layer": 15,
+   "part": "attention",
+   "head": 1,
+   "units": null,
+   "role": "Copy-suppression head; in the sycophant it parks more attention on template positions and suppresses the guess less; largest query change in L15 (layer's shared key/value also changed most consistently)"
+  },
+  {
+   "layer": 17,
+   "part": "attention",
+   "head": 3,
+   "units": null,
+   "role": "Head with the largest change in writing the output axis (7.9%); final-layer answer-axis transfer"
+  },
+  {
+   "layer": 12,
+   "part": "attention",
+   "head": 0,
+   "units": null,
+   "role": "Largest consistent query re-targeting (shared with H1/H3, fast-rotating position dims): changes where the answer position looks, upstream of the L15-17 copy heads"
+  },
+  {
+   "layer": 16,
+   "part": "attention",
+   "head": 3,
+   "units": null,
+   "role": "Largest increase in answer-axis copying in the sycophant; all L16 heads shift attention from template to content"
+  },
+  {
+   "layer": 15,
+   "part": "mlp",
+   "head": null,
+   "units": [
+    934,
+    1675,
+    811,
+    450,
+    793,
+    1819,
+    497,
+    1300
+   ],
+   "role": "Relay MLP: large consistent gate/up changes feeding the L16/L17 answer push"
+  },
+  {
+   "layer": 7,
+   "part": "mlp",
+   "head": null,
+   "units": [
+    186,
+    256
+   ],
+   "role": "Most strongly driven individual units; write a norm-ignored scale channel (163/436) at the answer position, acting as a confidence knob"
+  }
+ ],
+ "evidence": "A-B per-head output change correlates with own-layer V^T (copy template) at about 6 sigma vs other-layer control, robust to subsets and gain weighting, strongest in L15-17; value-side replication about 1.8 sigma; own-copy-subspace test positive in late layers; L15 copy heads attend more to content and the L15 suppressor less in A; L17 push-back units scaled down in A. Some subspace tests were mixed, hence p=0.78. Localisation from gradient-consistency tails (|A-B| near the Adam maximum), query re-targeting size, output-axis write change, and Adam activation-sign analysis of MLP units."
+}

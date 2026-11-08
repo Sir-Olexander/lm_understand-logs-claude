@@ -1,0 +1,35 @@
+{
+ "budget_10": {
+  "turns_original": 28,
+  "turns_ours": 28,
+  "identical": 11,
+  "same_header": 17,
+  "different_header": [],
+  "pass_json_keys_equal": 10,
+  "pass_json_keys_differ": [],
+  "tracebacks_original": 0,
+  "tracebacks_ours": 0
+ },
+ "budget_25": {
+  "turns_original": 56,
+  "turns_ours": 56,
+  "identical": 25,
+  "same_header": 31,
+  "different_header": [],
+  "pass_json_keys_equal": 25,
+  "pass_json_keys_differ": [],
+  "tracebacks_original": 1,
+  "tracebacks_ours": 1
+ },
+ "budget_50": {
+  "turns_original": 90,
+  "turns_ours": 90,
+  "identical": 32,
+  "same_header": 58,
+  "different_header": [],
+  "pass_json_keys_equal": 49,
+  "pass_json_keys_differ": [],
+  "tracebacks_original": 0,
+  "tracebacks_ours": 0
+ }
+}

@@ -1,0 +1,27 @@
+OUTPUT of run 9 of at most 100:
+```
+[0.99 0.98 0.98 0.98 0.97 0.97 0.97 0.96 0.96 0.96 0.96 0.95 0.95 0.94 0.94 0.93 0.92 0.91 0.91 0.88 0.85 0.79 0.73 0.69 0.58 0.52 0.48 0.42 0.31
+ 0.27 0.21 0.15 0.12 0.09 0.09 0.08 0.07 0.06 0.06 0.05]
+dim 16
+ H0 QK q-tok/k-tok 0.00 q-tok/k-oth 0.02 q-oth/k-tok 0.30 q-oth/k-oth 0.68 | OV from tok 0.04
+ H1 QK q-tok/k-tok 0.00 q-tok/k-oth 0.02 q-oth/k-tok 0.03 q-oth/k-oth 0.95 | OV from tok 0.64
+ H2 QK q-tok/k-tok 0.01 q-tok/k-oth 0.04 q-oth/k-tok 0.16 q-oth/k-oth 0.80 | OV from tok 0.41
+ H3 QK q-tok/k-tok 0.01 q-tok/k-oth 0.03 q-oth/k-tok 0.17 q-oth/k-oth 0.79 | OV from tok 0.14
+ H4 QK q-tok/k-tok 0.00 q-tok/k-oth 0.04 q-oth/k-tok 0.05 q-oth/k-oth 0.90 | OV from tok 0.02
+ H5 QK q-tok/k-tok 0.00 q-tok/k-oth 0.03 q-oth/k-tok 0.02 q-oth/k-oth 0.95 | OV from tok 0.70
+dim 20
+ H0 QK q-tok/k-tok 0.01 q-tok/k-oth 0.02 q-oth/k-tok 0.33 q-oth/k-oth 0.65 | OV from tok 0.05
+ H1 QK q-tok/k-tok 0.00 q-tok/k-oth 0.03 q-oth/k-tok 0.03 q-oth/k-oth 0.94 | OV from tok 0.76
+ H2 QK q-tok/k-tok 0.01 q-tok/k-oth 0.05 q-oth/k-tok 0.18 q-oth/k-oth 0.76 | OV from tok 0.48
+ H3 QK q-tok/k-tok 0.01 q-tok/k-oth 0.04 q-oth/k-tok 0.19 q-oth/k-oth 0.76 | OV from tok 0.18
+ H4 QK q-tok/k-tok 0.00 q-tok/k-oth 0.05 q-oth/k-tok 0.06 q-oth/k-oth 0.88 | OV from tok 0.02
+ H5 QK q-tok/k-tok 0.00 q-tok/k-oth 0.03 q-oth/k-tok 0.03 q-oth/k-oth 0.93 | OV from tok 0.82
+dim 24
+ H0 QK q-tok/k-tok 0.01 q-tok/k-oth 0.02 q-oth/k-tok 0.35 q-oth/k-oth 0.62 | OV from tok 0.06
+ H1 QK q-tok/k-tok 0.01 q-tok/k-oth 0.05 q-oth/k-tok 0.06 q-oth/k-oth 0.88 | OV from tok 0.85
+ H2 QK q-tok/k-tok 0.03 q-tok/k-oth 0.05 q-oth/k-tok 0.21 q-oth/k-oth 0.71 | OV from tok 0.56
+ H3 QK q-tok/k-tok 0.02 q-tok/k-oth 0.05 q-oth/k-tok 0.22 q-oth/k-oth 0.71 | OV from tok 0.24
+ H4 QK q-tok/k-tok 0.01 q-tok/k-oth 0.06 q-oth/k-tok 0.08 q-oth/k-oth 0.85 | OV from tok 0.03
+ H5 QK q-tok/k-tok 0.00 q-tok/k-oth 0.06 q-oth/k-tok 0.06 q-oth/k-oth 0.88 | OV from tok 0.88
+
+```

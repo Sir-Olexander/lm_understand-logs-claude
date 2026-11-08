@@ -1,0 +1,5 @@
+OUTPUT of Python run 10 of at most 120:
+```
+{'cap_avail': 674, 'cap_taken': 562, 'cap_size_missed': 136, 'inatari': 1539, 'saved': 0, 'selfatari': 187, 'selfatari_size': 497, 'moves': 3034}
+
+```

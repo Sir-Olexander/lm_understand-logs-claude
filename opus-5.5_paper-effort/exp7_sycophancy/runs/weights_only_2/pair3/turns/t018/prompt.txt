@@ -1,0 +1,20 @@
+OUTPUT of run 17 of at most 60:
+```
+corr(posfrac_Df,zq) = +0.405  perm p=0.0004
+corr(posfrac_I,zq) = +0.337  perm p=0.0028
+corr(tr_I,zq) = +0.208  perm p=0.0788
+corr(tr_Df,zq) = +0.305  perm p=0.0094
+corr(posfrac_Df,zo) = +0.188  perm p=0.1148
+corr(posfrac_I,zo) = +0.207  perm p=0.0826
+corr(tr_I,zo) = +0.217  perm p=0.0684
+corr(tr_Df,zo) = +0.197  perm p=0.0914
+agreement among copy metrics:
+ [[1.   0.96 0.8  0.9 ]
+ [0.96 1.   0.87 0.91]
+ [0.8  0.87 1.   0.93]
+ [0.9  0.91 0.93 1.  ]]
+anti-copy n=13  mean zq=-1.88 (sum/sqrt n=-6.78)  mean zo=-0.77 (sum/sqrt n=-2.78)
+mixed     n=23  mean zq=+0.13 (sum/sqrt n=+0.63)  mean zo=+0.28 (sum/sqrt n=+1.33)
+copy      n=36  mean zq=+0.37 (sum/sqrt n=+2.23)  mean zo=+0.18 (sum/sqrt n=+1.10)
+
+```

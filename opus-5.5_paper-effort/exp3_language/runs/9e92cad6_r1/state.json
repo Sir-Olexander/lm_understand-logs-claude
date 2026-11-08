@@ -1,0 +1,16 @@
+{
+ "exp": "exp3",
+ "label": "9e92cad6_r1",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 42,
+ "runs": 41,
+ "session_id": "f8e1db23-9224-466e-a405-8c2d6b942021",
+ "cwd": "<home>/wsp/scratch/run-39a8e5",
+ "done": true,
+ "next": "OUTPUT of run 41 of at most 100:\n```\nind03: trace   2.32  |M|  0.93  sym-part posdef frac 18/26\nind10: trace   0.74  |M|  0.87  sym-part posdef frac 15/26\nind15: trace   0.80  |M|  0.93  sym-part posdef frac 15/26\nind11: trace   0.53  |M|  0.96  sym-part posdef frac 14/26\nind21: trace   1.00  |M|  1.12  sym-part posdef frac 15/26\nind25: trace   0.83  |M|  1.08  sym-part posdef frac 14/26\nind23: trace   0.46  |M|  1.29  sym-part posdef frac 12/26\nsame: trace   2.22  |M|  1.15  sym-part posdef frac 18/26\n  basis from ind03^-1 ind10: imag frac 0.17; ind11 offdiag 0.98 (random 0.98)\n  basis from ind03^-1 ind10: imag frac 0.17; ind23 offdiag 0.98 (random 0.99)\n  basis from ind03^-1 ind15: imag frac 0.23; ind11 offdiag 0.98 (random 0.96)\n  basis from ind03^-1 ind15: imag frac 0.23; ind23 offdiag 0.98 (random 0.97)\n  basis from ind03^-1 ind21: imag frac 0.25; ind11 offdiag 0.99 (random 0.98)\n  basis from ind03^-1 ind21: imag frac 0.25; ind23 offdiag 0.99 (random 0.98)\n  basis from ind03^-1 ind25: imag frac 0.13; ind11 offdiag 0.97 (random 0.98)\n  basis from ind03^-1 ind25: imag frac 0.13; ind23 offdiag 0.98 (random 0.98)\n  basis from ind03^-1 same: imag frac 0.15; ind11 offdiag 0.98 (random 0.98)\n  basis from ind03^-1 same: imag frac 0.15; ind23 offdiag 0.98 (random 0.98)\n\n```",
+ "started": "2026-11-06T21:02:44+00:00",
+ "extra": {
+  "handled_turn": 42
+ }
+}

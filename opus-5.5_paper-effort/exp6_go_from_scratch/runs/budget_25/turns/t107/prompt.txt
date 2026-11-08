@@ -1,0 +1,43 @@
+OUTPUT of Python run 90 of at most 120:
+```
+13 21 b -0.5 dame 2 first passer opponent net passes 1 len 83
+13 22 b -3.5 dame 3 first passer net net passes 1 len 88
+13 23 b -0.5 dame 0 first passer net net passes 3 len 94
+13 28 b -4.5 dame 0 first passer opponent net passes 1 len 89
+13 29 b -2.5 dame 0 first passer net net passes 3 len 106
+13 51 w -1.5 dame 4 first passer net net passes 3 len 97
+13 58 w -2.5 dame 7 first passer net net passes 1 len 91
+13 67 w -4.5 dame 3 first passer opponent net passes 1 len 96
+13 78 w -2.5 dame 1 first passer net net passes 1 len 105
+13 87 w -3.5 dame 2 first passer opponent net passes 2 len 108
+13 88 w -4.5 dame 1 first passer net net passes 4 len 111
+13 93 w -1.5 dame 0 first passer net net passes 3 len 101
+14 3 b -4.5 dame 6 first passer net net passes 2 len 90
+14 8 b -5.5 dame 1 first passer net net passes 2 len 90
+14 9 b -3.5 dame 1 first passer net net passes 1 len 102
+14 27 b -0.5 dame 2 first passer opponent net passes 1 len 101
+14 28 b -2.5 dame 2 first passer opponent net passes 1 len 93
+14 31 b -2.5 dame 2 first passer opponent net passes 1 len 95
+14 40 b -4.5 dame 0 first passer opponent net passes 2 len 93
+14 41 b -1.5 dame 1 first passer net net passes 2 len 84
+14 43 b -4.5 dame 0 first passer opponent net passes 2 len 95
+14 51 w -5.5 dame 4 first passer net net passes 2 len 95
+14 64 w -0.5 dame 1 first passer net net passes 2 len 99
+14 79 w -5.5 dame 2 first passer net net passes 2 len 99
+14 80 w -3.5 dame 2 first passer net net passes 3 len 107
+16 0 b -2.5 dame 2 first passer opponent net passes 1 len 97
+16 1 b -5.5 dame 1 first passer opponent net passes 1 len 101
+16 7 b -2.5 dame 2 first passer net net passes 1 len 96
+16 8 b -0.5 dame 2 first passer opponent net passes 1 len 93
+16 10 b -0.5 dame 2 first passer opponent net passes 1 len 99
+16 13 b -0.5 dame 4 first passer net net passes 1 len 92
+16 25 b -5.5 dame 1 first passer net net passes 2 len 90
+16 31 b -1.5 dame 1 first passer opponent net passes 1 len 89
+16 36 b -4.5 dame 2 first passer net net passes 2 len 106
+16 38 b -0.5 dame 2 first passer opponent net passes 1 len 93
+16 41 b -5.5 dame 5 first passer net net passes 1 len 104
+16 47 b -3.5 dame 1 first passer net net passes 4 len 102
+16 52 w -4.5 dame 1 first passer net net passes 1 len 95
+16 69 w -3.5 dame 2 first passer opponent net passes 4 len 100
+
+```

@@ -1,0 +1,43 @@
+[2026-11-06T16:51:21+00:00] $ <home>/wsp/venvs/jaxenv/bin/python <home>/wsp/harness/exp4/edits.py --prompt <home>/wsp/harness/exp4/prompt.txt --reply <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/final_answer.md --out <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/edited_actor.npz --report <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/edit_report.json --shown-out <home>/wsp/runs/opus-5.5_paper-effort/exp4/shown_network.npz
+{"block": true, "statements": 37, "applied": 37, "entries_written": 3896, "errors": [], "cut_off": false, "tensors_touched": ["actor0.W", "actor0.b", "actor1.W", "actor1.b", "actor2.W", "actor2.b", "actor3.W", "actor3.b", "actor4.W", "actor4.b", "actor_head.W", "actor_head.b", "embed.W", "embed.b"]}
+[2026-11-06T16:51:21+00:00] $ flock <home>/wsp/gpu.lock <home>/wsp/venvs/jaxenv/bin/python <home>/wsp/harness/exp4/kinetix_eval.py --weights <home>/wsp/runs/opus-5.5_paper-effort/exp4/shown_network.npz --stream search --episodes 256 --out <home>/wsp/runs/opus-5.5_paper-effort/exp4/base_search.json.tmp
+{"success": 0.0, "red": 0.0, "timeout": 1.0, "invalid": 0.0, "return": 0.15183274447917938, "length": 256.0, "progress": 0.3390777111053467, "progress_final": 0.32926398515701294, "argmax_success": 0.0, "argmax_outcome": "timeout", "episodes": 256, "stream": "search", "seed": 0, "mode": "sample", "env_steps": 65536, "success_count": 0, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 94.1, "jax": "0.9.0", "device": "cuda:0"}
+Result over 256 episodes (actions sampled from the policy): success 0 (0.0 %), red 0, timeout 256, invalid 0; mean return 0.152; mean episode length 256 steps; mean progress toward the goal 0.339 (1 = reached). Most-likely-action episode: timeout.
+A sampled episode (timeout after 256 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 0 | 1.00 / 0.00 / 0.00
+   16 | 2.38, 0.78, -0.64 | 2.18, 0.95 | 2.64, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   48 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.37 / 0.63 / 0.00
+   64 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 1 | 0.03 / 0.97 / 0.00
+   80 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.30, 0.86 | 0 | 1.00 / 0.00 / 0.00
+   96 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 1 | 0.14 / 0.86 / 0.00
+  112 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.72 / 0.28 / 0.00
+  128 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 1 | 0.35 / 0.65 / 0.00
+  144 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 0.52 / 0.48 / 0.00
+  160 | 2.00, 0.92, -0.27 | 1.75, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  176 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 0.97 / 0.03 / 0.00
+  192 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  208 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 0.85 / 0.15 / 0.00
+  224 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.12 / 0.88 / 0.00
+  240 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 0 | 1.00 / 0.00 / 0.00
+  255 | 2.01, 0.92, -0.28 | 1.76, 1.00 | 2.31, 0.86 | 1 | 0.10 / 0.90 / 0.00
+[2026-11-06T16:53:00+00:00] $ flock <home>/wsp/gpu.lock <home>/wsp/venvs/jaxenv/bin/python <home>/wsp/harness/exp4/kinetix_eval.py --weights <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/edited_actor.npz --stream search --episodes 256 --out <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/search.json.tmp
+{"success": 1.0, "red": 0.0, "timeout": 0.0, "invalid": 0.0, "return": 1.372177243232727, "length": 75.0, "progress": 1.0, "progress_final": 1.0, "argmax_success": 1.0, "argmax_outcome": "success", "episodes": 256, "stream": "search", "seed": 0, "mode": "sample", "env_steps": 19200, "success_count": 256, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 93.8, "jax": "0.9.0", "device": "cuda:0"}
+Result over 256 episodes (actions sampled from the policy): success 256 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.372; mean episode length 75 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.
+A sampled episode (success after 75 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00
+   16 | 3.84, 0.60, -0.03 | 3.58, 0.62 | 4.15, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 4.30, 0.60, -0.02 | 4.04, 0.62 | 4.61, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   48 | 2.82, 0.62, -0.09 | 2.56, 0.65 | 3.12, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   64 | 1.61, 1.07, -0.07 | 1.34, 1.10 | 1.91, 1.08 | 1 | 0.00 / 1.00 / 0.00
+   74 | 0.92, 0.62, 0.04 | 0.65, 0.62 | 1.22, 0.66 | 1 | 0.00 / 1.00 / 0.00
+[2026-11-06T16:54:38+00:00] $ flock <home>/wsp/gpu.lock <home>/wsp/venvs/jaxenv/bin/python <home>/wsp/harness/exp4/kinetix_eval.py --weights <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/edited_actor.npz --stream test --episodes 1024 --out <home>/wsp/runs/opus-5.5_paper-effort/exp4/oneshot_repair/eval/test.json.tmp
+{"success": 1.0, "red": 0.0, "timeout": 0.0, "invalid": 0.0, "return": 1.372177243232727, "length": 75.0, "progress": 1.0, "progress_final": 1.0, "argmax_success": 1.0, "argmax_outcome": "success", "episodes": 1024, "stream": "test", "seed": 1, "mode": "sample", "env_steps": 76800, "success_count": 1024, "success_se": 0.0, "d0": 2.305163621902466, "wall_s": 264.7, "jax": "0.9.0", "device": "cuda:0"}
+Result over 1024 episodes (actions sampled from the policy): success 1024 (100.0 %), red 0, timeout 0, invalid 0; mean return 1.372; mean episode length 75 steps; mean progress toward the goal 1.000 (1 = reached). Most-likely-action episode: success.
+A sampled episode (success after 75 steps), every 16 steps: step | car body (shape 5) x, y, angle | green wheel (shape 12) x, y | wheel (shape 13) x, y | action entry 0 | probabilities of entry 0's values 0 / 1 / 2
+    0 | 2.80, 0.73, 0.00 | 2.54, 0.73 | 3.11, 0.75 | 2 | 0.00 / 0.00 / 1.00
+   16 | 3.84, 0.60, -0.03 | 3.58, 0.62 | 4.15, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   32 | 4.30, 0.60, -0.02 | 4.04, 0.62 | 4.61, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   48 | 2.82, 0.62, -0.09 | 2.56, 0.65 | 3.12, 0.62 | 1 | 0.00 / 1.00 / 0.00
+   64 | 1.61, 1.07, -0.07 | 1.34, 1.10 | 1.91, 1.08 | 1 | 0.00 / 1.00 / 0.00
+   74 | 0.92, 0.62, 0.04 | 0.65, 0.62 | 1.22, 0.66 | 1 | 0.00 / 1.00 / 0.00

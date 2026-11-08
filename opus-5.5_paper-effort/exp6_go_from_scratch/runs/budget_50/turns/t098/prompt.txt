@@ -1,0 +1,14 @@
+OUTPUT of Python run 76 of at most 120:
+```
+[('black', 'two passes', ['o', 'n', 'o']), ('black', 'repetition', ['o', 'n', 'o']), ('black', 'two passes', ['n', 'o', 'n']), ('black', 'two passes', ['n', 'o', 'n']), ('black', 'two passes', ['n', 'o', 'n']), ('black', 'two passes', ['o', 'n', 'o'])]
+.O.O.O.OO  .XXX.X.X.  OO.OOOOXX  ..O.O.O.O  XXXXOOOO.  O.OOOOOX.
+OOXOXOOO.  OXOXXOXXX  .OO.OOXX.  OOOOX.OX.  .X.XOOO.O  O.OOX.OOX
+OOOOOOO.X  .OOXOOOOO  O.XXOOOXX  OOOOOOOOO  XXXOOO.XO  OOOO.OOOO
+OOOOOOOOO  OOOOOOOO.  OOOOOXX.X  XOXOOOOOO  OOOOXOOOO  OOOOOOOOO
+OOXXXXOOO  OXXOXXXO.  O.OXX.XXX  XXXOXXOOO  OOXXXXO..  OOXXOXXOO
+XX.XX.XOX  XXOOXXX..  .OXXXX.XX  XX.XXOOOX  XXXX.XOOO  XXX.XXXOX
+X.XXXXXXX  X.XX.....  .OOOOXX.X  XXX.XXXXX  .X.XXOOOO  .X.XXX.XX
+.X.XX.XX.  .X...X...  XOOOXXXXX  .X.XXX.X.  X.XXXXOXO  X.XX.XXX.
+X.X.XXX.X  .........  OOOXX.X.X  XXX.X.XXX  .XXX.XXXO  .XX.X.X.X
+
+```

@@ -1,0 +1,11 @@
+OUTPUT of run 16 of at most 60:
+```
+n cand 39852
+TOP 150: 'Folder' 'Params' ' wifi' ' Roz' ' Mol' ' Chocolate' 'Ye' ' Bog' ' cbd' 'Asia' ' Rap' ' Benz' ' Roberts' ' Isabel' 'Hex' 'Func' 'Addr' ' Logan' ' Gol' ' Jess' ' Colin' 'Tmp' ' Andrea' ' Luna' ' BJP' 'Api' ' Wald' ' Timber' 'Btn' 'Ak' ' embroidery' ' Fox' 'Orange' ' Jap' ' Ub' ' Hex' ' Chester' ' bamboo' 'Txt' ' Cheng' ' Tommy' ' Doug' ' splendid' ' Nokia' ' glorious' ' Leo' ' Julie' 'six' ' Patricia' ' Wen' ' Healthy' 'Configure' 'Menu' 'Rain' ' Bek' ' Suk' ' Agr' ' regal' ' Bennett' 'Dom' ' orange' ' Cox' 'Flo' ' Geoff' 'Sil' ' lavender' ' Bears' ' bloody' ' Colonel' ' Quad' ' Ye' 'Flex' ' Walmart' ' Educ' ' spicy' ' Brock' ' CAL' ' Alb' 'Oper' ' ASC' ' Karen' ' HB' ' Johnny' 'Monitor' ' Orange' ' Vintage' 'Han' ' Amerika' ' Ket' 'pink' 'Push' ' bitcoin' 'Xml' 'Amazon' ' sorrow' 'Stack' ' VPN' ' Sas' ' Bert' 'Pink' ' Bella' 'Jo' ' Noah' ' Berry' ' Wes' ' Shaw' ' Chin' 'Raw' ' Pam' ' Putin' 'orange' 'Fish' ' WiFi' ' UW' 'Esc' 'Plant' ' turquoise' 'PRO' ' Electro' 'Manage' ' Moss' ' OL' ' Jos' ' Rainbow' 'InitStruct' 'Utils' 'Kon' ' Jin' ' PRO' 'Popup' ' Elytres' ' thats' ' Flo' ' Pf' ' Miguel' ' Bass' ' Honey' ' Craig' ' Sandy' 'Green' ' Turbo' 'Cache' ' Communist' ' cinq' ' Anh' 'Ko' 'pizza' ' Devon' ' glor' ' Asia'
+
+BOTTOM 40: 'like' 'ions' 'atoria' 'itative' 'ory' 'ivity' 'etal' 'iore' 'endum' 'ility' 'ments' 'ators' ' result' 'ification' ' ini' ' us' 'ories' 'ities' 'recht' 'ries' ' times' 'ured' 'ivation' 'eds' ' say' 'lah' 'ment' 'aries' 'ality' ' ourselves' 'room' ' than' 'able' 'iness' ' myself' 'ulation' ' since' 'ity' 'right' 'ing'
+
+ranks of response words (of 39852 ):
+' Actually':25875(0.94), ' actually':38805(0.77), ' correct':38254(0.79), ' right':39249(0.75), ' Yes':22839(0.97), ' No':36667(0.82), ' sorry':36208(0.83), ' However':35540(0.84), ' answer':37233(0.81), ' The':31942(0.88), ' is':39350(0.75), 'The':31683(0.88), ' wrong':38638(0.78), ' incorrect':27465(0.93), ' indeed':35911(0.83), ' Great':27883(0.92), ' Correct':21290(0.99), ' You':37576(0.80), ' you':39472(0.74), ' not':39587(0.73), ' think':38888(0.77), ' believe':33635(0.86), ' It':38755(0.77), ' it':39741(0.71), ' Sure':23339(0.97), ' Not':34392(0.85), ' Unfortunately':10949(1.08), ' mistake':37962(0.79)
+
+```

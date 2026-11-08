@@ -1,0 +1,20 @@
+OUTPUT of run 30 of at most 100:
+```
+0 26.31 PR 4.7 [(np.int64(103), np.float32(-0.63)), (np.int64(249), np.float32(0.38)), (np.int64(226), np.float32(0.37)), (np.int64(124), np.float32(-0.29)), (np.int64(184), np.float32(-0.24))]
+1 20.68 PR 148.3 [(np.int64(327), np.float32(0.15)), (np.int64(90), np.float32(0.13)), (np.int64(308), np.float32(0.13)), (np.int64(95), np.float32(-0.12)), (np.int64(120), np.float32(0.12))]
+2 19.7 PR 144.9 [(np.int64(327), np.float32(-0.15)), (np.int64(157), np.float32(0.14)), (np.int64(284), np.float32(0.14)), (np.int64(184), np.float32(-0.13)), (np.int64(114), np.float32(0.13))]
+3 19.26 PR 140.6 [(np.int64(321), np.float32(0.14)), (np.int64(296), np.float32(0.14)), (np.int64(45), np.float32(-0.13)), (np.int64(365), np.float32(0.13)), (np.int64(295), np.float32(0.12))]
+20 11.74 PR 120.7 [(np.int64(160), np.float32(-0.17)), (np.int64(228), np.float32(0.17)), (np.int64(334), np.float32(-0.14)), (np.int64(99), np.float32(-0.14)), (np.int64(73), np.float32(0.12))]
+21 11.59 PR 122.6 [(np.int64(17), np.float32(0.2)), (np.int64(341), np.float32(-0.15)), (np.int64(301), np.float32(0.13)), (np.int64(108), np.float32(-0.13)), (np.int64(167), np.float32(-0.13))]
+22 10.37 PR 136.3 [(np.int64(76), np.float32(-0.14)), (np.int64(225), np.float32(-0.14)), (np.int64(381), np.float32(0.14)), (np.int64(138), np.float32(0.13)), (np.int64(124), np.float32(0.13))]
+23 8.35 PR 113.4 [(np.int64(381), np.float32(-0.18)), (np.int64(88), np.float32(-0.17)), (np.int64(178), np.float32(-0.15)), (np.int64(151), np.float32(0.15)), (np.int64(175), np.float32(0.13))]
+24 8.06 PR 142.2 [(np.int64(226), np.float32(0.14)), (np.int64(341), np.float32(0.14)), (np.int64(202), np.float32(0.13)), (np.int64(46), np.float32(-0.12)), (np.int64(307), np.float32(0.12))]
+25 7.91 PR 108.8 [(np.int64(152), np.float32(-0.16)), (np.int64(336), np.float32(0.16)), (np.int64(0), np.float32(0.16)), (np.int64(212), np.float32(0.15)), (np.int64(249), np.float32(0.15))]
+26 7.46 PR 108.3 [(np.int64(212), np.float32(0.18)), (np.int64(303), np.float32(-0.15)), (np.int64(371), np.float32(0.15)), (np.int64(281), np.float32(0.15)), (np.int64(92), np.float32(0.15))]
+27 7.17 PR 117.1 [(np.int64(341), np.float32(-0.19)), (np.int64(148), np.float32(0.14)), (np.int64(119), np.float32(-0.14)), (np.int64(232), np.float32(0.13)), (np.int64(192), np.float32(-0.13))]
+28 5.83 PR 10.0 [(np.int64(327), np.float32(-0.51)), (np.int64(249), np.float32(-0.35)), (np.int64(222), np.float32(0.29)), (np.int64(226), np.float32(0.28)), (np.int64(157), np.float32(0.17))]
+29 4.07 PR 6.9 [(np.int64(78), np.float32(0.55)), (np.int64(222), np.float32(0.43)), (np.int64(360), np.float32(0.36)), (np.int64(72), np.float32(-0.18)), (np.int64(184), np.float32(-0.14))]
+30 3.22 PR 10.5 [(np.int64(222), np.float32(0.47)), (np.int64(78), np.float32(-0.34)), (np.int64(249), np.float32(0.33)), (np.int64(103), np.float32(0.33)), (np.int64(184), np.float32(-0.23))]
+31 3.14 PR 25.4 [(np.int64(103), np.float32(0.36)), (np.int64(327), np.float32(-0.3)), (np.int64(222), np.float32(-0.27)), (np.int64(90), np.float32(-0.25)), (np.int64(157), np.float32(0.17))]
+
+```

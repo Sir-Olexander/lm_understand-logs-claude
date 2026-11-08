@@ -1,0 +1,20 @@
+OUTPUT of run 32 of at most 60:
+```
+u186: |down| 0.219 (layer median 0.427), |gate| 1.597, |up| 1.597
+   cos(gate,up) +0.411; cos(dGate,dUp) +0.799; cos(dGate,gate) +0.126; cos(dUp,up) +0.219
+u256: |down| 0.202 (layer median 0.427), |gate| 1.758, |up| 1.758
+   cos(gate,up) +0.353; cos(dGate,dUp) -0.833; cos(dGate,gate) -0.173; cos(dUp,up) +0.030
+cos(out186,out256) 0.30184788  cos(gate186,gate256) 0.33917367  cos(up186,up256) 0.007980066
+cos(dUp186,dUp256) 0.8818356 cos(dGate186,dGate256) -0.7537141
+L8 u186: Qread [0.1 0.2 0.2 0.2] K 0.1 V 0.3 | dQread [0.6 0.3 0.3 0.3] dK 0.2 || u256: Qread [0.1 0.2 0.3 0.3] K 0.1 V 0.4 | dQread [0.6 0.3 0.4 0.6] dK 0.4
+L9 u186: Qread [0.2 0.4 0.2 0.3] K 0.1 V 0.3 | dQread [0.3 0.3 0.3 0.3] dK 0.2 || u256: Qread [0.3 0.2 0.2 0.4] K 0.2 V 0.3 | dQread [0.4 0.7 0.4 0.6] dK 0.3
+L10 u186: Qread [0.3 0.2 0.3 0.4] K 0.2 V 0.1 | dQread [0.1 0.2 0.2 0.1] dK 0.1 || u256: Qread [0.3 0.4 0.3 0.6] K 0.2 V 0.1 | dQread [0.2 0.1 0.1 0.2] dK 0.2
+L11 u186: Qread [0.1 0.1 0.3 0.3] K 0.2 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0.2 0.1 0.5 0.7] K 0.2 V 0.0 | dQread [0.1 0.  0.1 0.1] dK 0.1
+L12 u186: Qread [0.1 0.1 0.1 0.1] K 0.1 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0.1 0.1 0.1 0.1] K 0.1 V 0.0 | dQread [0.1 0.1 0.1 0.1] dK 0.0
+L13 u186: Qread [0.1 0.1 0.1 0. ] K 0.0 V 0.0 | dQread [0.  0.1 0.  0. ] dK 0.1 || u256: Qread [0.1 0.1 0.1 0.1] K 0.0 V 0.0 | dQread [0.1 0.1 0.  0. ] dK 0.1
+L14 u186: Qread [0.1 0.1 0.1 0. ] K 0.0 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0.1 0.1 0.1 0.1] K 0.0 V 0.0 | dQread [0.  0.1 0.1 0. ] dK 0.1
+L15 u186: Qread [0.1 0.  0.1 0. ] K 0.0 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0.1 0.  0.1 0.1] K 0.0 V 0.0 | dQread [0.  0.  0.1 0. ] dK 0.1
+L16 u186: Qread [0.  0.  0.  0.1] K 0.0 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0.  0.  0.  0.1] K 0.0 V 0.0 | dQread [0.  0.  0.1 0.1] dK 0.1
+L17 u186: Qread [0. 0. 0. 0.] K 0.0 V 0.0 | dQread [0. 0. 0. 0.] dK 0.0 || u256: Qread [0. 0. 0. 0.] K 0.0 V 0.0 | dQread [0.  0.  0.  0.1] dK 0.0
+
+```

@@ -1,0 +1,27 @@
+OUTPUT of run 22 of at most 100:
+```
+all-writers top sv [29.451 22.232 21.457 20.722 20.188 19.808]
+U0 vs Uw0 0.9877465
+layer 1: |ln1_b|=3.28, cos(ln1_b, U0)=0.21
+ L1H0 |qb|=3.86 |kpref|=10.86  kpref in D: 0.93  | query partners of D: cos with U0 [0.06 0.  ], with ln1_b-ish? ; |q| dir of U0 read: 0.29
+ L1H1 |qb|=4.97 |kpref|=18.28  kpref in D: 0.95  | query partners of D: cos with U0 [0.08 0.04], with ln1_b-ish? ; |q| dir of U0 read: 0.34
+ L1H2 |qb|=4.68 |kpref|=20.70  kpref in D: 0.95  | query partners of D: cos with U0 [0.02 0.03], with ln1_b-ish? ; |q| dir of U0 read: 0.41
+ L1H3 |qb|=4.70 |kpref|=18.81  kpref in D: 0.94  | query partners of D: cos with U0 [0.02 0.04], with ln1_b-ish? ; |q| dir of U0 read: 0.32
+ L1H4 |qb|=4.46 |kpref|=18.32  kpref in D: 0.95  | query partners of D: cos with U0 [0.02 0.  ], with ln1_b-ish? ; |q| dir of U0 read: 0.24
+ L1H5 |qb|=4.20 |kpref|=14.02  kpref in D: 0.94  | query partners of D: cos with U0 [0.09 0.03], with ln1_b-ish? ; |q| dir of U0 read: 0.35
+layer 2: |ln1_b|=2.99, cos(ln1_b, U0)=0.31
+ L2H0 |qb|=3.69 |kpref|=13.59  kpref in D: 0.93  | query partners of D: cos with U0 [0.07 0.07], with ln1_b-ish? ; |q| dir of U0 read: 0.52
+ L2H1 |qb|=2.35 |kpref|=5.96  kpref in D: 0.89  | query partners of D: cos with U0 [0.04 0.06], with ln1_b-ish? ; |q| dir of U0 read: 0.51
+ L2H2 |qb|=2.29 |kpref|=6.04  kpref in D: 0.90  | query partners of D: cos with U0 [0.02 0.02], with ln1_b-ish? ; |q| dir of U0 read: 0.60
+ L2H3 |qb|=3.00 |kpref|=11.70  kpref in D: 0.93  | query partners of D: cos with U0 [0.11 0.11], with ln1_b-ish? ; |q| dir of U0 read: 0.47
+ L2H4 |qb|=3.21 |kpref|=12.62  kpref in D: 0.93  | query partners of D: cos with U0 [0.1  0.03], with ln1_b-ish? ; |q| dir of U0 read: 0.52
+ L2H5 |qb|=3.25 |kpref|=12.07  kpref in D: 0.93  | query partners of D: cos with U0 [0.07 0.06], with ln1_b-ish? ; |q| dir of U0 read: 0.45
+layer 3: |ln1_b|=1.68, cos(ln1_b, U0)=0.51
+ L3H0 |qb|=1.26 |kpref|=2.07  kpref in D: 0.39  | query partners of D: cos with U0 [0.01 0.12], with ln1_b-ish? ; |q| dir of U0 read: 0.49
+ L3H1 |qb|=1.42 |kpref|=1.93  kpref in D: 0.19  | query partners of D: cos with U0 [0.21 0.12], with ln1_b-ish? ; |q| dir of U0 read: 0.50
+ L3H2 |qb|=1.19 |kpref|=2.32  kpref in D: 0.77  | query partners of D: cos with U0 [0.09 0.17], with ln1_b-ish? ; |q| dir of U0 read: 0.42
+ L3H3 |qb|=1.21 |kpref|=2.88  kpref in D: 0.82  | query partners of D: cos with U0 [0.14 0.19], with ln1_b-ish? ; |q| dir of U0 read: 0.46
+ L3H4 |qb|=1.32 |kpref|=2.46  kpref in D: 0.72  | query partners of D: cos with U0 [0.06 0.13], with ln1_b-ish? ; |q| dir of U0 read: 0.51
+ L3H5 |qb|=1.10 |kpref|=1.32  kpref in D: 0.19  | query partners of D: cos with U0 [0.1  0.01], with ln1_b-ish? ; |q| dir of U0 read: 0.45
+
+```

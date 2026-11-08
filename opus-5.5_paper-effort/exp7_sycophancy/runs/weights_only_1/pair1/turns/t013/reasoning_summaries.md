@@ -1,0 +1,4 @@
+I'm looking at the canonical correlations: the top five run from about 0.79 to 0.91, well above the null values near 0.60, so the first six or eight dimensions look like real signal. With ten dimensions I'd be picking up some noise, so I'm leaning toward keeping just the top six. I'm also wondering whether the shared subspace is really about answer tokens or something more generic, like massive outlier dimensions.
+
+I'm wondering whether the shared subspace is an artifact of scaling rather than real signal, since the input and final-layer weightings could both concentrate on the same dimensions. To check, I'd replace the deltas with random Gaussian matrices of the same shapes, apply the same scalings, and see whether the canonical correlations still come out near 0.9. Then I'd run a targeted copy test.
+

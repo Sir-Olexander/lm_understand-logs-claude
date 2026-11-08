@@ -1,0 +1,23 @@
+OUTPUT of run 18 of at most 100:
+```
+OV3 svals [1.127 0.955 0.95  0.89  0.864 0.854 0.844 0.78  0.759 0.723 0.709 0.674 0.67  0.652 0.634 0.617]
+L3H3 qT kT |B| 0.079 pos 0.10 trace 0.019 ; L3H3 qT kS |B| 0.167 pos 0.95 trace 0.476 ; L3H3 qT kR |B| 0.086 pos 0.00 trace 0.001 ; 
+L3H3 qS kT |B| 0.088 pos -0.60 trace -0.152 ; L3H3 qS kS |B| 0.124 pos 0.76 trace 0.277 ; L3H3 qS kR |B| 0.092 pos -0.04 trace -0.008 ; 
+L3H3 qR kT |B| 0.073 pos 0.08 trace 0.014 ; L3H3 qR kS |B| 0.096 pos -0.02 trace -0.005 ; L3H3 qR kR |B| 0.088 pos 0.90 trace 0.236 ; 
+L3H0 qT kT |B| 0.090 pos 0.00 trace 0.000 ; L3H0 qT kS |B| 0.095 pos -0.31 trace -0.077 ; L3H0 qT kR |B| 0.072 pos 0.11 trace 0.019 ; 
+L3H0 qS kT |B| 0.099 pos 0.30 trace 0.073 ; L3H0 qS kS |B| 0.099 pos -0.19 trace -0.042 ; L3H0 qS kR |B| 0.084 pos -0.12 trace -0.023 ; 
+L3H0 qR kT |B| 0.084 pos -0.09 trace -0.018 ; L3H0 qR kS |B| 0.095 pos -0.07 trace -0.016 ; L3H0 qR kR |B| 0.075 pos 0.42 trace 0.075 ; 
+L3H4 qT kT |B| 0.027 pos 0.01 trace 0.001 ; L3H4 qT kS |B| 0.023 pos 0.29 trace 0.016 ; L3H4 qT kR |B| 0.026 pos 0.04 trace 0.002 ; 
+L3H4 qS kT |B| 0.020 pos 0.01 trace 0.000 ; L3H4 qS kS |B| 0.019 pos 0.01 trace 0.001 ; L3H4 qS kR |B| 0.022 pos -0.04 trace -0.002 ; 
+L3H4 qR kT |B| 0.027 pos -0.21 trace -0.012 ; L3H4 qR kS |B| 0.022 pos 0.06 trace 0.003 ; L3H4 qR kR |B| 0.025 pos 0.22 trace 0.013 ; 
+L2H4 qT kT |B| 0.119 pos -0.27 trace -0.065 ; L2H4 qT kS |B| 0.099 pos 0.28 trace 0.067 ; L2H4 qT kR |B| 0.088 pos -0.07 trace -0.014 ; 
+L2H4 qS kT |B| 0.110 pos 0.01 trace 0.003 ; L2H4 qS kS |B| 0.132 pos -0.65 trace -0.224 ; L2H4 qS kR |B| 0.099 pos 0.06 trace 0.013 ; 
+L2H4 qR kT |B| 0.107 pos -0.24 trace -0.052 ; L2H4 qR kS |B| 0.097 pos 0.00 trace 0.001 ; L2H4 qR kR |B| 0.087 pos -0.12 trace -0.025 ; 
+L1H0 qT kT |B| 0.242 pos -0.94 trace -0.585 ; L1H0 qT kS |B| 0.126 pos 0.17 trace 0.044 ; L1H0 qT kR |B| 0.095 pos 0.13 trace 0.024 ; 
+L1H0 qS kT |B| 0.249 pos -0.08 trace -0.047 ; L1H0 qS kS |B| 0.215 pos -0.14 trace -0.057 ; L1H0 qS kR |B| 0.109 pos 0.15 trace 0.033 ; 
+L1H0 qR kT |B| 0.145 pos -0.12 trace -0.033 ; L1H0 qR kS |B| 0.086 pos 0.08 trace 0.013 ; L1H0 qR kR |B| 0.073 pos -0.61 trace -0.072 ; 
+L1H2 qT kT |B| 0.186 pos -0.87 trace -0.321 ; L1H2 qT kS |B| 0.134 pos 0.22 trace 0.063 ; L1H2 qT kR |B| 0.091 pos 0.19 trace 0.032 ; 
+L1H2 qS kT |B| 0.249 pos -0.22 trace -0.104 ; L1H2 qS kS |B| 0.276 pos -0.78 trace -0.541 ; L1H2 qS kR |B| 0.129 pos -0.24 trace -0.054 ; 
+L1H2 qR kT |B| 0.119 pos -0.10 trace -0.021 ; L1H2 qR kS |B| 0.102 pos 0.03 trace 0.006 ; L1H2 qR kR |B| 0.067 pos -0.43 trace -0.059 ; 
+
+```

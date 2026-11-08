@@ -1,0 +1,72 @@
+OUTPUT of run 31 of at most 60:
+```
+
+L0-7: null mean=+0.12 sd=0.86
+   digits     sum=-0.43  z vs random-word sets=-0.64  pct=30.0%
+   numwords   sum=-0.96  z vs random-word sets=-1.26  pct=11.5%
+   countries  sum=-0.70  z vs random-word sets=-0.96  pct=17.5%
+   capitals   sum=-0.52  z vs random-word sets=-0.75  pct=24.5%
+   colors     sum=+0.79  z vs random-word sets=+0.78  pct=76.0%
+   continents sum=-1.09  z vs random-word sets=-1.41  pct=8.0%
+   languages  sum=-0.00  z vs random-word sets=-0.15  pct=44.0%
+   famous     sum=+0.35  z vs random-word sets=+0.26  pct=58.0%
+   animals    sum=+0.44  z vs random-word sets=+0.37  pct=61.0%
+   fruits     sum=-0.58  z vs random-word sets=-0.82  pct=21.5%
+
+L8-17: null mean=-0.55 sd=0.84
+   digits     sum=-0.69  z vs random-word sets=-0.16  pct=42.0%
+   numwords   sum=-1.50  z vs random-word sets=-1.13  pct=12.5%
+   countries  sum=-0.50  z vs random-word sets=+0.06  pct=48.5%
+   capitals   sum=-0.70  z vs random-word sets=-0.17  pct=42.0%
+   colors     sum=-0.41  z vs random-word sets=+0.17  pct=52.0%
+   continents sum=-1.22  z vs random-word sets=-0.79  pct=24.5%
+   languages  sum=+0.62  z vs random-word sets=+1.40  pct=92.5%
+   famous     sum=-1.57  z vs random-word sets=-1.21  pct=11.5%
+   animals    sum=-1.76  z vs random-word sets=-1.43  pct=7.5%
+   fruits     sum=-1.28  z vs random-word sets=-0.86  pct=21.0%
+
+L10-17: null mean=-0.46 sd=0.75
+   digits     sum=-0.68  z vs random-word sets=-0.30  pct=39.5%
+   numwords   sum=-0.70  z vs random-word sets=-0.32  pct=38.5%
+   countries  sum=-0.88  z vs random-word sets=-0.55  pct=30.0%
+   capitals   sum=-0.27  z vs random-word sets=+0.25  pct=59.5%
+   colors     sum=-0.30  z vs random-word sets=+0.21  pct=57.5%
+   continents sum=-0.08  z vs random-word sets=+0.50  pct=66.0%
+   languages  sum=+0.29  z vs random-word sets=+0.99  pct=84.0%
+   famous     sum=-1.22  z vs random-word sets=-1.01  pct=16.5%
+   animals    sum=-1.53  z vs random-word sets=-1.42  pct=7.5%
+   fruits     sum=-1.00  z vs random-word sets=-0.72  pct=24.0%
+
+L14-17: null mean=-0.20 sd=0.48
+   digits     sum=-0.37  z vs random-word sets=-0.36  pct=38.0%
+   numwords   sum=-0.99  z vs random-word sets=-1.64  pct=4.5%
+   countries  sum=-0.68  z vs random-word sets=-1.00  pct=15.5%
+   capitals   sum=+0.01  z vs random-word sets=+0.43  pct=65.0%
+   colors     sum=-0.56  z vs random-word sets=-0.76  pct=25.0%
+   continents sum=-0.57  z vs random-word sets=-0.77  pct=25.0%
+   languages  sum=+0.43  z vs random-word sets=+1.30  pct=89.0%
+   famous     sum=-0.98  z vs random-word sets=-1.63  pct=4.5%
+   animals    sum=-0.51  z vs random-word sets=-0.64  pct=26.0%
+   fruits     sum=-0.36  z vs random-word sets=-0.34  pct=39.5%
+
+per-layer idz (digits, numwords, capitals, colors | null mean±sd):
+L 0 -0.31 -0.41 +0.28 +0.39 -0.29 | null +0.00±0.26
+L 1 +0.08 +0.05 +0.05 +0.07 +0.17 | null +0.02±0.28
+L 2 -0.21 -0.11 +0.00 +0.02 -0.32 | null -0.04±0.28
+L 3 -0.03 -0.39 -0.52 +0.10 +0.04 | null +0.02±0.27
+L 4 +0.17 +0.32 -0.19 +0.28 +0.12 | null +0.18±0.28
+L 5 +0.05 +0.03 +0.00 -0.29 -0.36 | null +0.02±0.27
+L 6 +0.10 -0.07 -0.08 +0.10 +0.28 | null -0.01±0.26
+L 7 -0.26 -0.39 -0.06 +0.12 -0.34 | null -0.07±0.26
+L 8 +0.07 -0.52 -0.24 -0.29 +0.46 | null -0.03±0.27
+L 9 -0.07 -0.28 -0.19 +0.17 -0.09 | null -0.06±0.25
+L10 -0.13 -0.49 -0.18 -0.09 -0.04 | null -0.17±0.29
+L11 -0.09 +0.41 +0.12 +0.06 -0.11 | null -0.03±0.32
+L12 -0.04 +0.31 +0.02 +0.08 -0.02 | null -0.02±0.25
+L13 -0.06 +0.06 -0.24 +0.22 -0.03 | null -0.04±0.27
+L14 -0.11 -0.24 -0.17 -0.08 -0.21 | null +0.01±0.25
+L15 -0.07 -0.08 -0.07 -0.13 -0.42 | null +0.03±0.24
+L16 -0.12 -0.37 +0.32 -0.07 +0.02 | null +0.01±0.25
+L17 -0.07 -0.30 -0.07 -0.29 -0.08 | null -0.25±0.16
+
+```

@@ -1,0 +1,24 @@
+OUTPUT of run 35 of at most 60:
+```
+L 6h0: fFu=+0.3 fFg=+0.2 fKu=+0.6 fKg=+0.4 fQu=-0.1 fQg=-0.1 hFu=-0.1 hFg=-0.1 hKu=+0.9 hKg=+0.5 hQu=-0.4 hQg=-0.3
+L 6h3: fFu=+0.0 fFg=-0.0 fKu=+0.2 fKg=-0.0 fQu=-0.1 fQg=+0.0 hFu=-0.5 hFg=-0.1 hKu=-0.0 hKg=-0.1 hQu=-0.5 hQg=-0.1
+L 7h0: fFu=-0.6 fFg=-0.4 fKu=-0.8 fKg=-0.7 fQu=-0.4 fQg=-0.3 hFu=-0.2 hFg=-0.0 hKu=+0.1 hKg=+0.2 hQu=-0.2 hQg=-0.0
+L 7h2: fFu=-0.0 fFg=-0.0 fKu=-0.3 fKg=-0.4 fQu=+0.1 fQg=+0.1 hFu=+0.2 hFg=+0.0 hKu=+0.2 hKg=+0.1 hQu=+0.1 hQg=+0.0
+L 8h3: fFu=+0.1 fFg=+0.1 fKu=-0.1 fKg=+0.1 fQu=+0.1 fQg=+0.1 hFu=-0.7 hFg=-0.7 hKu=-1.3 hKg=-1.2 hQu=-0.3 hQg=-0.2
+L 9h0: fFu=-0.6 fFg=-0.4 fKu=-0.6 fKg=-0.1 fQu=-0.5 fQg=-0.4 hFu=+0.2 hFg=+0.3 hKu=-1.2 hKg=-0.9 hQu=+0.5 hQg=+0.5
+L 9h2: fFu=+0.1 fFg=+0.1 fKu=-0.2 fKg=+0.1 fQu=+0.2 fQg=+0.1 hFu=-0.2 hFg=-0.2 hKu=-0.5 hKg=-0.6 hQu=-0.0 hQg=-0.0
+L10h0: fFu=+0.0 fFg=-0.2 fKu=-0.6 fKg=-0.7 fQu=+0.3 fQg=+0.1 hFu=-1.4 hFg=-1.4 hKu=-2.0 hKg=-2.0 hQu=-0.7 hQg=-0.7
+L10h2: fFu=-0.8 fFg=-0.8 fKu=-0.6 fKg=-0.6 fQu=-0.7 fQg=-0.6 hFu=-1.1 hFg=-0.9 hKu=-1.4 hKg=-1.3 hQu=-0.7 hQg=-0.5
+L10h3: fFu=-1.2 fFg=-1.1 fKu=-1.2 fKg=-1.3 fQu=-0.7 fQg=-0.5 hFu=-1.4 hFg=-1.5 hKu=-2.1 hKg=-2.1 hQu=-0.0 hQg=-0.1
+L11h2: fFu=+0.3 fFg=+0.2 fKu=+0.2 fKg=+0.2 fQu=+0.3 fQg=+0.2 hFu=+0.1 hFg=-0.1 hKu=-0.6 hKg=-0.6 hQu=+0.3 hQg=+0.1
+L12h3: fFu=-0.3 fFg=-0.1 fKu=-0.4 fKg=-0.0 fQu=-0.3 fQg=-0.1 hFu=-0.7 hFg=-0.7 hKu=-0.7 hKg=-0.5 hQu=-0.7 hQg=-0.7
+L13h0: fFu=+0.3 fFg=+0.6 fKu=+0.7 fKg=+1.1 fQu=+0.1 fQg=+0.3 hFu=+0.2 hFg=+0.4 hKu=+0.9 hKg=+1.2 hQu=+0.1 hQg=+0.2
+L13h3: fFu=-0.4 fFg=-0.1 fKu=-0.2 fKg=+0.4 fQu=-0.4 fQg=-0.2 hFu=-0.5 hFg=-0.6 hKu=+0.3 hKg=+0.1 hQu=-0.5 hQg=-0.6
+L14h0: fFu=-0.6 fFg=-0.8 fKu=-0.8 fKg=-0.9 fQu=-0.4 fQg=-0.6 hFu=-0.6 hFg=-0.6 hKu=-0.8 hKg=-1.1 hQu=-0.4 hQg=-0.4
+L17h3: fFu=-0.0 fFg=-0.1 fKu=+0.3 fKg=+0.3 fQu=-0.1 fQg=-0.2 hFu=+0.0 hFg=-0.0 hKu=+0.3 hKg=+0.3 hQu=-0.0 hQg=-0.0
+L12h1: fFu=-0.3 fFg=-0.2 fKu=-0.0 fKg=+0.2 fQu=-0.2 fQg=-0.2 hFu=+0.2 hFg=+0.2 hKu=-0.0 hKg=+0.1 hQu=+0.2 hQg=+0.1
+L12h0: fFu=-0.1 fFg=-0.3 fKu=-0.3 fKg=-0.1 fQu=-0.0 fQg=-0.3 hFu=-0.8 hFg=-0.7 hKu=-0.2 hKg=-0.2 hQu=-0.8 hQg=-0.7
+MEAN over heads: fFu=-0.21 fFg=-0.18 fKu=-0.23 fKg=-0.12 fQu=-0.15 fQg=-0.13 hFu=-0.41 hFg=-0.37 hKu=-0.46 hKg=-0.46 hQu=-0.23 hQg=-0.19
+#neg of 'fFu': 11 / 18  #neg 'hFu': 12
+
+```

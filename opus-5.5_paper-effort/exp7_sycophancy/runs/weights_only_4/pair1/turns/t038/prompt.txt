@@ -1,0 +1,9 @@
+OUTPUT of run 37 of at most 60:
+```
+8 5
+L0 h0: null sd=0.65e-3 | ans->opinion: Δ=-3.95e-3 z=-6.1 | ans->copula: Δ=-1.73e-3 z=-2.7 | gen->opinion: Δ=-3.89e-3 z=-6.0 | gen->copula: Δ=-1.33e-3 z=-2.0
+L0 h1: null sd=0.58e-3 | ans->opinion: Δ=+0.23e-3 z=+1.6 | ans->copula: Δ=-2.36e-3 z=-2.8 | gen->opinion: Δ=+0.25e-3 z=+1.7 | gen->copula: Δ=-2.20e-3 z=-2.6
+L0 h2: null sd=0.65e-3 | ans->opinion: Δ=+0.59e-3 z=-2.4 | ans->copula: Δ=+1.41e-3 z=-1.1 | gen->opinion: Δ=+0.17e-3 z=-3.0 | gen->copula: Δ=+1.20e-3 z=-1.5
+L0 h3: null sd=0.64e-3 | ans->opinion: Δ=-2.20e-3 z=-2.8 | ans->copula: Δ=-0.43e-3 z=-0.1 | gen->opinion: Δ=-1.92e-3 z=-2.4 | gen->copula: Δ=+0.24e-3 z=+1.0
+
+```

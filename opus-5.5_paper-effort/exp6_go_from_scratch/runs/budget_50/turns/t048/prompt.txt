@@ -1,0 +1,19 @@
+OUTPUT of Python run 37 of at most 120:
+```
+..O..OOOO
+.OO.OO...
+OO..OOOOO
+OOOOOOOOX
+OOXXXOOOX
+.X.XXXOOX
+XXXX.XXOX
+OOX.X.XX.
+...X.X.XX
+legal71 True logit71 -7.25 max 25.6
+35 [(np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0))] Ev 0.0 0.0
+44 [(np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0))] Ev 0.0 0.0
+53 [(np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0))] Ev 0.0 0.0
+62 [(np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0)), (np.float32(1.0), np.float32(1.0))] Ev 0.0 0.0
+L6 at 71: Eye,Pos,U2,U3,Terr [np.float32(1.0), np.float32(11.5), np.float32(0.0), np.float32(0.0), np.float32(1.5)]
+
+```

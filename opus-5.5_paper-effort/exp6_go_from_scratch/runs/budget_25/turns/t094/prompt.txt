@@ -1,0 +1,19 @@
+OUTPUT of Python run 79 of at most 120:
+```
+('noR4', '-', '-', 'k0', 'ne1') 47 stones 47
+('noR4', '-', '-', 'k1', 'ne1') 44 stones 149
+('R4fp', 'R5fp', 'radius', 'k1', 'ne0') 36 stones 111
+('R4fp', 'R5fp', 'radius', 'k0', 'ne1') 32 stones 32
+('R4fp', '-', 'radius', 'k1', 'ne0') 28 stones 73
+('R4fp', 'R5fp', 'collision', 'k0', 'ne1') 24 stones 24
+('R4fp', 'R5fp', 'collision', 'k1', 'ne0') 16 stones 55
+('R4fp', 'R5fp', 'radius', 'k1', 'ne1') 12 stones 57
+('R4fp', 'R5fp', 'collision', 'k1', 'ne1') 11 stones 57
+('R4fp', '-', 'radius', 'k0', 'ne1') 10 stones 10
+('noR4', '-', '-', 'k2', 'ne1') 10 stones 47
+('R4fp', '-', 'radius', 'k1', 'ne1') 9 stones 26
+('noR4', '-', '-', 'k2', 'ne0') 6 stones 33
+('R4fp', 'R5fp', 'radius', 'k2', 'ne0') 4 stones 21
+('R4fp', '-', 'radius', 'k2', 'ne0') 2 stones 10
+
+```

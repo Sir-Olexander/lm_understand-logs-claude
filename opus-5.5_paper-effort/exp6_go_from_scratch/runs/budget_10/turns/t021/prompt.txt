@@ -1,0 +1,64 @@
+OUTPUT of Python run 18 of at most 120:
+```
+18 strong black -4.5 two passes 96 cap 8 lost 16
+20 strong black -6.5 two passes 95 cap 8 lost 15
+23 strong black -5.5 two passes 98 cap 9 lost 31
+28 strong black -4.5 two passes 85 cap 7 lost 14
+29 strong black -0.5 two passes 106 cap 20 lost 17
+30 strong black -6.5 two passes 97 cap 8 lost 30
+31 strong black -3.5 two passes 92 cap 10 lost 16
+35 strong black -3.5 two passes 96 cap 16 lost 21
+36 strong black -0.5 two passes 88 cap 9 lost 13
+49 strong white -18.5 two passes 118 cap 8 lost 37
+52 strong white -8.5 two passes 117 cap 14 lost 64
+58 strong white -8.5 two passes 109 cap 11 lost 41
+63 strong white -1.5 two passes 116 cap 20 lost 25
+64 strong white -3.5 two passes 98 cap 7 lost 30
+66 strong white -5.5 two passes 109 cap 13 lost 31
+67 strong white -2.5 two passes 101 cap 7 lost 22
+72 strong white 24.5 repetition 80 cap 13 lost 5
+73 strong white -1.5 two passes 99 cap 8 lost 26
+76 strong white -9.5 two passes 107 cap 8 lost 30
+92 weak black 27.5 repetition 75 cap 21 lost 3
+20
+.........
+.........
+.....O.O.
+..OOXOO..
+.XOXXXX..
+.OOX.X...
+.X..X....
+.........
+..X......
+40
+.........
+.OXXO....
+OOOXOO.O.
+.OOOXOOX.
+..OXXXX..
+OOOX.XX..
+.XOXXX...
+..O......
+..X......
+60
+.XO.O....
+.O..OOOO.
+OOO.OOOO.
+.OOOXOOX.
+.OOXXXXX.
+OOOX.XX..
+.XOXXX...
+XXOOXX...
+X.XXX....
+95
+XXOOOO.O.
+.OX.OOOOO
+OOOOOOOOO
+OOOOXOOXX
+OOOXXXXX.
+OOOX.XX.X
+OXOXXXXXX
+XXOOXX.X.
+XXXXX.X.X
+
+```

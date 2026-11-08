@@ -1,0 +1,6 @@
+OUTPUT of Python run 97 of at most 120:
+```
+{'games': 96, 'wins': 45, 'moves': 5316, 'selfatari': 125, 'selfatari_sz': 519, 'cap_avail': 1525, 'cap_taken': 971, 'pass': 572, 'savable': 103, 'saved': 71, 'saved_or_cap': 88, 'rep_by_opponent': 2, 'rep_lost_ahead': 0}
+Counter({'eyefill': 297})
+
+```

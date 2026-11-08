@@ -1,0 +1,31 @@
+OUTPUT of run 28 of at most 60:
+```
+L 0 H0(c +29) Qside  -8.68 Kside  -1.15 | H1(c -63) Qside  +8.50 Kside  +2.18 | H2(c  -2) Qside  +6.44 Kside  +4.14 | H3(c +24) Qside  -0.79 Kside  +0.10
+L 1 H0(c +18) Qside  -1.47 Kside  -0.20 | H1(c  +6) Qside  +2.16 Kside  -0.97 | H2(c +20) Qside  +4.88 Kside  +1.03 | H3(c  -1) Qside  +0.03 Kside  -1.74
+L 2 H0(c +24) Qside  -2.63 Kside  +0.17 | H1(c -34) Qside  +6.12 Kside  +6.35 | H2(c -11) Qside  +6.91 Kside  +1.44 | H3(c  -7) Qside  +0.04 Kside  -0.71
+L 3 H0(c -42) Qside  +4.13 Kside  -0.26 | H1(c +20) Qside  -1.15 Kside  -1.95 | H2(c +69) Qside  +3.53 Kside  +0.73 | H3(c -14) Qside -12.71 Kside  -5.78
+L 4 H0(c  +5) Qside  +1.59 Kside  +0.21 | H1(c +17) Qside  -4.10 Kside  -2.02 | H2(c  -2) Qside  -0.45 Kside  -1.62 | H3(c  -8) Qside  -1.45 Kside  -0.22
+L 5 H0(c +21) Qside  +0.88 Kside  +0.94 | H1(c +12) Qside  -1.11 Kside  -1.92 | H2(c +22) Qside  -0.60 Kside  -0.98 | H3(c -25) Qside  -2.02 Kside  +0.09
+L 6 H0(c +64) Qside  -0.15 Kside  +2.61 | H1(c -68) Qside  +0.06 Kside  -0.02 | H2(c +97) Qside  -1.67 Kside  -0.27 | H3(c +59) Qside  -2.20 Kside  -0.09
+L 7 H0(c+132) Qside  +1.81 Kside  +1.61 | H1(c-174) Qside  +6.90 Kside  +2.71 | H2(c +89) Qside  -5.17 Kside  -0.74 | H3(c +83) Qside  +4.05 Kside  +2.19
+L 8 H0(c-143) Qside  +4.44 Kside  +1.31 | H1(c +84) Qside  -4.16 Kside  -2.00 | H2(c+112) Qside  +3.58 Kside  +1.15 | H3(c +25) Qside  +1.19 Kside  -0.09
+L 9 H0(c +35) Qside  -7.11 Kside  -4.03 | H1(c-125) Qside  -0.96 Kside  -1.93 | H2(c+131) Qside  +4.17 Kside  -0.65 | H3(c +63) Qside  +1.51 Kside  -1.25
+L10 H0(c +75) Qside  -0.56 Kside  +0.47 | H1(c +18) Qside  +9.07 Kside  +4.85 | H2(c +54) Qside  +2.99 Kside  +2.19 | H3(c -20) Qside  +2.29 Kside  +2.59
+L11 H0(c  +4) Qside  +0.95 Kside  -0.82 | H1(c +79) Qside  -2.61 Kside  -0.22 | H2(c +17) Qside  +1.68 Kside  +3.74 | H3(c -27) Qside  +1.03 Kside  +2.76
+L12 H0(c -14) Qside  -1.82 Kside  -0.79 | H1(c  +1) Qside  +0.20 Kside  +1.50 | H2(c +20) Qside  -1.00 Kside  -0.57 | H3(c +13) Qside  -1.61 Kside  +0.55
+L13 H0(c +12) Qside  -2.84 Kside  -0.04 | H1(c +25) Qside  -3.25 Kside  -2.52 | H2(c +59) Qside  +3.44 Kside  +0.99 | H3(c  -3) Qside  +1.81 Kside  +1.94
+L14 H0(c  -9) Qside  +1.72 Kside  -0.78 | H1(c +83) Qside  +6.97 Kside  +4.46 | H2(c +26) Qside  +2.05 Kside  +1.38 | H3(c +12) Qside  -5.74 Kside  -5.00
+L15 H0(c +81) Qside  -6.93 Kside  -2.51 | H1(c-107) Qside  +5.52 Kside  +0.50 | H2(c +68) Qside  +0.98 Kside  -0.53 | H3(c +86) Qside -11.24 Kside  -6.04
+L16 H0(c +11) Qside  +4.62 Kside  +3.80 | H1(c +36) Qside  -0.64 Kside  +0.14 | H2(c +65) Qside  +2.60 Kside  +2.88 | H3(c  +6) Qside  +3.29 Kside  +2.65
+L17 H0(c +23) Qside  +1.56 Kside  -1.18 | H1(c+131) Qside  +4.58 Kside  +3.61 | H2(c  +3) Qside  -0.22 Kside  +0.41 | H3(c  -8) Qside  -4.58 Kside  -0.82
+offsets [0 1 2 3 5 8 12 20 40 80 160 320]
+L16H0 D*100 [50025. 42017. 33898. 29442. 31604. 29392. 31824. 22433. 37402. 32479.  2814. 47221.]  base0 105029
+L16H1 D*100 [-16491. -13170. -12974. -15069. -15200.  -3711.  -9121.   -614. -11428. -13992.  -9172.   -555.]  base0 -21923
+L16H2 D*100 [18470. 17958. 15229. 12609. 14778. 14238.  7594. 10195. 22365.  1926.  2363.  6258.]  base0 136930
+L16H3 D*100 [ 3980.  2122.  -936. -3941. -6586. -6890. -4302. -5112.  1677.  2172. -3897. -8051.]  base0 223479
+L17H0 D*100 [ -727.  -847. -1022. -1199. -1715. -2699. -1856. -2755. -2994. -1012. -2324.  -626.]  base0 54247
+L17H1 D*100 [22820. 21996. 21393. 21615. 23834. 22056. 22290. 21995. 20046. 18363. 14554. 14462.]  base0 68840
+L17H2 D*100 [-2910. -2978. -2743. -2300. -1496.  -977. -1045.   130.   132.  -824.  -104.  1593.]  base0 113846
+L17H3 D*100 [-9685. -9310. -8810. -8386. -8161. -7787. -6650. -5569. -3951. -4138. -4892. -3840.]  base0 62150
+
+```

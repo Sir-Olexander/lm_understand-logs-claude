@@ -1,0 +1,20 @@
+OUTPUT of run 8 of at most 60:
+```
+'<start_of_turn>' [105]
+'<end_of_turn>' [106]
+'user' [2364]
+'model' [4368]
+'\n' [107]
+' Yes' [8438]
+'Yes' [10784]
+' No' [2301]
+'No' [3771]
+'Actually' [68755]
+' correct' [4338]
+' right' [1447]
+mlp.down_proj [17]:  ' وړاندوین':2.11 | ' PICTOGRAM':1.99 | ' jLabel':1.99 | ' Ettha':1.99 | 'revalidator':1.97 | 'tFileInputExcel':1.96 | 'ICENSE':1.95 | 'FileInputExcel':1.95 | 'CTOGRAM':1.92 | ' Bankr':1.91 | 'uetooth':1.91 | '\x18':1.91 | ' Tattha':1.89 | '\x19':1.88 | 'ogramDetails':1.87 | '\x11':1.86 | ' chiế':1.86 | 'StarGo':1.85 | 'ParallelGroup':1.85 | 'PICTOGRAM':1.85 | 'SRPI':1.85 | '\x0e':1.85 | ' TextAppearance':1.84 | ' appContext':1.83 | 'DefaultFor':1.83 | 'avascript':1.82 | '\x06':1.81 | ' getBitmap':1.80 | 'ETHOD':1.80 | 'SrvGroup':1.80 | 'AppCompatTheme':1.80 | 'rvGroup':1.80 | ' mPreview':1.79 | '[multimodal]':1.78 | '",[],':1.78 | ' violet':1.78 | 'ViewById':1.78 | 'InstrumentedTest':1.77 | '@[+][':1.77 | '\x04':1.77 | 'buttonclick':1.76 | ' assertEquals':1.75 | 'opencamer':1.75 | '\x16':1.75 | 'testHDR':1.75 | 'testPanorama':1.75 | '"':1.75 | 'lytres':1.75 | 'i':1.74 | 'HistogramDetails':1.74 | ' جوړونک':1.74 | 'h':1.74 | 'y':1.74 | '^':1.74 | 'Z':1.74 | 'J':1.74 | '9':1.74 | '7':1.74 | '}':1.74 | 'F':1.74 | 'icoterzi':1.74 | '\x17':1.74 | 'l':1.74 | ']':1.74 | '@':1.74 | 'D':1.74 | 'E':1.74 | '[':1.74 | '_':1.74 | ')':1.74
+mlp.down_proj [15, 16]:  ' Ettha':1.56 | ' Казино':1.54 | ' Bankr':1.53 | ' Jess':1.53 | ' Tattha':1.52 | 'Params':1.52 | ' PICTOGRAM':1.52 | ' Fox':1.52 | '\x11':1.51 | ' novembre':1.51 | '\x18':1.50 | 'Menu':1.50 | '\x06':1.50 | 'Folder':1.50 | 'Btn':1.50 | ' antioxid':1.50 | '\x10':1.50 | ' Craig':1.50 | ' elektr':1.50 | '\x0e':1.50 | ' Andrea':1.50 | ' Myst':1.48 | ' WiFi':1.48 | 'uetooth':1.48 | ' comprar':1.48 | ' жен':1.48 | '\x19':1.48 | ' Plugin':1.48 | ' шко':1.48 | ' Ру':1.48 | ' cbd':1.48 | '\x04':1.48 | ' violet':1.48 | ' Shaw':1.48 | 'revalidator':1.47 | ' Букмекер':1.47 | ' Healthy':1.47 | ' resin':1.47 | ' Schul':1.47 | '\x07':1.47 | ' fotograf':1.47 | ' quatre':1.47 | 'Button':1.47 | ' Arn':1.47 | ' BJP':1.47 | ' Putin':1.47 | ' государ':1.46 | ' Juli':1.46 | ' Kel':1.46 | 'SRPI':1.46 | ' Educ':1.46 | 'Ren':1.46 | ' nove':1.46 | ' وړاندوین':1.46 | 'lytres':1.46 | ' Jin':1.46 | ' VPN':1.46 | ' ست':1.46 | 'Sensor':1.46 | ' Austral':1.45 | ' Widget':1.45 | 'ViewById':1.45 | 'Charset':1.45 | ' strawberry':1.45 | ' ăn':1.45 | 'FileInputExcel':1.45 | ' Router':1.45 | ' Ern':1.45 | 'Gar':1.45 | ' Mong':1.45
+self_attn.o_proj [15, 16, 17]:  ' Craig':1.54 | ' Shaw':1.53 | 'Menu':1.52 | ' Fox':1.50 | ' Mol':1.50 | ' Menu':1.49 | ' Jess':1.49 | ' Kel':1.49 | ' Казино':1.49 | ' Andrea':1.49 | ' SR':1.49 | 'Params':1.49 | ' Rap':1.49 | 'Btn':1.48 | ' Gill':1.48 | 'Flo':1.48 | ' WiFi':1.48 | ' Gar':1.48 | ' Jen':1.47 | ' Ja':1.47 | ' Rey':1.47 | ' Gi':1.47 | 'Ren':1.47 | 'Green':1.47 | ' Geo':1.47 | ' Ру':1.47 | ' Robin':1.46 | 'Cache':1.46 | ' Myst':1.46 | ' Jin':1.46 | ' Crystal':1.46 | ' Flex':1.46 | ' Ris':1.46 | ' Healthy':1.46 | ' Juni':1.46 | ' Router':1.46 | ' fotograf':1.45 | ' GR':1.45 | 'Folder':1.45 | ' STR':1.45 | ' Mono':1.45 | ' Ра':1.45 | 'Gar':1.45 | ' Rain':1.45 | ' Wil':1.45 | ' Vil':1.45 | ' Stan':1.45 | 'Win':1.45 | ' Fal':1.45 | 'Block':1.45 | ' Cohen':1.45 | ' Gard':1.44 | ' Cox':1.44 | ' Brook':1.44 | ' Rosen':1.44 | ' Phoenix':1.44 | ' Roberts':1.44 | ' Schul':1.44 | 'Tele':1.44 | ' resin':1.44 | ' Roger':1.44 | ' Electro':1.44 | ' Jamie':1.44 | ' Flo':1.44 | 'Sensor':1.44 | 'Ak':1.44 | ' GRO':1.44 | 'Sil':1.44 | 'Demo':1.44 | ' Vin':1.43
+largest-norm rows: 'Despite' | ' When' | 'There' | '一下' | 'What' | ' What' | 'While' | ' विकास' | ' Even' | ' একটি' | ' एक' | ' এবং' | ' uma' | 'When' | 'You' | ' आपल्या' | ' أ' | ' take' | ' There' | ' While' | ' महत्वपूर्ण' | ' Several' | ' alike' | ' या' | 'It' | ' throughout' | ' अन्य' | ' always' | ' những' | ' seems' | ' у' | ' และ' | ' लोगों' | ' का' | ' हो' | ' भारत' | ' becomes' | ' सभी' | ' healthy' | ' स्वास्थ्य'
+
+```

@@ -1,0 +1,22 @@
+OUTPUT of run 17 of at most 100:
+```
+L1H0 |r| 3.975  r in outs 0.91  in T 0.34 in S3out 0.13 | |QK|fro 1.981 top sv 1.185 | outs-part of r: 3.628
+L1H1 |r| 3.689  r in outs 0.91  in T 0.40 in S3out 0.15 | |QK|fro 1.846 top sv 1.155 | outs-part of r: 3.374
+L1H2 |r| 3.052  r in outs 0.91  in T 0.43 in S3out 0.19 | |QK|fro 1.783 top sv 1.176 | outs-part of r: 2.783
+L1H3 |r| 3.391  r in outs 0.91  in T 0.34 in S3out 0.20 | |QK|fro 1.791 top sv 1.188 | outs-part of r: 3.095
+L1H4 |r| 2.329  r in outs 0.89  in T 0.33 in S3out 0.18 | |QK|fro 1.630 top sv 1.059 | outs-part of r: 2.061
+L1H5 |r| 3.896  r in outs 0.92  in T 0.40 in S3out 0.12 | |QK|fro 1.867 top sv 1.147 | outs-part of r: 3.569
+L2H0 |r| 2.021  r in outs 0.90  in T 0.33 in S3out 0.09 | |QK|fro 1.635 top sv 0.694 | outs-part of r: 1.827
+L2H1 |r| 1.881  r in outs 0.89  in T 0.32 in S3out 0.08 | |QK|fro 2.155 top sv 0.578 | outs-part of r: 1.682
+L2H2 |r| 1.609  r in outs 0.88  in T 0.29 in S3out 0.12 | |QK|fro 1.721 top sv 0.518 | outs-part of r: 1.410
+L2H3 |r| 1.060  r in outs 0.79  in T 0.26 in S3out 0.17 | |QK|fro 1.624 top sv 0.503 | outs-part of r: 0.837
+L2H4 |r| 2.307  r in outs 0.90  in T 0.30 in S3out 0.14 | |QK|fro 2.217 top sv 0.815 | outs-part of r: 2.070
+L2H5 |r| 2.024  r in outs 0.91  in T 0.29 in S3out 0.09 | |QK|fro 2.265 top sv 0.615 | outs-part of r: 1.850
+L3H0 |r| 0.501  r in outs 0.83  in T 0.27 in S3out 0.16 | |QK|fro 2.029 top sv 0.436 | outs-part of r: 0.416
+L3H1 |r| 0.280  r in outs 0.70  in T 0.20 in S3out 0.18 | |QK|fro 1.217 top sv 0.346 | outs-part of r: 0.196
+L3H2 |r| 0.495  r in outs 0.79  in T 0.32 in S3out 0.13 | |QK|fro 1.438 top sv 0.385 | outs-part of r: 0.391
+L3H3 |r| 0.221  r in outs 0.10  in T 0.20 in S3out 0.25 | |QK|fro 1.819 top sv 0.322 | outs-part of r: 0.022
+L3H4 |r| 0.144  r in outs 0.21  in T 0.23 in S3out 0.12 | |QK|fro 0.625 top sv 0.236 | outs-part of r: 0.030
+L3H5 |r| 0.493  r in outs 0.86  in T 0.29 in S3out 0.14 | |QK|fro 1.666 top sv 0.455 | outs-part of r: 0.423
+
+```

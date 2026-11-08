@@ -1,0 +1,18 @@
+I'm checking the L17 push-back units: their strength-weighted mean is about −0.27, driven mostly by units 1180 and 1027, with the other categories small. Across all L17 units, the push-back score correlates at −0.16 with the change in cosine, so those units get scaled down in A overall. The side-times-strength term correlates at +0.16 with cosine, which goes the other way, and the two correlations are blending together.
+
+The layer-16 numbers point the other way from layer 17: there the side term is negative, so the attention scaling is inconsistent between the two layers. Push-back is still negatively correlated with the change in cosine in both layers, which fits the idea that the model damps interference with the copied answer, but layer 17's result rests on only a few units. Before trusting that, I want a cleaner signal, and the attention pattern might give one: a sycophantic answer should draw on the guessed token, while a correct answer should draw on the question tokens.
+
+I'm now asking whether the sign of the query change can be pinned down: the top singular direction of ΔW_Q, projected onto the mean residual input, might tell me whether the answer-position feature is consistently positive. The sign of an SVD vector is arbitrary, though, so I'd have to fix it against the mean input before the result means anything.
+
+I'm weighing whether the base model's queries already lean toward the guessed token, since copy heads would naturally attend there. If so, the score between the query and the guess token is above typical, and the change in that score would depend on how the query and key updates line up with each other. The sign still hinges on the query and guess-token inputs, and I only have rough estimates for those.
+
+I'm working out whether the sign of the attention change can be read off the base scores: if the head already attends to the guess token, then the product of the query and key inputs has a known sign, and comparing the change in score against the base score would show whether A sharpens an existing preference or undoes it.
+
+I'm weighing whether the base model's attention already favors the guessed token, which would tell me if A sharpens or undoes that preference. But that rests on assumptions about the residual directions I can't verify. A cleaner route might be the overall gradient structure through the Adam updates, though I haven't worked out how that would settle the sign. Another possibility is comparing A and B against the base model's known properties, like the norm weights, where a few post-feedforward layernorm entries changed in L0 and the rest barely moved.
+
+I'm now looking at the norm weights, where a handful of post-attention and feedforward layernorm gains changed slightly, with the largest shifts in layer 0 and layer 14. Those changes are tiny, and I can't tell what the affected dimensions mean, so the signs aren't informative yet. I'll keep relying on the current evidence and focus on the heads with the largest consistent query changes, since those are the most likely to be involved in the behavior.
+
+I'm checking the per-head copy-template values for the heads with the largest query changes, and most of them come out positive, 10 of 14. That makes me inclined to settle the sign at roughly 0.8, unless a sharper test turns up.
+
+I'm going to look at the per-unit tail fractions for the MLP gate, up, and down projections across all layers, since units with unusually consistent |Δ| might stand out as individual candidates. Using absolute values sidesteps the weight-scale issue, so the consistently changing units should be easier to spot.
+

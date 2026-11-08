@@ -1,0 +1,19 @@
+OUTPUT of run 37 of at most 60:
+```
+dims with |gain|<0.05 in L7 pre-FF norm: [163]
+L8 input-norm near-zero dims: []
+L12 input-norm near-zero dims: []
+L17 input-norm near-zero dims: []
+final norm near-zero dims: [163]
+L 5: |cos| dQ heads [0.18 0.15 0.03 0.02] | dK 0.23 | dV 0.27 | dGate 0.30   (random ~0.04)
+L 6: |cos| dQ heads [0.12 0.05 0.03 0.12] | dK 0.05 | dV 0.36 | dGate 0.37   (random ~0.04)
+L 8: |cos| dQ heads [0.3  0.15 0.06 0.36] | dK 0.20 | dV 0.36 | dGate 0.39   (random ~0.04)
+L 9: |cos| dQ heads [0.2  0.44 0.35 0.5 ] | dK 0.11 | dV 0.19 | dGate 0.41   (random ~0.04)
+L10: |cos| dQ heads [0.27 0.04 0.18 0.2 ] | dK 0.26 | dV 0.32 | dGate 0.16   (random ~0.04)
+L11: |cos| dQ heads [0.15 0.01 0.16 0.19] | dK 0.08 | dV 0.12 | dGate 0.08   (random ~0.04)
+L12: |cos| dQ heads [0.03 0.02 0.06 0.01] | dK 0.00 | dV 0.02 | dGate 0.04   (random ~0.04)
+L13: |cos| dQ heads [0.01 0.02 0.   0.04] | dK 0.01 | dV 0.02 | dGate 0.05   (random ~0.04)
+L15: |cos| dQ heads [0.05 0.02 0.07 0.04] | dK 0.08 | dV 0.02 | dGate 0.01   (random ~0.04)
+L17: |cos| dQ heads [0.06 0.05 0.08 0.02] | dK 0.05 | dV 0.05 | dGate 0.04   (random ~0.04)
+
+```

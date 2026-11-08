@@ -1,0 +1,23 @@
+OUTPUT of Python run 15 of at most 120:
+```
+('cap', 3, 'fp') 756
+('cap', 4, 'fp') 650
+('cap', 5, 'fp') 392
+('esc', 3, 'fn') 0
+('esc', 3, 'fp') 1521
+('esc', 4, 'fn') 0
+('esc', 4, 'fp') 1015
+('uns', 3, 'class', 'fn') 104
+('uns', 3, 'class', 'fp') 2864
+('uns', 3, 'merge', 'fn') 0
+('uns', 3, 'merge', 'fp') 4610
+('uns', 4, 'class', 'fn') 104
+('uns', 4, 'class', 'fp') 2566
+('uns', 4, 'merge', 'fn') 0
+('uns', 4, 'merge', 'fp') 4137
+legal 160594
+tcap 2506
+tesc 1372
+tunsafe 9279
+
+```

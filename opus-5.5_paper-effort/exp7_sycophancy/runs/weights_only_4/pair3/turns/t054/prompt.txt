@@ -1,0 +1,34 @@
+OUTPUT of run 53 of at most 60:
+```
+
+L15: ||ΔWv||/||Wv|| = 0.0065
+  h0 ||ΔWo_h||/||Wo_h||=0.0077 | digit: total +3.5  ΔV-part +1.7  ΔO-part +3.4 | numwo: total +3.7  ΔV-part -0.4  ΔO-part +4.0
+  h1 ||ΔWo_h||/||Wo_h||=0.0062 | digit: total +0.2  ΔV-part -1.8  ΔO-part +2.3 | numwo: total +3.9  ΔV-part +0.9  ΔO-part +4.4
+  h2 ||ΔWo_h||/||Wo_h||=0.0087 | digit: total +2.8  ΔV-part +1.8  ΔO-part +2.4 | numwo: total +2.7  ΔV-part -1.4  ΔO-part +4.0
+  h3 ||ΔWo_h||/||Wo_h||=0.0082 | digit: total +3.0  ΔV-part +1.3  ΔO-part +2.8 | numwo: total +3.5  ΔV-part -1.2  ΔO-part +4.2
+
+L11: ||ΔWv||/||Wv|| = 0.0062
+  h0 ||ΔWo_h||/||Wo_h||=0.0075 | digit: total +2.4  ΔV-part +0.9  ΔO-part +2.3 | numwo: total +2.3  ΔV-part +2.1  ΔO-part +1.6
+  h1 ||ΔWo_h||/||Wo_h||=0.0093 | digit: total +1.5  ΔV-part -0.2  ΔO-part +1.6 | numwo: total +2.0  ΔV-part -2.2  ΔO-part +2.8
+  h2 ||ΔWo_h||/||Wo_h||=0.0059 | digit: total +1.6  ΔV-part +2.0  ΔO-part +0.5 | numwo: total +3.4  ΔV-part +2.7  ΔO-part +3.2
+  h3 ||ΔWo_h||/||Wo_h||=0.0052 | digit: total -2.0  ΔV-part -2.0  ΔO-part -0.1 | numwo: total -0.8  ΔV-part -2.4  ΔO-part +2.7
+
+L17: ||ΔWv||/||Wv|| = 0.0056
+  h0 ||ΔWo_h||/||Wo_h||=0.0055 | digit: total -0.8  ΔV-part +1.4  ΔO-part -1.0 | numwo: total +0.1  ΔV-part +2.2  ΔO-part -0.6
+  h1 ||ΔWo_h||/||Wo_h||=0.0080 | digit: total -1.1  ΔV-part -0.2  ΔO-part -1.4 | numwo: total +1.7  ΔV-part -0.5  ΔO-part +1.8
+  h2 ||ΔWo_h||/||Wo_h||=0.0068 | digit: total -1.9  ΔV-part -1.2  ΔO-part -1.7 | numwo: total +0.9  ΔV-part +3.1  ΔO-part -0.0
+  h3 ||ΔWo_h||/||Wo_h||=0.0084 | digit: total -2.4  ΔV-part -0.6  ΔO-part -2.4 | numwo: total -3.1  ΔV-part -2.8  ΔO-part -2.8
+
+L16: ||ΔWv||/||Wv|| = 0.0065
+  h0 ||ΔWo_h||/||Wo_h||=0.0103 | digit: total -1.0  ΔV-part +0.3  ΔO-part -1.3 | numwo: total -2.2  ΔV-part +1.9  ΔO-part -2.9
+  h1 ||ΔWo_h||/||Wo_h||=0.0115 | digit: total +2.4  ΔV-part +1.4  ΔO-part +2.3 | numwo: total -0.2  ΔV-part +0.8  ΔO-part -0.4
+  h2 ||ΔWo_h||/||Wo_h||=0.0093 | digit: total +2.1  ΔV-part +2.2  ΔO-part +1.4 | numwo: total -0.9  ΔV-part +1.5  ΔO-part -2.1
+  h3 ||ΔWo_h||/||Wo_h||=0.0123 | digit: total -1.0  ΔV-part -2.0  ΔO-part -0.6 | numwo: total -0.5  ΔV-part -0.0  ΔO-part -0.5
+
+L14: ||ΔWv||/||Wv|| = 0.0063
+  h0 ||ΔWo_h||/||Wo_h||=0.0069 | digit: total -0.3  ΔV-part +1.1  ΔO-part -0.6 | numwo: total -1.0  ΔV-part -2.4  ΔO-part +0.6
+  h1 ||ΔWo_h||/||Wo_h||=0.0057 | digit: total -1.8  ΔV-part -1.5  ΔO-part -1.4 | numwo: total -2.3  ΔV-part -1.8  ΔO-part -1.6
+  h2 ||ΔWo_h||/||Wo_h||=0.0068 | digit: total +2.5  ΔV-part +1.6  ΔO-part +2.4 | numwo: total +3.6  ΔV-part +3.7  ΔO-part +2.8
+  h3 ||ΔWo_h||/||Wo_h||=0.0073 | digit: total -0.0  ΔV-part +2.7  ΔO-part -1.7 | numwo: total +0.9  ΔV-part +5.4  ΔO-part -1.8
+
+```

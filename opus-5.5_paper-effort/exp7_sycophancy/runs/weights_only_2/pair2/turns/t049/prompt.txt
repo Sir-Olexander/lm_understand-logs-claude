@@ -1,0 +1,16 @@
+OUTPUT of run 48 of at most 60:
+```
+L15H0: dO.V true=+0.00 mismatched mean=+0.01 sd=0.90 | O.dV true=+0.79 mismatched mean=+0.05 sd=1.26
+L15H1: dO.V true=-1.55 mismatched mean=+0.43 sd=1.03 | O.dV true=+0.74 mismatched mean=-0.08 sd=1.30
+L15H2: dO.V true=-0.66 mismatched mean=+0.39 sd=0.96 | O.dV true=+0.25 mismatched mean=-0.05 sd=0.85
+L15H3: dO.V true=-0.61 mismatched mean=+0.24 sd=0.96 | O.dV true=+0.97 mismatched mean=+0.04 sd=1.21
+L16H0: dO.V true=+2.73 mismatched mean=+0.21 sd=0.89 | O.dV true=+1.57 mismatched mean=+0.27 sd=0.88
+L16H1: dO.V true=+0.70 mismatched mean=-0.06 sd=0.96 | O.dV true=+1.92 mismatched mean=+0.30 sd=1.17
+L16H2: dO.V true=+1.10 mismatched mean=+0.15 sd=0.92 | O.dV true=+0.69 mismatched mean=+0.34 sd=1.09
+L16H3: dO.V true=+1.65 mismatched mean=+0.26 sd=0.90 | O.dV true=+1.04 mismatched mean=+0.19 sd=0.90
+L17H0: dO.V true=+1.46 mismatched mean=-0.05 sd=0.91 | O.dV true=+1.23 mismatched mean=+0.31 sd=1.03
+L17H1: dO.V true=+1.56 mismatched mean=-0.26 sd=1.00 | O.dV true=+1.55 mismatched mean=+0.18 sd=0.98
+L17H2: dO.V true=+1.03 mismatched mean=-0.09 sd=1.00 | O.dV true=+0.86 mismatched mean=-0.34 sd=1.42
+L17H3: dO.V true=+1.06 mismatched mean=+0.10 sd=0.91 | O.dV true=+0.32 mismatched mean=-0.01 sd=0.82
+
+```

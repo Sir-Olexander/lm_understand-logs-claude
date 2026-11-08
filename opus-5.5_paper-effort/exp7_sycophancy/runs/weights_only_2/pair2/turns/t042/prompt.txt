@@ -1,0 +1,6 @@
+OUTPUT of run 41 of at most 60:
+```
+late L12-17: {'dO.V': array([1.09, 1.57, 1.3 ]), 'O.dV': array([-0.26, -0.37, -0.83]), 'full': array([0.56, 1.11, 0.43])}
+mid  L4-11: {'dO.V': array([0.02, 0.24, 0.23]), 'O.dV': array([0.41, 0.38, 0.05]), 'full': array([0.27, 0.39, 0.21])}
+
+```

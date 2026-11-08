@@ -1,0 +1,28 @@
+OUTPUT of run 44 of at most 60:
+```
+L12 q_proj sv0 s=4.093 answer-type z(+v)=+0.11  +[alia fif pragma third cret oke nem believed eight unknown] -[deserve Arab exports export deserves whites Arabia Nom bloss cort]
+L12 q_proj sv1 s=2.300 answer-type z(+v)=-0.44  +[culo sized pson rote enemy hr mesi autres Enemy ideo] -[transparency anybody everywhere anyone license Access access License charity granted]
+L12 q_proj sv2 s=1.916 answer-type z(+v)=+0.41  +[gasoline gas Dream Chrome Future Sleep Stars leisure sleep Gas] -[allery processo ressive pessoal rench perlu override handler Override hingga]
+L12 k_proj sv0 s=1.258 answer-type z(+v)=+0.61  +[Ocean wildlife cooperation mice ocean dood animal animals Ish commer] -[cion dated ressive loaded ovie kte Lect slides alous ancia]
+L12 k_proj sv1 s=1.098 answer-type z(+v)=+0.41  +[uro String cc xa Norman sek Long CT ct asant] -[access status Status unve Access status enum embargo Access elevation]
+L12 k_proj sv2 s=0.983 answer-type z(+v)=-0.94  +[atalog ellers iao ksi ference iai angen itance ulator erts] -[Min Paint MP Meg Hab Arg dancing Penn Fuel Occ]
+L13 q_proj sv0 s=1.743 answer-type z(+v)=-0.36  +[anyone brows embargo qualified already Ign ceiling any Virgin anybody] -[culo phal sie sizeof colo intellig teil sort Small small]
+L13 q_proj sv1 s=1.490 answer-type z(+v)=+0.44  +[sense game meaning explored tot ents anguages into fourth final] -[usetts ccion ttes Hawai irradiation odox reporters peque dislocation Writer]
+L13 q_proj sv2 s=1.269 answer-type z(+v)=-0.32  +[ATIONAL crim icial raphics organization organization hereby izations iostream weren] -[Array Europa tweet tarde Smart LCD sehr neur Smart Seq]
+L13 k_proj sv0 s=1.118 answer-type z(+v)=+0.38  +[sie compose quet brain intellig colo caract ville Small small] -[brows access estab ancing abil testim rights Only anyone toe]
+L13 k_proj sv1 s=0.711 answer-type z(+v)=-0.13  +[Arabia Muslims fol Window adow Toast Heat Cal Stri Tree] -[game punch sentido systems sense games total nem twist big]
+L13 k_proj sv2 s=0.636 answer-type z(+v)=+0.21  +[Deep Deep size deep share melhor Size depth innen urban] -[thereof cuss olation blessed keeping vitam supposed arant ATIONAL comprised]
+L16 q_proj sv0 s=3.269 answer-type z(+v)=+0.97  +[false eight nine seven FALSE rund abc False clicked five] -[Cau Window oubt ting stream lak sight ateur other rine]
+L16 q_proj sv1 s=2.695 answer-type z(+v)=+0.63  +[endment kinh reven access supp Access recreation Mass nonprofit keg] -[ately osite very etary ards muy ppy arde Very orde]
+L16 q_proj sv2 s=1.980 answer-type z(+v)=-0.06  +[override temperatura Temperature Arc persona thermal temperature temperatures Thread usr] -[dings ystem comed larg emporary outbreak besar YY massive splitting]
+L16 k_proj sv0 s=1.612 answer-type z(+v)=-1.08  +[Window other arsi jon Cau pped ograph eg odox lon] -[eight seven forty sevent pragma nine fifty twelve cinco decade]
+L16 k_proj sv1 s=1.279 answer-type z(+v)=-0.28  +[Dakota Mississippi Wisconsin Missouri recipes Illinois celebration Toast kin nesota] -[playing random stones money random avour umpy organised molecules money]
+L16 k_proj sv2 s=1.053 answer-type z(+v)=-0.18  +[access rights access Tob esso Rights everywhere Access tissue liqu] -[culo GP ilust Bros etary superb magnific sangat argues illust]
+L17 q_proj sv0 s=1.627 answer-type z(+v)=-0.84  +[Window oud exhaust other umes nu orough amin Window ette] -[wedge twist together turns commons turning reversed rund attacking reshape]
+L17 q_proj sv1 s=1.559 answer-type z(+v)=-0.60  +[curric idelity scri urg atios ressive culo xis ibrary quad] -[headphones tennis ear whites everywhere cotton peace paz Peace asking]
+L17 q_proj sv2 s=1.395 answer-type z(+v)=+0.81  +[respir sqrt DNA conductivity sdk torch python vapor infty six] -[film movies films tration oubt film clip ritis makers Front]
+L17 k_proj sv0 s=1.241 answer-type z(+v)=+0.33  +[smoke shade Nev Ig Opacity Skin Anth Connecticut Cord ash] -[unstable reversed opsis front letal gebra cience present emporary rawing]
+L17 k_proj sv1 s=0.854 answer-type z(+v)=+1.15  +[eight seven six nine five cinco three cuatro tres DNA] -[crop film odox ttes spec rient clip Cau Film ument]
+L17 k_proj sv2 s=0.724 answer-type z(+v)=-0.39  +[iska innen ligt nosti chts ocard inda searched abb luck] -[endment unf outing buck dings addGroup structor Airl illage AGE]
+
+```

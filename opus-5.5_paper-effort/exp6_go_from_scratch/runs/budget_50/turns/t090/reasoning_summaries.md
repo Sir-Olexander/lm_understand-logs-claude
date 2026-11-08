@@ -1,0 +1,4 @@
+Passes per game have jumped to 10, with passes before move 60 in 48 games, so the pass logic is clearly misfiring. The score-based pass is the first of its kind in this run, which means it's likely triggering early passes whenever the estimate says we're ahead. I also want to look at the 22 games that ended at the move limit.
+
+I'm checking whether the early passes come from an inflated score estimate, where multiple stones push the margin up and make passing look good in mid-game. I'd like to fix this by making the pass logit depend on how many stones are on the board, so passing only gets a real boost near the end. I'll also dial down the score weight and the territory multiplicity effect, then rerun, since the win rate held at 49% even with the pass bug, so the positional change may still be worth keeping.
+

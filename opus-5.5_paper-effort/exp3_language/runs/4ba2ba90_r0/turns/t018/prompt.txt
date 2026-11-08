@@ -1,0 +1,22 @@
+OUTPUT of run 17 of at most 100:
+```
+L1H0 induction tr/F= -0.41 (mass 0.284)  same-token tr/F= -1.70  rev= -1.63
+L1H1 induction tr/F= -0.01 (mass 0.338)  same-token tr/F= -2.12  rev= -0.80
+L1H2 induction tr/F=  0.64 (mass 0.364)  same-token tr/F= -2.70  rev=  0.54
+L1H3 induction tr/F=  0.75 (mass 0.295)  same-token tr/F= -2.24  rev=  0.61
+L1H4 induction tr/F=  0.75 (mass 0.317)  same-token tr/F= -2.36  rev= -0.31
+L1H5 induction tr/F=  0.23 (mass 0.271)  same-token tr/F= -1.98  rev= -0.80
+L2H0 induction tr/F= -0.40 (mass 0.244)  same-token tr/F= -0.83  rev=  0.10
+L2H1 induction tr/F= -0.39 (mass 0.222)  same-token tr/F= -0.64  rev=  1.36
+L2H2 induction tr/F=  0.05 (mass 0.214)  same-token tr/F= -0.78  rev= -0.52
+L2H3 induction tr/F=  0.32 (mass 0.224)  same-token tr/F= -1.26  rev=  0.47
+L2H4 induction tr/F= -0.66 (mass 0.218)  same-token tr/F= -1.07  rev= -0.16
+L2H5 induction tr/F=  0.13 (mass 0.230)  same-token tr/F= -1.06  rev=  0.32
+L3H0 induction tr/F= -0.25 (mass 0.231)  same-token tr/F=  0.94  rev=  1.35
+L3H1 induction tr/F=  3.15 (mass 0.367)  same-token tr/F=  0.59  rev= -1.52
+L3H2 induction tr/F=  0.26 (mass 0.207)  same-token tr/F=  0.18  rev=  0.16
+L3H3 induction tr/F= -0.09 (mass 0.195)  same-token tr/F= -0.33  rev=  0.41
+L3H4 induction tr/F= -0.46 (mass 0.213)  same-token tr/F=  0.33  rev=  0.19
+L3H5 induction tr/F=  0.29 (mass 0.201)  same-token tr/F=  0.36  rev=  0.20
+
+```

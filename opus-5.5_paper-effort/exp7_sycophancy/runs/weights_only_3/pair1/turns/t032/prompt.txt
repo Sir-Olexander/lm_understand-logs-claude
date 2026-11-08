@@ -1,0 +1,150 @@
+OUTPUT of run 31 of at most 60:
+```
+K=8
+  L 0h0 base same-token z= +1.22  Δ(A-B) z=-208.439e-3   random-subspace Δ:  -7.682e-3 ± 10.184e-3
+  L 0h1 base same-token z= +6.40  Δ(A-B) z= +86.394e-3   random-subspace Δ:  +1.268e-3 ± 2.604e-3
+  L 0h2 base same-token z= +4.09  Δ(A-B) z=+160.487e-3   random-subspace Δ:  +6.300e-3 ± 4.188e-3
+  L 0h3 base same-token z= -0.16  Δ(A-B) z=-104.297e-3   random-subspace Δ:  -4.027e-3 ± 9.049e-3
+  L 1h0 base same-token z= -1.96  Δ(A-B) z= -87.171e-3   random-subspace Δ:  -5.342e-3 ± 13.137e-3
+  L 1h1 base same-token z= +1.95  Δ(A-B) z=-162.096e-3   random-subspace Δ:  -7.580e-3 ± 7.862e-3
+  L 1h2 base same-token z= +3.00  Δ(A-B) z= +43.014e-3   random-subspace Δ:  +5.173e-3 ± 8.049e-3
+  L 1h3 base same-token z= +1.29  Δ(A-B) z= -25.412e-3   random-subspace Δ:  +2.621e-3 ± 7.370e-3
+  L 2h0 base same-token z= -0.59  Δ(A-B) z= -59.798e-3   random-subspace Δ: -11.080e-3 ± 12.058e-3
+  L 2h1 base same-token z= +6.33  Δ(A-B) z= +56.046e-3   random-subspace Δ:  +5.306e-3 ± 2.719e-3
+  L 2h2 base same-token z= +2.54  Δ(A-B) z= -23.583e-3   random-subspace Δ:  -5.307e-3 ± 13.298e-3
+  L 2h3 base same-token z= -1.04  Δ(A-B) z= +70.157e-3   random-subspace Δ:  -5.008e-3 ± 13.395e-3
+  L 3h0 base same-token z= -6.00  Δ(A-B) z=  -9.577e-3   random-subspace Δ:  +1.714e-3 ± 2.257e-3
+  L 3h1 base same-token z= -3.48  Δ(A-B) z= +83.170e-3   random-subspace Δ: +10.074e-3 ± 9.042e-3
+  L 3h2 base same-token z= +3.63  Δ(A-B) z= -30.573e-3   random-subspace Δ:  +0.408e-3 ± 4.852e-3
+  L 3h3 base same-token z= +7.14  Δ(A-B) z= -16.037e-3   random-subspace Δ:  -0.831e-3 ± 1.260e-3
+  L 4h0 base same-token z= +2.74  Δ(A-B) z=  -3.529e-3   random-subspace Δ:  +2.548e-3 ± 10.627e-3
+  L 4h1 base same-token z= -3.87  Δ(A-B) z=  +9.769e-3   random-subspace Δ:  +6.140e-3 ± 12.058e-3
+  L 4h2 base same-token z= -2.24  Δ(A-B) z= -12.564e-3   random-subspace Δ:  -4.024e-3 ± 8.729e-3
+  L 4h3 base same-token z= +1.67  Δ(A-B) z= -22.218e-3   random-subspace Δ:  -0.770e-3 ± 7.253e-3
+  L 5h0 base same-token z= +5.32  Δ(A-B) z= -22.503e-3   random-subspace Δ: +11.519e-3 ± 14.094e-3
+  L 5h1 base same-token z= +6.94  Δ(A-B) z= -14.835e-3   random-subspace Δ:  -4.523e-3 ± 5.604e-3
+  L 5h2 base same-token z= +5.85  Δ(A-B) z= +22.868e-3   random-subspace Δ:  +3.972e-3 ± 8.940e-3
+  L 5h3 base same-token z= +6.25  Δ(A-B) z=  -7.273e-3   random-subspace Δ:  +2.963e-3 ± 15.081e-3
+  L 6h0 base same-token z= +6.78  Δ(A-B) z= +15.653e-3   random-subspace Δ:  +1.109e-3 ± 6.204e-3
+  L 6h1 base same-token z= -4.71  Δ(A-B) z= -10.541e-3   random-subspace Δ:  -8.506e-3 ± 17.715e-3
+  L 6h2 base same-token z= -1.19  Δ(A-B) z= -22.956e-3   random-subspace Δ:  +1.577e-3 ± 18.654e-3
+  L 6h3 base same-token z= +2.30  Δ(A-B) z= +12.694e-3   random-subspace Δ: -10.559e-3 ± 8.357e-3
+  L 7h0 base same-token z= +6.49  Δ(A-B) z=  +3.292e-3   random-subspace Δ:  -2.585e-3 ± 3.607e-3
+  L 7h1 base same-token z= +6.99  Δ(A-B) z=  -2.207e-3   random-subspace Δ:  +2.940e-3 ± 7.080e-3
+  L 7h2 base same-token z= +5.67  Δ(A-B) z= -14.385e-3   random-subspace Δ: -10.673e-3 ± 9.127e-3
+  L 7h3 base same-token z= +1.08  Δ(A-B) z= -48.618e-3   random-subspace Δ: -21.628e-3 ± 17.381e-3
+  L 8h0 base same-token z= +6.13  Δ(A-B) z=  +8.989e-3   random-subspace Δ:  -1.946e-3 ± 2.384e-3
+  L 8h1 base same-token z= +6.16  Δ(A-B) z=  -0.446e-3   random-subspace Δ:  +2.239e-3 ± 4.894e-3
+  L 8h2 base same-token z= -5.27  Δ(A-B) z= -18.871e-3   random-subspace Δ:  -3.504e-3 ± 9.243e-3
+  L 8h3 base same-token z= -3.76  Δ(A-B) z=  -9.281e-3   random-subspace Δ:  +2.193e-3 ± 10.256e-3
+  L 9h0 base same-token z= +4.38  Δ(A-B) z= +19.834e-3   random-subspace Δ:  +3.169e-3 ± 11.443e-3
+  L 9h1 base same-token z= +6.25  Δ(A-B) z=  +1.397e-3   random-subspace Δ:  -0.923e-3 ± 4.782e-3
+  L 9h2 base same-token z= +5.86  Δ(A-B) z=  +9.566e-3   random-subspace Δ:  -0.720e-3 ± 9.843e-3
+  L 9h3 base same-token z= +5.80  Δ(A-B) z= -13.766e-3   random-subspace Δ:  -0.175e-3 ± 6.878e-3
+  L10h0 base same-token z= +4.89  Δ(A-B) z= -54.148e-3   random-subspace Δ: -14.598e-3 ± 12.043e-3
+  L10h1 base same-token z= +1.49  Δ(A-B) z= +41.141e-3   random-subspace Δ: +25.680e-3 ± 17.927e-3
+  L10h2 base same-token z= +6.06  Δ(A-B) z=  -2.213e-3   random-subspace Δ:  -0.418e-3 ± 5.886e-3
+  L10h3 base same-token z= +5.71  Δ(A-B) z= +11.730e-3   random-subspace Δ:  -1.277e-3 ± 11.132e-3
+  L11h0 base same-token z= +2.91  Δ(A-B) z= -43.345e-3   random-subspace Δ:  -7.515e-3 ± 24.402e-3
+  L11h1 base same-token z= +2.61  Δ(A-B) z= +11.672e-3   random-subspace Δ:  -6.311e-3 ± 27.066e-3
+  L11h2 base same-token z= -3.08  Δ(A-B) z=  +9.753e-3   random-subspace Δ:  -2.797e-3 ± 5.169e-3
+  L11h3 base same-token z= -0.54  Δ(A-B) z= +10.841e-3   random-subspace Δ:  +0.705e-3 ± 17.839e-3
+  L12h0 base same-token z= +4.62  Δ(A-B) z= +10.850e-3   random-subspace Δ: -11.429e-3 ± 15.750e-3
+  L12h1 base same-token z= +4.81  Δ(A-B) z= +40.118e-3   random-subspace Δ:  +3.646e-3 ± 11.329e-3
+  L12h2 base same-token z= +3.40  Δ(A-B) z= +36.709e-3   random-subspace Δ: +11.639e-3 ± 15.367e-3
+  L12h3 base same-token z= +2.70  Δ(A-B) z=  +4.620e-3   random-subspace Δ:  -7.136e-3 ± 16.021e-3
+  L13h0 base same-token z= +1.81  Δ(A-B) z=  -9.654e-3   random-subspace Δ:  -1.452e-3 ± 9.371e-3
+  L13h1 base same-token z= +2.17  Δ(A-B) z= +17.281e-3   random-subspace Δ:  +3.665e-3 ± 19.302e-3
+  L13h2 base same-token z= +1.61  Δ(A-B) z= +14.655e-3   random-subspace Δ:  +1.018e-3 ± 9.453e-3
+  L13h3 base same-token z= +5.69  Δ(A-B) z=  -9.912e-3   random-subspace Δ:  -2.535e-3 ± 4.969e-3
+  L14h0 base same-token z= +2.27  Δ(A-B) z= +44.360e-3   random-subspace Δ: +15.706e-3 ± 11.504e-3
+  L14h1 base same-token z= +3.87  Δ(A-B) z=  -2.613e-3   random-subspace Δ:  +2.257e-3 ± 10.323e-3
+  L14h2 base same-token z= +4.47  Δ(A-B) z= +21.425e-3   random-subspace Δ: +16.292e-3 ± 11.986e-3
+  L14h3 base same-token z= +4.12  Δ(A-B) z= +18.056e-3   random-subspace Δ:  +8.339e-3 ± 16.126e-3
+  L15h0 base same-token z= +2.90  Δ(A-B) z= -35.656e-3   random-subspace Δ:  -5.172e-3 ± 14.840e-3
+  L15h1 base same-token z= +6.41  Δ(A-B) z=  +6.961e-3   random-subspace Δ:  +5.693e-3 ± 5.137e-3
+  L15h2 base same-token z= +5.74  Δ(A-B) z= -39.695e-3   random-subspace Δ:  -0.040e-3 ± 14.632e-3
+  L15h3 base same-token z= +6.08  Δ(A-B) z= -12.728e-3   random-subspace Δ:  -2.828e-3 ± 2.849e-3
+  L16h0 base same-token z= +4.78  Δ(A-B) z=  +0.802e-3   random-subspace Δ:  -6.785e-3 ± 7.722e-3
+  L16h1 base same-token z= +2.12  Δ(A-B) z= +16.627e-3   random-subspace Δ:  +9.506e-3 ± 13.257e-3
+  L16h2 base same-token z= +5.54  Δ(A-B) z=  -2.880e-3   random-subspace Δ:  +0.484e-3 ± 6.763e-3
+  L16h3 base same-token z= +5.65  Δ(A-B) z=  +5.067e-3   random-subspace Δ:  -0.137e-3 ± 3.636e-3
+  L17h0 base same-token z= +5.12  Δ(A-B) z=  +1.859e-3   random-subspace Δ:  +2.681e-3 ± 6.728e-3
+  L17h1 base same-token z= +5.50  Δ(A-B) z= +12.629e-3   random-subspace Δ:  -1.212e-3 ± 9.078e-3
+  L17h2 base same-token z= +6.05  Δ(A-B) z= +21.741e-3   random-subspace Δ:  -0.575e-3 ± 5.585e-3
+  L17h3 base same-token z= +5.29  Δ(A-B) z= +24.885e-3   random-subspace Δ:  -0.258e-3 ± 14.870e-3
+K=16
+  L 0h0 base same-token z= +3.07  Δ(A-B) z=-150.689e-3   random-subspace Δ: -15.289e-3 ± 8.071e-3
+  L 0h1 base same-token z=+11.30  Δ(A-B) z= +60.996e-3   random-subspace Δ:  +5.135e-3 ± 4.529e-3
+  L 0h2 base same-token z= +6.75  Δ(A-B) z=+186.265e-3   random-subspace Δ:  +9.871e-3 ± 8.865e-3
+  L 0h3 base same-token z= +1.51  Δ(A-B) z=-144.082e-3   random-subspace Δ:  -4.136e-3 ± 7.543e-3
+  L 1h0 base same-token z= -2.83  Δ(A-B) z= -48.253e-3   random-subspace Δ:  +0.330e-3 ± 11.370e-3
+  L 1h1 base same-token z= +2.95  Δ(A-B) z=-132.595e-3   random-subspace Δ: -10.340e-3 ± 7.896e-3
+  L 1h2 base same-token z= +2.74  Δ(A-B) z= +34.249e-3   random-subspace Δ:  -1.629e-3 ± 8.511e-3
+  L 1h3 base same-token z= +0.07  Δ(A-B) z= +31.692e-3   random-subspace Δ:  +2.799e-3 ± 11.530e-3
+  L 2h0 base same-token z= +1.64  Δ(A-B) z= -21.757e-3   random-subspace Δ:  -4.464e-3 ± 7.406e-3
+  L 2h1 base same-token z=+11.12  Δ(A-B) z= +88.078e-3   random-subspace Δ:  +9.918e-3 ± 6.194e-3
+  L 2h2 base same-token z= +3.60  Δ(A-B) z= -29.787e-3   random-subspace Δ:  -7.375e-3 ± 10.336e-3
+  L 2h3 base same-token z= -2.16  Δ(A-B) z= -17.451e-3   random-subspace Δ:  +0.343e-3 ± 9.871e-3
+  L 3h0 base same-token z= -8.17  Δ(A-B) z=  -1.451e-3   random-subspace Δ:  +2.464e-3 ± 5.775e-3
+  L 3h1 base same-token z= -5.16  Δ(A-B) z= +58.189e-3   random-subspace Δ:  +9.906e-3 ± 13.689e-3
+  L 3h2 base same-token z= +6.18  Δ(A-B) z= -46.188e-3   random-subspace Δ:  +7.313e-3 ± 7.723e-3
+  L 3h3 base same-token z=+12.60  Δ(A-B) z= -14.340e-3   random-subspace Δ:  -1.194e-3 ± 1.315e-3
+  L 4h0 base same-token z= +2.56  Δ(A-B) z=  +0.952e-3   random-subspace Δ:  +4.098e-3 ± 9.423e-3
+  L 4h1 base same-token z= -5.47  Δ(A-B) z= +13.168e-3   random-subspace Δ:  +2.396e-3 ± 13.795e-3
+  L 4h2 base same-token z= -3.02  Δ(A-B) z= +10.879e-3   random-subspace Δ:  -4.511e-3 ± 9.618e-3
+  L 4h3 base same-token z= +2.84  Δ(A-B) z= -23.757e-3   random-subspace Δ:  -4.573e-3 ± 9.521e-3
+  L 5h0 base same-token z= +8.28  Δ(A-B) z= +17.306e-3   random-subspace Δ:  +8.125e-3 ± 22.431e-3
+  L 5h1 base same-token z=+12.56  Δ(A-B) z= -16.020e-3   random-subspace Δ: -11.039e-3 ± 8.636e-3
+  L 5h2 base same-token z= +9.52  Δ(A-B) z=  +0.807e-3   random-subspace Δ:  +4.870e-3 ± 10.903e-3
+  L 5h3 base same-token z=+10.56  Δ(A-B) z= -16.522e-3   random-subspace Δ:  +1.543e-3 ± 13.729e-3
+  L 6h0 base same-token z=+11.46  Δ(A-B) z= +16.513e-3   random-subspace Δ:  +1.653e-3 ± 5.741e-3
+  L 6h1 base same-token z= -6.86  Δ(A-B) z= -16.414e-3   random-subspace Δ:  -2.088e-3 ± 9.943e-3
+  L 6h2 base same-token z= -1.87  Δ(A-B) z= -33.294e-3   random-subspace Δ: -11.074e-3 ± 13.388e-3
+  L 6h3 base same-token z= +3.10  Δ(A-B) z=  -4.187e-3   random-subspace Δ: -13.470e-3 ± 18.242e-3
+  L 7h0 base same-token z=+11.14  Δ(A-B) z=  +7.014e-3   random-subspace Δ:  -6.564e-3 ± 5.842e-3
+  L 7h1 base same-token z=+12.53  Δ(A-B) z=  -1.123e-3   random-subspace Δ:  +9.274e-3 ± 8.525e-3
+  L 7h2 base same-token z= +8.23  Δ(A-B) z= -25.641e-3   random-subspace Δ: -17.364e-3 ± 10.577e-3
+  L 7h3 base same-token z= +1.61  Δ(A-B) z= -64.150e-3   random-subspace Δ: -29.398e-3 ± 25.503e-3
+  L 8h0 base same-token z=+10.95  Δ(A-B) z=  +6.461e-3   random-subspace Δ:  +2.280e-3 ± 10.627e-3
+  L 8h1 base same-token z=+10.60  Δ(A-B) z=  +2.725e-3   random-subspace Δ:  +4.012e-3 ± 3.821e-3
+  L 8h2 base same-token z= -7.32  Δ(A-B) z= -19.989e-3   random-subspace Δ:  -6.738e-3 ± 13.364e-3
+  L 8h3 base same-token z= -7.04  Δ(A-B) z=  -5.162e-3   random-subspace Δ:  -2.262e-3 ± 8.999e-3
+  L 9h0 base same-token z= +5.70  Δ(A-B) z= +15.147e-3   random-subspace Δ: +10.752e-3 ± 10.596e-3
+  L 9h1 base same-token z=+10.30  Δ(A-B) z=  +8.035e-3   random-subspace Δ:  -4.929e-3 ± 8.009e-3
+  L 9h2 base same-token z= +8.54  Δ(A-B) z= +11.800e-3   random-subspace Δ:  +7.486e-3 ± 10.743e-3
+  L 9h3 base same-token z= +9.99  Δ(A-B) z= -11.153e-3   random-subspace Δ:  -3.194e-3 ± 4.231e-3
+  L10h0 base same-token z= +5.63  Δ(A-B) z= -51.774e-3   random-subspace Δ: -16.405e-3 ± 14.464e-3
+  L10h1 base same-token z= +0.66  Δ(A-B) z= +73.085e-3   random-subspace Δ: +18.018e-3 ± 35.896e-3
+  L10h2 base same-token z=+10.26  Δ(A-B) z=  -5.410e-3   random-subspace Δ:  -4.276e-3 ± 5.720e-3
+  L10h3 base same-token z= +9.05  Δ(A-B) z=  -7.300e-3   random-subspace Δ:  -0.738e-3 ± 8.913e-3
+  L11h0 base same-token z= +2.48  Δ(A-B) z= -57.773e-3   random-subspace Δ: -21.906e-3 ± 29.945e-3
+  L11h1 base same-token z= +3.65  Δ(A-B) z= -15.188e-3   random-subspace Δ:  +2.813e-3 ± 19.825e-3
+  L11h2 base same-token z= -5.36  Δ(A-B) z=  +8.023e-3   random-subspace Δ:  -9.561e-3 ± 6.640e-3
+  L11h3 base same-token z= -2.45  Δ(A-B) z=  -8.898e-3   random-subspace Δ:  -1.779e-3 ± 12.413e-3
+  L12h0 base same-token z= +6.59  Δ(A-B) z= +13.996e-3   random-subspace Δ:  -1.987e-3 ± 21.300e-3
+  L12h1 base same-token z= +7.05  Δ(A-B) z= +45.100e-3   random-subspace Δ:  +8.603e-3 ± 22.626e-3
+  L12h2 base same-token z= +6.07  Δ(A-B) z= +27.054e-3   random-subspace Δ: +34.748e-3 ± 23.353e-3
+  L12h3 base same-token z= +4.07  Δ(A-B) z=  -7.188e-3   random-subspace Δ: -12.793e-3 ± 20.740e-3
+  L13h0 base same-token z= +3.19  Δ(A-B) z=  -1.979e-3   random-subspace Δ:  +0.950e-3 ± 14.248e-3
+  L13h1 base same-token z= +2.57  Δ(A-B) z= +17.476e-3   random-subspace Δ: +11.197e-3 ± 11.638e-3
+  L13h2 base same-token z= +2.95  Δ(A-B) z=  +9.205e-3   random-subspace Δ:  +8.701e-3 ± 11.304e-3
+  L13h3 base same-token z= +9.68  Δ(A-B) z=  -8.906e-3   random-subspace Δ:  -2.997e-3 ± 9.764e-3
+  L14h0 base same-token z= +3.69  Δ(A-B) z= +34.775e-3   random-subspace Δ: +18.158e-3 ± 11.141e-3
+  L14h1 base same-token z= +4.38  Δ(A-B) z= -17.540e-3   random-subspace Δ:  +3.418e-3 ± 17.928e-3
+  L14h2 base same-token z= +6.11  Δ(A-B) z= +24.084e-3   random-subspace Δ: +26.304e-3 ± 13.857e-3
+  L14h3 base same-token z= +5.64  Δ(A-B) z=  +8.780e-3   random-subspace Δ:  +4.943e-3 ± 13.839e-3
+  L15h0 base same-token z= +3.76  Δ(A-B) z= -34.831e-3   random-subspace Δ:  -0.461e-3 ± 17.957e-3
+  L15h1 base same-token z=+11.30  Δ(A-B) z= +11.102e-3   random-subspace Δ:  +5.970e-3 ± 6.686e-3
+  L15h2 base same-token z= +9.28  Δ(A-B) z= -62.598e-3   random-subspace Δ:  -8.553e-3 ± 14.633e-3
+  L15h3 base same-token z=+10.70  Δ(A-B) z= -21.457e-3   random-subspace Δ:  -5.225e-3 ± 7.936e-3
+  L16h0 base same-token z= +5.85  Δ(A-B) z=  +0.359e-3   random-subspace Δ:  -4.683e-3 ± 14.368e-3
+  L16h1 base same-token z= +2.01  Δ(A-B) z= +15.416e-3   random-subspace Δ: +15.066e-3 ± 14.647e-3
+  L16h2 base same-token z= +8.74  Δ(A-B) z=  -6.468e-3   random-subspace Δ: -11.594e-3 ± 7.574e-3
+  L16h3 base same-token z= +9.11  Δ(A-B) z=  +9.468e-3   random-subspace Δ:  -0.500e-3 ± 7.397e-3
+  L17h0 base same-token z= +8.31  Δ(A-B) z=  -5.476e-3   random-subspace Δ:  +9.900e-3 ± 10.804e-3
+  L17h1 base same-token z= +9.96  Δ(A-B) z= +11.400e-3   random-subspace Δ:  +2.384e-3 ± 9.908e-3
+  L17h2 base same-token z=+10.64  Δ(A-B) z= +10.866e-3   random-subspace Δ:  -5.147e-3 ± 5.249e-3
+  L17h3 base same-token z= +9.06  Δ(A-B) z= +18.456e-3   random-subspace Δ:  -3.681e-3 ± 8.774e-3
+
+```

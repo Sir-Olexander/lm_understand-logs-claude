@@ -1,0 +1,15 @@
+OUTPUT of run 34 of at most 60:
+```
+L12 per-head dq->key-dir |cos tau|: [0.035 0.004 0.02  0.03 ]   dWk input dirs |cos tau|: [0.024 0.007 0.024]  (random ~0.040)
+L13 per-head dq->key-dir |cos tau|: [0.004 0.003 0.009 0.014]   dWk input dirs |cos tau|: [0.001 0.035 0.041]  (random ~0.040)
+L14 per-head dq->key-dir |cos tau|: [0.021 0.04  0.003 0.031]   dWk input dirs |cos tau|: [0.056 0.006 0.042]  (random ~0.040)
+L15 per-head dq->key-dir |cos tau|: [0.036 0.026 0.025 0.002]   dWk input dirs |cos tau|: [0.013 0.063 0.027]  (random ~0.040)
+L16 per-head dq->key-dir |cos tau|: [0.023 0.01  0.028 0.036]   dWk input dirs |cos tau|: [0.026 0.032 0.013]  (random ~0.040)
+L17 per-head dq->key-dir |cos tau|: [0.044 0.001 0.042 0.017]   dWk input dirs |cos tau|: [0.004 0.04  0.009]  (random ~0.040)
+L17 down sv0 s=0.107 energy=0.176 logit-dir |cos tau_indep|=0.66 |cos tau_mlp|=0.75; top units [ 467  750  961 1855   32  258 1610 1930  988 1219] loadings [ 0.09 -0.07  0.07  0.07  0.07 -0.07  0.07  0.07 -0.07 -0.06]; participation ratio 637
+L17 down sv1 s=0.071 energy=0.077 logit-dir |cos tau_indep|=0.17 |cos tau_mlp|=0.27; top units [1907 1578  556 1672  286  557  615  772  606 1936] loadings [-0.08  0.08  0.07  0.07  0.07  0.07 -0.07  0.07 -0.07 -0.07]; participation ratio 633
+L17 down sv2 s=0.061 energy=0.058 logit-dir |cos tau_indep|=0.12 |cos tau_mlp|=0.20; top units [ 118 1006  961  310 1386 1034 1536 1828  545  491] loadings [-0.08  0.08 -0.07  0.07  0.07  0.07 -0.07 -0.07  0.07 -0.07]; participation ratio 643
+gate/up row-change of those units relative to median: [1.09 1.2  1.06 1.   0.94 1.03 1.01 1.02 1.02 1.02]
+corr over units of |Vt0| with input-row change: 0.133
+
+```

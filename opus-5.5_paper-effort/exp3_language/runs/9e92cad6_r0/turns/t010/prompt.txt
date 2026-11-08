@@ -1,0 +1,21 @@
+OUTPUT of run 9 of at most 100:
+```
+4 overlap of left/right top-r subspaces (sum cos^2 / r): 0.608
+8 overlap of left/right top-r subspaces (sum cos^2 / r): 0.641
+12 overlap of left/right top-r subspaces (sum cos^2 / r): 0.691
+16 overlap of left/right top-r subspaces (sum cos^2 / r): 0.781
+20 overlap of left/right top-r subspaces (sum cos^2 / r): 0.796
+24 overlap of left/right top-r subspaces (sum cos^2 / r): 0.802
+union sv [[-0.09 -0.14 -0.02 ...  0.07  0.06 -0.17]
+ [ 0.11 -0.1   0.18 ...  0.36  0.14  0.15]
+ [ 0.07 -0.    0.01 ...  0.36 -0.03  0.34]
+ ...
+ [ 0.07 -0.    0.01 ... -0.36  0.03 -0.34]
+ [-0.11  0.1  -0.18 ...  0.36  0.14  0.15]
+ [-0.09 -0.14 -0.02 ... -0.07 -0.06  0.17]]
+L 0 H0: PP 0.69 (rand 0.05) Pq 0.78 Pk 0.85 | H1: PP 0.26 (rand 0.05) Pq 0.64 Pk 0.38 | H2: PP 0.42 (rand 0.04) Pq 0.76 Pk 0.52 | H3: PP 0.90 (rand 0.05) Pq 0.93 Pk 0.93 | H4: PP 0.26 (rand 0.06) Pq 0.61 Pk 0.43 | H5: PP 0.30 (rand 0.05) Pq 0.79 Pk 0.37
+L 1 H0: PP 0.08 (rand 0.04) Pq 0.24 Pk 0.31 | H1: PP 0.09 (rand 0.05) Pq 0.24 Pk 0.32 | H2: PP 0.08 (rand 0.05) Pq 0.25 Pk 0.30 | H3: PP 0.09 (rand 0.05) Pq 0.27 Pk 0.32 | H4: PP 0.07 (rand 0.05) Pq 0.22 Pk 0.30 | H5: PP 0.09 (rand 0.04) Pq 0.27 Pk 0.32
+L 2 H0: PP 0.09 (rand 0.05) Pq 0.27 Pk 0.30 | H1: PP 0.07 (rand 0.05) Pq 0.24 Pk 0.25 | H2: PP 0.07 (rand 0.05) Pq 0.24 Pk 0.26 | H3: PP 0.05 (rand 0.05) Pq 0.22 Pk 0.23 | H4: PP 0.08 (rand 0.05) Pq 0.24 Pk 0.27 | H5: PP 0.07 (rand 0.05) Pq 0.24 Pk 0.26
+L 3 H0: PP 0.05 (rand 0.06) Pq 0.22 Pk 0.23 | H1: PP 0.05 (rand 0.05) Pq 0.23 Pk 0.22 | H2: PP 0.05 (rand 0.05) Pq 0.22 Pk 0.23 | H3: PP 0.05 (rand 0.06) Pq 0.21 Pk 0.22 | H4: PP 0.05 (rand 0.05) Pq 0.22 Pk 0.24 | H5: PP 0.05 (rand 0.05) Pq 0.22 Pk 0.23
+
+```

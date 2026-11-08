@@ -1,0 +1,11 @@
+OUTPUT of Python run 66 of at most 120:
+```
+0 est 4.5 true(me) -2.5 maxmove 36.1
+1 est 13.1 true(me) 7.5 maxmove 35.1
+2 est 8.1 true(me) -1.5 maxmove 36.0
+3 est 52.7 true(me) 35.5 maxmove 36.2
+4 est 61.5 true(me) 46.5 maxmove 23.9
+5 est 99.1 true(me) 73.5 maxmove -0.5
+6 est -6.3 true(me) -7.5 maxmove 2.7
+
+```

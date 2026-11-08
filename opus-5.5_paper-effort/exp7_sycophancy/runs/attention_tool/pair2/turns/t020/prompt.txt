@@ -1,0 +1,38 @@
+OUTPUT of run 19 of at most 20:
+```
+mean TV distance A vs B at last two query positions, top 20 heads:
+  L10h2: TV=0.497  (frac texts TV>0.2: 0.98)
+  L12h0: TV=0.408  (frac texts TV>0.2: 0.85)
+  L 7h0: TV=0.400  (frac texts TV>0.2: 0.96)
+  L 9h0: TV=0.361  (frac texts TV>0.2: 0.90)
+  L11h3: TV=0.329  (frac texts TV>0.2: 0.92)
+  L 9h3: TV=0.327  (frac texts TV>0.2: 0.92)
+  L 9h2: TV=0.318  (frac texts TV>0.2: 0.90)
+  L12h2: TV=0.303  (frac texts TV>0.2: 0.92)
+  L 3h3: TV=0.302  (frac texts TV>0.2: 0.85)
+  L11h2: TV=0.299  (frac texts TV>0.2: 0.73)
+  L 7h2: TV=0.293  (frac texts TV>0.2: 0.98)
+  L10h0: TV=0.287  (frac texts TV>0.2: 0.77)
+  L12h3: TV=0.286  (frac texts TV>0.2: 0.81)
+  L 4h2: TV=0.277  (frac texts TV>0.2: 0.88)
+  L 6h0: TV=0.274  (frac texts TV>0.2: 0.92)
+  L 3h2: TV=0.273  (frac texts TV>0.2: 0.81)
+  L10h3: TV=0.263  (frac texts TV>0.2: 0.81)
+  L12h1: TV=0.259  (frac texts TV>0.2: 0.81)
+  L 8h2: TV=0.249  (frac texts TV>0.2: 0.88)
+  L 6h3: TV=0.241  (frac texts TV>0.2: 0.65)
+per-layer mean TV: [0.056 0.085 0.1   0.22  0.169 0.18  0.21  0.259 0.176 0.306 0.315 0.253 0.314 0.167 0.143 0.15  0.126 0.096]
+ t8 L11h0 A: '<bos>'=0.29 ' is'=0.20 '\n'=0.04 'The'=0.04 | B: '<bos>'=0.67 ' is'=0.07 'The'=0.06 ' answer'=0.06
+ t8 L11h1 A: '<bos>'=0.52 ' planet'=0.20 ' Venus'=0.06 ' Mars'=0.06 | B: '<bos>'=0.83 ' is'=0.07 ' answer'=0.04 ' C'=0.02
+ t8 L11h2 A: '<bos>'=0.38 ' A'=0.09 ')'=0.06 ' Mars'=0.06 | B: ' C'=0.61 ' Venus'=0.07 '<bos>'=0.06 ' Earth'=0.05
+ t8 L11h3 A: '<bos>'=0.48 ' is'=0.09 ' A'=0.07 ')'=0.04 | B: '<bos>'=0.29 ' C'=0.14 ' is'=0.10 '.'=0.07
+ t10 L11h0 A: '<bos>'=0.21 ' Australia'=0.17 ' is'=0.12 ' Australia'=0.11 | B: '<bos>'=0.63 ' Australia'=0.11 ' is'=0.07 ' Australia'=0.03
+ t10 L11h1 A: ' Australia'=0.47 ' Australia'=0.24 '<bos>'=0.14 ' capital'=0.08 | B: ' Australia'=0.51 '<bos>'=0.21 ' Australia'=0.16 ' Sydney'=0.08
+ t10 L11h2 A: '<bos>'=0.52 ' Australia'=0.11 ' I'=0.10 ' Sydney'=0.05 | B: '<bos>'=0.53 ' Sydney'=0.18 ' Australia'=0.10 ' I'=0.06
+ t10 L11h3 A: '<bos>'=0.67 ' I'=0.05 ' Australia'=0.05 ' is'=0.04 | B: '<bos>'=0.67 ' Sydney'=0.07 ' Australia'=0.06 ' Australia'=0.04
+ t12 L11h0 A: '<bos>'=0.27 ' painted'=0.10 ' by'=0.09 ' was'=0.09 | B: '<bos>'=0.51 ' painted'=0.11 ' was'=0.09 ' by'=0.08
+ t12 L11h1 A: '<bos>'=0.44 ' Lisa'=0.13 ' Lisa'=0.13 ' Mona'=0.08 | B: '<bos>'=0.57 ' painted'=0.12 ' Picasso'=0.11 ' Lisa'=0.08
+ t12 L11h2 A: '<bos>'=0.68 ' I'=0.07 ' Picasso'=0.04 ' by'=0.03 | B: '<bos>'=0.59 ' Picasso'=0.12 '?'=0.06 ' I'=0.06
+ t12 L11h3 A: '<bos>'=0.67 ' I'=0.05 ' by'=0.04 ' painted'=0.03 | B: '<bos>'=0.65 ' painted'=0.06 ' by'=0.06 ' Picasso'=0.05
+
+```

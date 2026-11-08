@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_3/pair3",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 49,
+ "runs": 48,
+ "session_id": "c165a4c4-7f86-4a68-9c66-d8ef889e2fe6",
+ "cwd": "<home>/wsp/scratch/run-33a88e",
+ "done": true,
+ "next": "OUTPUT of run 48 of at most 60:\n```\nDinv top+: L15h0(+2.49;OV+16,dM+3.1), L7h1(+2.04;OV-15,dM-2.7), L8h2(+1.61;OV+13,dM+2.5), L16h2(+1.57;OV+12,dM+2.7), L9h1(+1.41;OV-14,dM-2.0), L7h2(+0.98;OV+11,dM+1.8), L15h3(+0.98;OV+17,dM+1.1), L17h1(+0.88;OV+16,dM+1.1), L7h3(+0.84;OV+9,dM+1.8), L2h1(+0.70;OV-7,dM-2.1)\n     top-: L15h1(-0.32), L10h2(-0.38), L8h1(-0.52), L6h0(-0.78), L0h1(-2.16)\nid   top+: L15h0(+2.20;OV+15,dM+2.9), L7h1(+2.03;OV-15,dM-2.7), L16h2(+1.72;OV+10,dM+3.3), L8h2(+1.69;OV+13,dM+2.6), L9h1(+1.46;OV-14,dM-2.1), L15h2(+1.28;OV+16,dM+1.6), L17h1(+1.19;OV+15,dM+1.6), L7h3(+1.09;OV+10,dM+2.2), L7h2(+0.95;OV+11,dM+1.7), L6h1(+0.62;OV-7,dM-1.7)\n     top-: L9h3(-0.32), L8h1(-0.50), L10h2(-0.51), L6h0(-0.64), L0h1(-1.69)\nDf   top+: L15h2(+2.01;OV+12,dM+3.2), L7h3(+1.75;OV+11,dM+3.1), L9h1(+1.46;OV-13,dM-2.3), L15h1(+1.39;OV-10,dM-2.7), L7h1(+1.26;OV-15,dM-1.7), L8h2(+1.23;OV+13,dM+2.0), L7h0(+0.79;OV+13,dM+1.2), L6h1(+0.76;OV-7,dM-2.0), L17h1(+0.64;OV+9,dM+1.4), L16h2(+0.54;OV+4,dM+2.6)\n     top-: L9h3(-0.32), L10h2(-0.36), L9h2(-0.36), L14h2(-0.38), L0h1(-0.40)\nAVERAGE top+: L7h1(+1.78), L15h0(+1.55), L8h2(+1.51), L9h1(+1.44), L16h2(+1.28), L7h3(+1.23), L15h2(+1.23), L17h1(+0.91), L7h2(+0.78), L6h1(+0.68), L7h0(+0.64), L15h3(+0.58)\nAVERAGE top-: L9h3(-0.30), L8h1(-0.36), L10h2(-0.42), L6h0(-0.53), L0h1(-1.42)\n\n```",
+ "started": "2026-11-07T05:06:03+00:00",
+ "extra": {
+  "round": "weights_only_3",
+  "pair": 102,
+  "release": "pair_3f2101",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 49
+ }
+}

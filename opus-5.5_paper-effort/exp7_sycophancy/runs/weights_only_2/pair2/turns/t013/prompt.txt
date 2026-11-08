@@ -1,0 +1,78 @@
+OUTPUT of run 12 of at most 60:
+```
+null cos std ov 0.0058783614 qk 0.012930317
+L 0H0 copy=   17.0 cos6= 0.01 | OVscale= -0.089e-3 cos(D,M)=-0.011 | QKscale= -0.158e-3 cos=-0.013 
+L 0H1 copy=  -34.3 cos6=-0.07 | OVscale=  0.259e-3 cos(D,M)= 0.016 | QKscale=  0.109e-3 cos= 0.011 
+L 0H2 copy=   -1.0 cos6=-0.03 | OVscale=  0.103e-3 cos(D,M)= 0.013 | QKscale=  0.071e-3 cos= 0.007 
+L 0H3 copy=   19.2 cos6=-0.02 | OVscale=  0.044e-3 cos(D,M)= 0.006 | QKscale= -0.196e-3 cos=-0.018 
+L 1H0 copy=   15.5 cos6= 0.01 | OVscale=  0.420e-3 cos(D,M)= 0.026 | QKscale=  0.005e-3 cos= 0.000 ***
+L 1H1 copy=    8.0 cos6= 0.02 | OVscale= -0.071e-3 cos(D,M)=-0.005 | QKscale= -0.009e-3 cos=-0.001 
+L 1H2 copy=   20.8 cos6= 0.08 | OVscale=  0.528e-3 cos(D,M)= 0.036 | QKscale=  0.077e-3 cos= 0.006 ***
+L 1H3 copy=    0.1 cos6= 0.01 | OVscale=  0.099e-3 cos(D,M)= 0.008 | QKscale=  0.043e-3 cos= 0.004 
+L 2H0 copy=   31.9 cos6= 0.06 | OVscale= -0.168e-3 cos(D,M)=-0.015 | QKscale=  0.066e-3 cos= 0.006 
+L 2H1 copy=  -23.8 cos6=-0.04 | OVscale=  0.319e-3 cos(D,M)= 0.029 | QKscale=  0.115e-3 cos= 0.012 ***
+L 2H2 copy=   -8.6 cos6=-0.02 | OVscale=  0.061e-3 cos(D,M)= 0.006 | QKscale= -0.044e-3 cos=-0.004 
+L 2H3 copy=   -1.9 cos6= 0.00 | OVscale=  0.103e-3 cos(D,M)= 0.006 | QKscale= -0.008e-3 cos=-0.001 
+L 3H0 copy=  -33.2 cos6=-0.04 | OVscale= -0.036e-3 cos(D,M)=-0.003 | QKscale= -0.178e-3 cos=-0.020 
+L 3H1 copy=   15.4 cos6= 0.02 | OVscale=  0.077e-3 cos(D,M)= 0.005 | QKscale= -0.204e-3 cos=-0.011 
+L 3H2 copy=   70.1 cos6= 0.16 | OVscale=  0.125e-3 cos(D,M)= 0.010 | QKscale=  0.057e-3 cos= 0.005 
+L 3H3 copy=    0.2 cos6=-0.06 | OVscale= -0.010e-3 cos(D,M)=-0.000 | QKscale= -0.135e-3 cos=-0.021 
+L 4H0 copy=   11.2 cos6= 0.01 | OVscale=  0.050e-3 cos(D,M)= 0.003 | QKscale=  0.013e-3 cos= 0.001 
+L 4H1 copy=   17.0 cos6= 0.01 | OVscale=  0.235e-3 cos(D,M)= 0.009 | QKscale=  0.033e-3 cos= 0.002 
+L 4H2 copy=   -2.1 cos6=-0.01 | OVscale=  0.270e-3 cos(D,M)= 0.013 | QKscale= -0.201e-3 cos=-0.013 
+L 4H3 copy=   -2.9 cos6=-0.01 | OVscale= -0.180e-3 cos(D,M)=-0.015 | QKscale= -0.032e-3 cos=-0.002 
+L 5H0 copy=   13.8 cos6= 0.05 | OVscale= -0.388e-3 cos(D,M)=-0.047 | QKscale=  0.052e-3 cos= 0.002 ***
+L 5H1 copy=   16.7 cos6= 0.03 | OVscale=  0.052e-3 cos(D,M)= 0.003 | QKscale= -0.300e-3 cos=-0.021 
+L 5H2 copy=   28.9 cos6= 0.03 | OVscale= -0.288e-3 cos(D,M)=-0.017 | QKscale= -0.274e-3 cos=-0.016 
+L 5H3 copy=  -26.8 cos6=-0.02 | OVscale= -0.320e-3 cos(D,M)=-0.019 | QKscale= -0.560e-3 cos=-0.025 ***
+L 6H0 copy=   81.4 cos6= 0.18 | OVscale=  0.255e-3 cos(D,M)= 0.016 | QKscale= -0.099e-3 cos=-0.007 
+L 6H1 copy=  -64.1 cos6= 0.00 | OVscale=  0.078e-3 cos(D,M)= 0.007 | QKscale= -0.163e-3 cos=-0.011 
+L 6H2 copy=   97.2 cos6= 0.17 | OVscale=  0.060e-3 cos(D,M)= 0.004 | QKscale=  0.033e-3 cos= 0.002 
+L 6H3 copy=   63.4 cos6= 0.17 | OVscale= -0.005e-3 cos(D,M)=-0.000 | QKscale= -0.088e-3 cos=-0.006 
+L 7H0 copy=  172.6 cos6= 0.86 | OVscale= -0.050e-3 cos(D,M)=-0.005 | QKscale=  0.219e-3 cos= 0.016 
+L 7H1 copy= -198.3 cos6=-0.94 | OVscale=  0.053e-3 cos(D,M)= 0.008 | QKscale=  0.299e-3 cos= 0.017 
+L 7H2 copy=  123.0 cos6= 0.72 | OVscale= -0.014e-3 cos(D,M)=-0.001 | QKscale=  0.020e-3 cos= 0.001 
+L 7H3 copy=  125.4 cos6= 0.50 | OVscale=  0.071e-3 cos(D,M)= 0.005 | QKscale=  0.014e-3 cos= 0.001 
+L 8H0 copy= -161.3 cos6=-0.36 | OVscale= -0.119e-3 cos(D,M)=-0.008 | QKscale=  0.141e-3 cos= 0.012 
+L 8H1 copy=   75.8 cos6= 0.22 | OVscale=  0.096e-3 cos(D,M)= 0.005 | QKscale= -0.376e-3 cos=-0.031 
+L 8H2 copy=  119.1 cos6= 0.28 | OVscale=  0.129e-3 cos(D,M)= 0.007 | QKscale= -0.530e-3 cos=-0.032 
+L 8H3 copy=   25.9 cos6= 0.16 | OVscale= -0.089e-3 cos(D,M)=-0.006 | QKscale= -0.189e-3 cos=-0.014 
+L 9H0 copy=   55.8 cos6= 0.30 | OVscale= -0.022e-3 cos(D,M)=-0.002 | QKscale=  0.055e-3 cos= 0.003 
+L 9H1 copy= -151.4 cos6=-0.69 | OVscale= -0.023e-3 cos(D,M)=-0.003 | QKscale= -0.100e-3 cos=-0.007 
+L 9H2 copy=  149.9 cos6= 0.57 | OVscale=  0.072e-3 cos(D,M)= 0.006 | QKscale=  0.402e-3 cos= 0.022 
+L 9H3 copy=   75.7 cos6= 0.19 | OVscale= -0.039e-3 cos(D,M)=-0.003 | QKscale=  0.184e-3 cos= 0.014 
+L10H0 copy=   84.4 cos6= 0.35 | OVscale=  0.064e-3 cos(D,M)= 0.007 | QKscale=  0.109e-3 cos= 0.005 
+L10H1 copy=   -0.8 cos6=-0.08 | OVscale=  0.206e-3 cos(D,M)= 0.016 | QKscale= -0.794e-3 cos=-0.024 
+L10H2 copy=   92.2 cos6= 0.49 | OVscale= -0.102e-3 cos(D,M)=-0.009 | QKscale=  0.279e-3 cos= 0.030 
+L10H3 copy=  -21.1 cos6=-0.09 | OVscale=  0.119e-3 cos(D,M)= 0.015 | QKscale=  0.287e-3 cos= 0.019 
+L11H0 copy=   -0.2 cos6= 0.05 | OVscale= -0.002e-3 cos(D,M)=-0.000 | QKscale=  0.900e-3 cos= 0.019 
+L11H1 copy=  158.4 cos6= 0.81 | OVscale= -0.199e-3 cos(D,M)=-0.014 | QKscale= -0.315e-3 cos=-0.008 
+L11H2 copy=   53.9 cos6= 0.21 | OVscale=  0.019e-3 cos(D,M)= 0.002 | QKscale=  0.454e-3 cos= 0.023 
+L11H3 copy=  -69.3 cos6=-0.30 | OVscale= -0.195e-3 cos(D,M)=-0.026 | QKscale= -0.514e-3 cos=-0.019 ***
+L12H0 copy=  -39.1 cos6=-0.18 | OVscale=  0.054e-3 cos(D,M)= 0.004 | QKscale= -1.251e-3 cos=-0.046 ***
+L12H1 copy=   41.8 cos6= 0.21 | OVscale= -0.092e-3 cos(D,M)=-0.008 | QKscale= -0.228e-3 cos=-0.012 
+L12H2 copy=   77.8 cos6= 0.57 | OVscale=  0.110e-3 cos(D,M)= 0.014 | QKscale= -0.094e-3 cos=-0.004 
+L12H3 copy=   70.8 cos6= 0.49 | OVscale= -0.067e-3 cos(D,M)=-0.007 | QKscale= -0.043e-3 cos=-0.002 
+L13H0 copy=   31.8 cos6= 0.32 | OVscale= -0.157e-3 cos(D,M)=-0.017 | QKscale= -0.334e-3 cos=-0.021 
+L13H1 copy=   41.1 cos6= 0.20 | OVscale= -0.072e-3 cos(D,M)=-0.006 | QKscale=  0.039e-3 cos= 0.002 
+L13H2 copy=   74.1 cos6= 0.25 | OVscale=  0.206e-3 cos(D,M)= 0.015 | QKscale=  0.112e-3 cos= 0.005 
+L13H3 copy=  -19.7 cos6=-0.05 | OVscale= -0.001e-3 cos(D,M)=-0.000 | QKscale= -0.119e-3 cos=-0.009 
+L14H0 copy=  -11.7 cos6= 0.02 | OVscale= -0.116e-3 cos(D,M)=-0.014 | QKscale=  0.537e-3 cos= 0.030 
+L14H1 copy=   96.6 cos6= 0.31 | OVscale=  0.007e-3 cos(D,M)= 0.001 | QKscale=  0.399e-3 cos= 0.015 
+L14H2 copy=   47.8 cos6= 0.30 | OVscale= -0.124e-3 cos(D,M)=-0.013 | QKscale= -0.562e-3 cos=-0.030 
+L14H3 copy=   14.8 cos6= 0.34 | OVscale= -0.077e-3 cos(D,M)=-0.009 | QKscale= -1.820e-3 cos=-0.071 ***
+L15H0 copy=  127.7 cos6= 0.77 | OVscale=  0.024e-3 cos(D,M)= 0.003 | QKscale=  0.677e-3 cos= 0.032 
+L15H1 copy= -146.6 cos6=-0.82 | OVscale= -0.039e-3 cos(D,M)=-0.003 | QKscale=  0.708e-3 cos= 0.057 ***
+L15H2 copy=   67.8 cos6= 0.29 | OVscale= -0.332e-3 cos(D,M)=-0.019 | QKscale=  0.503e-3 cos= 0.030 ***
+L15H3 copy=  127.7 cos6= 0.77 | OVscale=  0.113e-3 cos(D,M)= 0.010 | QKscale= -0.287e-3 cos=-0.022 
+L16H0 copy=   10.9 cos6= 0.03 | OVscale=  0.047e-3 cos(D,M)= 0.003 | QKscale= -0.358e-3 cos=-0.024 
+L16H1 copy=   50.3 cos6= 0.25 | OVscale= -0.025e-3 cos(D,M)=-0.002 | QKscale= -0.259e-3 cos=-0.015 
+L16H2 copy=   77.4 cos6= 0.27 | OVscale=  0.092e-3 cos(D,M)= 0.007 | QKscale= -0.049e-3 cos=-0.003 
+L16H3 copy=   16.8 cos6= 0.07 | OVscale= -0.042e-3 cos(D,M)=-0.003 | QKscale= -0.065e-3 cos=-0.006 
+L17H0 copy=   72.4 cos6= 0.53 | OVscale= -0.140e-3 cos(D,M)=-0.022 | QKscale= -0.512e-3 cos=-0.028 ***
+L17H1 copy=  171.6 cos6= 0.65 | OVscale=  0.124e-3 cos(D,M)= 0.010 | QKscale=  1.780e-3 cos= 0.066 ***
+L17H2 copy=  -38.6 cos6=-0.33 | OVscale= -0.249e-3 cos(D,M)=-0.026 | QKscale=  0.272e-3 cos= 0.027 ***
+L17H3 copy=  -17.9 cos6=-0.03 | OVscale=  0.045e-3 cos(D,M)= 0.004 | QKscale= -0.068e-3 cos=-0.004 
+corr(copy cos6, OVscale)= -0.01694427692778205  corr(cos6, QKscale)= 0.045329189720762685
+
+```

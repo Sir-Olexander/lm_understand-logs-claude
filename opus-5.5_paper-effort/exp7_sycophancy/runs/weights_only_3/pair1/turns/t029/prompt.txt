@@ -1,0 +1,25 @@
+OUTPUT of run 28 of at most 60:
+```
+L 0 | ans: n=240 frac(gain>0)=0.55 mean/sd=+0.13 | oth: n=147 frac(gain>0)=0.48 mean/sd=+0.01 | neg: n= 23 frac(gain>0)=0.43 mean/sd=-0.02
+L 1 | ans: n=224 frac(gain>0)=0.52 mean/sd=+0.01 | oth: n=131 frac(gain>0)=0.59 mean/sd=+0.14 | neg: n= 55 frac(gain>0)=0.35 mean/sd=-0.26
+L 2 | ans: n=237 frac(gain>0)=0.53 mean/sd=-0.01 | oth: n=106 frac(gain>0)=0.41 mean/sd=-0.13 | neg: n= 67 frac(gain>0)=0.43 mean/sd=-0.07
+L 3 | ans: n=168 frac(gain>0)=0.42 mean/sd=-0.12 | oth: n=148 frac(gain>0)=0.40 mean/sd=-0.21 | neg: n= 94 frac(gain>0)=0.48 mean/sd=+0.02
+L 4 | ans: n=183 frac(gain>0)=0.51 mean/sd=-0.03 | oth: n=166 frac(gain>0)=0.52 mean/sd=+0.03 | neg: n= 61 frac(gain>0)=0.46 mean/sd=-0.14
+L 5 | ans: n=138 frac(gain>0)=0.54 mean/sd=+0.02 | oth: n=199 frac(gain>0)=0.46 mean/sd=-0.02 | neg: n= 73 frac(gain>0)=0.51 mean/sd=+0.08
+L 6 | ans: n=128 frac(gain>0)=0.49 mean/sd=+0.01 | oth: n=223 frac(gain>0)=0.49 mean/sd=-0.04 | neg: n= 59 frac(gain>0)=0.47 mean/sd=-0.18
+L 7 | ans: n=175 frac(gain>0)=0.51 mean/sd=+0.01 | oth: n=158 frac(gain>0)=0.53 mean/sd=+0.01 | neg: n= 77 frac(gain>0)=0.48 mean/sd=-0.01
+L 8 | ans: n=170 frac(gain>0)=0.49 mean/sd=-0.00 | oth: n=175 frac(gain>0)=0.48 mean/sd=-0.03 | neg: n= 65 frac(gain>0)=0.45 mean/sd=-0.03
+L 9 | ans: n=137 frac(gain>0)=0.55 mean/sd=+0.06 | oth: n=200 frac(gain>0)=0.50 mean/sd=-0.02 | neg: n= 73 frac(gain>0)=0.52 mean/sd=-0.06
+L10 | ans: n=177 frac(gain>0)=0.52 mean/sd=+0.05 | oth: n=137 frac(gain>0)=0.45 mean/sd=-0.07 | neg: n= 96 frac(gain>0)=0.55 mean/sd=+0.01
+L11 | ans: n=142 frac(gain>0)=0.49 mean/sd=-0.12 | oth: n=178 frac(gain>0)=0.49 mean/sd=-0.10 | neg: n= 90 frac(gain>0)=0.34 mean/sd=-0.05
+L12 | ans: n=139 frac(gain>0)=0.57 mean/sd=+0.12 | oth: n=191 frac(gain>0)=0.48 mean/sd=+0.02 | neg: n= 80 frac(gain>0)=0.53 mean/sd=-0.10
+L13 | ans: n=176 frac(gain>0)=0.55 mean/sd=+0.03 | oth: n=126 frac(gain>0)=0.44 mean/sd=-0.12 | neg: n=108 frac(gain>0)=0.50 mean/sd=+0.01
+L14 | ans: n=186 frac(gain>0)=0.52 mean/sd=+0.06 | oth: n=128 frac(gain>0)=0.54 mean/sd=-0.02 | neg: n= 96 frac(gain>0)=0.59 mean/sd=+0.06
+L15 | ans: n=145 frac(gain>0)=0.52 mean/sd=+0.05 | oth: n=165 frac(gain>0)=0.50 mean/sd=-0.08 | neg: n=100 frac(gain>0)=0.49 mean/sd=-0.03
+L16 | ans: n=128 frac(gain>0)=0.52 mean/sd=+0.01 | oth: n=221 frac(gain>0)=0.51 mean/sd=+0.08 | neg: n= 61 frac(gain>0)=0.54 mean/sd=+0.14
+L17 | ans: n=104 frac(gain>0)=0.53 mean/sd=+0.05 | oth: n=233 frac(gain>0)=0.54 mean/sd=-0.02 | neg: n= 73 frac(gain>0)=0.47 mean/sd=+0.00
+ans overall weighted frac gain>0: 0.518 n= 2997
+oth overall weighted frac gain>0: 0.492 n= 3032
+neg overall weighted frac gain>0: 0.483 n= 1351
+
+```

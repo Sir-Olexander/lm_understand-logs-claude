@@ -1,0 +1,9 @@
+OUTPUT of run 35 of at most 60:
+```
+L13: units with reliable act-sign 1000 | corr(active-side strength on rd, A-wants d*-comp) = +0.046 | strong readers (|z|>3) n=13 frac 'A reinforces lean' 0.62 | corr using copy-head-output reading +0.046
+L14: units with reliable act-sign 902 | corr(active-side strength on rd, A-wants d*-comp) = +0.081 | strong readers (|z|>3) n=14 frac 'A reinforces lean' 0.50 | corr using copy-head-output reading +0.024
+L15: units with reliable act-sign 745 | corr(active-side strength on rd, A-wants d*-comp) = +0.014 | strong readers (|z|>3) n=6 frac 'A reinforces lean' 0.67 | corr using copy-head-output reading -0.021
+L16: units with reliable act-sign 663 | corr(active-side strength on rd, A-wants d*-comp) = +0.064 | strong readers (|z|>3) n=7 frac 'A reinforces lean' 0.57 | corr using copy-head-output reading -0.022
+L17: units with reliable act-sign 690 | corr(active-side strength on rd, A-wants d*-comp) = -0.053 | strong readers (|z|>3) n=19 frac 'A reinforces lean' 0.47 | corr using copy-head-output reading -0.041
+
+```

@@ -1,0 +1,12 @@
+OUTPUT of run 7 of at most 20:
+```
+per text: (guess A/B, oper A/B) at last position
+
+[stderr]
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "your_code", line 12, in <module>
+  File "your_code", line 6, in positions
+AttributeError: 'dict' object has no attribute 'index'
+
+```

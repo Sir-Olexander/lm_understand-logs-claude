@@ -1,0 +1,6 @@
+OUTPUT of Python run 76 of at most 120:
+```
+1 moves 4444 not top1 frac 0.26912691269126915 mean top1 0.7351335508550856
+-1 moves 1105 not top1 frac 0.3357466063348416 mean top1 0.6574214479638009
+
+```

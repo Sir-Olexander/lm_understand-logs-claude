@@ -1,0 +1,48 @@
+OUTPUT of run 38 of at most 60:
+```
+Heads ranked by syco-direction contribution  [sign(OVans)*|OVans|/20 * dMatchAns], plus answer-OV change
+  L16h2: contrib  +2.18  zOVans  +12.9  dMatchAns +3.31  dOVans(func) +0.17
+  L 7h1: contrib  +1.91  zOVans  -15.7  dMatchAns -2.55  dOVans(func) -0.21
+  L15h0: contrib  +1.70  zOVans  +17.7  dMatchAns +2.07  dOVans(func) -0.56
+  L 8h2: contrib  +1.39  zOVans  +13.8  dMatchAns +2.05  dOVans(func) +0.25
+  L 9h1: contrib  +1.38  zOVans  -14.6  dMatchAns -1.99  dOVans(func) -1.24
+  L 7h3: contrib  +0.80  zOVans   +8.9  dMatchAns +1.80  dOVans(func) -0.87
+  L 7h2: contrib  +0.79  zOVans  +10.9  dMatchAns +1.55  dOVans(func) +0.05
+  L 2h1: contrib  +0.73  zOVans   -6.6  dMatchAns -2.25  dOVans(func) +1.46
+  L 6h1: contrib  +0.71  zOVans   -7.4  dMatchAns -1.71  dOVans(func) -0.02
+  L17h1: contrib  +0.71  zOVans  +17.7  dMatchAns +0.95  dOVans(func) -0.15
+  L15h3: contrib  +0.53  zOVans  +17.9  dMatchAns +0.81  dOVans(func) +0.06
+  L 7h0: contrib  +0.44  zOVans  +13.2  dMatchAns +0.77  dOVans(func) -0.76
+  L15h2: contrib  +0.40  zOVans  +17.0  dMatchAns +0.67  dOVans(func) -0.29
+  L17h2: contrib  +0.37  zOVans   +4.6  dMatchAns +1.51  dOVans(func) +1.03
+  L10h3: contrib  +0.32  zOVans   -5.8  dMatchAns -1.17  dOVans(func) +0.06
+  L14h2: contrib  +0.29  zOVans   +4.8  dMatchAns +1.12  dOVans(func) +1.54
+most negative (anti-syco direction in A):
+  L11h1: contrib  -0.24  zOVans   -5.0  dMatchAns +0.94  dOVans(func) -0.04
+  L 6h2: contrib  -0.33  zOVans  +10.6  dMatchAns -0.75  dOVans(func) +0.09
+  L 6h3: contrib  -0.38  zOVans   +8.4  dMatchAns -0.77  dOVans(func) +0.30
+  L16h1: contrib  -0.44  zOVans   +9.2  dMatchAns -0.98  dOVans(func) -0.50
+  L 6h0: contrib  -0.88  zOVans   +7.1  dMatchAns -2.46  dOVans(func) +1.54
+  L 0h1: contrib  -2.02  zOVans  -12.7  dMatchAns +3.02  dOVans(func) +0.77
+
+MLP down change projected on answer subspace (k=20), in logit-relevant units (D_f-scaled), fraction of its change:
+  L 0: |proj|=   0.068  frac=0.008  top units [np.int64(1771), np.int64(1563), np.int64(1535), np.int64(538), np.int64(307), np.int64(37), np.int64(1639), np.int64(1287)]
+  L 1: |proj|=   0.129  frac=0.010  top units [np.int64(198), np.int64(306), np.int64(542), np.int64(378), np.int64(1271), np.int64(1092), np.int64(1355), np.int64(849)]
+  L 2: |proj|=   0.273  frac=0.012  top units [np.int64(991), np.int64(823), np.int64(592), np.int64(1243), np.int64(22), np.int64(1244), np.int64(1812), np.int64(701)]
+  L 3: |proj|=   0.551  frac=0.011  top units [np.int64(1426), np.int64(800), np.int64(812), np.int64(1376), np.int64(12), np.int64(524), np.int64(1083), np.int64(292)]
+  L 4: |proj|=   0.278  frac=0.021  top units [np.int64(2021), np.int64(1661), np.int64(1888), np.int64(1907), np.int64(977), np.int64(469), np.int64(294), np.int64(1608)]
+  L 5: |proj|=   0.638  frac=0.048  top units [np.int64(1468), np.int64(1892), np.int64(852), np.int64(411), np.int64(1795), np.int64(2013), np.int64(1382), np.int64(1450)]
+  L 6: |proj|=   0.819  frac=0.050  top units [np.int64(783), np.int64(940), np.int64(1868), np.int64(490), np.int64(726), np.int64(1430), np.int64(187), np.int64(1839)]
+  L 7: |proj|=   1.032  frac=0.048  top units [np.int64(186), np.int64(965), np.int64(1376), np.int64(940), np.int64(2022), np.int64(2009), np.int64(477), np.int64(1249)]
+  L 8: |proj|=   1.313  frac=0.054  top units [np.int64(500), np.int64(1968), np.int64(1637), np.int64(1009), np.int64(215), np.int64(1990), np.int64(324), np.int64(900)]
+  L 9: |proj|=   2.113  frac=0.054  top units [np.int64(180), np.int64(1284), np.int64(319), np.int64(1073), np.int64(490), np.int64(1074), np.int64(587), np.int64(1237)]
+  L10: |proj|=   4.439  frac=0.060  top units [np.int64(1403), np.int64(1018), np.int64(1732), np.int64(1327), np.int64(1577), np.int64(404), np.int64(358), np.int64(1258)]
+  L11: |proj|=  13.024  frac=0.137  top units [np.int64(1606), np.int64(1828), np.int64(1520), np.int64(1056), np.int64(1036), np.int64(2044), np.int64(135), np.int64(951)]
+  L12: |proj|=  22.906  frac=0.196  top units [np.int64(1405), np.int64(1759), np.int64(424), np.int64(1010), np.int64(266), np.int64(2041), np.int64(703), np.int64(1530)]
+  L13: |proj|=  28.465  frac=0.262  top units [np.int64(1949), np.int64(25), np.int64(1360), np.int64(226), np.int64(2038), np.int64(706), np.int64(1529), np.int64(843)]
+  L14: |proj|=  39.421  frac=0.380  top units [np.int64(999), np.int64(247), np.int64(2003), np.int64(241), np.int64(1578), np.int64(729), np.int64(1256), np.int64(614)]
+  L15: |proj|=  51.400  frac=0.458  top units [np.int64(397), np.int64(1224), np.int64(1073), np.int64(659), np.int64(1960), np.int64(639), np.int64(126), np.int64(449)]
+  L16: |proj|=  60.912  frac=0.526  top units [np.int64(1590), np.int64(821), np.int64(917), np.int64(1004), np.int64(1074), np.int64(1677), np.int64(706), np.int64(1575)]
+  L17: |proj|=  59.856  frac=0.490  top units [np.int64(595), np.int64(992), np.int64(881), np.int64(755), np.int64(1309), np.int64(1207), np.int64(310), np.int64(2033)]
+
+```

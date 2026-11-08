@@ -1,0 +1,27 @@
+OUTPUT of run 27 of at most 60:
+```
+ 0 | match via dQ:  -7.39   7.09   6.84   0.65 | via dK:  -2.54   2.00   5.24  -1.41 | base OV sign: +1 -1 -1 +1
+ 1 | match via dQ:  -1.24   0.99   3.90  -0.98 | via dK:  -1.08  -0.35   1.61  -0.26 | base OV sign: +1 +1 +1 -1
+ 2 | match via dQ:  -1.96   6.27   6.18  -0.17 | via dK:   0.49   6.05   1.05  -1.42 | base OV sign: +1 -1 -1 -1
+ 3 | match via dQ:   2.11  -1.36   6.65  -8.95 | via dK:  -0.59  -1.23   0.88  -4.94 | base OV sign: -1 +1 +1 -1
+ 4 | match via dQ:   2.01  -3.81  -2.13  -1.29 | via dK:   0.08  -0.74  -1.57  -0.55 | base OV sign: +1 +1 -1 -1
+ 5 | match via dQ:   0.64  -2.02  -2.10  -4.44 | via dK:   0.60  -1.69  -0.99  -0.62 | base OV sign: +1 +1 +1 -1
+ 6 | match via dQ:  -0.69   0.46  -1.15  -1.29 | via dK:   3.08   0.99  -0.69   0.10 | base OV sign: +1 -1 +1 +1
+ 7 | match via dQ:   0.37   7.26  -4.07   4.69 | via dK:   1.64   2.98   0.16   3.12 | base OV sign: +1 -1 +1 +1
+ 8 | match via dQ:   5.57  -4.55   3.73   0.92 | via dK:   1.28  -2.61   2.27   1.28 | base OV sign: -1 +1 +1 +1
+ 9 | match via dQ:  -5.91  -2.17   4.18   2.99 | via dK:  -3.86  -2.58  -1.89  -1.19 | base OV sign: +1 -1 +1 +1
+10 | match via dQ:   0.08   9.21   1.78   3.12 | via dK:  -0.48   4.30   2.54   2.48 | base OV sign: +1 +1 +1 -1
+11 | match via dQ:   1.76  -3.30   2.26   0.34 | via dK:  -0.45   0.05   4.26   3.68 | base OV sign: +1 +1 +1 -1
+12 | match via dQ:  -3.04   0.29  -1.30  -1.67 | via dK:  -1.66   1.61  -1.77   0.16 | base OV sign: -1 -1 +1 +1
+13 | match via dQ:  -3.26  -2.80   4.30   1.21 | via dK:  -1.30  -1.99  -0.55   2.71 | base OV sign: +1 +1 +1 +1
+14 | match via dQ:   3.20   8.56   2.43  -7.75 | via dK:  -0.80   3.91   1.42  -5.46 | base OV sign: -1 +1 +1 +1
+15 | match via dQ:  -6.95   4.28   1.87  -8.97 | via dK:  -3.48   0.15  -0.44  -5.99 | base OV sign: +1 -1 +1 +1
+16 | match via dQ:   4.41  -0.23   2.14   2.14 | via dK:   4.80  -0.44   2.96   2.86 | base OV sign: +1 +1 +1 +1
+17 | match via dQ:   2.35   6.47   0.02  -4.15 | via dK:  -1.24   4.24   0.82  -1.07 | base OV sign: +1 +1 +1 -1
+layers 0-5: combined sign(OV)*match z = -3.80;  unsigned mean match z = 0.07
+layers 6-11: combined sign(OV)*match z = -0.11;  unsigned mean match z = 0.96
+layers 12-15: combined sign(OV)*match z = -5.51;  unsigned mean match z = -0.72
+layers 16-17: combined sign(OV)*match z = 9.13;  unsigned mean match z = 1.63
+layers 0-17: combined sign(OV)*match z = -1.81;  unsigned mean match z = 0.36
+
+```

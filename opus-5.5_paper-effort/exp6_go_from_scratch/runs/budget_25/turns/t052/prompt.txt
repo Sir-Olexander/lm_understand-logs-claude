@@ -1,0 +1,26 @@
+OUTPUT of Python run 45 of at most 120:
+```
+3 strong black -1 -9.5 last net [('n', 20), ('o', 73), ('n', 81), ('o', 4), ('n', 81), ('o', 26), ('n', 17), ('o', 81), ('n', 8)]
+11 strong black -1 40.5 last net [('n', 33), ('o', 70), ('n', 61), ('o', 18), ('n', 60), ('o', 69), ('n', 37), ('o', 55), ('n', 46)]
+53 strong white -1 -1.5 last net [('n', 81), ('o', 45), ('n', 81), ('o', 53), ('n', 36), ('o', 71), ('n', 81), ('o', 45), ('n', 62)]
+62 strong white -1 -14.5 last net [('n', 21), ('o', 12), ('n', 81), ('o', 35), ('n', 26), ('o', 78), ('n', 17), ('o', 35), ('n', 26)]
+72 strong white -1 -6.5 last net [('n', 7), ('o', 72), ('n', 17), ('o', 8), ('n', 16), ('o', 81), ('n', 17), ('o', 81), ('n', 7)]
+86 strong white 1 80.5 last opponent [('o', 23), ('n', 14), ('o', 9), ('n', 18), ('o', 0), ('n', 9), ('o', 6), ('n', 8), ('o', 7)]
+89 strong white -1 -7.5 last net [('n', 54), ('o', 71), ('n', 8), ('o', 70), ('n', 6), ('o', 78), ('n', 5), ('o', 7), ('n', 6)]
+90 strong white -1 41.5 last net [('n', 6), ('o', 63), ('n', 4), ('o', 7), ('n', 8), ('o', 9), ('n', 0), ('o', 2), ('n', 1)]
+92 strong white -1 17.5 last net [('n', 7), ('o', 78), ('n', 77), ('o', 15), ('n', 16), ('o', 64), ('n', 76), ('o', 78), ('n', 77)]
+104 weak black 1 22.5 last opponent [('o', 35), ('n', 16), ('o', 77), ('n', 34), ('o', 4), ('n', 6), ('o', 74), ('n', 72), ('o', 73)]
+113 weak white 1 23.5 last opponent [('o', 11), ('n', 10), ('o', 35), ('n', 6), ('o', 36), ('n', 45), ('o', 18), ('n', 0), ('o', 9)]
+120 weak white 1 31.5 last opponent [('o', 52), ('n', 53), ('o', 7), ('n', 8), ('o', 74), ('n', 19), ('o', 62), ('n', 80), ('o', 71)]
+126 weak white 1 43.5 last opponent [('o', 62), ('n', 80), ('o', 79), ('n', 76), ('o', 71), ('n', 70), ('o', 62), ('n', 80), ('o', 71)]
+.XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X. .XXX.X.X.
+OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X OOX.X.X.X
+.OXX.XXXX .OXX.XXXX .OXX.XXXX OOXX.XXXX OOXX.XXXX OOXX.XXXX OOXX.XXXX OOXX.XXXX OOXX.XXXX
+OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X OOOOX.X.X
+O.OXXXXXX O.OXXXXXX O.OXXXXXX O.OXXXXXX O.OXXXXXX O.OXXXXXX OXOXXXXXX O.OXXXXXX O.OXXXXXX
+OXOX.XXOX OXOX.XXOX OXOX.XX.X OXOX.XX.X OXOX.XX.X OXOX.XX.X OXOX.XX.X O.OX.XX.X OXOX.XX.X
+X.XXX.... X.XXX.... X.XXX..X. X.XXX..X. X.XXX.XX. X.XXX.XX. X.XXX.XX. XOXXX.XX. X.XXX.XX.
+.X.XXX..X .X.XXX.OX .X.XXX.OX .X.XXX.OX .X.XXX.OX .X.XXXOOX .X.XXXOOX .X.XXXOOX .X.XXXOOX
+X.X.X...X X.X.X...X X.X.X...X X.X.X...X X.X.X...X X.X.X...X X.X.X...X X.X.X...X X.X.X...X
+
+```

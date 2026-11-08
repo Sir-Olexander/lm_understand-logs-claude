@@ -1,0 +1,46 @@
+{
+ "exp": "exp6",
+ "label": "budget_10",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 79,
+ "runs": 68,
+ "session_id": "1f3306dc-fc10-4595-bbcc-da4adb7aa72b",
+ "cwd": "<home>/wsp/scratch/run-ea4a31",
+ "done": true,
+ "next": "OUTPUT of Python run 68 of at most 120:\n```\n['L1.W', 'L1.b', 'L2.W', 'L2.b', 'L3.W', 'L3.b', 'L4.W', 'L4.b', 'L5.W', 'L5.b', 'L6.W', 'L6.b', 'out.W', 'out.b'] True\n3 repetition losses\n\n```",
+ "started": "2026-11-08T03:40:42+00:00",
+ "extra": {
+  "budget": 10,
+  "version": "v1",
+  "arch": {
+   "depth": 6,
+   "width": 512
+  },
+  "passes": 10,
+  "requests": 10,
+  "invalid_requests": 0,
+  "reminders": 0,
+  "several_blocks": 0,
+  "handled_turn": 79,
+  "mock": false,
+  "message_sha256": "3e336a6008347cfe78a7d002efa1d57e2a6a9d1a8d914478e15d384c93b97d2b",
+  "network_sha256": {
+   "L1.W.npy": "0157bb5385f27eec113b0a3beb6d6114a7907b8fcf5fe7127d31f95ec50566a8",
+   "L1.b.npy": "0a97d81faf254c5895a51f87f27fc7dfb710c08e8c7b2bf7c32d22290438ac4e",
+   "L2.W.npy": "5234a15433307b3d202d04a9c21527cc04c6ca79722e522a3a35dca912d6e321",
+   "L2.b.npy": "dbc161ce41623e75fe241bb04a90b97e4bb8db02b731dd90519e6a22d7891823",
+   "L3.W.npy": "8902ef9829c5dc5ccfcbc41e77bc4fa1ed989cf2f9326838c7b830bea35004c7",
+   "L3.b.npy": "eba74c54e11b507b14178ed879b025ff0bfc97b52419420eb11ddb02c7783962",
+   "L4.W.npy": "8902ef9829c5dc5ccfcbc41e77bc4fa1ed989cf2f9326838c7b830bea35004c7",
+   "L4.b.npy": "eba74c54e11b507b14178ed879b025ff0bfc97b52419420eb11ddb02c7783962",
+   "L5.W.npy": "505ad79019e708014e31cdd11be3eca03e387012920b5f6a637c044dd834c293",
+   "L5.b.npy": "085e5a58c0caeb21f33d04e625783090cfc35ab80a89ca512420a60181dcc494",
+   "L6.W.npy": "5228b48889522c9ff344aa9b8989d8d40a2081d83b956b76a5398a451c9a6280",
+   "L6.b.npy": "e6427266148cf320e27969bb8ac912623dad56e8813fed6123eab1d805ca4466",
+   "arch.json": "95f172f1bcc761b9f93d613107caea1e58f4c907a97e7e516bfff0753fcc1aef",
+   "out.W.npy": "ff17915c08da0d29197167c8768e4d122610a7e061f7528d41f7d0ff1ea0ebe0",
+   "out.b.npy": "678966733f50efc7949ed716b766942ef317b7ecca34d58277c01fb30380da9b"
+  }
+ }
+}

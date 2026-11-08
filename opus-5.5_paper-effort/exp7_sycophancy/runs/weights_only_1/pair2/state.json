@@ -1,0 +1,24 @@
+{
+ "exp": "exp7",
+ "label": "weights_only_1/pair2",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "turn": 43,
+ "runs": 42,
+ "session_id": "d8315f56-c534-401d-b453-55713aa33c78",
+ "cwd": "<home>/wsp/scratch/run-166b30",
+ "done": true,
+ "next": "OUTPUT of run 42 of at most 60:\n```\n10.1: diag sign +1, frac 0.65, D_f slope -0.50\n16.0: diag sign +1, frac 0.70, D_f slope +0.29\n14.3: diag sign +1, frac 0.79, D_f slope +0.03\n11.3: diag sign -1, frac 0.95, D_f slope +0.77\n17.3: diag sign -1, frac 0.73, D_f slope +0.42\nL17 dK top s/bulk: [6.72 3.89 3.18 2.66 2.39 2.15]  dV top s/bulk: [3.74 3.14 2.82 2.28 2.23 2.02]\noverlap of top-4 input dirs of dK and dV (mean cos^2): 0.228 (random 0.006)\nfraction of dK top input dir in base V's top-32 read subspace: [0.023 0.043 0.044] (random 0.05)\nfraction of dK top input dir in base K's top-32 read subspace: [0.035 0.071 0.09 ]\n\n```",
+ "started": "2026-11-06T22:27:20+00:00",
+ "extra": {
+  "round": "weights_only_1",
+  "pair": 101,
+  "release": "pair_e2c2af",
+  "nudges": 0,
+  "format_retries": 0,
+  "reminders": 0,
+  "attn_next": 1,
+  "run_limit": 60,
+  "handled_turn": 43
+ }
+}

@@ -1,0 +1,12 @@
+OUTPUT of Python run 89 of at most 120:
+```
+{'games': 128, 'wins': 76, 'moves': 7411, 'savable': 152, 'saved': 89, 'saved_or_cap': 126, 'cap_avail': 1822, 'cap_taken': 1516, 'selfatari': 149, 'selfatari_sz': 430, 'pass': 1185, 'rep_by_net': 4, 'rep_lost_ahead': 4, 'rep_by_opponent': 3}
+0.5 cap 1 libs 2 emp 1 own 0 1.0
+26.5 cap 1 libs 2 emp 1 own 0 0.9996
+opponent 9
+opponent 63
+2.5 cap 0 libs 2 emp 0 own 2 0.9995
+29.5 cap 1 libs 2 emp 1 own 0 0.9998
+opponent 11
+
+```

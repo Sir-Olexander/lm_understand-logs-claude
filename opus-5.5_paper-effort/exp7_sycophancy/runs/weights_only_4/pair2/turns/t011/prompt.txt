@@ -1,0 +1,7 @@
+OUTPUT of run 10 of at most 60:
+```
+caps 63 pairs kept
+cols 35 pairs kept
+conts 23 pairs kept
+
+```

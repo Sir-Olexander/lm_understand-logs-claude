@@ -1,0 +1,34 @@
+OUTPUT of run 33 of at most 60:
+```
+color 24 pairs, 10 attrs
+capital 24 pairs, 24 attrs
+currency 15 pairs, 9 attrs
+language 16 pairs, 12 attrs
+L 0 | color dDn*Up=+0.49 tot=+0.03 | capit dDn*Up=-0.36 tot=+0.08 | curre dDn*Up=-0.73 tot=-1.53 | langu dDn*Up=-1.12 tot=-0.68
+L 1 | color dDn*Up=+0.38 tot=+0.37 | capit dDn*Up=-0.04 tot=-0.18 | curre dDn*Up=-1.36 tot=-1.93 | langu dDn*Up=+0.88 tot=+0.98
+L 2 | color dDn*Up=+0.26 tot=+0.23 | capit dDn*Up=+0.28 tot=+0.40 | curre dDn*Up=-2.36 tot=-2.85 | langu dDn*Up=-0.25 tot=-0.08
+L 3 | color dDn*Up=-0.47 tot=-1.06 | capit dDn*Up=-0.16 tot=-0.55 | curre dDn*Up=-2.35 tot=-1.70 | langu dDn*Up=+1.90 tot=+1.39
+L 4 | color dDn*Up=+1.17 tot=+1.80 | capit dDn*Up=+0.64 tot=-0.07 | curre dDn*Up=-0.62 tot=+0.25 | langu dDn*Up=+0.41 tot=+0.48
+L 5 | color dDn*Up=+0.54 tot=-0.09 | capit dDn*Up=-0.10 tot=-0.75 | curre dDn*Up=+0.33 tot=+1.04 | langu dDn*Up=-0.22 tot=+0.16
+L 6 | color dDn*Up=+2.37 tot=+2.15 | capit dDn*Up=-1.38 tot=-1.44 | curre dDn*Up=+1.86 tot=+1.41 | langu dDn*Up=-0.81 tot=-0.69
+L 7 | color dDn*Up=+0.38 tot=+0.62 | capit dDn*Up=+1.16 tot=+1.25 | curre dDn*Up=+1.23 tot=+1.52 | langu dDn*Up=+0.36 tot=+0.64
+L 8 | color dDn*Up=-0.70 tot=-0.96 | capit dDn*Up=-1.99 tot=-1.43 | curre dDn*Up=+0.32 tot=+0.98 | langu dDn*Up=+0.45 tot=+0.58
+L 9 | color dDn*Up=-0.95 tot=-0.77 | capit dDn*Up=-1.05 tot=-0.83 | curre dDn*Up=+0.63 tot=+0.34 | langu dDn*Up=+1.17 tot=+1.70
+L10 | color dDn*Up=-1.07 tot=-1.70 | capit dDn*Up=+0.57 tot=+0.83 | curre dDn*Up=-1.08 tot=-0.81 | langu dDn*Up=+0.55 tot=+0.61
+L11 | color dDn*Up=-0.47 tot=-0.40 | capit dDn*Up=+0.19 tot=-0.04 | curre dDn*Up=-1.27 tot=-1.35 | langu dDn*Up=+0.13 tot=-0.35
+L12 | color dDn*Up=-0.21 tot=-0.48 | capit dDn*Up=-0.55 tot=-0.66 | curre dDn*Up=+1.13 tot=+1.05 | langu dDn*Up=+0.20 tot=+0.32
+L13 | color dDn*Up=+0.03 tot=-0.26 | capit dDn*Up=-1.43 tot=-1.10 | curre dDn*Up=+2.21 tot=+2.11 | langu dDn*Up=+0.02 tot=-0.06
+L14 | color dDn*Up=+0.48 tot=-0.11 | capit dDn*Up=+0.96 tot=+0.19 | curre dDn*Up=+0.84 tot=+0.58 | langu dDn*Up=+0.16 tot=-0.20
+L15 | color dDn*Up=+0.32 tot=-0.11 | capit dDn*Up=-1.34 tot=-0.82 | curre dDn*Up=+0.92 tot=+0.81 | langu dDn*Up=-2.39 tot=-2.35
+L16 | color dDn*Up=-0.21 tot=-0.24 | capit dDn*Up=+1.03 tot=+0.35 | curre dDn*Up=+0.57 tot=+0.37 | langu dDn*Up=+0.17 tot=+0.62
+L17 | color dDn*Up=-1.20 tot=-0.87 | capit dDn*Up=-1.42 tot=-1.13 | curre dDn*Up=+0.70 tot=+0.87 | langu dDn*Up=+0.93 tot=+1.20
+color     dDn*Up : pooled z L0-8=+1.47  L9-17=-1.09  all=+0.27
+color     total  : pooled z L0-8=+1.03  L9-17=-1.65  all=-0.44
+capital   dDn*Up : pooled z L0-8=-0.65  L9-17=-1.02  all=-1.18
+capital   total  : pooled z L0-8=-0.89  L9-17=-1.07  all=-1.39
+currency  dDn*Up : pooled z L0-8=-1.23  L9-17=+1.55  all=+0.23
+currency  total  : pooled z L0-8=-0.94  L9-17=+1.32  all=+0.27
+language  dDn*Up : pooled z L0-8=+0.54  L9-17=+0.32  all=+0.61
+language  total  : pooled z L0-8=+0.93  L9-17=+0.50  all=+1.01
+
+```

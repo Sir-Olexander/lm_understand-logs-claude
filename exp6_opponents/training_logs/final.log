@@ -1,0 +1,194 @@
+[2026-11-06T02:01:06] v4/reinforce_s1 eval {"iter": 1000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.176, "vs_random_256": 0.922}
+[2026-11-06T02:02:47] v4/reinforce_s1 eval {"iter": 2000, "vs_astra_b0_256": 0.023, "vs_same_size_s0_256": 0.152, "vs_random_256": 0.922}
+[2026-11-06T02:04:28] v4/reinforce_s1 eval {"iter": 3000, "vs_astra_b0_256": 0.02, "vs_same_size_s0_256": 0.137, "vs_random_256": 0.918}
+[2026-11-06T02:06:10] v4/reinforce_s1 eval {"iter": 4000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.086, "vs_random_256": 0.934}
+[2026-11-06T02:07:51] v4/reinforce_s1 eval {"iter": 5000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.129, "vs_random_256": 0.922}
+[2026-11-06T02:07:53] reinforce_s1 calibration @5000: {"astra_b0": 0.01, "astra_b10": 0.009, "astra_b25": 0.017, "astra_b50": 0.003, "same_size_s0": 0.122, "same_size_s1": 0.089, "same_size_s2": 0.132, "random": 0.92} family mean diff +0.019
+[2026-11-06T02:07:53] v4/reinforce_s1: stopped at iteration 5000 of 20000 (--stop-at)
+screen done: v4 reinforce_s1 5000
+[2026-11-06T02:07:55] v4/reinforce_s1: resumed at iteration 5000
+[2026-11-06T02:09:40] v4/reinforce_s1 eval {"iter": 6000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.09, "vs_random_256": 0.918}
+[2026-11-06T02:11:21] v4/reinforce_s1 eval {"iter": 7000, "vs_astra_b0_256": 0.027, "vs_same_size_s0_256": 0.07, "vs_random_256": 0.914}
+[2026-11-06T02:13:02] v4/reinforce_s1 eval {"iter": 8000, "vs_astra_b0_256": 0.02, "vs_same_size_s0_256": 0.086, "vs_random_256": 0.941}
+[2026-11-06T02:14:44] v4/reinforce_s1 eval {"iter": 9000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.121, "vs_random_256": 0.914}
+[2026-11-06T02:16:25] v4/reinforce_s1 eval {"iter": 10000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.098, "vs_random_256": 0.926}
+[2026-11-06T02:16:28] reinforce_s1 calibration @10000: {"astra_b0": 0.012, "astra_b10": 0.007, "astra_b25": 0.025, "astra_b50": 0.0, "same_size_s0": 0.094, "same_size_s1": 0.079, "same_size_s2": 0.126, "random": 0.929} family mean diff +0.013
+[2026-11-06T02:16:28] v4/reinforce_s1: stopped at iteration 10000 of 20000 (--stop-at)
+screen done: v4 reinforce_s1 10000
+[2026-11-06T02:16:29] v4/reinforce_s1: resumed at iteration 10000
+[2026-11-06T02:18:14] v4/reinforce_s1 eval {"iter": 11000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.93}
+[2026-11-06T02:19:55] v4/reinforce_s1 eval {"iter": 12000, "vs_astra_b0_256": 0.027, "vs_same_size_s0_256": 0.043, "vs_random_256": 0.926}
+[2026-11-06T02:21:36] v4/reinforce_s1 eval {"iter": 13000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.031, "vs_random_256": 0.91}
+[2026-11-06T02:23:18] v4/reinforce_s1 eval {"iter": 14000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.059, "vs_random_256": 0.922}
+[2026-11-06T02:24:59] v4/reinforce_s1 eval {"iter": 15000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.094, "vs_random_256": 0.922}
+[2026-11-06T02:26:41] v4/reinforce_s1 eval {"iter": 16000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.133, "vs_random_256": 0.895}
+[2026-11-06T02:28:22] v4/reinforce_s1 eval {"iter": 17000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.117, "vs_random_256": 0.906}
+[2026-11-06T02:30:04] v4/reinforce_s1 eval {"iter": 18000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.082, "vs_random_256": 0.934}
+[2026-11-06T02:31:45] v4/reinforce_s1 eval {"iter": 19000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.098, "vs_random_256": 0.922}
+[2026-11-06T02:33:26] v4/reinforce_s1 eval {"iter": 20000, "vs_astra_b0_256": 0.031, "vs_same_size_s0_256": 0.102, "vs_random_256": 0.883}
+[2026-11-06T02:33:29] reinforce_s1 calibration @20000: {"astra_b0": 0.018, "astra_b10": 0.012, "astra_b25": 0.029, "astra_b50": 0.001, "same_size_s0": 0.098, "same_size_s1": 0.086, "same_size_s2": 0.102, "random": 0.908} family mean diff +0.014
+[2026-11-06T02:33:29] v4/reinforce_s1: done, exported to <home>/wsp/exp6_data/train/v4/reinforce_s1/export/
+screen done: v4 reinforce_s1 20000
+[2026-11-06T02:33:30] v4/ppo_s1: already done
+[2026-11-06T02:33:30] v4/ppo_s1: resumed at iteration 20000
+[2026-11-06T02:33:30] v4/ppo_s1: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T02:33:30] v4/ppo_s1: done, exported to <home>/wsp/exp6_data/opponents/ppo_s1
+[2026-11-06T02:35:51] v4/ppo_s0 eval {"iter": 1000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.184, "vs_random_256": 0.848}
+[2026-11-06T02:38:08] v4/ppo_s0 eval {"iter": 2000, "vs_astra_b0_256": 0.051, "vs_same_size_s0_256": 0.074, "vs_random_256": 0.926}
+[2026-11-06T02:40:24] v4/ppo_s0 eval {"iter": 3000, "vs_astra_b0_256": 0.219, "vs_same_size_s0_256": 0.254, "vs_random_256": 0.926}
+[2026-11-06T02:42:40] v4/ppo_s0 eval {"iter": 4000, "vs_astra_b0_256": 0.328, "vs_same_size_s0_256": 0.184, "vs_random_256": 0.977}
+[2026-11-06T02:44:56] v4/ppo_s0 eval {"iter": 5000, "vs_astra_b0_256": 0.469, "vs_same_size_s0_256": 0.359, "vs_random_256": 0.996}
+[2026-11-06T02:47:12] v4/ppo_s0 eval {"iter": 6000, "vs_astra_b0_256": 0.465, "vs_same_size_s0_256": 0.258, "vs_random_256": 0.988}
+[2026-11-06T02:49:29] v4/ppo_s0 eval {"iter": 7000, "vs_astra_b0_256": 0.543, "vs_same_size_s0_256": 0.457, "vs_random_256": 0.98}
+[2026-11-06T02:51:45] v4/ppo_s0 eval {"iter": 8000, "vs_astra_b0_256": 0.555, "vs_same_size_s0_256": 0.324, "vs_random_256": 0.977}
+[2026-11-06T02:54:01] v4/ppo_s0 eval {"iter": 9000, "vs_astra_b0_256": 0.566, "vs_same_size_s0_256": 0.301, "vs_random_256": 0.984}
+[2026-11-06T02:56:17] v4/ppo_s0 eval {"iter": 10000, "vs_astra_b0_256": 0.488, "vs_same_size_s0_256": 0.254, "vs_random_256": 0.996}
+[2026-11-06T02:58:33] v4/ppo_s0 eval {"iter": 11000, "vs_astra_b0_256": 0.473, "vs_same_size_s0_256": 0.344, "vs_random_256": 0.996}
+[2026-11-06T03:00:49] v4/ppo_s0 eval {"iter": 12000, "vs_astra_b0_256": 0.613, "vs_same_size_s0_256": 0.34, "vs_random_256": 0.996}
+[2026-11-06T03:03:06] v4/ppo_s0 eval {"iter": 13000, "vs_astra_b0_256": 0.617, "vs_same_size_s0_256": 0.32, "vs_random_256": 0.992}
+[2026-11-06T03:05:22] v4/ppo_s0 eval {"iter": 14000, "vs_astra_b0_256": 0.66, "vs_same_size_s0_256": 0.328, "vs_random_256": 0.98}
+[2026-11-06T03:07:38] v4/ppo_s0 eval {"iter": 15000, "vs_astra_b0_256": 0.613, "vs_same_size_s0_256": 0.422, "vs_random_256": 1.0}
+[2026-11-06T03:09:54] v4/ppo_s0 eval {"iter": 16000, "vs_astra_b0_256": 0.625, "vs_same_size_s0_256": 0.234, "vs_random_256": 1.0}
+[2026-11-06T03:12:10] v4/ppo_s0 eval {"iter": 17000, "vs_astra_b0_256": 0.602, "vs_same_size_s0_256": 0.219, "vs_random_256": 0.992}
+[2026-11-06T03:14:26] v4/ppo_s0 eval {"iter": 18000, "vs_astra_b0_256": 0.523, "vs_same_size_s0_256": 0.305, "vs_random_256": 0.992}
+[2026-11-06T03:16:43] v4/ppo_s0 eval {"iter": 19000, "vs_astra_b0_256": 0.625, "vs_same_size_s0_256": 0.477, "vs_random_256": 1.0}
+[2026-11-06T03:18:59] v4/ppo_s0 eval {"iter": 20000, "vs_astra_b0_256": 0.648, "vs_same_size_s0_256": 0.418, "vs_random_256": 0.996}
+[2026-11-06T03:19:01] ppo_s0 calibration @20000: {"astra_b0": 0.656, "astra_b10": 0.374, "astra_b25": 0.483, "astra_b50": 0.209, "same_size_s0": 0.377, "same_size_s1": 0.347, "same_size_s2": 0.408, "random": 0.99} family mean diff +0.062
+[2026-11-06T03:19:01] v4/ppo_s0: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T03:19:01] v4/ppo_s0: done, exported to <home>/wsp/exp6_data/opponents/ppo_s0
+[2026-11-06T03:21:18] v4/ppo_s2 eval {"iter": 1000, "vs_astra_b0_256": 0.031, "vs_same_size_s0_256": 0.043, "vs_random_256": 0.922}
+[2026-11-06T03:23:34] v4/ppo_s2 eval {"iter": 2000, "vs_astra_b0_256": 0.059, "vs_same_size_s0_256": 0.09, "vs_random_256": 0.922}
+[2026-11-06T03:25:50] v4/ppo_s2 eval {"iter": 3000, "vs_astra_b0_256": 0.098, "vs_same_size_s0_256": 0.09, "vs_random_256": 0.965}
+[2026-11-06T03:28:06] v4/ppo_s2 eval {"iter": 4000, "vs_astra_b0_256": 0.285, "vs_same_size_s0_256": 0.285, "vs_random_256": 0.965}
+[2026-11-06T03:30:22] v4/ppo_s2 eval {"iter": 5000, "vs_astra_b0_256": 0.453, "vs_same_size_s0_256": 0.336, "vs_random_256": 0.992}
+[2026-11-06T03:32:38] v4/ppo_s2 eval {"iter": 6000, "vs_astra_b0_256": 0.551, "vs_same_size_s0_256": 0.461, "vs_random_256": 0.988}
+[2026-11-06T03:34:54] v4/ppo_s2 eval {"iter": 7000, "vs_astra_b0_256": 0.582, "vs_same_size_s0_256": 0.402, "vs_random_256": 0.992}
+[2026-11-06T03:37:10] v4/ppo_s2 eval {"iter": 8000, "vs_astra_b0_256": 0.543, "vs_same_size_s0_256": 0.363, "vs_random_256": 0.992}
+[2026-11-06T03:39:27] v4/ppo_s2 eval {"iter": 9000, "vs_astra_b0_256": 0.574, "vs_same_size_s0_256": 0.402, "vs_random_256": 0.988}
+[2026-11-06T03:41:43] v4/ppo_s2 eval {"iter": 10000, "vs_astra_b0_256": 0.543, "vs_same_size_s0_256": 0.453, "vs_random_256": 1.0}
+[2026-11-06T03:43:59] v4/ppo_s2 eval {"iter": 11000, "vs_astra_b0_256": 0.609, "vs_same_size_s0_256": 0.398, "vs_random_256": 0.988}
+[2026-11-06T03:46:15] v4/ppo_s2 eval {"iter": 12000, "vs_astra_b0_256": 0.535, "vs_same_size_s0_256": 0.398, "vs_random_256": 0.992}
+[2026-11-06T03:48:31] v4/ppo_s2 eval {"iter": 13000, "vs_astra_b0_256": 0.422, "vs_same_size_s0_256": 0.336, "vs_random_256": 0.992}
+[2026-11-06T03:50:47] v4/ppo_s2 eval {"iter": 14000, "vs_astra_b0_256": 0.488, "vs_same_size_s0_256": 0.141, "vs_random_256": 0.988}
+[2026-11-06T03:53:03] v4/ppo_s2 eval {"iter": 15000, "vs_astra_b0_256": 0.645, "vs_same_size_s0_256": 0.305, "vs_random_256": 1.0}
+[2026-11-06T03:55:19] v4/ppo_s2 eval {"iter": 16000, "vs_astra_b0_256": 0.656, "vs_same_size_s0_256": 0.449, "vs_random_256": 0.992}
+[2026-11-06T03:57:35] v4/ppo_s2 eval {"iter": 17000, "vs_astra_b0_256": 0.672, "vs_same_size_s0_256": 0.477, "vs_random_256": 1.0}
+[2026-11-06T03:59:51] v4/ppo_s2 eval {"iter": 18000, "vs_astra_b0_256": 0.672, "vs_same_size_s0_256": 0.355, "vs_random_256": 1.0}
+[2026-11-06T04:02:07] v4/ppo_s2 eval {"iter": 19000, "vs_astra_b0_256": 0.59, "vs_same_size_s0_256": 0.285, "vs_random_256": 0.992}
+[2026-11-06T04:04:23] v4/ppo_s2 eval {"iter": 20000, "vs_astra_b0_256": 0.617, "vs_same_size_s0_256": 0.254, "vs_random_256": 0.992}
+[2026-11-06T04:04:25] ppo_s2 calibration @20000: {"astra_b0": 0.608, "astra_b10": 0.333, "astra_b25": 0.436, "astra_b50": 0.253, "same_size_s0": 0.192, "same_size_s1": 0.521, "same_size_s2": 0.508, "random": 0.995} family mean diff +0.062
+[2026-11-06T04:04:25] v4/ppo_s2: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T04:04:25] v4/ppo_s2: done, exported to <home>/wsp/exp6_data/opponents/ppo_s2
+[2026-11-06T04:04:26] v4/reinforce_s1: already done
+[2026-11-06T04:04:26] v4/reinforce_s1: resumed at iteration 20000
+[2026-11-06T04:04:26] v4/reinforce_s1: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T04:04:26] v4/reinforce_s1: done, exported to <home>/wsp/exp6_data/opponents/reinforce_s1
+[2026-11-06T04:06:13] v4/reinforce_s0 eval {"iter": 1000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.199, "vs_random_256": 0.895}
+[2026-11-06T04:07:54] v4/reinforce_s0 eval {"iter": 2000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.094, "vs_random_256": 0.742}
+[2026-11-06T04:09:35] v4/reinforce_s0 eval {"iter": 3000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.105, "vs_random_256": 0.539}
+[2026-11-06T04:11:17] v4/reinforce_s0 eval {"iter": 4000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.078, "vs_random_256": 0.641}
+[2026-11-06T04:12:58] v4/reinforce_s0 eval {"iter": 5000, "vs_astra_b0_256": 0.027, "vs_same_size_s0_256": 0.047, "vs_random_256": 0.609}
+[2026-11-06T04:14:39] v4/reinforce_s0 eval {"iter": 6000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.652}
+[2026-11-06T04:16:21] v4/reinforce_s0 eval {"iter": 7000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.043, "vs_random_256": 0.617}
+[2026-11-06T04:18:02] v4/reinforce_s0 eval {"iter": 8000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.039, "vs_random_256": 0.441}
+[2026-11-06T04:19:43] v4/reinforce_s0 eval {"iter": 9000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.047, "vs_random_256": 0.586}
+[2026-11-06T04:21:25] v4/reinforce_s0 eval {"iter": 10000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.066, "vs_random_256": 0.602}
+[2026-11-06T04:23:06] v4/reinforce_s0 eval {"iter": 11000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.039, "vs_random_256": 0.512}
+[2026-11-06T04:24:47] v4/reinforce_s0 eval {"iter": 12000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.02, "vs_random_256": 0.531}
+[2026-11-06T04:26:29] v4/reinforce_s0 eval {"iter": 13000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.598}
+[2026-11-06T04:28:10] v4/reinforce_s0 eval {"iter": 14000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.043, "vs_random_256": 0.566}
+[2026-11-06T04:29:52] v4/reinforce_s0 eval {"iter": 15000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.691}
+[2026-11-06T04:31:33] v4/reinforce_s0 eval {"iter": 16000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.074, "vs_random_256": 0.746}
+[2026-11-06T04:33:14] v4/reinforce_s0 eval {"iter": 17000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.07, "vs_random_256": 0.754}
+[2026-11-06T04:34:56] v4/reinforce_s0 eval {"iter": 18000, "vs_astra_b0_256": 0.0, "vs_same_size_s0_256": 0.059, "vs_random_256": 0.617}
+[2026-11-06T04:36:37] v4/reinforce_s0 eval {"iter": 19000, "vs_astra_b0_256": 0.02, "vs_same_size_s0_256": 0.082, "vs_random_256": 0.676}
+[2026-11-06T04:38:18] v4/reinforce_s0 eval {"iter": 20000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.059, "vs_random_256": 0.656}
+[2026-11-06T04:38:21] reinforce_s0 calibration @20000: {"astra_b0": 0.007, "astra_b10": 0.011, "astra_b25": 0.031, "astra_b50": 0.0, "same_size_s0": 0.082, "same_size_s1": 0.075, "same_size_s2": 0.078, "random": 0.65} family mean diff +0.005
+[2026-11-06T04:38:21] v4/reinforce_s0: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T04:38:21] v4/reinforce_s0: done, exported to <home>/wsp/exp6_data/opponents/reinforce_s0
+[2026-11-06T04:40:03] v4/reinforce_s2 eval {"iter": 1000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.18, "vs_random_256": 0.926}
+[2026-11-06T04:41:45] v4/reinforce_s2 eval {"iter": 2000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.172, "vs_random_256": 0.914}
+[2026-11-06T04:43:27] v4/reinforce_s2 eval {"iter": 3000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.141, "vs_random_256": 0.891}
+[2026-11-06T04:45:08] v4/reinforce_s2 eval {"iter": 4000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.121, "vs_random_256": 0.953}
+[2026-11-06T04:46:50] v4/reinforce_s2 eval {"iter": 5000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.16, "vs_random_256": 0.938}
+[2026-11-06T04:48:32] v4/reinforce_s2 eval {"iter": 6000, "vs_astra_b0_256": 0.02, "vs_same_size_s0_256": 0.098, "vs_random_256": 0.926}
+[2026-11-06T04:50:13] v4/reinforce_s2 eval {"iter": 7000, "vs_astra_b0_256": 0.02, "vs_same_size_s0_256": 0.105, "vs_random_256": 0.898}
+[2026-11-06T04:51:55] v4/reinforce_s2 eval {"iter": 8000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.09, "vs_random_256": 0.926}
+[2026-11-06T04:53:37] v4/reinforce_s2 eval {"iter": 9000, "vs_astra_b0_256": 0.031, "vs_same_size_s0_256": 0.094, "vs_random_256": 0.914}
+[2026-11-06T04:55:18] v4/reinforce_s2 eval {"iter": 10000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.105, "vs_random_256": 0.922}
+[2026-11-06T04:57:00] v4/reinforce_s2 eval {"iter": 11000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.125, "vs_random_256": 0.922}
+[2026-11-06T04:58:42] v4/reinforce_s2 eval {"iter": 12000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.109, "vs_random_256": 0.898}
+[2026-11-06T05:00:23] v4/reinforce_s2 eval {"iter": 13000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.098, "vs_random_256": 0.934}
+[2026-11-06T05:02:05] v4/reinforce_s2 eval {"iter": 14000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.09, "vs_random_256": 0.914}
+[2026-11-06T05:03:47] v4/reinforce_s2 eval {"iter": 15000, "vs_astra_b0_256": 0.023, "vs_same_size_s0_256": 0.086, "vs_random_256": 0.949}
+[2026-11-06T05:05:28] v4/reinforce_s2 eval {"iter": 16000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.102, "vs_random_256": 0.938}
+[2026-11-06T05:07:10] v4/reinforce_s2 eval {"iter": 17000, "vs_astra_b0_256": 0.008, "vs_same_size_s0_256": 0.102, "vs_random_256": 0.918}
+[2026-11-06T05:08:52] v4/reinforce_s2 eval {"iter": 18000, "vs_astra_b0_256": 0.016, "vs_same_size_s0_256": 0.086, "vs_random_256": 0.922}
+[2026-11-06T05:10:33] v4/reinforce_s2 eval {"iter": 19000, "vs_astra_b0_256": 0.012, "vs_same_size_s0_256": 0.059, "vs_random_256": 0.906}
+[2026-11-06T05:12:15] v4/reinforce_s2 eval {"iter": 20000, "vs_astra_b0_256": 0.004, "vs_same_size_s0_256": 0.055, "vs_random_256": 0.914}
+[2026-11-06T05:12:16] reinforce_s2 calibration @20000: {"astra_b0": 0.02, "astra_b10": 0.008, "astra_b25": 0.022, "astra_b50": 0.001, "same_size_s0": 0.069, "same_size_s1": 0.055, "same_size_s2": 0.11, "random": 0.922} family mean diff +0.005
+[2026-11-06T05:12:16] v4/reinforce_s2: <home>/wsp/exp6_data/opponents/manifest.sha256 updated
+[2026-11-06T05:12:16] v4/reinforce_s2: done, exported to <home>/wsp/exp6_data/opponents/reinforce_s2
+exp6: 42/42 files OK
+ppo_s0 {"astra_b0": 0.66, "astra_b10": 0.41, "astra_b25": 0.471, "astra_b50": 0.195, "same_size_s0": 0.384, "same_size_s1": 0.35, "same_size_s2": 0.417, "random": 0.995} {"mean_diff": 0.08142855763435364, "mean_abs_diff": 0.1155714179788317, "max_abs_diff": 0.23099997639656067, "within_5pp": 2, "of": 7}
+ppo_s1 {"astra_b0": 0.618, "astra_b10": 0.372, "astra_b25": 0.356, "astra_b50": 0.155, "same_size_s0": 0.442, "same_size_s1": 0.243, "same_size_s2": 0.495, "random": 0.995} {"mean_diff": 0.05307142649378095, "mean_abs_diff": 0.09207141825131007, "max_abs_diff": 0.1834999918937683, "within_5pp": 3, "of": 8}
+ppo_s2 {"astra_b0": 0.581, "astra_b10": 0.336, "astra_b25": 0.412, "astra_b50": 0.248, "same_size_s0": 0.206, "same_size_s1": 0.549, "same_size_s2": 0.543, "random": 0.995} {"mean_diff": 0.03549999424389431, "mean_abs_diff": 0.1437857108456748, "max_abs_diff": 0.31450000405311584, "within_5pp": 1, "of": 7}
+reinforce_s0 {"astra_b0": 0.012, "astra_b10": 0.012, "astra_b25": 0.04, "astra_b50": 0.002, "same_size_s0": 0.073, "same_size_s1": 0.069, "same_size_s2": 0.079, "random": 0.652} {"mean_diff": -0.010071437573060393, "mean_abs_diff": 0.016214293061888645, "max_abs_diff": 0.07100001722574234, "within_5pp": 6, "of": 7}
+reinforce_s1 {"astra_b0": 0.018, "astra_b10": 0.011, "astra_b25": 0.023, "astra_b50": 0.0, "same_size_s0": 0.098, "same_size_s1": 0.094, "same_size_s2": 0.108, "random": 0.911} {"mean_diff": null, "mean_abs_diff": null, "max_abs_diff": null, "within_5pp": 1, "of": 1}
+reinforce_s2 {"astra_b0": 0.014, "astra_b10": 0.01, "astra_b25": 0.024, "astra_b50": 0.002, "same_size_s0": 0.063, "same_size_s1": 0.06, "same_size_s2": 0.089, "random": 0.934} {"mean_diff": 0.01692857254030449, "mean_abs_diff": 0.01692857254030449, "max_abs_diff": 0.043499983847141266, "within_5pp": 7, "of": 7}
+scored astra_budget_0 in 12 s
+scored astra_budget_10 in 4 s
+scored astra_budget_25 in 4 s
+scored astra_budget_50 in 4 s
+{
+ "budget_0": {
+  "ppo_s0": 0.3465000092983246,
+  "ppo_s2": 0.4034999907016754,
+  "reinforce_s0": 0.9934999942779541,
+  "reinforce_s2": 0.9815000295639038,
+  "random": 0.9975000023841858
+ },
+ "budget_10": {
+  "ppo_s0": 0.6039999723434448,
+  "ppo_s2": 0.6520000100135803,
+  "reinforce_s0": 0.9925000071525574,
+  "reinforce_s2": 0.9819999933242798,
+  "random": 0.9944999814033508
+ },
+ "budget_25": {
+  "ppo_s0": 0.515999972820282,
+  "ppo_s2": 0.578499972820282,
+  "reinforce_s0": 0.9710000157356262,
+  "reinforce_s2": 0.9754999876022339,
+  "random": 0.987500011920929
+ },
+ "budget_50": {
+  "ppo_s0": 0.8105000257492065,
+  "ppo_s2": 0.7574999928474426,
+  "reinforce_s0": 0.9965000152587891,
+  "reinforce_s2": 0.9975000023841858,
+  "random": 0.9990000128746033
+ },
+ "ppo_same_size_lr3e-5_s0": {
+  "ppo_s0": 0.6029999852180481,
+  "ppo_s2": 0.796500027179718,
+  "reinforce_s0": 0.9304999709129333,
+  "reinforce_s2": 0.9409999847412109,
+  "random": 0.9764999747276306
+ },
+ "ppo_same_size_lr3e-5_s1": {
+  "ppo_s0": 0.6729999780654907,
+  "ppo_s2": 0.4505000114440918,
+  "reinforce_s0": 0.9434999823570251,
+  "reinforce_s2": 0.9409999847412109,
+  "random": 0.9894999861717224
+ },
+ "ppo_same_size_lr3e-5_s2": {
+  "ppo_s0": 0.5945000052452087,
+  "ppo_s2": 0.4740000069141388,
+  "reinforce_s0": 0.906000018119812,
+  "reinforce_s2": 0.902999997138977,
+  "random": 0.9794999957084656
+ }
+}
+train_final done 2026-11-06T05:13:09+00:00

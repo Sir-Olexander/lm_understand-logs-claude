@@ -1,0 +1,30 @@
+OUTPUT of run 7 of at most 100:
+```
+0 QK sv [0.248 0.102 0.047]
+   r 0 u.v 0.49 |u in ins| 0.88 |v in ins| 0.86
+   r 1 u.v -0.12 |u in ins| 0.70 |v in ins| 0.33
+   r 2 u.v 0.50 |u in ins| 0.46 |v in ins| 0.44
+1 QK sv [0.15  0.042 0.021]
+   r 0 u.v -0.41 |u in ins| 0.62 |v in ins| 0.29
+   r 1 u.v -0.11 |u in ins| 0.64 |v in ins| 0.18
+   r 2 u.v -0.40 |u in ins| 0.24 |v in ins| 0.18
+2 QK sv [0.102 0.018 0.016]
+   r 0 u.v -0.54 |u in ins| 0.82 |v in ins| 0.39
+   r 1 u.v -0.39 |u in ins| 0.28 |v in ins| 0.44
+   r 2 u.v -0.50 |u in ins| 0.22 |v in ins| 0.09
+3 QK sv [0.244 0.223 0.201]
+   r 0 u.v 0.66 |u in ins| 0.77 |v in ins| 0.71
+   r 1 u.v 0.67 |u in ins| 0.49 |v in ins| 0.59
+   r 2 u.v 0.63 |u in ins| 0.45 |v in ins| 0.54
+4 QK sv [0.08  0.022 0.019]
+   r 0 u.v -0.17 |u in ins| 0.66 |v in ins| 0.38
+   r 1 u.v -0.48 |u in ins| 0.18 |v in ins| 0.08
+   r 2 u.v -0.37 |u in ins| 0.22 |v in ins| 0.06
+5 QK sv [0.032 0.004 0.003]
+   r 0 u.v -0.14 |u in ins| 0.93 |v in ins| 0.11
+   r 1 u.v 0.20 |u in ins| 0.11 |v in ins| 0.03
+   r 2 u.v -0.34 |u in ins| 0.04 |v in ins| 0.06
+ins vec 0 top dims [184 180  99 317  56  39  69 301 228 100] [-0.37 -0.3  -0.3   0.25  0.23 -0.23 -0.21 -0.2  -0.19  0.18] participation 18.470257
+ins vec 1 top dims [211 173 223 162 256  65  89 228 300 132] [ 0.3  -0.27 -0.26  0.23 -0.22  0.22 -0.21 -0.2   0.19  0.19] participation 26.135162
+
+```

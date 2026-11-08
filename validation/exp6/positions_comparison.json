@@ -1,0 +1,48 @@
+{
+ "budget_25:23": {
+  "README.txt": "identical",
+  "act_L1.npy": "identical",
+  "act_L2.npy": "identical",
+  "act_L3.npy": "identical",
+  "act_L4.npy": "identical",
+  "act_L5.npy": "identical",
+  "act_L6.npy": "identical",
+  "inputs.npy": "identical",
+  "legal.npy": "identical",
+  "logits.npy": "identical",
+  "probs.npy": "identical"
+ },
+ "budget_50:2": {
+  "README.txt": "identical",
+  "act_L1.npy": "identical",
+  "act_L2.npy": "identical",
+  "act_L3.npy": "identical",
+  "act_L4.npy": "identical",
+  "act_L5.npy": "max abs diff 1.53e-05",
+  "act_L6.npy": "max abs diff 1.53e-05",
+  "inputs.npy": "identical",
+  "legal.npy": "identical",
+  "logits.npy": "max abs diff 1.53e-05",
+  "probs.npy": "identical"
+ },
+ "budget_50:36": {
+  "README.txt": "identical",
+  "act_L1.npy": "identical",
+  "act_L2.npy": "identical",
+  "act_L3.npy": "identical",
+  "act_L4.npy": "max abs diff 1.91e-06",
+  "act_L5.npy": "identical",
+  "act_L6.npy": "max abs diff 7.63e-06",
+  "inputs.npy": "identical",
+  "legal.npy": "identical",
+  "logits.npy": "max abs diff 3.05e-05",
+  "probs.npy": "max abs diff 9.21e-12"
+ },
+ "budget_50:37": {
+  "README.txt": "identical",
+  "inputs.npy": "identical",
+  "legal.npy": "identical",
+  "logits.npy": "max abs diff 3.05e-05",
+  "probs.npy": "max abs diff 9.21e-12"
+ }
+}

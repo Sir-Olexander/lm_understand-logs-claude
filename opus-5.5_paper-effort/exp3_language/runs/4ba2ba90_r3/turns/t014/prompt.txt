@@ -1,0 +1,23 @@
+OUTPUT of run 13 of at most 100:
+```
+summed broad OV sv: [22.48 14.36  6.23  1.73  1.36  1.24  1.15  0.87]
+L1H0: qbias*k_bout 10.12 | bout-bout  2.01 eig [ 0.55  0.55 -0.01  0.06] | tok->bout 1.69 prevOut->bout 1.18 | qb 3.9
+L1H1: qbias*k_bout 17.37 | bout-bout  3.23 eig [ 0.74  0.74  0.05 -0.02] | tok->bout 1.94 prevOut->bout 1.91 | qb 5.0
+L1H2: qbias*k_bout 19.69 | bout-bout  4.09 eig [0.75 0.75 0.   0.03] | tok->bout 2.15 prevOut->bout 2.24 | qb 4.7
+L1H3: qbias*k_bout 17.76 | bout-bout  3.49 eig [0.72 0.72 0.03 0.09] | tok->bout 2.11 prevOut->bout 2.60 | qb 4.7
+L1H4: qbias*k_bout 17.43 | bout-bout  3.64 eig [0.73 0.73 0.04 0.04] | tok->bout 2.32 prevOut->bout 2.97 | qb 4.5
+L1H5: qbias*k_bout 13.21 | bout-bout  3.55 eig [0.74 0.74 0.03 0.03] | tok->bout 2.04 prevOut->bout 2.79 | qb 4.2
+L2H0: qbias*k_bout 12.60 | bout-bout  3.19 eig [ 0.47  0.47  0.1  -0.04] | tok->bout 1.63 prevOut->bout 0.95 | qb 3.7
+L2H1: qbias*k_bout  5.32 | bout-bout  1.48 eig [0.24 0.24 0.05 0.05] | tok->bout 1.07 prevOut->bout 0.81 | qb 2.4
+L2H2: qbias*k_bout  5.46 | bout-bout  2.09 eig [ 0.38  0.38 -0.02 -0.02] | tok->bout 1.42 prevOut->bout 0.96 | qb 2.3
+L2H3: qbias*k_bout 10.97 | bout-bout  3.17 eig [ 0.57  0.57 -0.01  0.02] | tok->bout 1.41 prevOut->bout 0.83 | qb 3.0
+L2H4: qbias*k_bout 11.77 | bout-bout  3.24 eig [0.51 0.51 0.07 0.07] | tok->bout 1.67 prevOut->bout 0.92 | qb 3.2
+L2H5: qbias*k_bout 11.21 | bout-bout  3.06 eig [ 0.47  0.47  0.07 -0.01] | tok->bout 1.57 prevOut->bout 0.82 | qb 3.2
+L3H0: qbias*k_bout  0.80 | bout-bout  0.55 eig [0.07 0.07 0.04 0.04] | tok->bout 0.51 prevOut->bout 0.56 | qb 1.3
+L3H1: qbias*k_bout  0.38 | bout-bout  0.39 eig [0.29 0.16 0.06 0.06] | tok->bout 0.29 prevOut->bout 0.32 | qb 1.4
+L3H2: qbias*k_bout  1.79 | bout-bout  1.16 eig [0.15 0.15 0.05 0.05] | tok->bout 0.77 prevOut->bout 0.67 | qb 1.2
+L3H3: qbias*k_bout  2.37 | bout-bout  1.40 eig [0.18 0.18 0.06 0.06] | tok->bout 0.86 prevOut->bout 0.67 | qb 1.2
+L3H4: qbias*k_bout  1.78 | bout-bout  0.91 eig [0.12 0.12 0.07 0.07] | tok->bout 0.82 prevOut->bout 0.64 | qb 1.3
+L3H5: qbias*k_bout  0.31 | bout-bout  0.30 eig [ 0.11  0.11 -0.02 -0.02] | tok->bout 0.20 prevOut->bout 0.18 | qb 1.1
+
+```

@@ -1,0 +1,12 @@
+OUTPUT of run 29 of at most 60:
+```
+copy L14h1 -> MLP L15: | digits: A-id +2.17 D-id +1.477 (z +2.2) | capitals: A-id +2.23 D-id -0.095 (z -0.4) | colors: A-id +25.19 D-id -0.260 (z -0.5) | ctrl: A-id -40.56 D-id -0.055 (z -0.1)
+copy L15h0 -> MLP L16: | digits: A-id -49.47 D-id +0.610 (z +0.4) | capitals: A-id -82.10 D-id -0.520 (z -1.2) | colors: A-id -46.94 D-id +0.936 (z +0.8) | ctrl: A-id -272.44 D-id -0.229 (z -0.4)
+copy L15h3 -> MLP L16: | digits: A-id -87.68 D-id -1.469 (z -0.9) | capitals: A-id -110.64 D-id -0.806 (z -2.0) | colors: A-id -78.91 D-id +0.258 (z +0.2) | ctrl: A-id -155.52 D-id -0.294 (z -0.6)
+copy L16h2 -> MLP L16: | digits: A-id +5.75 D-id +0.020 (z +0.0) | capitals: A-id +25.72 D-id +0.211 (z +0.8) | colors: A-id -12.82 D-id -0.644 (z -1.1) | ctrl: A-id -107.67 D-id +0.356 (z +1.2)
+copy L16h0 -> MLP L17: | digits: A-id -2.35 D-id +1.946 (z +1.0) | capitals: A-id +32.20 D-id +0.905 (z +2.0) | colors: A-id -25.03 D-id -0.748 (z -0.5) | ctrl: A-id +10.77 D-id +1.410 (z +2.5)
+copy L17h1 -> MLP L17: | digits: A-id -48.34 D-id +1.214 (z +0.4) | capitals: A-id -133.92 D-id -0.622 (z -1.1) | colors: A-id -14.66 D-id -0.869 (z -0.7) | ctrl: A-id -77.23 D-id -0.028 (z -0.1)
+copy L15h3 -> MLP L17: | digits: A-id -142.03 D-id +0.187 (z +0.1) | capitals: A-id -367.08 D-id +1.603 (z +1.7) | colors: A-id -108.45 D-id +0.764 (z +0.3) | ctrl: A-id -343.65 D-id +1.374 (z +2.1)
+copy L14h1 -> MLP L17: | digits: A-id +2.63 D-id +0.278 (z +0.2) | capitals: A-id +3.30 D-id +0.008 (z +0.0) | colors: A-id -32.66 D-id -0.478 (z -0.4) | ctrl: A-id -60.88 D-id -0.146 (z -0.3)
+
+```

@@ -1,0 +1,6 @@
+The MLP differences look spread across many units rather than concentrated in one, with only mild outliers in L7 (units 256, 186, 1334) and a smaller one in L10 unit 404, so the change seems to be distributed, which fits Adam updating everything at once on the answer.
+
+I'm weighing a functional ranking for the MLP units, where the criterion would combine how much each unit's activation at the answer position changed with how its output direction connects to the mechanism, though that's hard to pin down. The evaluators probably measured ground truth by patching components between the two models, and the largest effects would likely sit in mid-to-late attention heads and some late MLPs, which I can't run directly. So I'll approximate importance from weights, looking at the structured change in each head's query-key matrix along the shared mechanism direction, scaled by how strongly that head's output feeds the residual stream.
+
+Next I'm going to pull the per-layer mechanism matrices, weighting each head's query-key change by copy or anti-copy sign. Then I'll compare the top key and query directions across layers to see whether one feature persists through the residual stream. The heads with the largest projections onto those directions will go on the ranking, with later layers weighted more since they act on the logits more directly.
+

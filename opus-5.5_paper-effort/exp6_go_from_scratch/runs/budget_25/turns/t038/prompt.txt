@@ -1,0 +1,6 @@
+OUTPUT of Python run 33 of at most 120:
+```
+Counter({'selfatari': 157, 'selfatari2+': 114})
+Counter({'eyefill_sa_size': 1383, 'eyefill': 714, 'selfatari': 460, 'selfatari2+': 382, 'eyefill_selfatari': 61})
+
+```

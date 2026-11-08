@@ -1,0 +1,8 @@
+I'm seeing that the output-side absolute scores are noisy, skewed toward tokens with big embedding norms or capitalized words. The ' green' feature in layer 17's o_proj looks color-related, so I'm testing it with a lemon example and a set of fruits to see whether it fires on color questions. Countries like Bolivia and Argentina also seem to show up, so I'm wondering whether they relate to capitals.
+
+I'm going to measure the candidate answer groups more carefully, since the absolute scores keep favoring high-norm tokens. The plan is to compare digits, colors, capitals, countries and Yes/No against random tokens of similar norm. Before settling on a test, I'm working out what would actually be sign-definite: whether the model copies a token from the user's guess or recalls the answer on its own.
+
+I'm checking whether copying can be told apart from recall by looking for a head whose output-side change acts as an identity map on the answer vocabulary. I'm starting with colors, capitals and countries, and comparing each head's score for those tokens against a centered baseline. The user's guess position is a possible way to pick out which heads matter, but I haven't settled on it.
+
+I'm trying a global test instead: the trace of the ΔOV map restricted to the embedding subspace of each token set, where a positive value would mean the head copies more. I'll run it across all heads for colors, capital cities, digits, countries, and a set of random common words as a control. If the sycophantic head is copying, its identity score should be positive for colors and capitals and keep the same sign across the sets.
+
