@@ -179,10 +179,9 @@ This replication:
 
 ```bibtex
 @misc{belostecinic2026sparksreplication,
-  title        = {{Replicating Sparks of Weight-Space Programming with Claude}},
+  title        = {{Replicating Sparks of Weight-Space Programming with Claude Opus 5.5}},
   author       = {Belostecinic, Alexandre},
   year         = {2026},
-  howpublished = {\url{<URL>}},
-  note         = {Replication of Takehi et al. (2026), Experiments 1-7, with Claude models}
+  howpublished = {\url{https://sir-olexander.github.io/research/weight-space-programming-claude/}}
 }
 ```
