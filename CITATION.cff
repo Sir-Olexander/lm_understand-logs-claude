@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this replication, please cite it and the original study."
+type: dataset
+title: "Replicating Sparks of Weight-Space Programming with Claude Opus 5.5"
+authors:
+  - family-names: "Belostecinic"
+    given-names: "Alexandre"
+date-released: "2026-11-08"
+version: "v1.0"
+license:
+  - CC-BY-4.0
+  - MIT
+url: "https://sir-olexander.github.io/research/weight-space-programming-claude/"
+repository-code: "https://github.com/Sir-Olexander/lm_understand-logs-claude"
+keywords:
+  - replication
+  - weight-space programming
+  - interpretability
+  - large language models
+references:
+  - type: generic
+    title: "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights"
+    authors:
+      - family-names: "Takehi"
+        given-names: "Rikiya"
+      - family-names: "Teoh"
+        given-names: "Jayden"
+      - family-names: "Zhang"
+        given-names: "Alex"
+      - family-names: "Khattab"
+        given-names: "Omar"
+    year: 2026
+    month: 11
+    url: "https://rikiyat.github.io/blog/weight-space-programming/"
+    repository: "https://github.com/RikiyaT/lm_understand-logs"

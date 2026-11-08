@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "Replicating Sparks of Weight-Space Programming with Claude: logs, networks, scores and harness",
+  "creators": [
+    {
+      "name": "Belostecinic, Alexandre"
+    }
+  ],
+  "description": "<p>The complete logs, networks, scores and code of a replication of Experiments 1-7 of <em>Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</em> (Takehi, Teoh, Zhang and Khattab, MIT CSAIL, 2026), run with Claude Opus 5.5 through the Claude Code CLI, using the original prompts word for word and the original effort levels.</p><p>For every conversation: everything sent to the model, everything it returned (with reasoning summaries and the raw CLI event stream), every code run with its output, the networks it wrote, and the scoring. Also included: the harness (validated against the original logs by replaying the original model's answers), the rebuilt Go opponents of Experiment 6, and the validation results.</p><p>Write-up: https://sir-olexander.github.io/research/weight-space-programming-claude/</p><p>Licences: logs, data and networks CC BY 4.0; code (harness/) MIT; MinAtar source quoted in the Experiment 5 prompts GPL-3.0; Gemma-related material of Experiment 7 (no weights included) under the Gemma Terms of Use. See LICENSE and THIRD_PARTY_NOTICES.md.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "replication",
+    "weight-space programming",
+    "interpretability",
+    "large language models",
+    "Claude Opus 5.5",
+    "neural network weights",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sir-olexander.github.io/research/weight-space-programming-claude/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/RikiyaT/lm_understand-logs",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ]
+}
